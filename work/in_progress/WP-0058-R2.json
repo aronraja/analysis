@@ -1,0 +1,113 @@
+{
+  "wp_id": "WP-0058-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Airspace",
+      "name_norm": "airspace",
+      "name_variants": [
+        "Airspace"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5460"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Akrion Technologies Inc.",
+      "name_norm": "akrion technologies",
+      "name_variants": [
+        "Akrion Technologies Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "360"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ALKU",
+      "name_norm": "alku",
+      "name_variants": [
+        "ALKU"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5386"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "All Ring Tech Co., Ltd.",
+      "name_norm": "all ring tech",
+      "name_variants": [
+        "All Ring Tech Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6244"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Allient, Inc.",
+      "name_norm": "allient",
+      "name_variants": [
+        "Allient, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5683"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Allwin21 Corp.",
+      "name_norm": "allwin21",
+      "name_variants": [
+        "Allwin21 Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1864"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Altronic Research Inc.",
+      "name_norm": "altronic research",
+      "name_variants": [
+        "Altronic Research Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1565"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0058",
+  "claimed_utc": "2026-09-30T13:07:35Z",
+  "deadline_utc": "2026-09-30T13:42:35Z"
+}

@@ -1,0 +1,99 @@
+{
+  "wp_id": "WP-0049-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Teradyne, Inc.",
+      "name_norm": "teradyne",
+      "name_variants": [
+        "Teradyne, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1333"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1143"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tesscorn NanoScience Inc",
+      "name_norm": "tesscorn nanoscience",
+      "name_variants": [
+        "Tesscorn NanoScience Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7011"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "The Applicable",
+      "name_norm": "applicable",
+      "name_variants": [
+        "The Applicable"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Thermax Limited",
+      "name_norm": "thermax",
+      "name_variants": [
+        "Thermax Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4211"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Thermo Electric Company INC",
+      "name_norm": "thermo electric",
+      "name_variants": [
+        "Thermo Electric Company INC",
+        "Thermo Electric Company",
+        "Thermo Electric Company BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4921"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5473"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2406"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0049",
+  "claimed_utc": "2026-09-30T13:07:34Z",
+  "deadline_utc": "2026-09-30T13:42:34Z"
+}

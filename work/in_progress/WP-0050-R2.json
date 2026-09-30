@@ -1,0 +1,94 @@
+{
+  "wp_id": "WP-0050-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Toho international Inc.",
+      "name_norm": "toho international",
+      "name_variants": [
+        "Toho international Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "234"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Toho Koki Seisakusho Co., Ltd.",
+      "name_norm": "toho koki seisakusho",
+      "name_variants": [
+        "Toho Koki Seisakusho Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1124"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tokyo Electron Limited",
+      "name_norm": "tokyo electron",
+      "name_variants": [
+        "Tokyo Electron Limited",
+        "Tokyo Electron"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "202"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "833"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TOKYO OHKA KOGYO CO., LTD.",
+      "name_norm": "tokyo ohka kogyo",
+      "name_variants": [
+        "TOKYO OHKA KOGYO CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": null
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TOKYO SEIMITSU CO., LTD.",
+      "name_norm": "tokyo seimitsu",
+      "name_variants": [
+        "TOKYO SEIMITSU CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1270"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0050",
+  "claimed_utc": "2026-09-30T13:07:34Z",
+  "deadline_utc": "2026-09-30T13:42:34Z"
+}

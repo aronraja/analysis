@@ -1,0 +1,71 @@
+{
+  "wp_id": "WP-0053-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "VerifAIX",
+      "name_norm": "verifaix",
+      "name_variants": [
+        "VerifAIX"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vervesemi Microelectronics Pvt Ltd",
+      "name_norm": "vervesemi microelectronics pvt",
+      "name_variants": [
+        "Vervesemi Microelectronics Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "813"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vesidam Technologies",
+      "name_norm": "vesidam technologies",
+      "name_variants": [
+        "Vesidam Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VIETNAM CULLINAN ELECTRIC LIMTD",
+      "name_norm": "vietnam cullinan electric limtd",
+      "name_variants": [
+        "VIETNAM CULLINAN ELECTRIC LIMTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7628"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0053",
+  "claimed_utc": "2026-09-30T13:07:34Z",
+  "deadline_utc": "2026-09-30T13:42:34Z"
+}

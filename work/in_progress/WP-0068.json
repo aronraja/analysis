@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0068",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Chihuahua State Government",
+      "name_norm": "chihuahua state government",
+      "name_variants": [
+        "Chihuahua State Government"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5559"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "China Airlines Ltd.",
+      "name_norm": "china airlines",
+      "name_variants": [
+        "China Airlines Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3332"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chroma ATE Inc.",
+      "name_norm": "chroma ate",
+      "name_variants": [
+        "Chroma ATE Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1159"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chung King Enterprise Co.,Ltd",
+      "name_norm": "chung king enterprise",
+      "name_variants": [
+        "Chung King Enterprise Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6186"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CI SEMI",
+      "name_norm": "ci semi",
+      "name_variants": [
+        "CI SEMI"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2145"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cica-Huntek Chemical Technology USA",
+      "name_norm": "cica huntek chemical technology usa",
+      "name_variants": [
+        "Cica-Huntek Chemical Technology USA"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6184"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cincinnati Sub-Zero",
+      "name_norm": "cincinnati sub zero",
+      "name_variants": [
+        "Cincinnati Sub-Zero"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "149"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cintas Corp.",
+      "name_norm": "cintas",
+      "name_variants": [
+        "Cintas Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6556"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Circuit",
+      "name_norm": "circuit",
+      "name_variants": [
+        "Circuit"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M7"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Clark Pacific",
+      "name_norm": "clark pacific",
+      "name_variants": [
+        "Clark Pacific"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5487"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T13:07:35Z",
+  "deadline_utc": "2026-09-30T13:42:35Z"
+}

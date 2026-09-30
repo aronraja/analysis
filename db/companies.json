@@ -63,6 +63,136 @@
   ]
  },
  {
+  "company_id": "d:3dsystems.com",
+  "name": "3D Systems",
+  "name_norm": "3d systems",
+  "aliases_norm": [
+   "3d systems"
+  ],
+  "name_variants": [
+   "3D Systems",
+   "3D Systems Corporation"
+  ],
+  "legal_name": "3D Systems Corporation",
+  "website": "https://www.3dsystems.com",
+  "domain": "3dsystems.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Rock Hill",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1986,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "NYSE:DDD",
+  "primary_category_group": "902",
+  "primary_subcategory": "902.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "additive manufacturing",
+   "3D printers",
+   "stereolithography",
+   "printing materials",
+   "on-demand parts"
+  ],
+  "end_markets": [
+   "industrial",
+   "aerospace",
+   "medical",
+   "semiconductor"
+  ],
+  "description": "US additive-manufacturing company selling 3D printers, print materials, printed parts and application engineering services; revenue about USD 440 million in 2024.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://en.wikipedia.org/wiki/3D_Systems",
+   "https://www.3dsystems.com/press-releases/3d-systems-receives-765-million-contract-award-us-air-force-advanced-metal-printing"
+  ],
+  "notes": "SEMI taxonomy has no additive-manufacturing subcategory, so mapped to 902.01 Other. LinkedIn URL not verified.",
+  "first_researched_utc": "2026-09-30T12:40:00Z",
+  "last_researched_utc": "2026-09-30T12:40:00Z",
+  "wp_ids": [
+   "WP-0055"
+  ],
+  "primary_category_group_name": "Other",
+  "primary_subcategory_name": "Other",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "902.01",
+   "700.12",
+   "701.07",
+   "300.01"
+  ]
+ },
+ {
+  "company_id": "d:3d-micromac.com",
+  "name": "3D-Micromac",
+  "name_norm": "3d micromac",
+  "aliases_norm": [
+   "3d micromac"
+  ],
+  "name_variants": [
+   "3D-Micromac AG"
+  ],
+  "legal_name": "3D-Micromac AG",
+  "website": "https://3d-micromac.com",
+  "domain": "3d-micromac.com",
+  "linkedin_url": "https://www.linkedin.com/company/3d-micromac-ag",
+  "linkedin_slug": "3d-micromac-ag",
+  "hq_city": "Chemnitz",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 2002,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "202",
+  "primary_subcategory": "202.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "laser micromachining",
+   "microPREP sample preparation",
+   "laser annealing",
+   "wafer dicing",
+   "thin-film patterning"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photovoltaic",
+   "display",
+   "medical",
+   "microelectronics"
+  ],
+  "description": "German supplier of laser micromachining systems for semiconductor, photovoltaic, glass/display and medical device production, including microPREP laser sample preparation for failure analysis. About 190 staff.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://3d-micromac.com/laser-micromachining/company/",
+   "https://www.linkedin.com/company/3d-micromac-ag",
+   "https://3d-micromac.com/press/microprep-l-semiconductor-failure-analysis/"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:41:00Z",
+  "last_researched_utc": "2026-09-30T12:41:00Z",
+  "wp_ids": [
+   "WP-0055"
+  ],
+  "primary_category_group_name": "Other Equipment",
+  "primary_subcategory_name": "Cutting; Drilling; Laser ablation; Beveling Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "202.01",
+   "201.05",
+   "206.02",
+   "208.07",
+   "205.01"
+  ]
+ },
+ {
   "company_id": "d:3m.com",
   "name": "3M",
   "name_norm": "3m",
@@ -145,21 +275,98 @@
   ]
  },
  {
+  "company_id": "d:aafintl.com",
+  "name": "AAF International",
+  "name_norm": "aaf international",
+  "aliases_norm": [
+   "aaf international",
+   "american air filter",
+   "aaf flanders"
+  ],
+  "name_variants": [
+   "AAF International",
+   "American Air Filter",
+   "AAF Flanders"
+  ],
+  "legal_name": "American Air Filter Company, Inc.",
+  "website": "https://www.aafintl.com",
+  "domain": "aafintl.com",
+  "linkedin_url": "https://www.linkedin.com/company/american-air-filter",
+  "linkedin_slug": "american-air-filter",
+  "hq_city": "Louisville",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1921,
+  "employee_range": "1001-5000",
+  "ownership_type": "subsidiary",
+  "parent_company": "Daikin Industries, Ltd.",
+  "stock_ticker": null,
+  "primary_category_group": "501",
+  "primary_subcategory": "501.02",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "HEPA filters",
+   "ULPA filters",
+   "air filtration",
+   "cleanroom filtration",
+   "molecular filtration"
+  ],
+  "end_markets": [
+   "semiconductor cleanrooms",
+   "commercial HVAC",
+   "industrial",
+   "life sciences"
+  ],
+  "description": "Global air-filtration manufacturer (HEPA/ULPA and molecular filters, cleanroom filtration) founded 1921 and owned by Daikin Industries; manufacturing in 22 countries with roughly 6,000 employees group-wide.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.linkedin.com/company/american-air-filter",
+   "https://aafterms.aafintl.com/en/home/commercial/about-us",
+   "https://www.aafintl.com/us/contact/americas-locations"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:45:00Z",
+  "last_researched_utc": "2026-09-30T12:45:00Z",
+  "wp_ids": [
+   "WP-0055"
+  ],
+  "primary_category_group_name": "HVAC, Temperature, Humidity, Contamination Control",
+  "primary_subcategory_name": "Contamination Control; HEPA Filtering Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "501.02",
+   "400.09",
+   "501.03",
+   "501.01",
+   "400.08"
+  ]
+ },
+ {
   "company_id": "n:abb",
   "name": "ABB",
   "name_norm": "abb",
   "aliases_norm": [
    "abb",
-   "abb india"
+   "abb india",
+   "abb analytical measurement",
+   "abb measurement and analytics",
+   "abb analytical measurements",
+   "bomem"
   ],
   "name_variants": [
-   "ABB India Limited"
+   "ABB India Limited",
+   "ABB Analytical Measurement",
+   "ABB Measurement & Analytics",
+   "ABB Analytical Measurements",
+   "Bomem"
   ],
-  "legal_name": null,
-  "website": null,
-  "domain": null,
-  "linkedin_url": null,
-  "linkedin_slug": null,
+  "legal_name": "ABB Ltd",
+  "website": "https://new.abb.com/products/measurement-products/analytical",
+  "domain": "abb.com",
+  "linkedin_url": "https://www.linkedin.com/company/abb",
+  "linkedin_slug": "abb",
   "hq_city": "Zurich",
   "hq_country": "CH",
   "hq_region": "EMEA",
@@ -168,43 +375,68 @@
     "city": null,
     "country": "IN",
     "type": "subsidiary (ABB India Limited)"
+   },
+   {
+    "city": "Quebec City",
+    "country": "CA",
+    "type": "manufacturing"
    }
   ],
-  "founded_year": null,
+  "founded_year": 1988,
   "employee_range": "10001+",
   "ownership_type": "public",
   "parent_company": null,
-  "stock_ticker": null,
-  "primary_category_group": "500",
-  "primary_subcategory": "500.04",
+  "stock_ticker": "SIX:ABBN",
+  "primary_category_group": "203",
+  "primary_subcategory": "203.23",
   "value_chain_role": "component_supplier",
   "product_keywords": [
    "electrification",
    "robotics",
    "automation",
-   "motion"
+   "motion",
+   "FT-IR spectrometers",
+   "FT-NIR analyzers",
+   "process analyzers",
+   "gas analysis",
+   "spectroradiometers"
   ],
   "end_markets": [
    "industrial",
-   "fab infrastructure"
+   "fab infrastructure",
+   "semiconductor",
+   "petrochemical",
+   "chemical",
+   "life sciences",
+   "aerospace"
   ],
-  "description": "Swiss-Swedish electrification and automation group; exhibited via its Indian subsidiary ABB India Limited.",
-  "status": "partial",
-  "confidence": 0.5,
-  "sources": [],
-  "notes": "Search budget exhausted and abb.com fetch timed out; group identity from general knowledge, website/LinkedIn not verified. Retry recommended.",
+  "description": "Analytical Measurement is ABB's FT-IR/FT-NIR spectrometer and process-analyzer line (formerly Bomem, founded 1973), built in Quebec City with about 220 staff; parent ABB Ltd is headquartered in Zurich.",
+  "status": "complete",
+  "confidence": 0.83,
+  "sources": [
+   "https://new.abb.com/products/measurement-products/analytical",
+   "https://new.abb.com/products/measurement-products/analytical/ft-ir-and-ft-nir-analyzers",
+   "https://www.selectscience.net/company/abb-analytical-measurements"
+  ],
+  "notes": "Exhibitor is a product line of ABB Ltd; record uses the ABB group. Unit itself dates to 1973 as Bomem; founded_year is ABB Ltd's.",
   "first_researched_utc": "2026-09-30T12:17:55Z",
-  "last_researched_utc": "2026-09-30T12:17:55Z",
+  "last_researched_utc": "2026-09-30T12:46:00Z",
   "wp_ids": [
-   "WP-0001"
+   "WP-0001",
+   "WP-0055"
   ],
-  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
-  "primary_subcategory_name": "Electrical; Power Distribution",
-  "events_flat": "SEMICON India",
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Spectrometers; FTIR; ATR-FTIR; Auger Electron (AES); SIMS",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "500.04",
    "502.02",
-   "401.09"
+   "401.09",
+   "203.23",
+   "203.11",
+   "500.10",
+   "401.14",
+   "203.25"
   ]
  },
  {
@@ -597,6 +829,293 @@
   ]
  },
  {
+  "company_id": "d:acrossinternational.com",
+  "name": "Across International",
+  "name_norm": "across international",
+  "aliases_norm": [
+   "across international"
+  ],
+  "name_variants": [
+   "Across International LLC"
+  ],
+  "legal_name": "Across International LLC",
+  "website": "https://www.acrossinternational.com",
+  "domain": "acrossinternational.com",
+  "linkedin_url": "https://www.linkedin.com/company/across-international",
+  "linkedin_slug": "across-international",
+  "hq_city": "Berkeley Heights",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Sparks",
+    "country": "US",
+    "type": "office"
+   },
+   {
+    "city": "Victoria",
+    "country": "AU",
+    "type": "sales"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "202",
+  "primary_subcategory": "202.02",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "vacuum ovens",
+   "lab furnaces",
+   "planetary ball mills",
+   "pellet presses",
+   "drying ovens"
+  ],
+  "end_markets": [
+   "research",
+   "materials"
+  ],
+  "description": "US manufacturer of heat treatment and material processing laboratory equipment including vacuum and drying ovens, tube and muffle furnaces, planetary ball mills and pellet presses.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.acrossinternational.com/contact",
+   "https://www.linkedin.com/company/across-international"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Other Equipment",
+  "primary_subcategory_name": "Heating; Annealing; Curing Equipment - Furnaces; Conveyors; Ovens; Test Chambers; Heat Treating",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "202.02",
+   "900.06",
+   "205.01"
+  ]
+ },
+ {
+  "company_id": "d:acroview.cc",
+  "name": "Acroview Technology",
+  "name_norm": "acroview technology",
+  "aliases_norm": [
+   "acroview technology"
+  ],
+  "name_variants": [
+   "Acroview Technology Co.,Ltd."
+  ],
+  "legal_name": "Acroview Technology Co., Ltd.",
+  "website": "https://www.acroview.cc",
+  "domain": "acroview.cc",
+  "linkedin_url": "https://www.linkedin.com/company/acroview-technology-co-ltd",
+  "linkedin_slug": "acroview-technology-co-ltd",
+  "hq_city": "Shenzhen",
+  "hq_country": "CN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Ho Chi Minh City",
+    "country": "VN",
+    "type": "branch"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.23",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "universal programmer",
+   "AP8000",
+   "IPS5000",
+   "chip programming",
+   "NAND",
+   "eMMC"
+  ],
+  "end_markets": [
+   "automotive",
+   "consumer",
+   "industrial"
+  ],
+  "description": "Shenzhen-based supplier of semiconductor chip programming solutions, including the AP8000 universal programmer and IPS5000 automated programming systems.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.acroview.cc/en-Industry-News/5834.html",
+   "https://www.ti.com/partner/ACT",
+   "https://www.linkedin.com/company/acroview-technology-co-ltd"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "PROM; Memory Programmer Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.23",
+   "208.09",
+   "602.05"
+  ]
+ },
+ {
+  "company_id": "d:acsmotioncontrol.com",
+  "name": "ACS Motion Control",
+  "name_norm": "acs motion control",
+  "aliases_norm": [
+   "acs motion control"
+  ],
+  "name_variants": [
+   "ACS Motion Control"
+  ],
+  "legal_name": "ACS Motion Control Ltd.",
+  "website": "https://www.acsmotioncontrol.com",
+  "domain": "acsmotioncontrol.com",
+  "linkedin_url": "https://www.linkedin.com/company/acs-motion-control",
+  "linkedin_slug": "acs-motion-control",
+  "hq_city": "Yokneam Illit",
+  "hq_country": "IL",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Bloomington",
+    "country": "US",
+    "type": "sales"
+   },
+   {
+    "city": "Karlsruhe",
+    "country": "DE",
+    "type": "sales"
+   },
+   {
+    "city": "Shanghai",
+    "country": "CN",
+    "type": "sales"
+   },
+   {
+    "city": "Seoul",
+    "country": "KR",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1985,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Physik Instrumente (PI) Group",
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.09",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "motion controllers",
+   "servo drives",
+   "EtherCAT",
+   "multi-axis control",
+   "nanometer positioning"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "flat panel display",
+   "laser processing",
+   "life sciences",
+   "additive manufacturing"
+  ],
+  "description": "Israeli OEM supplier of multi-axis motion controllers and servo drives for high-precision systems in semiconductor, FPD, laser processing and life science equipment. Majority-owned by the PI Group since 2017.",
+  "status": "complete",
+  "confidence": 0.9,
+  "sources": [
+   "https://www.acsmotioncontrol.com/about-us-",
+   "https://www.physikinstrumente.com/en/about/the-pi-group/acs-motion-control",
+   "https://www.linkedin.com/company/acs-motion-control"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Motion control systems; Servo control systems & Components",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.09",
+   "401.02",
+   "502.02",
+   "400.17"
+  ]
+ },
+ {
+  "company_id": "d:activepower.com",
+  "name": "Active Power",
+  "name_norm": "active power",
+  "aliases_norm": [
+   "active power"
+  ],
+  "name_variants": [
+   "Active Power"
+  ],
+  "legal_name": "Active Power, Inc.",
+  "website": "https://www.activepower.com",
+  "domain": "activepower.com",
+  "linkedin_url": "https://www.linkedin.com/company/active-power",
+  "linkedin_slug": "active-power",
+  "hq_city": "Austin",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1992,
+  "employee_range": "51-200",
+  "ownership_type": "subsidiary",
+  "parent_company": "Langley Holdings plc",
+  "stock_ticker": null,
+  "primary_category_group": "500",
+  "primary_subcategory": "500.04",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "flywheel UPS",
+   "CleanSource",
+   "kinetic energy storage",
+   "uninterruptible power supply"
+  ],
+  "end_markets": [
+   "semiconductor fabs",
+   "data centers",
+   "industrial"
+  ],
+  "description": "Austin-based manufacturer of flywheel-based uninterruptible power supply systems (CleanSource) used for ride-through power protection in semiconductor fabs and data centers. Part of Langley Holdings.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.activepower.com/",
+   "https://www.langleyholdings.com/news/2023/07/07/active-power-flywheel-solution/",
+   "https://www.linkedin.com/company/active-power"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
+  "primary_subcategory_name": "Electrical; Power Distribution",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "500.04",
+   "401.13",
+   "500.06"
+  ]
+ },
+ {
   "company_id": "d:adaptsys.com",
   "name": "Adaptsys",
   "name_norm": "adaptsys",
@@ -723,6 +1242,140 @@
   ]
  },
  {
+  "company_id": "d:advaluetech.com",
+  "name": "AdValue Technology",
+  "name_norm": "advalue technology",
+  "aliases_norm": [
+   "advalue technology"
+  ],
+  "name_variants": [
+   "AdValue Technology"
+  ],
+  "legal_name": "AdValue Technology, LLC",
+  "website": "https://www.advaluetech.com",
+  "domain": "advaluetech.com",
+  "linkedin_url": "https://www.linkedin.com/company/advalue-technology",
+  "linkedin_slug": "advalue-technology",
+  "hq_city": "Tucson",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "1-10",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "307",
+  "primary_subcategory": "307.10",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "fused quartz",
+   "alumina",
+   "sapphire",
+   "boron nitride",
+   "crucibles",
+   "high purity powders"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "research",
+   "medical",
+   "aerospace"
+  ],
+  "description": "Tucson-based supplier of high-temperature, high-purity ceramic and quartz components - alumina, fused quartz, zirconia and sapphire crucibles, tubes, rods and substrates - plus laser machining services.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.linkedin.com/company/advalue-technology",
+   "https://ceramicxchange.ceramics.org/listing/advalue-technology.html",
+   "https://portal2026.semiconwest.org/co/advalue-technology"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Process Materials",
+  "primary_subcategory_name": "Quartzware (Silicon Carbide, Fused Quartz Glass, Sapphire), Ceramic & Oxide Ceramic Fixtures",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "307.10",
+   "308.04",
+   "301.08",
+   "900.06"
+  ]
+ },
+ {
+  "company_id": "d:advance-e.jp",
+  "name": "Advance Electric",
+  "name_norm": "advance electric",
+  "aliases_norm": [
+   "advance electric",
+   "advance electric america"
+  ],
+  "name_variants": [
+   "Advance Electric America Co., Inc.",
+   "ADVANCE ELECTRIC CO., INC."
+  ],
+  "legal_name": "Advance Electric Co., Inc.",
+  "website": "https://www.advance-e.jp",
+  "domain": "advance-e.jp",
+  "linkedin_url": "https://www.linkedin.com/company/advance-electric-co.-inc.",
+  "linkedin_slug": "advance-electric-co.-inc.",
+  "hq_city": null,
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Santa Clara",
+    "country": "US",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1981,
+  "employee_range": "201-500",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.10",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "precision valves",
+   "air operated valves",
+   "chemical valves",
+   "fluid control"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display",
+   "electronics"
+  ],
+  "description": "Japanese manufacturer of precision valves and fluid-control components used in semiconductor manufacturing processes. Advance Electric America Co., Inc. in Santa Clara is its US sales subsidiary.",
+  "status": "partial",
+  "confidence": 0.75,
+  "sources": [
+   "https://www.advance-e.jp/english/company/",
+   "https://www.advance-e.jp/english/base/",
+   "https://www.yellowpages.com/santa-clara-ca/mip/advance-electric-america-co-9558251"
+  ],
+  "notes": "Exhibitor is the US subsidiary; folded into the Japanese parent. Parent HQ city not confirmed.",
+  "first_researched_utc": "2026-09-30T12:42:00Z",
+  "last_researched_utc": "2026-09-30T12:42:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Flow Control Components - Valves; Meters; Gauges; Regulators; MFC's",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.10",
+   "401.05",
+   "400.19"
+  ]
+ },
+ {
   "company_id": "n:advance panels and switchgears",
   "name": "Advance Panels & Switchgears",
   "name_norm": "advance panels and switchgears",
@@ -778,6 +1431,74 @@
   ]
  },
  {
+  "company_id": "d:advancedenergy.com",
+  "name": "Advanced Energy",
+  "name_norm": "advanced energy",
+  "aliases_norm": [
+   "advanced energy"
+  ],
+  "name_variants": [
+   "Advanced Energy"
+  ],
+  "legal_name": "Advanced Energy Industries, Inc.",
+  "website": "https://www.advancedenergy.com",
+  "domain": "advancedenergy.com",
+  "linkedin_url": "https://www.linkedin.com/company/advanced-energy-industries",
+  "linkedin_slug": "advanced-energy-industries",
+  "hq_city": "Denver",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1981,
+  "employee_range": "5001-10000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "NASDAQ:AEIS",
+  "primary_category_group": "401",
+  "primary_subcategory": "401.13",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "RF power generators",
+   "plasma power",
+   "match networks",
+   "precision power conversion",
+   "Apex",
+   "Cesar",
+   "Alta"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "industrial",
+   "data center",
+   "medical",
+   "telecom"
+  ],
+  "description": "Denver-headquartered public supplier of precision power conversion, measurement and control products, including RF and DC plasma power generators and matching networks used in semiconductor process chambers.",
+  "status": "complete",
+  "confidence": 0.9,
+  "sources": [
+   "https://www.advancedenergy.com/en-us/products/plasma-power-products/rf-plasma-generators/",
+   "https://ir.advancedenergy.com/news/advanced-energy-announces-alta-digitally-controlled-rf-power-delivery-platform-for-industrial-plasma-applications/b0ef57d7-1c58-44a5-8d49-4343e31edca0",
+   "https://en.wikipedia.org/wiki/Advanced_Energy"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:42:00Z",
+  "last_researched_utc": "2026-09-30T12:42:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Power Supplies; RF Generators; Converters; Electrical Conditioning",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.13",
+   "401.11",
+   "401.17",
+   "203.25",
+   "400.23"
+  ]
+ },
+ {
   "company_id": "n:advanced expertise technology",
   "name": "Advanced Expertise Technology",
   "name_norm": "advanced expertise technology",
@@ -828,6 +1549,66 @@
   "subcategories": [
    "804.16",
    "701.17"
+  ]
+ },
+ {
+  "company_id": "n:advanced material engineering",
+  "name": "Advanced Material Engineering",
+  "name_norm": "advanced material engineering",
+  "aliases_norm": [
+   "advanced material engineering",
+   "advanced material engineering s b"
+  ],
+  "name_variants": [
+   "Advanced Material Engineering Sdn Bhd",
+   "Advanced Material Engineering S/B"
+  ],
+  "legal_name": "Advanced Material Engineering Sdn. Bhd.",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Shah Alam",
+  "hq_country": "MY",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2019,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "307",
+  "primary_subcategory": "307.10",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "quartz ingots",
+   "quartz parts",
+   "silicon parts",
+   "silicon carbide ceramic parts"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Malaysian manufacturer and trader of quartz ingots and parts, silicon parts and silicon carbide ceramic components for semiconductor process equipment, based in Shah Alam and incorporated in 2019.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/advanced-material-engineering-sb",
+   "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/1350564T/ADVANCED-MATERIAL-ENGINEERING-SDN-BHD-"
+  ],
+  "notes": "No corporate website or LinkedIn page found.",
+  "first_researched_utc": "2026-09-30T12:42:00Z",
+  "last_researched_utc": "2026-09-30T12:42:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Process Materials",
+  "primary_subcategory_name": "Quartzware (Silicon Carbide, Fused Quartz Glass, Sapphire), Ceramic & Oxide Ceramic Fixtures",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "307.10",
+   "307.09",
+   "307.04"
   ]
  },
  {
@@ -887,19 +1668,94 @@
   ]
  },
  {
+  "company_id": "d:advantech.com",
+  "name": "Advantech",
+  "name_norm": "advantech",
+  "aliases_norm": [
+   "advantech"
+  ],
+  "name_variants": [
+   "Advantech Corporation",
+   "Advantech Co., Ltd."
+  ],
+  "legal_name": "Advantech Co., Ltd.",
+  "website": "https://www.advantech.com",
+  "domain": "advantech.com",
+  "linkedin_url": "https://www.linkedin.com/company/advantech",
+  "linkedin_slug": "advantech",
+  "hq_city": "Taipei",
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Milpitas",
+    "country": "US",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1981,
+  "employee_range": "5001-10000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TWSE:2395",
+  "primary_category_group": "401",
+  "primary_subcategory": "401.02",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "industrial PC",
+   "embedded computing",
+   "edge AI",
+   "IIoT gateways",
+   "HMI",
+   "remote I/O"
+  ],
+  "end_markets": [
+   "semiconductor equipment",
+   "industrial automation",
+   "IIoT",
+   "medical"
+  ],
+  "description": "Taiwan-listed maker of industrial computing hardware, embedded systems and edge/IIoT platforms, including edge-AI controllers used in semiconductor equipment. Revenue about US$2.27 billion in 2025.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Advantech",
+   "https://finance.yahoo.com/quote/2395.TW/profile/",
+   "https://www.advantech.com/en-eu/resources/news/advantech-demonstrates-physical-ai-and-real-time-edge-intelligence-for-next-generation-semiconductor-equipment-at-semicon-taiwan-2026"
+  ],
+  "notes": "Exhibitor listed as the US entity Advantech Corporation; folded into the Taiwanese group record.",
+  "first_researched_utc": "2026-09-30T12:42:00Z",
+  "last_researched_utc": "2026-09-30T12:42:00Z",
+  "wp_ids": [
+   "WP-0056"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Computer; Control; Communication; Data Acquisition Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.02",
+   "500.03",
+   "602.02",
+   "500.07",
+   "401.14"
+  ]
+ },
+ {
   "company_id": "d:advantest.com",
   "name": "Advantest",
   "name_norm": "advantest",
   "aliases_norm": [
-   "advantest"
+   "advantest",
+   "advantest america"
   ],
   "name_variants": [
-   "Advantest (Singapore) Pte. Ltd."
+   "Advantest (Singapore) Pte. Ltd.",
+   "Advantest America, Inc."
   ],
   "legal_name": "Advantest Corporation",
   "website": "https://www.advantest.com",
   "domain": "advantest.com",
-  "linkedin_url": "https://linkedin.com/company/advantest",
+  "linkedin_url": "https://www.linkedin.com/company/advantest-america-inc.",
   "linkedin_slug": "advantest",
   "hq_city": "Tokyo",
   "hq_country": "JP",
@@ -909,22 +1765,29 @@
     "city": "Singapore",
     "country": "SG",
     "type": "subsidiary"
+   },
+   {
+    "city": "San Jose",
+    "country": "US",
+    "type": "regional_hq"
    }
   ],
   "founded_year": 1954,
-  "employee_range": "unknown",
+  "employee_range": "1001-5000",
   "ownership_type": "public",
   "parent_company": null,
   "stock_ticker": "TSE:6857",
   "primary_category_group": "208",
-  "primary_subcategory": "208.20",
+  "primary_subcategory": "208.12",
   "value_chain_role": "oem",
   "product_keywords": [
    "ATE",
    "V93000",
    "SoC test",
    "memory test",
-   "handlers"
+   "handlers",
+   "automatic test equipment",
+   "test handlers"
   ],
   "end_markets": [
    "logic",
@@ -933,28 +1796,103 @@
    "automotive",
    "5G"
   ],
-  "description": "Tokyo-based leading manufacturer of automatic test and measurement equipment for semiconductor design and production, founded 1954.",
+  "description": "Japanese supplier of automatic test equipment (ATE) used to verify semiconductor devices in production; Advantest America is its North American subsidiary in San Jose.",
   "status": "complete",
-  "confidence": 0.9,
+  "confidence": 0.92,
   "sources": [
    "https://www.advantest.com/about/offices.html",
    "https://linkedin.com/company/advantest",
-   "https://www.Wikipedia.org/wiki/Advantest"
+   "https://www.Wikipedia.org/wiki/Advantest",
+   "https://www.advantest.com/en/about/offices/america-offices/aai/overview/",
+   "https://www.linkedin.com/company/advantest-america-inc.",
+   "https://en.wikipedia.org/wiki/Advantest"
   ],
-  "notes": "Exhibitor was the Singapore subsidiary; folded into group record.",
+  "notes": "Exhibitor is the US subsidiary; folded into the Advantest group record.",
   "first_researched_utc": "2026-09-30T12:14:28Z",
-  "last_researched_utc": "2026-09-30T12:14:28Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
   "wp_ids": [
-   "WP-0002"
+   "WP-0002",
+   "WP-0057"
   ],
   "primary_category_group_name": "Test Equipment",
-  "primary_subcategory_name": "System on a Chip (SOC); Mixed Signal Test Systems",
-  "events_flat": "SEMICON India",
+  "primary_subcategory_name": "Logic Test Systems",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "208.20",
    "208.13",
    "208.10",
-   "208.19"
+   "208.19",
+   "208.12"
+  ]
+ },
+ {
+  "company_id": "d:advantivtech.com",
+  "name": "Advantiv Technologies",
+  "name_norm": "advantiv technologies",
+  "aliases_norm": [
+   "advantiv technologies"
+  ],
+  "name_variants": [
+   "Advantiv Technologies, Inc."
+  ],
+  "legal_name": "Advantiv Technologies, Inc.",
+  "website": "https://www.advantivtech.com",
+  "domain": "advantivtech.com",
+  "linkedin_url": "https://www.linkedin.com/company/advantiv-technologies-inc.",
+  "linkedin_slug": "advantiv-technologies-inc.",
+  "hq_city": "Fremont",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": null,
+    "country": "DE",
+    "type": "subsidiary"
+   }
+  ],
+  "founded_year": 2002,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Advantec Group",
+  "stock_ticker": null,
+  "primary_category_group": "308",
+  "primary_subcategory": "308.09",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "test wafers",
+   "monitor wafers",
+   "vacuum products",
+   "gas line assemblies",
+   "sputtering targets"
+  ],
+  "end_markets": [
+   "logic",
+   "display",
+   "clean energy"
+  ],
+  "description": "Fremont-based value-added reseller and technology integrator supplying test wafers, vacuum and gas delivery components and target materials to semiconductor OEMs; part of the Japanese Advantec group.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://www.linkedin.com/company/advantiv-technologies-inc.",
+   "https://www.semi.org/en/resources/member-directory/advantiv-technologies-inc",
+   "https://silicon-saxony.de/en/mitglieder/advantiv-technologies-europe-gmbh-2/"
+  ],
+  "notes": "Website advantivtech.com reported in search results, not directly fetched. Advantiv Technologies Europe GmbH listed as Silicon Saxony member.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0057"
+  ],
+  "primary_category_group_name": "Substrates",
+  "primary_subcategory_name": "Test; Monitor Wafers; Reclaim or Virgin",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "308.09",
+   "307.03",
+   "400.24",
+   "804.14",
+   "400.10"
   ]
  },
  {
@@ -1013,6 +1951,161 @@
   "subcategories": [
    "701.09",
    "701.21"
+  ]
+ },
+ {
+  "company_id": "d:aegid.de",
+  "name": "AEG ID",
+  "name_norm": "aeg id",
+  "aliases_norm": [
+   "aeg id",
+   "aeg identifikationssysteme"
+  ],
+  "name_variants": [
+   "AEG Identifikationssysteme GmbH",
+   "AEG ID"
+  ],
+  "legal_name": "AEG Identifikationssysteme GmbH",
+  "website": "https://www.aegid.de",
+  "domain": "aegid.de",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Ulm",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Vrchlabi",
+    "country": "CZ",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1996,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "UID",
+  "stock_ticker": null,
+  "primary_category_group": "202",
+  "primary_subcategory": "202.09",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "RFID",
+   "transponders",
+   "RFID readers",
+   "antennas",
+   "asset tracking"
+  ],
+  "end_markets": [
+   "industrial automation",
+   "logistics",
+   "access control"
+  ],
+  "description": "German RFID specialist in Ulm designing and manufacturing LF and HF transponders, readers and antennas for industrial automation, logistics and asset tracking; spun out of AEG AG in 1996.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.aegid.de/",
+   "https://www.semi.org/en/resources/member-directory/aeg-identifikationssysteme-gmbh",
+   "https://uidevices.com/uid-and-aeg-id-combine-to-expand-industrial-rfid-solutions-across-north-america/"
+  ],
+  "notes": "Acquired by UID (uidevices.com) per 2026 announcement.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0057"
+  ],
+  "primary_category_group_name": "Other Equipment",
+  "primary_subcategory_name": "Vision; ID; Bar Code Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "202.09",
+   "904.17",
+   "901.07",
+   "400.23",
+   "502.01"
+  ]
+ },
+ {
+  "company_id": "d:aemulus.com",
+  "name": "Aemulus",
+  "name_norm": "aemulus",
+  "aliases_norm": [
+   "aemulus"
+  ],
+  "name_variants": [
+   "Aemulus Corporation Sdn Bhd"
+  ],
+  "legal_name": "Aemulus Holdings Berhad",
+  "website": "https://www.aemulus.com",
+  "domain": "aemulus.com",
+  "linkedin_url": "https://www.linkedin.com/company/aemulus-corporation-sdn-bhd",
+  "linkedin_slug": "aemulus-corporation-sdn-bhd",
+  "hq_city": "Bayan Lepas",
+  "hq_country": "MY",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": null,
+    "country": "SG",
+    "type": "sales"
+   },
+   {
+    "city": null,
+    "country": "US",
+    "type": "sales"
+   },
+   {
+    "city": null,
+    "country": "CN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 2004,
+  "employee_range": "201-500",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "KLSE:0181",
+  "primary_category_group": "208",
+  "primary_subcategory": "208.20",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "automated test equipment",
+   "RF tester",
+   "mixed-signal test",
+   "Amoeba AMB7600",
+   "power discrete test"
+  ],
+  "end_markets": [
+   "RF",
+   "analog",
+   "automotive",
+   "power"
+  ],
+  "description": "Penang-based designer of automated test equipment and test instruments focused on RF front-end, analog, mixed-signal and power discrete semiconductor test with its Amoeba tester series.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://investpenang.gov.my/aemulus-holdings-berhad/",
+   "https://www.linkedin.com/company/aemulus-corporation-sdn-bhd",
+   "http://aemulus.listedcompany.com/profile.html",
+   "https://stockanalysis.com/quote/klse/AEMULUS/company/"
+  ],
+  "notes": "Exhibiting entity is the operating subsidiary of listed Aemulus Holdings Berhad.",
+  "first_researched_utc": "2026-09-30T12:41:00Z",
+  "last_researched_utc": "2026-09-30T12:41:00Z",
+  "wp_ids": [
+   "WP-0057"
+  ],
+  "primary_category_group_name": "Test Equipment",
+  "primary_subcategory_name": "System on a Chip (SOC); Mixed Signal Test Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "208.20",
+   "208.04",
+   "208.09",
+   "208.23",
+   "208.11",
+   "208.16"
   ]
  },
  {
@@ -1143,6 +2236,77 @@
   ]
  },
  {
+  "company_id": "d:motomation.com",
+  "name": "AES motomation",
+  "name_norm": "aes motomation",
+  "aliases_norm": [
+   "aes motomation"
+  ],
+  "name_variants": [
+   "AES Motomation",
+   "AES motomation GmbH",
+   "AES motomation Inc"
+  ],
+  "legal_name": "AES motomation GmbH",
+  "website": "https://www.motomation.com",
+  "domain": "motomation.com",
+  "linkedin_url": "https://www.linkedin.com/company/aes-motomation-inc",
+  "linkedin_slug": "aes-motomation-inc",
+  "hq_city": "Meerbusch",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": null,
+    "country": "US",
+    "type": "sales"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "502",
+  "primary_subcategory": "502.02",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "wafer handling robots",
+   "EFEM",
+   "load ports",
+   "pre-aligners",
+   "vacuum transfer chambers"
+  ],
+  "end_markets": [
+   "semiconductor front-end",
+   "flat panel display"
+  ],
+  "description": "German supplier of automated material handling for semiconductor and FPD tools: load ports, wafer robots, pre-aligners, EFEMs and vacuum transfer modules; representative for Nidec Sankyo and Sinfonia robotics.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://motomation.com/_webproducts/robotics/semiconductor/2link/",
+   "https://www.semi.org/en/resources/member-directory/aes-motomation-gmbh",
+   "https://www.linkedin.com/company/aes-motomation-inc"
+  ],
+  "notes": "US entity AES motomation Inc folded into the German group record.",
+  "first_researched_utc": "2026-09-30T12:41:00Z",
+  "last_researched_utc": "2026-09-30T12:41:00Z",
+  "wp_ids": [
+   "WP-0057"
+  ],
+  "primary_category_group_name": "Material Handling Systems",
+  "primary_subcategory_name": "Robotics; Transfer Systems",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "502.02",
+   "207.18",
+   "401.07",
+   "207.08",
+   "401.09"
+  ]
+ },
+ {
   "company_id": "n:aether semiconductors",
   "name": "Aether Semiconductors",
   "name_norm": "aether semiconductors",
@@ -1186,6 +2350,79 @@
   "primary_subcategory_name": null,
   "events_flat": "SEMICON India",
   "subcategories": []
+ },
+ {
+  "company_id": "d:aeieng.com",
+  "name": "Affiliated Engineers (AEI)",
+  "name_norm": "affiliated engineers",
+  "aliases_norm": [
+   "affiliated engineers",
+   "aei"
+  ],
+  "name_variants": [
+   "Affiliated Engineers Incorporated",
+   "AEI"
+  ],
+  "legal_name": "Affiliated Engineers, Inc.",
+  "website": "https://aeieng.com",
+  "domain": "aeieng.com",
+  "linkedin_url": "https://www.linkedin.com/company/affiliated-engineers",
+  "linkedin_slug": "affiliated-engineers",
+  "hq_city": "Madison",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": null,
+    "country": "GB",
+    "type": "office"
+   }
+  ],
+  "founded_year": 1978,
+  "employee_range": "501-1000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.09",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "MEP engineering",
+   "process engineering",
+   "fab infrastructure",
+   "utility systems",
+   "cleanroom design"
+  ],
+  "end_markets": [
+   "semiconductor fabs",
+   "advanced manufacturing",
+   "data centers",
+   "healthcare"
+  ],
+  "description": "Multidisciplinary consulting engineering firm providing mechanical, electrical and process engineering for complex facilities including semiconductor fab infrastructure; 19 offices across the US and UK.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://aeieng.com/contact/madison",
+   "https://www.linkedin.com/company/affiliated-engineers",
+   "https://www.semi.org/en/resources/member-directory/affiliated-engineers-incorporated"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:41:00Z",
+  "last_researched_utc": "2026-09-30T12:41:00Z",
+  "wp_ids": [
+   "WP-0057"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Facility Design; Construction; Architectural",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "701.09",
+   "701.08",
+   "701.05",
+   "701.21",
+   "701.10"
+  ]
  },
  {
   "company_id": "d:agc.com",
@@ -1613,6 +2850,139 @@
   "subcategories": []
  },
  {
+  "company_id": "d:aicello.com",
+  "name": "Aicello",
+  "name_norm": "aicello",
+  "aliases_norm": [
+   "aicello"
+  ],
+  "name_variants": [
+   "AICELLO CORPORATION"
+  ],
+  "legal_name": "AICELLO CORPORATION",
+  "website": "https://www.aicello.com",
+  "domain": "aicello.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Toyohashi",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Muelheim an der Ruhr",
+    "country": "DE",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1933,
+  "employee_range": "1001-5000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "900",
+  "primary_subcategory": "900.02",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "ultra-clean packaging",
+   "water-soluble film",
+   "VCI film",
+   "clean containers",
+   "SOLUBLON",
+   "BOSELON"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "automotive",
+   "life science",
+   "food"
+  ],
+  "description": "Japanese maker of specialty plastic films and ultra-clean packaging, including water-soluble SOLUBLON film, VCI BOSELON film and CleanContainers for ultrapure process chemicals.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://www.aicello.com/about/",
+   "https://www.theworldfolio.com/news/unparalleled-expertise-in-plastic-films-and-packaging-for-the-semiconductor-and-automotive-sectors-/4551/",
+   "https://www.zoominfo.com/c/aicello-corp/6215539"
+  ],
+  "notes": "No LinkedIn page found for the Japanese parent; AICELLO-HARKE GmbH is the European sales entity.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0058"
+  ],
+  "primary_category_group_name": "Support Products",
+  "primary_subcategory_name": "Clean Room Supplies; Cleaning Supplies",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "900.02",
+   "801.01",
+   "301.10"
+  ]
+ },
+ {
+  "company_id": "d:aidentyx.com",
+  "name": "Aidentyx",
+  "name_norm": "aidentyx",
+  "aliases_norm": [
+   "aidentyx"
+  ],
+  "name_variants": [
+   "Aidentyx"
+  ],
+  "legal_name": null,
+  "website": "https://aidentyx.com",
+  "domain": "aidentyx.com",
+  "linkedin_url": "https://www.linkedin.com/company/aidentyx",
+  "linkedin_slug": "aidentyx",
+  "hq_city": "Austin",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 2022,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "602",
+  "primary_subcategory": "602.06",
+  "value_chain_role": "software",
+  "product_keywords": [
+   "manufacturing AI",
+   "asset performance management",
+   "predictive maintenance",
+   "fab analytics",
+   "AI agents"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "semiconductor fabs"
+  ],
+  "description": "AI analytics software company spun out of BISTelligence in 2022, supplying manufacturing AI and asset performance management applications for semiconductor fabs and equipment OEMs.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://aidentyx.com/about/",
+   "https://www.linkedin.com/company/aidentyx",
+   "https://www.businesswire.com/news/home/20220127005973/en/BISTelligence-Spins-Out-Dedicated-AI-Analytics-Company-Aidentyx"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0058"
+  ],
+  "primary_category_group_name": "Manufacturing Software",
+  "primary_subcategory_name": "Yield Mgmt; Process Control Software",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "602.06",
+   "602.03",
+   "603.03",
+   "500.12"
+  ]
+ },
+ {
   "company_id": "d:aimil.com",
   "name": "Aimil",
   "name_norm": "aimil",
@@ -1802,6 +3172,68 @@
   "subcategories": [
    "303.08",
    "500.08"
+  ]
+ },
+ {
+  "company_id": "d:airkeyx.com",
+  "name": "Airkey Envirotech",
+  "name_norm": "airkey envirotech",
+  "aliases_norm": [
+   "airkey envirotech"
+  ],
+  "name_variants": [
+   "Airkey Envirotech Co., Ltd."
+  ],
+  "legal_name": "Airkey Envirotech Co., Ltd.",
+  "website": "https://www.airkeyx.com",
+  "domain": "airkeyx.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Shenzhen",
+  "hq_country": "CN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2002,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "501",
+  "primary_subcategory": "501.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "modular cleanroom",
+   "fan filter unit",
+   "air shower",
+   "pass box",
+   "contamination control"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharmaceutical",
+   "medical"
+  ],
+  "description": "Shenzhen-based cleanroom systems manufacturer founded in 2002, supplying modular cleanrooms, fan filter units and air showers to semiconductor, pharmaceutical and medical customers in over 50 countries.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.airkeyx.com/about/",
+   "https://airkeyx.com/about/contact-us.html",
+   "https://cleanroomtechnology.com/airkey-cleanroom-system-131328"
+  ],
+  "notes": "Chinese company (Shenzhen), not Taiwan; no verified LinkedIn page.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0058"
+  ],
+  "primary_category_group_name": "HVAC, Temperature, Humidity, Contamination Control",
+  "primary_subcategory_name": "Clean Rooms",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "501.01",
+   "501.02",
+   "501.03"
   ]
  },
  {
@@ -2215,6 +3647,192 @@
   "primary_subcategory_name": null,
   "events_flat": "SEMICON India",
   "subcategories": []
+ },
+ {
+  "company_id": "d:alum-a-lift.com",
+  "name": "Alum-a-Lift",
+  "name_norm": "alum a lift",
+  "aliases_norm": [
+   "alum a lift"
+  ],
+  "name_variants": [
+   "Alum-a-Lift"
+  ],
+  "legal_name": "Alum-a-Lift, Inc.",
+  "website": "https://alum-a-lift.com",
+  "domain": "alum-a-lift.com",
+  "linkedin_url": "https://www.linkedin.com/company/alum-a-lift",
+  "linkedin_slug": "alum-a-lift",
+  "hq_city": "Winston",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1989,
+  "employee_range": "11-50",
+  "ownership_type": "subsidiary",
+  "parent_company": "Piab Group",
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.07",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "ergonomic lifting devices",
+   "custom lifts",
+   "cleanroom material handling",
+   "ingot handling"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "aerospace",
+   "logistics"
+  ],
+  "description": "Designs and builds custom ergonomic lifting and material-handling devices, including lifts built for wafer fabs and semiconductor cleanrooms. Acquired by Piab Group.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://alum-a-lift.com/industries/semiconductor/",
+   "https://www.linkedin.com/company/alum-a-lift",
+   "https://www.troutman.com/insights/troutman-pepper-advises-innovator-alum-a-lift-in-sale-to-piab-group/"
+  ],
+  "notes": "Acquired by Piab Group; employee range estimated from company size, not confirmed on LinkedIn.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0059"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Handling; Transfer; Loading Systems; Lifting devices",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.07",
+   "502.01",
+   "900.03"
+  ]
+ },
+ {
+  "company_id": "d:alumiplate.com",
+  "name": "AlumiPlate",
+  "name_norm": "alumiplate",
+  "aliases_norm": [
+   "alumiplate"
+  ],
+  "name_variants": [
+   "AlumiPlate, Inc."
+  ],
+  "legal_name": "AlumiPlate, Inc.",
+  "website": "https://www.alumiplate.com",
+  "domain": "alumiplate.com",
+  "linkedin_url": "https://www.linkedin.com/company/alumiplate-inc",
+  "linkedin_slug": "alumiplate-inc",
+  "hq_city": "Coon Rapids",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "700",
+  "primary_subcategory": "700.17",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "pure aluminum electroplating",
+   "high purity aluminum coating",
+   "anodizing",
+   "corrosion protection",
+   "chamber component coating"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "aerospace",
+   "medical",
+   "quantum computing"
+  ],
+  "description": "Provides high-purity (99.99%) aluminum electroplating and anodizing services for corrosion protection and metallization, including semiconductor CVD/etch chamber components.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://www.alumiplate.com/company/",
+   "https://www.alumiplate.com/applications/semiconductor-fabrication-equipment/",
+   "https://www.linkedin.com/company/alumiplate-inc"
+  ],
+  "notes": "Process in use since 1995; founding year not stated on site. Employee range estimated.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0059"
+  ],
+  "primary_category_group_name": "Manufacturing Services",
+  "primary_subcategory_name": "Plating; Electro Polishing; Coating; Surface Treatment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "700.17",
+   "307.07",
+   "900.01"
+  ]
+ },
+ {
+  "company_id": "d:amax.com",
+  "name": "AMAX",
+  "name_norm": "amax",
+  "aliases_norm": [
+   "amax"
+  ],
+  "name_variants": [
+   "AMAX"
+  ],
+  "legal_name": "AMAX Engineering Corporation",
+  "website": "https://www.amax.com",
+  "domain": "amax.com",
+  "linkedin_url": "https://www.linkedin.com/company/amax-engineering",
+  "linkedin_slug": "amax-engineering",
+  "hq_city": "Fremont",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1979,
+  "employee_range": "201-500",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.02",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "HPC",
+   "AI infrastructure",
+   "liquid cooling",
+   "GPU servers",
+   "data center"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "data center",
+   "AI",
+   "HPC"
+  ],
+  "description": "Builds purpose-built AI, HPC and data-center computing hardware, including liquid-cooled rack systems used in semiconductor design and manufacturing environments.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.amax.com/about-us/",
+   "https://portal2026.semiconwest.org/co/amax"
+  ],
+  "notes": "LinkedIn slug inferred from company name; not directly verified. Employee range estimated.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0059"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Computer; Control; Communication; Data Acquisition Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.02",
+   "400.03",
+   "804.16"
+  ]
  },
  {
   "company_id": "d:amd.com",
@@ -4786,7 +6404,10 @@
    "k tech",
    "mpsedc",
    "madhya pradesh state electronics development",
-   "m p state electronics development"
+   "m p state electronics development",
+   "semi conductor laboratory",
+   "scl mohali",
+   "semiconductor complex"
   ],
   "name_variants": [
    "Assam Industrial Development Corporation Limited (Government of Assam)",
@@ -4801,25 +6422,28 @@
    "K-tech",
    "Madhya Pradesh State Electronics Development Corporation (MPSEDC)",
    "M.P. State Electronics Development Corporation Ltd",
-   "MPSeDC"
+   "MPSeDC",
+   "Semi-Conductor Laboratory",
+   "SCL Mohali",
+   "Semiconductor Complex Limited"
   ],
-  "legal_name": "Madhya Pradesh State Electronics Development Corporation Limited",
-  "website": "https://mpsedc.mp.gov.in",
+  "legal_name": "Semi-Conductor Laboratory",
+  "website": "https://www.scl.gov.in",
   "domain": "gov.in",
   "linkedin_url": "https://in.linkedin.com/company/mpsedc",
   "linkedin_slug": "governmentoftelangana",
-  "hq_city": "Bhopal",
+  "hq_city": "Mohali",
   "hq_country": "IN",
   "hq_region": "APAC",
   "other_offices": [],
-  "founded_year": 1983,
-  "employee_range": "501-1000",
+  "founded_year": 1976,
+  "employee_range": "unknown",
   "ownership_type": "government",
-  "parent_company": "Government of Madhya Pradesh",
+  "parent_company": "Government of India",
   "stock_ticker": null,
-  "primary_category_group": "804",
-  "primary_subcategory": "804.01",
-  "value_chain_role": "other",
+  "primary_category_group": "903",
+  "primary_subcategory": "903.05",
+  "value_chain_role": "fab_idm",
   "product_keywords": [
    "industrial promotion",
    "investment facilitation",
@@ -4843,7 +6467,12 @@
    "state IT infrastructure",
    "ESDM promotion",
    "e-governance",
-   "State Data Centre"
+   "State Data Centre",
+   "180nm CMOS fab",
+   "ASIC design",
+   "MEMS",
+   "space-grade ICs",
+   "wafer fabrication"
   ],
   "end_markets": [
    "semiconductor manufacturing",
@@ -4856,11 +6485,15 @@
    "IT",
    "government",
    "ESDM",
-   "IT services"
+   "IT services",
+   "space",
+   "defence",
+   "strategic",
+   "MEMS"
   ],
-  "description": "Government of Madhya Pradesh undertaking that promotes IT, ITeS and ESDM investment in the state and runs its e-governance infrastructure, including the State Data Centre and SWAN.",
+  "description": "India's government-owned semiconductor R&D and fabrication facility at Mohali, Punjab, running a CMOS line for strategic, space and defence applications; established 1976.",
   "status": "complete",
-  "confidence": 0.83,
+  "confidence": 0.88,
   "sources": [
    "https://aidcltd.assam.gov.in/node/88961",
    "https://apedb.gov.in",
@@ -4878,11 +6511,14 @@
    "https://www.ifciltd.com/?q=en/content/kits",
    "https://www.crunchbase.com/organization/karnataka-innovation-and-technology-society",
    "https://mpsedc.mp.gov.in",
-   "https://in.linkedin.com/company/mpsedc"
+   "https://in.linkedin.com/company/mpsedc",
+   "https://www.scl.gov.in/introduction.html",
+   "https://en.wikipedia.org/wiki/Semi-Conductor_Laboratory",
+   "https://www.digitalindia.gov.in/di_ecosystem/semi-conductor-laboratory/"
   ],
-  "notes": "Investment-promotion / economic development agency, not a product vendor.",
+  "notes": "No LinkedIn company page confirmed.",
   "first_researched_utc": "2026-09-30T12:13:40Z",
-  "last_researched_utc": "2026-09-30T12:27:00Z",
+  "last_researched_utc": "2026-09-30T12:33:00Z",
   "wp_ids": [
    "WP-0006",
    "WP-0005",
@@ -4890,11 +6526,12 @@
    "WP-0019-R2",
    "WP-0013-R2",
    "WP-0026-R2",
-   "WP-0030-R2"
+   "WP-0030-R2",
+   "WP-0044"
   ],
-  "primary_category_group_name": "Professional Services",
-  "primary_subcategory_name": "Government Advocacy; Regulation; Economic Development Agencies",
-  "events_flat": "SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India",
+  "primary_category_group_name": "Electronic Components",
+  "primary_subcategory_name": "Components: IDM / Foundries",
+  "events_flat": "SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India | SEMICON India",
   "subcategories": [
    "804.01",
    "805.02",
@@ -4902,7 +6539,12 @@
    "803.02",
    "800.01",
    "804.03",
-   "804.08"
+   "804.08",
+   "903.05",
+   "802.02",
+   "701.21",
+   "903.06",
+   "903.04"
   ]
  },
  {
@@ -29580,6 +31222,902 @@
   ]
  },
  {
+  "company_id": "d:sarvtek.com",
+  "name": "SARVTEK",
+  "name_norm": "sarvtek",
+  "aliases_norm": [
+   "sarvtek"
+  ],
+  "name_variants": [
+   "SARVTEK"
+  ],
+  "legal_name": null,
+  "website": "https://www.sarvtek.com",
+  "domain": "sarvtek.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Bangalore",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "502",
+  "primary_subcategory": "502.02",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "smart manufacturing automation",
+   "robotics",
+   "AMR/AGV",
+   "automated test equipment",
+   "AI machine vision",
+   "AOI"
+  ],
+  "end_markets": [
+   "semiconductor fabs",
+   "OSAT",
+   "R&D labs"
+  ],
+  "description": "Indian provider of smart manufacturing automation, robotics, automated test equipment and AI-driven machine vision for semiconductor labs, fabs and OSAT plants.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://expo.semi.org/india2026/public/eBooth.aspx?BoothID=695185",
+   "https://www.sarvtek.com"
+  ],
+  "notes": "LinkedIn company page not found in searches.",
+  "first_researched_utc": "2026-09-30T12:32:00Z",
+  "last_researched_utc": "2026-09-30T12:32:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Material Handling Systems",
+  "primary_subcategory_name": "Robotics; Transfer Systems",
+  "events_flat": "SEMICON India | SEMICON India",
+  "subcategories": [
+   "502.02",
+   "208.09",
+   "202.09",
+   "602.03",
+   "208.10"
+  ]
+ },
+ {
+  "company_id": "d:sastra.edu",
+  "name": "SASTRA Deemed University",
+  "name_norm": "sastra deemed university",
+  "aliases_norm": [
+   "sastra deemed university",
+   "sastra university",
+   "shanmugha arts science technology and research academy"
+  ],
+  "name_variants": [
+   "SASTRA Deemed University",
+   "SASTRA University",
+   "Shanmugha Arts, Science, Technology & Research Academy"
+  ],
+  "legal_name": "Shanmugha Arts, Science, Technology & Research Academy",
+  "website": "https://www.sastra.edu",
+  "domain": "sastra.edu",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Thanjavur",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1984,
+  "employee_range": "unknown",
+  "ownership_type": "academic",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "802",
+  "primary_subcategory": "802.02",
+  "value_chain_role": "research",
+  "product_keywords": [
+   "engineering education",
+   "semiconductor research",
+   "VLSI",
+   "nanotechnology"
+  ],
+  "end_markets": [
+   "education",
+   "research"
+  ],
+  "description": "Deemed university at Tirumalaisamudram, Thanjavur, Tamil Nadu, founded 1984 as Shanmugha Engineering College; granted deemed-university status in 2001, with engineering and semiconductor-related research programmes.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://www.sastra.edu/iiche/about.php",
+   "https://en.wikipedia.org/wiki/Shanmugha_Arts,_Science,_Technology_&_Research_Academy"
+  ],
+  "notes": "Academic institution, not a vendor. LinkedIn page not confirmed.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Educational; Research Institutions",
+  "primary_subcategory_name": "Education; Research Institutions (Non Profit); Academia; Schools",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "802.02",
+   "701.13"
+  ]
+ },
+ {
+  "company_id": "d:sawantsolutions.com",
+  "name": "Sawant Process Solutions",
+  "name_norm": "sawant process solutions",
+  "aliases_norm": [
+   "sawant process solutions",
+   "sawant process solutions private",
+   "sps",
+   "sanbij impex pvt"
+  ],
+  "name_variants": [
+   "Sawant Process Solutions Private Limited",
+   "Sawant Process Solutions",
+   "SPS",
+   "Sanbij Impex Pvt Ltd"
+  ],
+  "legal_name": "Sawant Process Solutions Private Limited",
+  "website": "https://sawantsolutions.com",
+  "domain": "sawantsolutions.com",
+  "linkedin_url": "https://www.linkedin.com/company/sawant-process-solutions",
+  "linkedin_slug": "sawant-process-solutions",
+  "hq_city": "Mumbai",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2004,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.16",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "vacuum pumps",
+   "vacuum systems",
+   "temperature control",
+   "chillers",
+   "chemical process equipment",
+   "rotary evaporators"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "laboratories",
+   "pharmaceutical",
+   "chemical"
+  ],
+  "description": "Mumbai-based distributor and service provider of process equipment in India, representing European vacuum, temperature-control and chemical-processing brands such as Vacuubrand, Lauda and Genser.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://sawantsolutions.com/",
+   "https://in.linkedin.com/company/sawant-process-solutions",
+   "https://www.zaubacorp.com/company/SAWANT-PROCESS-SOLUTIONS-PRIVATE-LIMITED/U51397MH2004PTC145637"
+  ],
+  "notes": "CIN U51397MH2004PTC145637, incorporated 13 Apr 2004; IndiaMART lists establishment 1995 (predecessor Sanbij Impex).",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Pumps, Vacuum",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "401.16",
+   "401.17",
+   "900.06",
+   "700.19",
+   "301.06"
+  ]
+ },
+ {
+  "company_id": "d:sb-tech.co.kr",
+  "name": "SB TECH",
+  "name_norm": "sb tech",
+  "aliases_norm": [
+   "sb tech"
+  ],
+  "name_variants": [
+   "SB TECH Corporation",
+   "SB Tech"
+  ],
+  "legal_name": "SB TECH Corporation",
+  "website": "https://www.sb-tech.co.kr",
+  "domain": "sb-tech.co.kr",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Seoul",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1991,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.09",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "cleanroom construction",
+   "access floor installation",
+   "fab facility construction",
+   "raised floor"
+  ],
+  "end_markets": [
+   "semiconductor fabs",
+   "display",
+   "high-tech manufacturing"
+  ],
+  "description": "Korean specialist construction firm founded 1991, installing cleanrooms and raised access floors for semiconductor and high-tech manufacturing facilities, including SK Hynix fab projects.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.sb-tech.co.kr/eng/main/",
+   "https://www.semi.org/en/resources/member-directory/sb-tech-corporation",
+   "https://www.komachine.com/en/companies/sb-tech"
+  ],
+  "notes": "SEMI member directory page returned HTTP 403; details from search results. HQ 341 Hyoryeong-ro, Seocho-gu, Seoul.",
+  "first_researched_utc": "2026-09-30T12:40:00Z",
+  "last_researched_utc": "2026-09-30T12:40:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Facility Design; Construction; Architectural",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "701.09",
+   "501.01",
+   "701.05",
+   "700.12"
+  ]
+ },
+ {
+  "company_id": "d:schneeberger.com",
+  "name": "SCHNEEBERGER",
+  "name_norm": "schneeberger",
+  "aliases_norm": [
+   "schneeberger",
+   "schneeberger india pvt",
+   "schneeberger lineartechnik"
+  ],
+  "name_variants": [
+   "Schneeberger India Pvt. Ltd",
+   "SCHNEEBERGER AG Lineartechnik",
+   "SCHNEEBERGER Group"
+  ],
+  "legal_name": "SCHNEEBERGER AG Lineartechnik",
+  "website": "https://www.schneeberger.com",
+  "domain": "schneeberger.com",
+  "linkedin_url": "https://www.linkedin.com/company/schneeberger-inc.",
+  "linkedin_slug": "schneeberger-inc.",
+  "hq_city": "Roggwil",
+  "hq_country": "CH",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Bangalore",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1923,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.01",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "linear profiled guideways",
+   "linear bearings",
+   "integrated measuring systems",
+   "ball screws",
+   "mineral casting",
+   "precision positioning systems"
+  ],
+  "end_markets": [
+   "semiconductor equipment",
+   "machine tools",
+   "measuring technology",
+   "medical"
+  ],
+  "description": "Swiss linear-motion technology group founded 1923 in Roggwil, supplying profiled linear guideways, measuring systems, ball screws, mineral castings and precision positioning systems; Indian subsidiary sells from Bangalore.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.schneeberger.com/en/about-us/schneeberger-companies/india/",
+   "https://www.schneeberger.com/en/",
+   "https://www.semi.org/en/resources/member-directory/schneeberger-ag-lineartechnik"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary; folded into the Swiss group record.",
+  "first_researched_utc": "2026-09-30T12:40:00Z",
+  "last_researched_utc": "2026-09-30T12:40:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Bearings; Shaft Collars",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.01",
+   "401.09",
+   "400.20",
+   "203.26"
+  ]
+ },
+ {
+  "company_id": "d:screen.co.jp",
+  "name": "SCREEN Semiconductor Solutions",
+  "name_norm": "screen semiconductor solutions",
+  "aliases_norm": [
+   "screen semiconductor solutions",
+   "screen spe singapore",
+   "screen",
+   "dainippon screen"
+  ],
+  "name_variants": [
+   "SCREEN SPE Singapore Pte. Ltd.",
+   "SCREEN Semiconductor Solutions Co., Ltd.",
+   "SCREEN Holdings Co., Ltd.",
+   "Dainippon Screen"
+  ],
+  "legal_name": "SCREEN Holdings Co., Ltd.",
+  "website": "https://www.screen.co.jp",
+  "domain": "screen.co.jp",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Kyoto",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "sales_service"
+   }
+  ],
+  "founded_year": 1943,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": "SCREEN Holdings Co., Ltd.",
+  "stock_ticker": "TSE:7735",
+  "primary_category_group": "207",
+  "primary_subcategory": "207.03",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "wafer cleaning",
+   "single wafer cleaning",
+   "batch cleaning",
+   "coater/developer track",
+   "SU-3x00",
+   "surface preparation"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "foundry",
+   "advanced packaging"
+  ],
+  "description": "Japanese semiconductor production equipment maker (SCREEN Holdings group, Kyoto) supplying wafer surface preparation, cleaning and coater/developer track systems; the Singapore entity is its regional sales and service arm.",
+  "status": "partial",
+  "confidence": 0.75,
+  "sources": [
+   "https://www.screen.co.jp"
+  ],
+  "notes": "Exhibitor is the Singapore sales subsidiary of the SCREEN group; folded into the group record. Founded year and ticker are from general knowledge of SCREEN Holdings, not re-verified in this session; LinkedIn URL not confirmed.",
+  "first_researched_utc": "2026-09-30T12:46:00Z",
+  "last_researched_utc": "2026-09-30T12:46:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Cleaning; Washing; Drying Equipment for Substrate, Fab Processing",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "207.03",
+   "207.04",
+   "207.10",
+   "203.05",
+   "700.07"
+  ]
+ },
+ {
+  "company_id": "d:seba.co.kr",
+  "name": "SEBA",
+  "name_norm": "seba",
+  "aliases_norm": [
+   "seba"
+  ],
+  "name_variants": [
+   "SEBA Inc.",
+   "SEBA Co., Ltd."
+  ],
+  "legal_name": "SEBA Inc.",
+  "website": "http://www.seba.co.kr",
+  "domain": "seba.co.kr",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Gumi",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "201-500",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.10",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "PFA flowmeters",
+   "cyclone turbine flowmeter",
+   "valves",
+   "flow switches",
+   "pressure gauges",
+   "PFA tubes and fittings",
+   "BLDC motors"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "flat panel display",
+   "automotive",
+   "industrial"
+  ],
+  "description": "Korean fluid-control and electronic components maker in Gumi producing PFA flowmeters, valves, flow switches, pressure gauges, tubes and fittings plus DC/BLDC motors and controllers.",
+  "status": "complete",
+  "confidence": 0.78,
+  "sources": [
+   "https://www.komachine.com/en/companies/seba",
+   "https://www.dnb.com/business-directory/company-profiles/seba-inc.ac9fd5eb3457ed4527b80e9697fa5a76",
+   "https://www.semi.org/en/resources/member-directory/seba-inc"
+  ],
+  "notes": "D&B lists 100-999 employees; mapped to the closest LinkedIn bucket (201-500) - treat as approximate. Also exhibits at FPD China.",
+  "first_researched_utc": "2026-09-30T12:48:00Z",
+  "last_researched_utc": "2026-09-30T12:48:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Flow Control Components - Valves; Meters; Gauges; Regulators; MFC's",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.10",
+   "400.19",
+   "400.23",
+   "400.17",
+   "200.12"
+  ]
+ },
+ {
+  "company_id": "n:seico hi purity tubes",
+  "name": "SEICO Hi-Purity Tubes",
+  "name_norm": "seico hi purity tubes",
+  "aliases_norm": [
+   "seico hi purity tubes",
+   "seico hi purity tubes pvt",
+   "seico hi purity tubes private"
+  ],
+  "name_variants": [
+   "SEICO HI-PURITY TUBES PVT. LTD.",
+   "Seico Hi-Purity Tubes Private Limited"
+  ],
+  "legal_name": "SEICO HI-PURITY TUBES PRIVATE LIMITED",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Viramgam",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2025,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.19",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "high-purity stainless steel tubing",
+   "electropolished tube",
+   "UHP tubing"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "gas delivery"
+  ],
+  "description": "Gujarat-based manufacturer of high-purity stainless steel tubing, incorporated 6 May 2025 with a registered works at Goraiya, Viramgam.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://www.instafinancials.com/company/seico-hi-purity-tubes-private-limited-U24311GJ2025PTC162515"
+  ],
+  "notes": "Newly incorporated company (CIN U24311GJ2025PTC162515); no website or LinkedIn page found. Product scope inferred from the registered name and MCA metals classification.",
+  "first_researched_utc": "2026-09-30T12:50:00Z",
+  "last_researched_utc": "2026-09-30T12:50:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.19",
+   "400.20",
+   "500.09"
+  ]
+ },
+ {
+  "company_id": "d:semi.org",
+  "name": "SEMI",
+  "name_norm": "semi",
+  "aliases_norm": [
+   "semi",
+   "semi booth",
+   "semiconductor equipment and materials international"
+  ],
+  "name_variants": [
+   "SEMI Booth",
+   "SEMI",
+   "Semiconductor Equipment and Materials International"
+  ],
+  "legal_name": "Semiconductor Equipment and Materials International",
+  "website": "https://www.semi.org",
+  "domain": "semi.org",
+  "linkedin_url": "https://www.linkedin.com/company/semi",
+  "linkedin_slug": "semi",
+  "hq_city": "Milpitas",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1970,
+  "employee_range": "unknown",
+  "ownership_type": "nonprofit",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "800",
+  "primary_subcategory": "800.01",
+  "value_chain_role": "association",
+  "product_keywords": [
+   "industry association",
+   "SEMI standards",
+   "SEMICON trade shows",
+   "market data"
+  ],
+  "end_markets": [
+   "semiconductor industry"
+  ],
+  "description": "SEMI is the global industry association for the electronics design and manufacturing supply chain and the organizer of the SEMICON shows; this listing is SEMI's own booth at the event rather than a third-party exhibitor.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.semi.org"
+  ],
+  "notes": "Not a vendor: this is the show organizer's own booth. Resolved to SEMI the association; founding year and HQ from general knowledge, not re-verified this session. Candidate for exclusion from the vendor database.",
+  "first_researched_utc": "2026-09-30T12:52:00Z",
+  "last_researched_utc": "2026-09-30T12:52:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Associations",
+  "primary_subcategory_name": "Associations; Trade or Industrial",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "800.01",
+   "804.15"
+  ]
+ },
+ {
+  "company_id": "d:semiconfab.com",
+  "name": "Semicon Fab Technologies",
+  "name_norm": "semicon fab technologies",
+  "aliases_norm": [
+   "semicon fab technologies",
+   "semicon fab technologies private"
+  ],
+  "name_variants": [
+   "SEMICON FAB TECHNOLOGIES PRIVATE LIMITED"
+  ],
+  "legal_name": "Semicon Fab Technologies Private Limited",
+  "website": "https://www.semiconfab.com",
+  "domain": "semiconfab.com",
+  "linkedin_url": "https://www.linkedin.com/company/101950230",
+  "linkedin_slug": "101950230",
+  "hq_city": "Kochi",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.09",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "EPCM",
+   "cleanroom design",
+   "fab infrastructure",
+   "OSAT facilities",
+   "HVAC"
+  ],
+  "end_markets": [
+   "logic",
+   "OSAT",
+   "research"
+  ],
+  "description": "Indian EPCM (engineering, procurement, construction and management) firm building semiconductor fab, OSAT/ATMP and R&D cleanroom infrastructure, based in Kochi, Kerala.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://www.semiconfab.com/"
+  ],
+  "notes": "LinkedIn numeric company id taken from the company's own website.",
+  "first_researched_utc": "2026-09-30T12:32:00Z",
+  "last_researched_utc": "2026-09-30T12:32:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Facility Design; Construction; Architectural",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "701.09",
+   "501.01",
+   "701.05",
+   "701.21",
+   "701.07"
+  ]
+ },
+ {
+  "company_id": "n:semicon speciality gases",
+  "name": "Semicon Speciality Gases",
+  "name_norm": "semicon speciality gases",
+  "aliases_norm": [
+   "semicon speciality gases",
+   "semicon speciality gases pvt"
+  ],
+  "name_variants": [
+   "Semicon Speciality Gases Pvt Ltd",
+   "SEMICON SPECIALITY GASES LIMITED"
+  ],
+  "legal_name": "Semicon Speciality Gases Limited",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "New Delhi",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2019,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "303",
+  "primary_subcategory": "303.07",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "speciality gases",
+   "industrial gases"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Indian speciality gas supplier registered in New Delhi (Okhla Industrial Area) in 2019; no active corporate website found.",
+  "status": "partial",
+  "confidence": 0.45,
+  "sources": [
+   "https://www.zaubacorp.com/SEMICON-SPECIALITY-GASES-LIMITED-U11202DL2019PLC359250"
+  ],
+  "notes": "Only registry match is SEMICON SPECIALITY GASES LIMITED (CIN U11202DL2019PLC359250), listed as Strike Off; exhibitor identity not confirmed. No website or LinkedIn found.",
+  "first_researched_utc": "2026-09-30T12:32:00Z",
+  "last_researched_utc": "2026-09-30T12:32:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Gases",
+  "primary_subcategory_name": "Other Specialty; Mixed Gas",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "303.07",
+   "303.08",
+   "303.04"
+  ]
+ },
+ {
+  "company_id": "d:semiconmart.io",
+  "name": "SemiconMart",
+  "name_norm": "semiconmart",
+  "aliases_norm": [
+   "semiconmart",
+   "semiconmart technology private"
+  ],
+  "name_variants": [
+   "SEMICONMART TECHNOLOGY PRIVATE LIMITED",
+   "SemiconMart Technology Private Limited"
+  ],
+  "legal_name": "SemiconMart Technology Private Limited",
+  "website": "https://semiconmart.io",
+  "domain": "semiconmart.io",
+  "linkedin_url": "https://www.linkedin.com/company/semiconmart-technology-private-limited",
+  "linkedin_slug": "semiconmart-technology-private-limited",
+  "hq_city": "Delhi",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "801",
+  "primary_subcategory": "801.03",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "B2B procurement platform",
+   "semiconductor sourcing",
+   "inventory intelligence",
+   "logistics",
+   "fulfillment"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "electronics manufacturing",
+   "OSAT",
+   "research"
+  ],
+  "description": "Indian B2B technology platform for semiconductor distribution and procurement, combining sourcing, real-time inventory visibility, logistics and fulfillment for fabs, ATMP/OSAT and electronics manufacturers.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://semiconmart.io/"
+  ],
+  "notes": "Founded year not stated on site; 2026 on the page is a copyright year.",
+  "first_researched_utc": "2026-09-30T12:33:00Z",
+  "last_researched_utc": "2026-09-30T12:33:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Distribution and Logistics",
+  "primary_subcategory_name": "Distribution, Warehousing, 3rd Party Logistics Providers (3PL)",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "801.03",
+   "804.13",
+   "804.14",
+   "804.16"
+  ]
+ },
+ {
+  "company_id": "d:semics.com",
+  "name": "SEMICS",
+  "name_norm": "semics",
+  "aliases_norm": [
+   "semics"
+  ],
+  "name_variants": [
+   "Semics Inc.",
+   "SEMICS Inc."
+  ],
+  "legal_name": "SEMICS Inc.",
+  "website": "https://www.semics.com",
+  "domain": "semics.com",
+  "linkedin_url": "https://www.linkedin.com/company/semics-korea",
+  "linkedin_slug": "semics-korea",
+  "hq_city": "Gwangju-si, Gyeonggi-do",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2000,
+  "employee_range": "201-500",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "208",
+  "primary_subcategory": "208.19",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "wafer prober",
+   "fully automatic probe system",
+   "300mm prober",
+   "wafer handling"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "analog",
+   "RF",
+   "sensors"
+  ],
+  "description": "South Korean maker of fully automatic wafer probe systems for 6, 8 and 12 inch wafers, serving analog, mixed-signal, RF, sensor and memory test applications since 2000.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.semics.com",
+   "https://www.linkedin.com/company/semics-korea",
+   "https://www.crunchbase.com/organization/semics"
+  ],
+  "notes": "Employee range and private ownership come from third-party profiles, not the company site, and may be outdated.",
+  "first_researched_utc": "2026-09-30T12:33:00Z",
+  "last_researched_utc": "2026-09-30T12:33:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Test Equipment",
+  "primary_subcategory_name": "Probing Equipment incl. Analytical; Circuit; Manual; E-Beam; Optical; Wafer Probers",
+  "events_flat": "SEMICON Europa | SEMICON India",
+  "subcategories": [
+   "208.19",
+   "208.10",
+   "208.18",
+   "208.16",
+   "309.02"
+  ]
+ },
+ {
+  "company_id": "n:semitronix solutions",
+  "name": "Semitronix Solutions LLP",
+  "name_norm": "semitronix solutions",
+  "aliases_norm": [
+   "semitronix solutions"
+  ],
+  "name_variants": [
+   "SEMITRONIX SOLUTIONS LLP"
+  ],
+  "legal_name": "Semitronix Solutions LLP",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "902",
+  "primary_subcategory": "902.01",
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": "Indian limited liability partnership exhibiting at SEMICON India; no corporate website, profile or activity description could be confirmed.",
+  "status": "not_found",
+  "confidence": 0.2,
+  "sources": [],
+  "notes": "Searches returned only the unrelated Semitronix Corporation (Hangzhou, China, EDA/WAT) and Semitronics Corporation (US). No evidence links the Indian LLP to either. Country inferred from the LLP legal form only.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Other",
+  "primary_subcategory_name": "Other",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "902.01"
+  ]
+ },
+ {
   "company_id": "d:iitbombay.org",
   "name": "SemiX IIT Bombay",
   "name_norm": "semix iit bombay",
@@ -29638,6 +32176,537 @@
    "802.02",
    "805.04",
    "805.01"
+  ]
+ },
+ {
+  "company_id": "d:sensesemi.com",
+  "name": "Sensesemi",
+  "name_norm": "sensesemi",
+  "aliases_norm": [
+   "sensesemi",
+   "sensesemi technologies pvt",
+   "sensesemi technologies private"
+  ],
+  "name_variants": [
+   "Sensesemi Technologies Pvt Ltd",
+   "SenseSemi Technologies Private Limited"
+  ],
+  "legal_name": "Sensesemi Technologies Private Limited",
+  "website": "https://www.sensesemi.com",
+  "domain": "sensesemi.com",
+  "linkedin_url": "https://www.linkedin.com/company/sensesemi-technologies",
+  "linkedin_slug": "sensesemi-technologies",
+  "hq_city": "Bengaluru",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2014,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "903",
+  "primary_subcategory": "903.10",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "SenseSoC",
+   "edge AI SoC",
+   "ultra-low-power",
+   "AIoT",
+   "IoMT",
+   "RF connectivity"
+  ],
+  "end_markets": [
+   "medical",
+   "IoT",
+   "industrial",
+   "automotive"
+  ],
+  "description": "Bengaluru fabless semiconductor startup building ultra-low-power edge-AI system-on-chip products (SenseSoC) with wireless interfaces and sensor acquisition for IoT and medical IoT applications.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://in.linkedin.com/company/sensesemi-technologies",
+   "https://www.crunchbase.com/organization/sensesemi",
+   "https://www.business-standard.com/companies/news/sensesemi-technologies-raises-25-crore-to-build-edge-ai-chips-126012201563_1.html"
+  ],
+  "notes": "Website sensesemi.com inferred from company name and not directly verified in a search result; employee count (~37) from third-party profile.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Electronic Components",
+  "primary_subcategory_name": "Design: Fabless",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "903.10",
+   "903.04",
+   "903.07",
+   "904.08",
+   "904.03"
+  ]
+ },
+ {
+  "company_id": "d:sensofar.com",
+  "name": "Sensofar",
+  "name_norm": "sensofar",
+  "aliases_norm": [
+   "sensofar",
+   "sensofar tech",
+   "sensofar tech s l",
+   "sensofar metrology"
+  ],
+  "name_variants": [
+   "SENSOFAR - TECH",
+   "Sensofar-Tech S.L.",
+   "Sensofar Metrology"
+  ],
+  "legal_name": "Sensofar-Tech, S.L.",
+  "website": "https://www.sensofar.com",
+  "domain": "sensofar.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Terrassa",
+  "hq_country": "ES",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Boston",
+    "country": "US",
+    "type": "sales"
+   },
+   {
+    "city": "Shanghai",
+    "country": "CN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 2001,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": "203.15",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "3D optical profiler",
+   "confocal microscopy",
+   "interferometry",
+   "focus variation",
+   "S neox",
+   "surface metrology"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "MEMS",
+   "optics",
+   "medical devices",
+   "automotive"
+  ],
+  "description": "Spanish maker of non-contact optical 3D surface metrology systems (confocal, interferometry, focus variation), founded in 2001 in Terrassa near Barcelona as a UPC/CD6 spin-off.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.sensofar.com/company/",
+   "https://en.wikipedia.org/wiki/Sensofar",
+   "https://www.sensofar.com/sensofar-metrology-opens-sensofar-llc-in-the-us/"
+  ],
+  "notes": "Subsidiaries Sensofar USA LLC (2010) and Sensofar ASIA (2015); office cities are approximate and employee range is an estimate. No LinkedIn URL confirmed.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0044"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Microscopes: Confocal Scanning Microscope; 3-D Video Microscopes",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "203.15",
+   "203.26",
+   "203.09",
+   "203.05",
+   "700.14"
+  ]
+ },
+ {
+  "company_id": "d:sgs.com",
+  "name": "SGS",
+  "name_norm": "sgs",
+  "aliases_norm": [
+   "sgs",
+   "sgs india private",
+   "sgs india pvt"
+  ],
+  "name_variants": [
+   "SGS INDIA PRIVATE LIMITED",
+   "SGS India Pvt. Ltd.",
+   "SGS SA"
+  ],
+  "legal_name": "SGS SA",
+  "website": "https://www.sgs.com",
+  "domain": "sgs.com",
+  "linkedin_url": "https://www.linkedin.com/company/sgs",
+  "linkedin_slug": "sgs",
+  "hq_city": "Geneva",
+  "hq_country": "CH",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Mumbai",
+    "country": "IN",
+    "type": "subsidiary"
+   },
+   {
+    "city": "Bengaluru",
+    "country": "IN",
+    "type": "lab"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "SIX:SGSN",
+  "primary_category_group": "701",
+  "primary_subcategory": "701.20",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "testing",
+   "inspection",
+   "certification",
+   "verification",
+   "product safety"
+  ],
+  "end_markets": [
+   "electronics",
+   "industrial",
+   "consumer"
+  ],
+  "description": "Global testing, inspection, certification and verification company with over 2,500 labs and facilities in 115 countries. SGS India Private Limited is its Indian affiliate, founded 1950.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.sgs.com/en-in/our-company/about-sgs",
+   "https://www.linkedin.com/company/sgs/",
+   "https://www.iecee.org/members/cbtls/sgs-india-private-limited"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary; folded into the SGS SA group record. Group founding year not confirmed in sources (SGS India founded 1950).",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0045"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Test Services or Consulting",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "701.20",
+   "701.06",
+   "804.13"
+  ]
+ },
+ {
+  "company_id": "d:shavogroup.com",
+  "name": "Shavo Technologies",
+  "name_norm": "shavo technologies",
+  "aliases_norm": [
+   "shavo technologies",
+   "shavo technologies pvt",
+   "shavo technologies private",
+   "shavo"
+  ],
+  "name_variants": [
+   "SHAVO TECHNOLOGIES PVT LTD",
+   "Shavo Technologies Private Limited",
+   "Shavo Group"
+  ],
+  "legal_name": "Shavo Technologies Private Limited",
+  "website": "https://www.shavogroup.com",
+  "domain": "shavogroup.com",
+  "linkedin_url": "https://in.linkedin.com/company/shavo-tech",
+  "linkedin_slug": "shavo-tech",
+  "hq_city": "Pune",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Mumbai",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1968,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.05",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "UHP gas delivery",
+   "gas cabinets",
+   "pressure regulators",
+   "UCV valves",
+   "EP fittings",
+   "gas purification",
+   "static control"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharmaceutical",
+   "petrochemical",
+   "aerospace",
+   "automotive"
+  ],
+  "description": "Indian supplier and integrator of ultra-high-purity gas management and fluid control systems - gas cabinets and panels, UHP regulators, manifolds, valves, EP fittings - plus static/dust control and air moving technology.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://in.linkedin.com/company/shavo-tech",
+   "https://themachinemaker.com/show-reports/shavo-technologies-to-showcase-ultra-high-purity-gas-delivery-systems-at-semicon-india-2026/",
+   "https://www.zoominfo.com/c/shavo-technologies-pvt-ltd/406117998"
+  ],
+  "notes": "Website shavogroup.com confirmed via directory/email-domain listing, not fetched directly. Employee range estimated from directory listings.",
+  "first_researched_utc": "2026-09-30T12:37:00Z",
+  "last_researched_utc": "2026-09-30T12:37:00Z",
+  "wp_ids": [
+   "WP-0045"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Gas; Liquid delivery panels as subsystems",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "401.05",
+   "400.10",
+   "400.09",
+   "502.03",
+   "400.19"
+  ]
+ },
+ {
+  "company_id": "d:shilpapharma.com",
+  "name": "Shilpa Pharma Lifesciences",
+  "name_norm": "shilpa pharma lifesciences",
+  "aliases_norm": [
+   "shilpa pharma lifesciences",
+   "shilpa pharma"
+  ],
+  "name_variants": [
+   "Shilpa Pharma Lifesciences Limited",
+   "Shilpa Pharma"
+  ],
+  "legal_name": "Shilpa Pharma Lifesciences Limited",
+  "website": "https://shilpapharma.com",
+  "domain": "shilpapharma.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Raichur",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2020,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "301",
+  "primary_subcategory": "301.06",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "electronic grade chemicals",
+   "high-purity chemicals",
+   "specialty polymers",
+   "monomers",
+   "specialty chemicals",
+   "CDMO"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "electronics",
+   "pharmaceutical"
+  ],
+  "description": "Indian CDMO and specialty chemicals maker (APIs, peptides, polymers) on a 34-acre export campus in Raichur; markets electronic and semiconductor grade chemicals, monomers and specialty polymers.",
+  "status": "partial",
+  "confidence": 0.75,
+  "sources": [
+   "https://shilpapharma.com/",
+   "https://shilpapharma.com/specialty-chemicals-manufacturers/",
+   "https://www.zaubacorp.com/company/SHILPA-PHARMA-LIFESCIENCES-LIMITED/U24100KA2020PLC134081"
+  ],
+  "notes": "CIN U24100KA2020PLC134081 (incorporated 2020, Karnataka). LinkedIn page for this entity not confirmed (only Shilpa Pharma, Inc. US found). Possible Shilpa Medicare group affiliation not verified.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0045"
+  ],
+  "primary_category_group_name": "Chemicals & Solids",
+  "primary_subcategory_name": "Other Specialty Chemicals",
+  "events_flat": "SEMICON Europa | SEMICON India",
+  "subcategories": [
+   "301.06",
+   "301.08",
+   "307.03"
+  ]
+ },
+ {
+  "company_id": "d:shimz-global.com",
+  "name": "Shimizu Corporation",
+  "name_norm": "shimizu",
+  "aliases_norm": [
+   "shimizu",
+   "shimizu india pvt",
+   "shimizu india private"
+  ],
+  "name_variants": [
+   "Shimizu Corporation India Pvt. ltd.",
+   "SHIMIZU CORPORATION INDIA PRIVATE LIMITED",
+   "Shimizu Corp"
+  ],
+  "legal_name": "Shimizu Corporation",
+  "website": "https://www.shimz-global.com",
+  "domain": "shimz-global.com",
+  "linkedin_url": "https://www.linkedin.com/company/shimizu-corporation",
+  "linkedin_slug": "shimizu-corporation",
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Bengaluru",
+    "country": "IN",
+    "type": "subsidiary"
+   },
+   {
+    "city": "New Delhi",
+    "country": "IN",
+    "type": "office"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.09",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "fab construction",
+   "cleanroom construction",
+   "EPC",
+   "architecture",
+   "civil engineering",
+   "general contracting"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharmaceutical",
+   "industrial",
+   "commercial construction"
+  ],
+  "description": "Japanese architectural, civil engineering and general contracting firm (one of Japan's top five contractors) whose industrial work includes semiconductor fab and cleanroom construction. Indian arm incorporated 2011 in Bengaluru.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.shimz-global.com/in/en/about/offices/",
+   "https://in.linkedin.com/company/shimizu-corporation-india-pvt-ltd-",
+   "https://www.zaubacorp.com/SHIMIZU-CORPORATION-INDIA-PRIVATE-LIMITED-U45400DL2011FTC214851"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary (CIN U45400DL2011FTC214851, incorporated 25 Feb 2011); folded into the Shimizu Corporation group record. TSE listing assumed but ticker not confirmed in sources; group founding year not found.",
+  "first_researched_utc": "2026-09-30T12:42:00Z",
+  "last_researched_utc": "2026-09-30T12:42:00Z",
+  "wp_ids": [
+   "WP-0045"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Facility Design; Construction; Architectural",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "701.09",
+   "701.05",
+   "701.08",
+   "501.01",
+   "701.21"
+  ]
+ },
+ {
+  "company_id": "d:shinpoly.co.jp",
+  "name": "Shin-Etsu Polymer",
+  "name_norm": "shin etsu polymer",
+  "aliases_norm": [
+   "shin etsu polymer",
+   "shin etsu polymer india pvt",
+   "shinpoly"
+  ],
+  "name_variants": [
+   "Shin-Etsu Polymer India pvt ltd",
+   "Shin-Etsu Polymer India Pvt. Ltd.",
+   "Shin-Etsu Polymer Co., Ltd.",
+   "Shinpoly"
+  ],
+  "legal_name": "Shin-Etsu Polymer Co., Ltd.",
+  "website": "https://www.shinpoly.co.jp",
+  "domain": "shinpoly.co.jp",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Chennai",
+    "country": "IN",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1960,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": "Shin-Etsu Chemical Co., Ltd.",
+  "stock_ticker": null,
+  "primary_category_group": "900",
+  "primary_subcategory": "900.03",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "FOUP",
+   "FOSB",
+   "wafer shipping boxes",
+   "wafer cases",
+   "silicone rubber",
+   "PVC processing",
+   "precision molding"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "automotive",
+   "consumer electronics",
+   "construction"
+  ],
+  "description": "Japanese PVC and silicone-rubber processor on the TSE Prime Market. Its electronic devices business supplies FOUPs and front-opening shipping boxes (150-300 mm) for wafer transport; the Indian unit near Chennai makes silicone and automotive parts.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.shinpoly.co.jp/en/company/outline.html",
+   "https://www.shinpoly.co.jp/en/company/office/office-sd.html",
+   "https://www.shinpoly.co.jp/en/product/product/semiconductor/wafercases.html"
+  ],
+  "notes": "Exhibitor is Shin-Etsu Polymer India Pvt. Ltd. (established Oct 2007 near Chennai); folded into the parent record. 4,123 group employees / 1,034 parent-only as of 31 Mar 2026. Ticker not stated on source page. No LinkedIn company page confirmed.",
+  "first_researched_utc": "2026-09-30T12:43:00Z",
+  "last_researched_utc": "2026-09-30T12:43:00Z",
+  "wp_ids": [
+   "WP-0045"
+  ],
+  "primary_category_group_name": "Support Products",
+  "primary_subcategory_name": "Device; Wafer; Display Panel Handling Products",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "900.03",
+   "400.21",
+   "400.11",
+   "502.04"
   ]
  },
  {
@@ -30114,6 +33183,77 @@
    "902.01",
    "500.01",
    "701.10"
+  ]
+ },
+ {
+  "company_id": "d:srico-labworld.com",
+  "name": "SRICO",
+  "name_norm": "srico",
+  "aliases_norm": [
+   "srico",
+   "scientific research instruments pvt",
+   "scientific research instruments private",
+   "srico labworld"
+  ],
+  "name_variants": [
+   "Scientific Research Instruments Company Pvt Ltd",
+   "Scientific Research Instruments Company Private Limited",
+   "SRICO",
+   "Srico Labworld"
+  ],
+  "legal_name": "Scientific Research Instruments Company Private Limited",
+  "website": "https://srico-labworld.com",
+  "domain": "srico-labworld.com",
+  "linkedin_url": "https://www.linkedin.com/company/scientific-research-instruments-company-pvt-ltd",
+  "linkedin_slug": "scientific-research-instruments-company-pvt-ltd",
+  "hq_city": "Bengaluru",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "900",
+  "primary_subcategory": "900.06",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "laboratory equipment",
+   "analytical instruments",
+   "cleanroom build",
+   "lab consumables"
+  ],
+  "end_markets": [
+   "research laboratories",
+   "pharmaceutical",
+   "biotechnology",
+   "academia",
+   "semiconductor"
+  ],
+  "description": "Bengaluru-based supplier of laboratory and analytical instruments to Indian research institutions and industry, with more than 25 years in scientific instrumentation and cleanroom build experience.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://srico-labworld.com/contact/",
+   "https://in.linkedin.com/company/scientific-research-instruments-company-pvt-ltd",
+   "https://www.indiamart.com/scientificresearch-instruments/aboutus.html"
+  ],
+  "notes": "Founding year not stated; company claims 25+ years of experience.",
+  "first_researched_utc": "2026-09-30T12:40:00Z",
+  "last_researched_utc": "2026-09-30T12:40:00Z",
+  "wp_ids": [
+   "WP-0043"
+  ],
+  "primary_category_group_name": "Support Products",
+  "primary_subcategory_name": "Laboratory Apparatus and Supplies",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "900.06",
+   "804.14",
+   "501.01",
+   "203.11",
+   "203.23"
   ]
  },
  {
@@ -31681,6 +34821,2036 @@
   ]
  },
  {
+  "company_id": "d:tataelectronics.com",
+  "name": "Tata Electronics",
+  "name_norm": "tata electronics",
+  "aliases_norm": [
+   "tata electronics",
+   "tata electronics pvt"
+  ],
+  "name_variants": [
+   "Tata Electronics Pvt.Ltd"
+  ],
+  "legal_name": "Tata Electronics Private Limited",
+  "website": "https://www.tataelectronics.com",
+  "domain": "tataelectronics.com",
+  "linkedin_url": "https://in.linkedin.com/company/tata-electronics-pvt-ltd",
+  "linkedin_slug": "tata-electronics-pvt-ltd",
+  "hq_city": "Hosur",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Dholera",
+    "country": "IN",
+    "type": "fab"
+   },
+   {
+    "city": "Jagiroad",
+    "country": "IN",
+    "type": "assembly_test"
+   }
+  ],
+  "founded_year": 2020,
+  "employee_range": "10001+",
+  "ownership_type": "subsidiary",
+  "parent_company": "Tata Sons",
+  "stock_ticker": null,
+  "primary_category_group": "903",
+  "primary_subcategory": "903.05",
+  "value_chain_role": "fab_idm",
+  "product_keywords": [
+   "semiconductor foundry",
+   "wafer fab",
+   "OSAT",
+   "electronics manufacturing"
+  ],
+  "end_markets": [
+   "automotive",
+   "computing",
+   "power",
+   "wireless"
+  ],
+  "description": "Tata Group venture founded in 2020 building India's first semiconductor wafer fab at Dholera with PSMC, plus an assembly and test plant in Assam and precision electronics manufacturing.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://www.tataelectronics.com/semiconductor-foundry",
+   "https://in.linkedin.com/company/tata-electronics-pvt-ltd",
+   "https://www.tata.com/newsroom/business/first-indian-fab-semiconductor-dholera"
+  ],
+  "notes": "LinkedIn lists HQ as Krishnagiri District, Tamil Nadu (Hosur plant); registered office is in Mumbai.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0049"
+  ],
+  "primary_category_group_name": "Electronic Components",
+  "primary_subcategory_name": "Components: IDM / Foundries",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "903.05",
+   "903.04",
+   "901.08"
+  ]
+ },
+ {
+  "company_id": "d:tazmo.co.jp",
+  "name": "TAZMO",
+  "name_norm": "tazmo",
+  "aliases_norm": [
+   "tazmo"
+  ],
+  "name_variants": [
+   "TAZMO Co., Ltd.",
+   "TAZMO Inc."
+  ],
+  "legal_name": "TAZMO CO., LTD.",
+  "website": "https://tazmo.co.jp",
+  "domain": "tazmo.co.jp",
+  "linkedin_url": "https://www.linkedin.com/company/tazmo-inc",
+  "linkedin_slug": "tazmo-inc",
+  "hq_city": "Satosho, Okayama",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Fremont",
+    "country": "US",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1972,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TSE:6266",
+  "primary_category_group": "207",
+  "primary_subcategory": "207.04",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "coater/developer",
+   "bonder/debonder",
+   "cleaning systems",
+   "CMP slurry distribution",
+   "chemical recycling"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "display",
+   "advanced packaging"
+  ],
+  "description": "Japanese maker of semiconductor and FPD process equipment: coater/developers, wafer bonders and debonders, cleaning systems, and chemical distribution and reclamation systems. Listed on TSE Prime.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://tazmo.co.jp/en/company/",
+   "https://tazmo.co.jp/en/products/",
+   "https://www.linkedin.com/company/tazmo-inc"
+  ],
+  "notes": "LinkedIn page found is the US subsidiary TAZMO INC. (Fremont, CA, founded 2003); record is for the Japanese parent group.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0049"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Coat; Develop; Resist Processing; Track Equipment",
+  "events_flat": "SEMICON India | SEMICON West",
+  "subcategories": [
+   "207.04",
+   "207.03",
+   "207.15",
+   "201.01"
+  ]
+ },
+ {
+  "company_id": "d:tcil.com",
+  "name": "TCI",
+  "name_norm": "tci",
+  "aliases_norm": [
+   "tci",
+   "transport of india"
+  ],
+  "name_variants": [
+   "Transport Corporation Of India Limited",
+   "TCI Group"
+  ],
+  "legal_name": "Transport Corporation of India Limited",
+  "website": "https://tcil.com",
+  "domain": "tcil.com",
+  "linkedin_url": "https://in.linkedin.com/company/tci.transportcorporationofindia",
+  "linkedin_slug": "tci.transportcorporationofindia",
+  "hq_city": "Gurugram",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1958,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "NSE:TCI",
+  "primary_category_group": "801",
+  "primary_subcategory": "801.03",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "3PL",
+   "warehousing",
+   "multimodal transport",
+   "coastal shipping",
+   "project heavy haul",
+   "cold chain"
+  ],
+  "end_markets": [
+   "automotive",
+   "chemical",
+   "e-commerce",
+   "pharmaceuticals",
+   "electronics"
+  ],
+  "description": "Indian integrated logistics and supply chain company operating freight, supply chain solutions, seaways and energy divisions, with over 30,000 employees and brands including TCI Freight, TCI Global and TCI Seaways.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://tcil.com/",
+   "https://en.wikipedia.org/wiki/Transport_Corporation_of_India",
+   "https://stockanalysis.com/quote/nse/TCI/company/",
+   "https://in.linkedin.com/company/tci.transportcorporationofindia"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:39:00Z",
+  "last_researched_utc": "2026-09-30T12:39:00Z",
+  "wp_ids": [
+   "WP-0051"
+  ],
+  "primary_category_group_name": "Distribution and Logistics",
+  "primary_subcategory_name": "Distribution, Warehousing, 3rd Party Logistics Providers (3PL)",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "801.03",
+   "801.04",
+   "801.02",
+   "801.01",
+   "804.13"
+  ]
+ },
+ {
+  "company_id": "d:techmahindra.com",
+  "name": "Tech Mahindra",
+  "name_norm": "tech mahindra",
+  "aliases_norm": [
+   "tech mahindra"
+  ],
+  "name_variants": [
+   "Tech Mahindra Ltd"
+  ],
+  "legal_name": "Tech Mahindra Limited",
+  "website": "https://www.techmahindra.com",
+  "domain": "techmahindra.com",
+  "linkedin_url": "https://www.linkedin.com/company/tech-mahindra",
+  "linkedin_slug": "tech-mahindra",
+  "hq_city": "Pune",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1986,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": "Mahindra Group",
+  "stock_ticker": "NSE:TECHM",
+  "primary_category_group": "701",
+  "primary_subcategory": "701.04",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "semiconductor design services",
+   "VLSI",
+   "embedded engineering",
+   "IT services",
+   "digital engineering"
+  ],
+  "end_markets": [
+   "automotive",
+   "communications",
+   "computing",
+   "consumer"
+  ],
+  "description": "Indian IT services and consulting arm of the Mahindra Group with about 148,000 staff; its semiconductor practice supplies chip design, VLSI and embedded engineering services.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.techmahindra.com",
+   "https://en.wikipedia.org/wiki/Tech_Mahindra",
+   "https://craft.co/tech-mahindra/locations"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0049"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Circuit Design; Electronic Design Services (EDS); System Level Design (SLD)",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "701.04",
+   "701.17",
+   "701.16",
+   "804.03",
+   "903.09"
+  ]
+ },
+ {
+  "company_id": "d:techsolengineers.com",
+  "name": "Techsol Engineers",
+  "name_norm": "techsol engineers",
+  "aliases_norm": [
+   "techsol engineers"
+  ],
+  "name_variants": [
+   "Techsol Engineers"
+  ],
+  "legal_name": null,
+  "website": "https://techsolengineers.com",
+  "domain": "techsolengineers.com",
+  "linkedin_url": "https://in.linkedin.com/company/techsol-engineers",
+  "linkedin_slug": "techsol-engineers",
+  "hq_city": "Bangalore",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2011,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.19",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "tube fittings",
+   "valves",
+   "gas distribution",
+   "process vacuum and exhaust lines",
+   "tool hookup"
+  ],
+  "end_markets": [
+   "semiconductor fabs",
+   "process industry"
+  ],
+  "description": "Bangalore supplier and integrator of instrumentation tube fittings, valves and gas and exhaust distribution systems, executing semiconductor tool hookup and fab facility integration work.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://techsolengineers.com/contact-us/",
+   "https://in.linkedin.com/company/techsol-engineers",
+   "https://www.zoominfo.com/c/techsol-engineers/356665234"
+  ],
+  "notes": "Small Indian partnership firm, thin public information. Distinct from Techsol Engineering Services (India) Pvt Ltd of Tamil Nadu.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0049"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.19",
+   "400.10",
+   "500.09",
+   "700.19"
+  ]
+ },
+ {
+  "company_id": "d:hites.co.kr",
+  "name": "TES",
+  "name_norm": "tes",
+  "aliases_norm": [
+   "tes"
+  ],
+  "name_variants": [
+   "TES Co., Ltd."
+  ],
+  "legal_name": "TES Co., Ltd.",
+  "website": "https://www.hites.co.kr",
+  "domain": "hites.co.kr",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Yongin",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2002,
+  "employee_range": "201-500",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "KOSDAQ:095610",
+  "primary_category_group": "207",
+  "primary_subcategory": "207.06",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "PECVD",
+   "LPCVD",
+   "dry cleaning",
+   "gas phase etch",
+   "OLED equipment"
+  ],
+  "end_markets": [
+   "memory",
+   "logic",
+   "display",
+   "LED"
+  ],
+  "description": "Korean front-end semiconductor equipment maker supplying PECVD and LPCVD deposition, dry cleaning and gas-phase etch systems, plus display and OLED process equipment. Listed on KOSDAQ.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/tes-co-ltd",
+   "https://www.bloomberg.com/profile/company/095610:KS",
+   "https://stockanalysis.com/quote/kosdaq/095610/"
+  ],
+  "notes": "No LinkedIn company page located within the call budget.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0049"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Deposition; Chemical Vapor (CVD); MOCVD; PECVD; LPCVD; ALD; REALD; MVD",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "207.06",
+   "207.10",
+   "207.03",
+   "201.08"
+  ]
+ },
+ {
+  "company_id": "d:thermofisher.com",
+  "name": "Thermo Fisher Scientific",
+  "name_norm": "thermo fisher scientific",
+  "aliases_norm": [
+   "thermo fisher scientific",
+   "thermo fisher scientific india pvt"
+  ],
+  "name_variants": [
+   "Thermo Fisher Scientific India Pvt Ltd",
+   "Thermo Fisher Scientific Inc"
+  ],
+  "legal_name": "Thermo Fisher Scientific Inc.",
+  "website": "https://www.thermofisher.com",
+  "domain": "thermofisher.com",
+  "linkedin_url": "https://www.linkedin.com/company/thermo-fisher-scientific",
+  "linkedin_slug": "thermo-fisher-scientific",
+  "hq_city": "Waltham",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Mumbai",
+    "country": "IN",
+    "type": "regional_hq"
+   }
+  ],
+  "founded_year": 2006,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "NYSE:TMO",
+  "primary_category_group": "203",
+  "primary_subcategory": "203.17",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "SEM",
+   "FIB",
+   "TEM",
+   "DualBeam",
+   "failure analysis",
+   "electron microscopy"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "materials",
+   "life sciences"
+  ],
+  "description": "Analytical instrument maker whose Thermo Scientific and FEI electron microscopy lines (SEM, TEM, FIB-SEM) serve semiconductor metrology and failure analysis.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://in.linkedin.com/company/thermo-fisher-scientific-india",
+   "https://www.linkedin.com/company/thermo-fisher-scientific",
+   "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary (HQ Mumbai); folded into the Thermo Fisher Scientific group record.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0050"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Microscopes: SEM; Focused Ion Beam (FIB), TEM",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "203.17",
+   "203.23",
+   "203.05",
+   "208.07"
+  ]
+ },
+ {
+  "company_id": "d:thinkymixer.com",
+  "name": "Thinky",
+  "name_norm": "thinky",
+  "aliases_norm": [
+   "thinky"
+  ],
+  "name_variants": [
+   "Thinky Corporation",
+   "THINKY"
+  ],
+  "legal_name": "Thinky Corporation",
+  "website": "https://www.thinkymixer.com",
+  "domain": "thinkymixer.com",
+  "linkedin_url": "https://www.linkedin.com/company/thinky-usa-inc",
+  "linkedin_slug": "thinky-usa-inc",
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Laguna Hills",
+    "country": "US",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1971,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "900",
+  "primary_subcategory": "900.06",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "planetary centrifugal mixer",
+   "deaeration",
+   "dispersion",
+   "slurry mixing",
+   "pulverizer"
+  ],
+  "end_markets": [
+   "electronics",
+   "advanced materials",
+   "batteries",
+   "pharmaceuticals"
+  ],
+  "description": "Japanese maker of bladeless planetary centrifugal mixers that mix, disperse and deaerate pastes and slurries; over 30,000 units deployed across 54 countries.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://www.thinkymixer.com/en-us/about-us/overview/",
+   "https://www.linkedin.com/company/thinky-usa-inc",
+   "https://www.crunchbase.com/organization/thinky"
+  ],
+  "notes": "Only LinkedIn page found is the US subsidiary THINKY USA, Inc.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0050"
+  ],
+  "primary_category_group_name": "Support Products",
+  "primary_subcategory_name": "Laboratory Apparatus and Supplies",
+  "events_flat": "SEMICON Europa | SEMICON India",
+  "subcategories": [
+   "900.06",
+   "202.07"
+  ]
+ },
+ {
+  "company_id": "d:thirdaiautomation.com",
+  "name": "ThirdAI Automation",
+  "name_norm": "thirdai automation",
+  "aliases_norm": [
+   "thirdai automation",
+   "thirdai"
+  ],
+  "name_variants": [
+   "ThirdAI Automation Inc",
+   "ThirdAI"
+  ],
+  "legal_name": "ThirdAI Automation Inc.",
+  "website": "https://www.thirdaiautomation.com",
+  "domain": "thirdaiautomation.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "San Jose",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 2024,
+  "employee_range": "1-10",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "602",
+  "primary_subcategory": "602.06",
+  "value_chain_role": "software",
+  "product_keywords": [
+   "causal AI",
+   "root-cause analysis",
+   "equipment log analytics",
+   "fab diagnostics",
+   "agentic AI"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "semiconductor equipment"
+  ],
+  "description": "Seed-stage startup building a causal-AI root-cause analysis platform that unifies equipment logs, sensor data and service reports to cut downtime in semiconductor fabs.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.thirdaiautomation.com/",
+   "https://www.semi.org/en/resources/member-directory/thirdai-automation-inc",
+   "https://inc42.com/buzz/thirdai-nets-3-mn-to-reduce-downtimes-at-semiconductor-fabs/"
+  ],
+  "notes": "No LinkedIn company page surfaced in results. Raised USD 3M seed led by Endiya Partners and Capria Ventures.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0050"
+  ],
+  "primary_category_group_name": "Manufacturing Software",
+  "primary_subcategory_name": "Yield Mgmt; Process Control Software",
+  "events_flat": "SEMICON India | SEMICON West",
+  "subcategories": [
+   "602.06",
+   "500.12",
+   "701.12"
+  ]
+ },
+ {
+  "company_id": "d:thk.com",
+  "name": "THK",
+  "name_norm": "thk",
+  "aliases_norm": [
+   "thk",
+   "thk india private"
+  ],
+  "name_variants": [
+   "THK India Private Limited",
+   "THK Co., Ltd.",
+   "THK CO.,LTD."
+  ],
+  "legal_name": "THK Co., Ltd.",
+  "website": "https://www.thk.com",
+  "domain": "thk.com",
+  "linkedin_url": "https://www.linkedin.com/company/thk-global",
+  "linkedin_slug": "thk-global",
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Sri City",
+    "country": "IN",
+    "type": "manufacturing"
+   },
+   {
+    "city": "Ahmedabad",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1971,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.01",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "LM guide",
+   "linear motion guide",
+   "ball screw",
+   "linear actuator",
+   "ball spline",
+   "cross roller bearing"
+  ],
+  "end_markets": [
+   "semiconductor equipment",
+   "machine tools",
+   "robotics",
+   "medical"
+  ],
+  "description": "Originator of the linear motion guide; supplies LM guides, ball screws, actuators and ball splines used in semiconductor tools, machine tools and robotics. THK India runs the first Indian linear-motion plant at Sri City.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://in.linkedin.com/company/thk-india",
+   "https://www.linkedin.com/company/thk-global",
+   "https://www.thk.com/in/en/",
+   "https://en.wikipedia.org/wiki/THK_Co.,_Ltd."
+  ],
+  "notes": "Exhibitor is the Indian subsidiary; folded into the THK Co., Ltd. group record. Ticker not verified in sources.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0050"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Bearings; Shaft Collars",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.01",
+   "401.09",
+   "401.07",
+   "502.02"
+  ]
+ },
+ {
+  "company_id": "d:tmeic.com",
+  "name": "TMEIC",
+  "name_norm": "tmeic",
+  "aliases_norm": [
+   "tmeic",
+   "tmeic industrial systems india private",
+   "toshiba mitsubishi electric industrial systems",
+   "tmeic india"
+  ],
+  "name_variants": [
+   "TMEIC Industrial Systems India Private Limited",
+   "Toshiba Mitsubishi-Electric Industrial Systems Corporation",
+   "TMEIC India"
+  ],
+  "legal_name": "Toshiba Mitsubishi-Electric Industrial Systems Corporation",
+  "website": "https://www.tmeic.com",
+  "domain": "tmeic.com",
+  "linkedin_url": "https://www.linkedin.com/company/tmeic",
+  "linkedin_slug": "tmeic",
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Bengaluru",
+    "country": "IN",
+    "type": "corporate"
+   },
+   {
+    "city": "Tumakuru",
+    "country": "IN",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 2003,
+  "employee_range": "1001-5000",
+  "ownership_type": "subsidiary",
+  "parent_company": "Toshiba Corporation / Mitsubishi Electric Corporation (50-50 joint venture)",
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.13",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "variable frequency drive",
+   "electric motor",
+   "UPS",
+   "PV inverter",
+   "power electronics",
+   "industrial automation"
+  ],
+  "end_markets": [
+   "industrial plants",
+   "metals",
+   "renewable energy",
+   "oil and gas"
+  ],
+  "description": "Toshiba / Mitsubishi Electric joint venture supplying rotating machines, power electronics, drives, large UPS systems and plant automation. TMEIC India designs and builds drives, motors, UPS and PV inverters in Karnataka.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://in.linkedin.com/company/tmeic-india",
+   "https://www.linkedin.com/company/tmeic",
+   "https://en.wikipedia.org/wiki/TMEIC"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary; folded into the TMEIC group record. Sources describe industrial power electronics and automation rather than dedicated semiconductor tooling.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0050"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Power Supplies; RF Generators; Converters; Electrical Conditioning",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "401.13",
+   "401.09",
+   "500.04",
+   "500.12",
+   "402.02"
+  ]
+ },
+ {
+  "company_id": "d:toray.com",
+  "name": "Toray",
+  "name_norm": "toray",
+  "aliases_norm": [
+   "toray",
+   "toray industries"
+  ],
+  "name_variants": [
+   "Toray Industries Inc"
+  ],
+  "legal_name": "Toray Industries, Inc.",
+  "website": "https://www.toray.com",
+  "domain": "toray.com",
+  "linkedin_url": "https://www.linkedin.com/company/toray-industries-inc-",
+  "linkedin_slug": "toray-industries-inc-",
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1926,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TSE:3402",
+  "primary_category_group": "300",
+  "primary_subcategory": "300.17",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "photosensitive polyimide",
+   "process tapes",
+   "semiconductor functional films",
+   "advanced packaging materials",
+   "specialty chemicals"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "advanced packaging",
+   "display"
+  ],
+  "description": "Japanese integrated chemicals group supplying semiconductor and mounting materials including photodefinable polyimide, adhesive films, ceramic materials and process tapes; around 49,000 employees worldwide.",
+  "status": "complete",
+  "confidence": 0.9,
+  "sources": [
+   "https://www.toray.com/",
+   "https://www.semiconductor.toray/en/",
+   "https://www.electronics.toray/en/application/semiconductor.html",
+   "https://www.linkedin.com/company/toray-industries-inc-/"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0051"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Materials",
+  "primary_subcategory_name": "Thin Film; Dielectric Film Materials",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "300.17",
+   "300.01",
+   "300.06",
+   "301.07",
+   "301.06"
+  ]
+ },
+ {
+  "company_id": "d:towajapan.co.jp",
+  "name": "TOWA",
+  "name_norm": "towa",
+  "aliases_norm": [
+   "towa"
+  ],
+  "name_variants": [
+   "Towa Corporation",
+   "TOWA Corporation"
+  ],
+  "legal_name": "TOWA Corporation",
+  "website": "https://www.towajapan.co.jp",
+  "domain": "towajapan.co.jp",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Kyoto",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1979,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TSE:6315",
+  "primary_category_group": "200",
+  "primary_subcategory": "200.18",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "compression molding",
+   "transfer molding",
+   "encapsulation",
+   "high-precision molds",
+   "laser processing",
+   "singulation"
+  ],
+  "end_markets": [
+   "advanced packaging",
+   "logic",
+   "power",
+   "AI/HPC"
+  ],
+  "description": "Kyoto-based maker of semiconductor encapsulation and molding equipment and high-precision molds, holding roughly two-thirds of the global chip molding equipment market; also medical device and laser processing segments.",
+  "status": "complete",
+  "confidence": 0.9,
+  "sources": [
+   "https://www.towajapan.co.jp/en/",
+   "https://stockanalysis.com/quote/tyo/6315/company/",
+   "https://www.towajapan.co.jp/en/network/towa/"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0051"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Molding; Encapsulation; Decapsulation Equipment",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "200.18",
+   "200.08",
+   "202.01",
+   "300.12"
+  ]
+ },
+ {
+  "company_id": "d:toyota-tsusho.com",
+  "name": "Toyota Tsusho",
+  "name_norm": "toyota tsusho",
+  "aliases_norm": [
+   "toyota tsusho",
+   "toyota tsusho india pvt"
+  ],
+  "name_variants": [
+   "TOYOTA TSUSHO INDIA PVT.LTD",
+   "Toyota Tsusho India Pvt Ltd",
+   "Toyota Tsusho Corporation"
+  ],
+  "legal_name": "Toyota Tsusho Corporation",
+  "website": "https://www.toyota-tsusho.com",
+  "domain": "toyota-tsusho.com",
+  "linkedin_url": "https://in.linkedin.com/company/toyota-tsusho-india-pvt-ltd",
+  "linkedin_slug": "toyota-tsusho-india-pvt-ltd",
+  "hq_city": "Nagoya",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Bangalore",
+    "country": "IN",
+    "type": "subsidiary"
+   },
+   {
+    "city": "Tokyo",
+    "country": "JP",
+    "type": "head office"
+   }
+  ],
+  "founded_year": 1948,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TSE:8015",
+  "primary_category_group": "804",
+  "primary_subcategory": "804.14",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "electronic components trading",
+   "semiconductor distribution",
+   "supply chain",
+   "NEXTY Electronics",
+   "chemicals and electronics"
+  ],
+  "end_markets": [
+   "automotive",
+   "industrial",
+   "electronics"
+  ],
+  "description": "Japanese sogo shosha in the Toyota Group with a Chemicals and Electronics division; its NEXTY Electronics arm trades semiconductor components and runs a Bangalore technology centre. The SEMICON India exhibitor is the Indian subsidiary, established 1999.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.toyota-tsusho.com/english/company/profile.html",
+   "https://in.linkedin.com/company/toyota-tsusho-india-pvt-ltd",
+   "https://www.nexty-ele.com/en/news/detail/20231122_j/"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary; folded into the Toyota Tsusho Corporation group record.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0051"
+  ],
+  "primary_category_group_name": "Professional Services",
+  "primary_subcategory_name": "Sales; Manufacturers Representation or Distributors",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "804.14",
+   "801.03",
+   "804.13",
+   "903.04",
+   "701.07"
+  ]
+ },
+ {
+  "company_id": "d:tpste.com",
+  "name": "TPST Services",
+  "name_norm": "tpst services",
+  "aliases_norm": [
+   "tpst services",
+   "tpst services private",
+   "tpst services pvt"
+  ],
+  "name_variants": [
+   "TPST Services Private Limited",
+   "TPST Services Pvt Ltd"
+  ],
+  "legal_name": "TPST Services Private Limited",
+  "website": "https://www.tpste.com",
+  "domain": "tpste.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Chennai",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Karaikudi",
+    "country": "IN",
+    "type": "registered office"
+   }
+  ],
+  "founded_year": 2023,
+  "employee_range": "1-10",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "700",
+  "primary_subcategory": "700.19",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "test handler",
+   "wafer sort prober",
+   "AOI vision systems",
+   "analog mixed signal tester",
+   "equipment service"
+  ],
+  "end_markets": [
+   "assembly and test",
+   "OSAT"
+  ],
+  "description": "Tamil Nadu solution partner providing semiconductor equipment services and supply for test handlers, wafer sort probers, AOI vision systems for assembly and test, and analog mixed-signal testers. Incorporated July 2023.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://portal2026.semiconindia.org/co/tpst-services-private-limited",
+   "https://www.thecompanycheck.com/company/tpst-services-private-limited/U71100TN2023PTC162331",
+   "https://www.falconebiz.com/company/TPST-SERVICES-PRIVATE-LIMITED-U71100TN2023PTC162331"
+  ],
+  "notes": "CIN U71100TN2023PTC162331.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0051"
+  ],
+  "primary_category_group_name": "Manufacturing Services",
+  "primary_subcategory_name": "Repair; Rebuild; Install Equipment; Maintenance Services; Spare Parts",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "700.19",
+   "208.10",
+   "208.19",
+   "202.09",
+   "804.14"
+  ]
+ },
+ {
+  "company_id": "d:triquantalabs.com",
+  "name": "TriQuanta Labs",
+  "name_norm": "triquanta labs",
+  "aliases_norm": [
+   "triquanta labs",
+   "triquanta labs private"
+  ],
+  "name_variants": [
+   "TriQuanta Labs",
+   "Triquanta Labs Private Limited"
+  ],
+  "legal_name": "Triquanta Labs Private Limited",
+  "website": "https://triquantalabs.com",
+  "domain": "triquantalabs.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Hyderabad",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Amaravati",
+    "country": "IN",
+    "type": "lab"
+   },
+   {
+    "city": "Chennai",
+    "country": "IN",
+    "type": "R&D"
+   }
+  ],
+  "founded_year": 2025,
+  "employee_range": "1-10",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "902",
+  "primary_subcategory": "902.01",
+  "value_chain_role": "research",
+  "product_keywords": [
+   "hybrid quantum computing",
+   "neutral atoms",
+   "trapped ions",
+   "ultra-high vacuum"
+  ],
+  "end_markets": [
+   "quantum computing",
+   "research"
+  ],
+  "description": "Hyderabad quantum computing startup building a hybrid quantum computer combining neutral atoms and trapped ions in a single ultra-high vacuum chamber; backed by the Startup India Seed Fund Scheme.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://triquantalabs.com/",
+   "https://www.tofler.in/triquanta-labs-private-limited/company/U63990TS2025PTC203025",
+   "https://indiacsr.in/triquanta-labs-ultra-high-vacuum-milestone-quantum-tech/"
+  ],
+  "notes": "CIN U63990TS2025PTC203025.",
+  "first_researched_utc": "2026-09-30T12:39:00Z",
+  "last_researched_utc": "2026-09-30T12:39:00Z",
+  "wp_ids": [
+   "WP-0051"
+  ],
+  "primary_category_group_name": "Other",
+  "primary_subcategory_name": "Other",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "902.01",
+   "701.13",
+   "205.01",
+   "202.06"
+  ]
+ },
+ {
+  "company_id": "d:trumpf.com",
+  "name": "TRUMPF",
+  "name_norm": "trumpf",
+  "aliases_norm": [
+   "trumpf",
+   "trumpf pvt"
+  ],
+  "name_variants": [
+   "TRUMPF (India) Pvt. Ltd."
+  ],
+  "legal_name": "TRUMPF SE + Co. KG",
+  "website": "https://www.trumpf.com",
+  "domain": "trumpf.com",
+  "linkedin_url": "https://www.linkedin.com/company/trumpf",
+  "linkedin_slug": "trumpf",
+  "hq_city": "Ditzingen",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Pune",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1923,
+  "employee_range": "10001+",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.04",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "CO2 laser",
+   "EUV drive laser",
+   "solid-state disk laser",
+   "diode laser",
+   "RF power supplies"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "photonics"
+  ],
+  "description": "German high-tech firm supplying industrial lasers and RF power electronics, including CO2 drive-laser amplifiers for EUV lithography. The Pune entity is its Indian sales and service subsidiary.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://www.trumpf.com/en_IN/",
+   "https://www.trumpf.com/en_GB/company/profile/sites/country/india/",
+   "https://www.linkedin.com/company/trumpf-india-limited"
+  ],
+  "notes": "Regional subsidiary folded into TRUMPF group record.",
+  "first_researched_utc": "2026-09-30T12:33:00Z",
+  "last_researched_utc": "2026-09-30T12:33:00Z",
+  "wp_ids": [
+   "WP-0052"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Exposure; Illumination Sources - Laser; Lamp; X-ray & other",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "401.04",
+   "401.13",
+   "202.01"
+  ]
+ },
+ {
+  "company_id": "d:tubacex.com",
+  "name": "TUBACEX",
+  "name_norm": "tubacex",
+  "aliases_norm": [
+   "tubacex",
+   "tubacex service solutions india pvt"
+  ],
+  "name_variants": [
+   "TUBACEX SERVICE SOLUTIONS INDIA PVT LTD"
+  ],
+  "legal_name": "Tubacex S.A.",
+  "website": "https://www.tubacex.com",
+  "domain": "tubacex.com",
+  "linkedin_url": "https://www.linkedin.com/company/tubacex",
+  "linkedin_slug": "tubacex",
+  "hq_city": "Llodio",
+  "hq_country": "ES",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Gandhidham",
+    "country": "IN",
+    "type": "distribution"
+   }
+  ],
+  "founded_year": 1963,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "BME:TUB",
+  "primary_category_group": "400",
+  "primary_subcategory": "400.19",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "seamless stainless steel tube",
+   "high nickel alloy pipe",
+   "fittings",
+   "hollow bars",
+   "instrumentation tubing"
+  ],
+  "end_markets": [
+   "fab facilities",
+   "energy",
+   "chemical"
+  ],
+  "description": "Spanish group making seamless stainless steel and high-nickel-alloy tubes. TUBACEX Service Solutions is its global master distribution arm; the India unit is in Gandhidham, Gujarat.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.tubacex.com/en/tubacex-group/group-companies/tubacex-india/",
+   "https://www.tubacex.com/en/tubacex-group/group-companies/tubacex-service-solutions-eng/",
+   "https://in.linkedin.com/company/tubacexservicesolutions"
+  ],
+  "notes": "Regional distribution subsidiary folded into TUBACEX group record.",
+  "first_researched_utc": "2026-09-30T12:33:00Z",
+  "last_researched_utc": "2026-09-30T12:33:00Z",
+  "wp_ids": [
+   "WP-0052"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.19",
+   "400.20",
+   "801.03"
+  ]
+ },
+ {
+  "company_id": "d:uhptech.com",
+  "name": "UHP Technologies",
+  "name_norm": "uhp technologies",
+  "aliases_norm": [
+   "uhp technologies",
+   "uhp technologies pvt",
+   "uhp tech"
+  ],
+  "name_variants": [
+   "UHP Technologies Pvt Ltd",
+   "UHP Tech"
+  ],
+  "legal_name": "UHP Technologies Private Limited",
+  "website": "https://uhptech.com",
+  "domain": "uhptech.com",
+  "linkedin_url": "https://in.linkedin.com/company/uhp-technologies-pte-ltd",
+  "linkedin_slug": "uhp-technologies-pte-ltd",
+  "hq_city": "Bengaluru",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "500",
+  "primary_subcategory": "500.09",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "ultra high purity gas handling",
+   "bulk gas systems",
+   "specialty chemical delivery",
+   "waste gas abatement",
+   "cleanroom HVAC"
+  ],
+  "end_markets": [
+   "semiconductor fabs",
+   "OSAT",
+   "photovoltaic",
+   "biopharma"
+  ],
+  "description": "Bengaluru facility-utilities engineering firm delivering turnkey ultra-high-purity gas and chemical handling, cleanroom HVAC and waste-gas abatement systems for semiconductor, PV and biopharma plants.",
+  "status": "complete",
+  "confidence": 0.82,
+  "sources": [
+   "https://uhptech.com/profile/",
+   "https://uhptech.com/semiconductor/",
+   "https://in.linkedin.com/company/uhp-technologies-pte-ltd"
+  ],
+  "notes": "Founded year and headcount not published.",
+  "first_researched_utc": "2026-09-30T12:35:00Z",
+  "last_researched_utc": "2026-09-30T12:35:00Z",
+  "wp_ids": [
+   "WP-0052"
+  ],
+  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
+  "primary_subcategory_name": "Gas Handling - Cabinets; Control; Supply Systems",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "500.09",
+   "500.01",
+   "500.13",
+   "501.01"
+  ]
+ },
+ {
+  "company_id": "d:ulvac.co.jp",
+  "name": "ULVAC",
+  "name_norm": "ulvac",
+  "aliases_norm": [
+   "ulvac",
+   "ulvac singapore india branch"
+  ],
+  "name_variants": [
+   "ULVAC Singapore Pte Ltd India Branch",
+   "ULVAC, Inc."
+  ],
+  "legal_name": "ULVAC, Inc.",
+  "website": "https://www.ulvac.co.jp/en/",
+  "domain": "ulvac.co.jp",
+  "linkedin_url": "https://www.linkedin.com/company/ulvac-inc",
+  "linkedin_slug": "ulvac-inc",
+  "hq_city": "Chigasaki",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "regional_hq"
+   },
+   {
+    "city": "Secunderabad",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1952,
+  "employee_range": "5001-10000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TYO:6728",
+  "primary_category_group": "401",
+  "primary_subcategory": "401.16",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "vacuum pumps",
+   "sputtering systems",
+   "PVD",
+   "vacuum components",
+   "leak detectors"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display",
+   "solar",
+   "electronic components"
+  ],
+  "description": "Japanese vacuum-technology maker of vacuum pumps, components and thin-film deposition equipment for semiconductor, display and solar production. The India branch of ULVAC Singapore covers regional sales and support from Secunderabad.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.ulvac.co.jp/en/support_info/sales_office/index.html",
+   "https://www.ulvac.com.sg/",
+   "https://en.wikipedia.org/wiki/Ulvac"
+  ],
+  "notes": "India branch of the Singapore subsidiary folded into the ULVAC group record.",
+  "first_researched_utc": "2026-09-30T12:35:00Z",
+  "last_researched_utc": "2026-09-30T12:35:00Z",
+  "wp_ids": [
+   "WP-0052"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Pumps, Vacuum",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "401.16",
+   "207.07",
+   "400.24",
+   "203.12"
+  ]
+ },
+ {
+  "company_id": "d:unicorn-enterprise.com",
+  "name": "Unicorn Enterprise",
+  "name_norm": "unicorn enterprise",
+  "aliases_norm": [
+   "unicorn enterprise"
+  ],
+  "name_variants": [
+   "UNICORN ENTERPRISE"
+  ],
+  "legal_name": null,
+  "website": "https://unicorn-enterprise.com",
+  "domain": "unicorn-enterprise.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Vadodara",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.10",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "needle valves",
+   "ball and plug valves",
+   "tube fittings",
+   "S-lok",
+   "Goetze regulators"
+  ],
+  "end_markets": [
+   "LNG",
+   "hydrogen",
+   "cryogenic",
+   "process industry"
+  ],
+  "description": "Vadodara-based process fluid solutions distributor supplying S-lok valves and tube fittings plus Goetze regulators for LNG, hydrogen and cryogenic applications.",
+  "status": "complete",
+  "confidence": 0.7,
+  "sources": [
+   "https://unicorn-enterprise.com/",
+   "https://expo.semi.org/india2025/public/eBooth.aspx?IndexInList=266&FromPage=Exhibitors.aspx&ParentBoothID=&ListByBooth=true&BoothID=643857",
+   "https://www.indiamart.com/unicornenterprise-vadodara/profile.html"
+  ],
+  "notes": "No LinkedIn company page found; generic name makes identification less certain, though the SEMI booth listing matches the website.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0052"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Flow Control Components - Valves; Meters; Gauges; Regulators; MFC's",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.10",
+   "400.19",
+   "804.14"
+  ]
+ },
+ {
+  "company_id": "d:unimark.in",
+  "name": "Unimark Hi-Tech Solutions",
+  "name_norm": "unimark hi tech solutions",
+  "aliases_norm": [
+   "unimark hi tech solutions",
+   "unimark india"
+  ],
+  "name_variants": [
+   "UNIMARK HI-TECH SOLUTIONS LLP",
+   "Unimark India"
+  ],
+  "legal_name": "Unimark Hi-Tech Solutions LLP",
+  "website": "https://unimark.in",
+  "domain": "unimark.in",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Bengaluru",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1982,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.09",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "die bonders",
+   "wire bonders",
+   "injection molding machines",
+   "technical sales and service"
+  ],
+  "end_markets": [
+   "semiconductor assembly",
+   "plastics",
+   "energy",
+   "electrical"
+  ],
+  "description": "Bengaluru sales and service agency representing global manufacturing equipment in India, including die bonders and wire bonders for semiconductor assembly alongside plastics and windmill-blade machinery.",
+  "status": "complete",
+  "confidence": 0.78,
+  "sources": [
+   "https://unimark.in/",
+   "https://www.zaubacorp.com/UNIMARK-HI-TECH-SOLUTIONS-LLP-AAQ-7294",
+   "https://www.salesforce.com/in/customer-success-stories/unimark-high-tech-solutions-llp/"
+  ],
+  "notes": "Business established 1982; the LLP entity itself was incorporated 04 Dec 2019. Headcount estimated from revenue band (INR 10-50 Cr), not confirmed on LinkedIn.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0052"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Die Bonding; Attach Equipment",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "200.09",
+   "200.28",
+   "804.14",
+   "701.07"
+  ]
+ },
+ {
+  "company_id": "d:vaisala.com",
+  "name": "Vaisala",
+  "name_norm": "vaisala",
+  "aliases_norm": [
+   "vaisala",
+   "vaisala india private"
+  ],
+  "name_variants": [
+   "Vaisala India Private Limited"
+  ],
+  "legal_name": "Vaisala Oyj",
+  "website": "https://www.vaisala.com",
+  "domain": "vaisala.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Vantaa",
+  "hq_country": "FI",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Mumbai",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1936,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "VAIAV.HE",
+  "primary_category_group": "400",
+  "primary_subcategory": "400.23",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "humidity sensors",
+   "vacuum measurement",
+   "cleanroom monitoring",
+   "transmitters"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "life sciences",
+   "EV batteries",
+   "EMS"
+  ],
+  "description": "Finnish measurement instrument maker supplying humidity, vacuum and cleanroom monitoring sensors; opened a Mumbai office in 2025 to serve Indian semiconductor and EMS facilities.",
+  "status": "complete",
+  "confidence": 0.78,
+  "sources": [
+   "https://www.vaisala.com/en/news/2025-06/vaisala-opens-new-office-mumbai-expand-presence-india",
+   "https://www.vaisala.com/en/contact-us/office-locations",
+   "https://www.zaubacorp.com/company/U46909MH2024FTC426428"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary (incorporated 2024-06-04); folded into Vaisala Oyj group record. LinkedIn page not verified.",
+  "first_researched_utc": "2026-09-30T12:33:00Z",
+  "last_researched_utc": "2026-09-30T12:33:00Z",
+  "wp_ids": [
+   "WP-0053"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Sensors",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.23",
+   "203.01",
+   "203.25",
+   "501.03"
+  ]
+ },
+ {
+  "company_id": "d:valex.com",
+  "name": "Valex",
+  "name_norm": "valex",
+  "aliases_norm": [
+   "valex",
+   "valex semiconductor materials"
+  ],
+  "name_variants": [
+   "Valex Semiconductor Materials (zhejiang) Co.,Ltd"
+  ],
+  "legal_name": "Valex Corp",
+  "website": "https://www.valex.com",
+  "domain": "valex.com",
+  "linkedin_url": "https://www.linkedin.com/company/valex",
+  "linkedin_slug": "valex",
+  "hq_city": "Ventura",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Jiaxing",
+    "country": "CN",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1976,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Reliance, Inc.",
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.19",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "ultra-high purity tubing",
+   "electropolished tube",
+   "fittings",
+   "valves",
+   "manifolds"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "TFT/LCD",
+   "solar"
+  ],
+  "description": "Supplier of ultra-high-purity electropolished stainless steel tube, fittings, pipe and valves for semiconductor fluid and gas delivery; Zhejiang plant at Haiyan serves Asia.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.valex.com/company-profile-contact.aspx",
+   "https://www.semi.org/en/resources/member-directory/valex-semiconductor-materials-zhejiang-coltd",
+   "https://panjiva.com/Valex-Semiconductor-Materials/66754657"
+  ],
+  "notes": "Exhibitor is the Zhejiang (Haiyan) manufacturing entity; folded into Valex Corp group record.",
+  "first_researched_utc": "2026-09-30T12:33:30Z",
+  "last_researched_utc": "2026-09-30T12:33:30Z",
+  "wp_ids": [
+   "WP-0053"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.19",
+   "400.10",
+   "400.24",
+   "307.10"
+  ]
+ },
+ {
+  "company_id": "d:vatvalve.com",
+  "name": "VAT Group",
+  "name_norm": "vat",
+  "aliases_norm": [
+   "vat",
+   "vat singapore"
+  ],
+  "name_variants": [
+   "VAT Singapore Pte Ltd"
+  ],
+  "legal_name": "VAT Group AG",
+  "website": "https://www.vatvalve.com",
+  "domain": "vatvalve.com",
+  "linkedin_url": "https://www.linkedin.com/company/vat",
+  "linkedin_slug": "vat",
+  "hq_city": "Haag",
+  "hq_country": "CH",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "sales"
+   },
+   {
+    "city": "Penang",
+    "country": "MY",
+    "type": "manufacturing"
+   },
+   {
+    "city": "Arad",
+    "country": "RO",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1965,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "VACN.SW",
+  "primary_category_group": "400",
+  "primary_subcategory": "400.10",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "vacuum valves",
+   "multi-valve modules",
+   "edge-welded bellows",
+   "gate valves"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display",
+   "solar",
+   "research"
+  ],
+  "description": "Swiss market leader in high-end vacuum valves, multi-valve modules and edge-welded bellows for semiconductor, display and solar manufacturing; about 1,800 employees worldwide.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://www.vatvalve.com/page/vat-worldwide",
+   "https://en.wikipedia.org/wiki/VAT_Group",
+   "https://www.semi.org/en/resources/member-directory/vat-group-ag"
+  ],
+  "notes": "Exhibitor is the Singapore sales entity (161 Kallang Way); folded into VAT Group AG record.",
+  "first_researched_utc": "2026-09-30T12:35:00Z",
+  "last_researched_utc": "2026-09-30T12:35:00Z",
+  "wp_ids": [
+   "WP-0053"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Flow Control Components - Valves; Meters; Gauges; Regulators; MFC's",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "400.10",
+   "400.24",
+   "400.11",
+   "401.16"
+  ]
+ },
+ {
+  "company_id": "d:vayusodh.com",
+  "name": "Vayusodh",
+  "name_norm": "vayusodh",
+  "aliases_norm": [
+   "vayusodh",
+   "vayusodh applied systems and technologies",
+   "vayusodh applied systems and technologie s"
+  ],
+  "name_variants": [
+   "Vayusodh Applied Systems and Technologies LLP",
+   "VAYUSODH APPLIED SYSTEMS AND TECHNOLOGIE S LLP"
+  ],
+  "legal_name": "Vayusodh Applied Systems and Technologies LLP",
+  "website": "https://www.vayusodh.com",
+  "domain": "vayusodh.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Faridabad",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2020,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "500",
+  "primary_subcategory": "500.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "chemical management systems",
+   "ultra-pure water systems",
+   "gas delivery",
+   "custom process equipment"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photovoltaic",
+   "pharmaceutical"
+  ],
+  "description": "Indian engineering LLP designing and assembling custom chemical management, ultra-pure water and hazardous gas handling systems for semiconductor, photovoltaic and pharmaceutical fabs.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.vayusodh.com/",
+   "https://www.zaubacorp.com/VAYUSODH-APPLIED-SYSTEMS-AND-TECHNOLOGIE-S-LLP-AAS-4813",
+   "https://www.crunchbase.com/organization/vayusodh-applied-system-technologies"
+  ],
+  "notes": "Incorporated 2020-05-24; MCA registered office C-3163 Greenfields, Faridabad, Haryana. Headcount approx. 69.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0053"
+  ],
+  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
+  "primary_subcategory_name": "Chemical; Pure Water; Fluid Handling; Storage; Supply Systems",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "500.01",
+   "500.09",
+   "401.05",
+   "701.08",
+   "700.19"
+  ]
+ },
+ {
+  "company_id": "d:veeco.com",
+  "name": "Veeco",
+  "name_norm": "veeco",
+  "aliases_norm": [
+   "veeco",
+   "veeco asia"
+  ],
+  "name_variants": [
+   "VEECO Asia PTE LTD."
+  ],
+  "legal_name": "Veeco Instruments Inc.",
+  "website": "https://www.veeco.com",
+  "domain": "veeco.com",
+  "linkedin_url": "https://www.linkedin.com/company/166777",
+  "linkedin_slug": "166777",
+  "hq_city": "Plainview",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "sales"
+   },
+   {
+    "city": "Shanghai",
+    "country": "CN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1945,
+  "employee_range": "1001-5000",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "VECO",
+  "primary_category_group": "207",
+  "primary_subcategory": "207.06",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "MOCVD",
+   "MBE",
+   "ion beam deposition",
+   "laser annealing",
+   "ALD",
+   "lithography"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "LED",
+   "compound semiconductor",
+   "data storage"
+  ],
+  "description": "US maker of thin-film process equipment: MOCVD and MBE reactors, ion beam deposition and etch, laser processing, lithography and ALD tools for semiconductor and compound-semiconductor device makers.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.veeco.com/company/about-veeco/",
+   "https://en.wikipedia.org/wiki/Veeco",
+   "https://semiengineering.com/entities/veeco/"
+  ],
+  "notes": "Exhibitor is the Singapore Asia entity; folded into Veeco Instruments Inc. group record. LinkedIn URL is the numeric company id shown on veeco.com.",
+  "first_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "wp_ids": [
+   "WP-0053"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Deposition; Chemical Vapor (CVD); MOCVD; PECVD; LPCVD; ALD; REALD; MVD",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "207.06",
+   "207.09",
+   "207.12",
+   "207.07",
+   "207.17"
+  ]
+ },
+ {
+  "company_id": "d:veolia.com",
+  "name": "Veolia",
+  "name_norm": "veolia",
+  "aliases_norm": [
+   "veolia"
+  ],
+  "name_variants": [
+   "Veolia"
+  ],
+  "legal_name": "Veolia Environnement SA",
+  "website": "https://www.veolia.com",
+  "domain": "veolia.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Aubervilliers",
+  "hq_country": "FR",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1853,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "VIE.PA",
+  "primary_category_group": "500",
+  "primary_subcategory": "500.01",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "ultrapure water",
+   "UPW systems",
+   "wastewater treatment",
+   "water reuse"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "microelectronics",
+   "photovoltaic"
+  ],
+  "description": "French environmental services group whose Water Technologies arm designs, builds and operates ultrapure water production and fab wastewater treatment and reuse plants for microelectronics customers.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.veoliawatertechnologies.com/en/core-markets/electronics-and-photovoltaics",
+   "https://www.veolia.com/en/our-media/press-releases/750m-dollars-new-flagship-contracts-water-technologies-energy-semiconductors",
+   "https://www.veoliawatertechnologies.com/en/applications/ultrapure-water"
+  ],
+  "notes": "Exhibits through Veolia Water Technologies; group record used. LinkedIn page not verified.",
+  "first_researched_utc": "2026-09-30T12:39:00Z",
+  "last_researched_utc": "2026-09-30T12:39:00Z",
+  "wp_ids": [
+   "WP-0053"
+  ],
+  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
+  "primary_subcategory_name": "Chemical; Pure Water; Fluid Handling; Storage; Supply Systems",
+  "events_flat": "SEMICON India | SEMICON West",
+  "subcategories": [
+   "500.01",
+   "500.13",
+   "301.04",
+   "500.02",
+   "701.23"
+  ]
+ },
+ {
+  "company_id": "d:vit.edu",
+  "name": "Vishwakarma Institute of Technology",
+  "name_norm": "vishwakarma institute of technology",
+  "aliases_norm": [
+   "vishwakarma institute of technology",
+   "vishwakarma institute of technology pune",
+   "vit pune"
+  ],
+  "name_variants": [
+   "Vishwakarma Institute of Technology Pune",
+   "VIT Pune"
+  ],
+  "legal_name": "Vishwakarma Institute of Technology",
+  "website": "https://www.vit.edu",
+  "domain": "vit.edu",
+  "linkedin_url": "https://www.linkedin.com/school/vishwakarma-institute-of-technology-pune",
+  "linkedin_slug": "vishwakarma-institute-of-technology-pune",
+  "hq_city": "Pune",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1983,
+  "employee_range": "501-1000",
+  "ownership_type": "academic",
+  "parent_company": "Bansilal Ramnath Agarwal Charitable Trust",
+  "stock_ticker": null,
+  "primary_category_group": "802",
+  "primary_subcategory": "802.02",
+  "value_chain_role": "research",
+  "product_keywords": [
+   "engineering education",
+   "semiconductor curriculum",
+   "VLSI"
+  ],
+  "end_markets": [
+   "education",
+   "research"
+  ],
+  "description": "Autonomous private engineering institute in Pune, India, established in 1983 and affiliated with Savitribai Phule Pune University.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.vit.edu/",
+   "https://www.vit.edu/about/",
+   "https://in.linkedin.com/school/vishwakarma-institute-of-technology-pune/"
+  ],
+  "notes": "Academic exhibitor, not a commercial supplier.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Educational; Research Institutions",
+  "primary_subcategory_name": "Education; Research Institutions (Non Profit); Academia; Schools",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "802.02",
+   "701.13"
+  ]
+ },
+ {
   "company_id": "d:visiontec.com.sg",
   "name": "Visiontec",
   "name_norm": "visiontec",
@@ -31745,6 +36915,710 @@
    "203.26",
    "203.25",
    "401.01"
+  ]
+ },
+ {
+  "company_id": "d:edu.in",
+  "name": "Vivekananda Institute of Professional Studies - Technical Campus",
+  "name_norm": "vivekananda institute of professional studies technical campus",
+  "aliases_norm": [
+   "vivekananda institute of professional studies technical campus",
+   "vips tc",
+   "vips delhi"
+  ],
+  "name_variants": [
+   "Vivekananda Institute of Professional Studies-Technical Campus",
+   "VIPS-TC",
+   "VIPS Delhi"
+  ],
+  "legal_name": null,
+  "website": "https://www.vipstc.edu.in",
+  "domain": "edu.in",
+  "linkedin_url": "https://www.linkedin.com/school/vivekananda-institute-of-professional-studies",
+  "linkedin_slug": "vivekananda-institute-of-professional-studies",
+  "hq_city": "New Delhi",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1997,
+  "employee_range": "201-500",
+  "ownership_type": "academic",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "802",
+  "primary_subcategory": "802.02",
+  "value_chain_role": "research",
+  "product_keywords": [
+   "engineering education",
+   "electronics",
+   "information technology"
+  ],
+  "end_markets": [
+   "education",
+   "research"
+  ],
+  "description": "Private higher-education institute at Pitampura, New Delhi, affiliated with Guru Gobind Singh Indraprastha University; its technical campus covers engineering and IT programmes.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.vipstc.edu.in/",
+   "https://vips.edu/",
+   "https://in.linkedin.com/school/vivekananda-institute-of-professional-studies/"
+  ],
+  "notes": "Academic exhibitor. LinkedIn page is the parent VIPS institute.",
+  "first_researched_utc": "2026-09-30T12:34:00Z",
+  "last_researched_utc": "2026-09-30T12:34:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Educational; Research Institutions",
+  "primary_subcategory_name": "Education; Research Institutions (Non Profit); Academia; Schools",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "802.02"
+  ]
+ },
+ {
+  "company_id": "n:vmc semicon frame india",
+  "name": "VMC Semicon Frame India",
+  "name_norm": "vmc semicon frame india",
+  "aliases_norm": [
+   "vmc semicon frame india",
+   "vmc semicon frame india private"
+  ],
+  "name_variants": [
+   "VMC SEMICON FRAME INDIA PRIVATE LIMITED"
+  ],
+  "legal_name": "VMC Semicon Frame India Private Limited",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2026,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "300",
+  "primary_subcategory": "300.03",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "lead frames"
+  ],
+  "end_markets": [
+   "semiconductor packaging"
+  ],
+  "description": "Indian private company incorporated in June 2026 (CIN U26100TN2026PTC194290) to manufacture semiconductor lead frames.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.planetexim.net/indian-company/vmc-semicon-frame-india-private-limited/cin/U26100TN2026PTC194290.html",
+   "https://olaw.in/company-incorporation/vmc-semicon-frame-india-private-limited-u26100tn2026ptc194290"
+  ],
+  "notes": "Newly incorporated startup; no corporate website or LinkedIn page found. Registry CIN indicates Tamil Nadu registration; HQ city left null.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Materials",
+  "primary_subcategory_name": "Lead Frames & Headers: Etched; Stamped",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "300.03"
+  ]
+ },
+ {
+  "company_id": "d:vsora.com",
+  "name": "VSORA",
+  "name_norm": "vsora",
+  "aliases_norm": [
+   "vsora"
+  ],
+  "name_variants": [
+   "VSORA"
+  ],
+  "legal_name": "VSORA SAS",
+  "website": "https://vsora.com",
+  "domain": "vsora.com",
+  "linkedin_url": "https://www.linkedin.com/company/vsora",
+  "linkedin_slug": "vsora",
+  "hq_city": "Meudon",
+  "hq_country": "FR",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": null,
+    "country": "JP",
+    "type": "sales"
+   },
+   {
+    "city": null,
+    "country": "KR",
+    "type": "sales"
+   },
+   {
+    "city": null,
+    "country": "SG",
+    "type": "sales"
+   },
+   {
+    "city": null,
+    "country": "TW",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 2015,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "903",
+  "primary_subcategory": "903.10",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "AI inference accelerator",
+   "Jotunn8",
+   "DSP IP cores",
+   "fabless"
+  ],
+  "end_markets": [
+   "data center",
+   "automotive",
+   "edge AI"
+  ],
+  "description": "French fabless semiconductor company founded in 2015 in Meudon, designing high-performance AI inference accelerators (Jotunn8) and DSP IP cores; backed by Ardian Semiconductor.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://vsora.com/the-company/",
+   "https://www.ardian.com/news-insights/press-releases/ardian-semiconductor-invests-vsora-innovative-ai-inference-accelerator",
+   "https://annuaire-entreprises.data.gouv.fr/entreprise/vsora-811657519"
+  ],
+  "notes": "Employee range estimated from company-profile sources; LinkedIn URL inferred from company slug, not opened.",
+  "first_researched_utc": "2026-09-30T12:37:00Z",
+  "last_researched_utc": "2026-09-30T12:37:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Electronic Components",
+  "primary_subcategory_name": "Design: Fabless",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "903.10",
+   "903.11",
+   "904.03"
+  ]
+ },
+ {
+  "company_id": "d:vtvacuum.com",
+  "name": "VT Vacuum Technologies",
+  "name_norm": "vt vacuum technologies",
+  "aliases_norm": [
+   "vt vacuum technologies",
+   "vt vacuum technologies pvt"
+  ],
+  "name_variants": [
+   "VT VACUUM TECHNOLOGIES PVT LTD",
+   "VT Vacuum Technologies (P) Ltd."
+  ],
+  "legal_name": "VT Vacuum Technologies Private Limited",
+  "website": "https://vtvacuum.com",
+  "domain": "vtvacuum.com",
+  "linkedin_url": "https://www.linkedin.com/company/vt-vacuum-technologies-p-ltd-",
+  "linkedin_slug": "vt-vacuum-technologies-p-ltd-",
+  "hq_city": "Bengaluru",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2002,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.16",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "ultra-high vacuum",
+   "vacuum pumps",
+   "cryogenic equipment",
+   "vacuum components",
+   "leak detection"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "research",
+   "pharmaceuticals",
+   "electronics"
+  ],
+  "description": "Bengaluru-based supplier of ultra-high vacuum and cryogenic equipment and components to research institutes and industry in India, established in 2002.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://vtvacuum.com/",
+   "https://in.linkedin.com/company/vt-vacuum-technologies-p-ltd-",
+   "https://www.zaubacorp.com/company/VT-VACUUM-TECHNOLOGIES-PRIVATE-LIMITED/U29120KA2002PTC030774"
+  ],
+  "notes": "Employee range estimated; company is a distributor/integrator of imported vacuum equipment.",
+  "first_researched_utc": "2026-09-30T12:40:00Z",
+  "last_researched_utc": "2026-09-30T12:40:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Pumps, Vacuum",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "401.16",
+   "400.24",
+   "202.06",
+   "400.10"
+  ]
+ },
+ {
+  "company_id": "d:waaree.com",
+  "name": "Waaree Clean Energy Solutions",
+  "name_norm": "waaree clean energy solutions",
+  "aliases_norm": [
+   "waaree clean energy solutions",
+   "waaree clean energy services",
+   "waaree clean energy solutions private",
+   "wces"
+  ],
+  "name_variants": [
+   "Waaree Clean Energy Services",
+   "Waaree Clean Energy Solutions Private Limited",
+   "WCES"
+  ],
+  "legal_name": "Waaree Clean Energy Solutions Private Limited",
+  "website": "https://www.waaree.com",
+  "domain": "waaree.com",
+  "linkedin_url": "https://www.linkedin.com/company/waaree-group",
+  "linkedin_slug": "waaree-group",
+  "hq_city": "Mumbai",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Dahej",
+    "country": "IN",
+    "type": "plant"
+   }
+  ],
+  "founded_year": 2020,
+  "employee_range": "201-500",
+  "ownership_type": "subsidiary",
+  "parent_company": "Waaree Energies Ltd",
+  "stock_ticker": null,
+  "primary_category_group": "303",
+  "primary_subcategory": "303.07",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "specialty gases",
+   "green hydrogen",
+   "electrolysers",
+   "industrial gases"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "solar",
+   "green hydrogen"
+  ],
+  "description": "Wholly owned Waaree Energies subsidiary in clean-energy engineering; entering India's specialty gases market with a plant at GIDC Saykha, Dahej, supplying semiconductor and solar manufacturers.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://www.waaree.com/about-us/",
+   "https://www.zaubacorp.com/WAAREE-CLEAN-ENERGY-SOLUTIONS-PRIVATE-LIMITED-U28195MH2020PTC337134",
+   "https://www.dqindia.com/semiconductors/waaree-clean-energy-solutions-enters-indias-specialty-gases-market-to-power-semiconductor-and-solar-manufacturing-12574675"
+  ],
+  "notes": "Exhibitor name printed as 'Services'; matched to Waaree Clean Energy Solutions Pvt Ltd. Uses the group website and LinkedIn page; no separate domain found. Employee range estimated.",
+  "first_researched_utc": "2026-09-30T12:41:00Z",
+  "last_researched_utc": "2026-09-30T12:41:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Gases",
+  "primary_subcategory_name": "Other Specialty; Mixed Gas",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "303.07",
+   "303.08",
+   "500.08",
+   "805.04"
+  ]
+ },
+ {
+  "company_id": "d:wisely.com.sg",
+  "name": "Wisely Gobal Solutions",
+  "name_norm": "wisely gobal solutions",
+  "aliases_norm": [
+   "wisely gobal solutions",
+   "wisely global solutions"
+  ],
+  "name_variants": [
+   "Wisely Gobal Solutions Pte Ltd",
+   "Wisely Global Solutions"
+  ],
+  "legal_name": "Wisely Gobal Solutions Pte Ltd",
+  "website": "https://wisely.com.sg",
+  "domain": "wisely.com.sg",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Singapore",
+  "hq_country": "SG",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2005,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": "Wisely Project Management Consultants",
+  "stock_ticker": null,
+  "primary_category_group": "500",
+  "primary_subcategory": "500.01",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "ultra-pure fluid handling",
+   "lined pumps",
+   "high-purity valves",
+   "fittings"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharmaceutical",
+   "life science",
+   "food and beverage",
+   "oil and gas"
+  ],
+  "description": "Singapore supplier of ultra-pure fluid handling systems and components for semiconductor, pharmaceutical and process industries, established in 2005; office at Pandan Loop.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://wisely.com.sg/wgs/",
+   "https://wisely.com.sg/wgs/aboutus/",
+   "https://sg.kompass.com/c/wisely-gobal-solutions-pte-ltd/sg049361/"
+  ],
+  "notes": "Company spells its own name 'Gobal'. No LinkedIn company page found. Employee count reported as ~16.",
+  "first_researched_utc": "2026-09-30T12:45:00Z",
+  "last_researched_utc": "2026-09-30T12:45:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
+  "primary_subcategory_name": "Chemical; Pure Water; Fluid Handling; Storage; Supply Systems",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "500.01",
+   "400.10",
+   "400.19",
+   "401.15"
+  ]
+ },
+ {
+  "company_id": "d:woggroup.com",
+  "name": "WOG Technologies",
+  "name_norm": "wog technologies",
+  "aliases_norm": [
+   "wog technologies",
+   "wog technologies private",
+   "wog"
+  ],
+  "name_variants": [
+   "WOG Technologies Limited",
+   "WOG Technologies Private Limited",
+   "WOG Group"
+  ],
+  "legal_name": "WOG Technologies Limited",
+  "website": "https://woggroup.com",
+  "domain": "woggroup.com",
+  "linkedin_url": "https://www.linkedin.com/company/wog-technologies-private-limited",
+  "linkedin_slug": "wog-technologies-private-limited",
+  "hq_city": "Gurugram",
+  "hq_country": "IN",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "New Delhi",
+    "country": "IN",
+    "type": "registered"
+   },
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "sales"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "201-500",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "500",
+  "primary_subcategory": "500.01",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "ultrapure water",
+   "wastewater treatment",
+   "reverse osmosis",
+   "zero liquid discharge",
+   "EPC"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharmaceutical",
+   "chemicals",
+   "municipal",
+   "automotive"
+  ],
+  "description": "Indian water and wastewater treatment EPC and O&M company headquartered in Gurugram, supplying ultrapure water and effluent treatment plants to industrial and municipal clients across India, the Middle East and Southeast Asia.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://woggroup.com/drinking-water-solutions/",
+   "https://in.linkedin.com/company/wog-technologies-private-limited",
+   "https://www.indiamart.com/wog-tech-limited/aboutus.html"
+  ],
+  "notes": "Founding year not confirmed. Employee range estimated. Group operates several entities (WOG Technologies Ltd India, WOG Technologies Pte Ltd Singapore) under woggroup.com.",
+  "first_researched_utc": "2026-09-30T12:47:00Z",
+  "last_researched_utc": "2026-09-30T12:47:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Factory Monitoring & Control Systems (FMCS)",
+  "primary_subcategory_name": "Chemical; Pure Water; Fluid Handling; Storage; Supply Systems",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "500.01",
+   "500.13",
+   "301.04",
+   "701.23",
+   "701.08"
+  ]
+ },
+ {
+  "company_id": "d:semiconindia.org",
+  "name": "Workforce Development Pavilion (SEMICON India)",
+  "name_norm": "workforce development pavilion",
+  "aliases_norm": [
+   "workforce development pavilion",
+   "wfd pavilion"
+  ],
+  "name_variants": [
+   "WFD Pavilion",
+   "Workforce Development Pavilion"
+  ],
+  "legal_name": null,
+  "website": "https://www.semiconindia.org/workforce-development-pavilion",
+  "domain": "semiconindia.org",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "nonprofit",
+  "parent_company": "SEMI",
+  "stock_ticker": null,
+  "primary_category_group": "804",
+  "primary_subcategory": "804.15",
+  "value_chain_role": "association",
+  "product_keywords": [
+   "workforce development",
+   "talent recruitment",
+   "careers"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Not a company: the 3,000 sq ft Workforce Development Pavilion, a SEMI-run special feature of SEMICON India 2026 connecting students and job seekers with industry recruiters.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.semiconindia.org/workforce-development-pavilion",
+   "https://www.semiconindia.org/special-features/wfd-pavilion"
+  ],
+  "notes": "Show feature operated by SEMI, not an exhibiting company. Recommend excluding from the company database or flagging as non-company.",
+  "first_researched_utc": "2026-09-30T12:44:00Z",
+  "last_researched_utc": "2026-09-30T12:44:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Professional Services",
+  "primary_subcategory_name": "Trade Shows; Conference; Symposium Coordinators",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "804.15",
+   "802.01"
+  ]
+ },
+ {
+  "company_id": "d:yamaha-robotics.com",
+  "name": "Yamaha Robotics",
+  "name_norm": "yamaha robotics",
+  "aliases_norm": [
+   "yamaha robotics",
+   "shinkawa",
+   "apic yamada",
+   "pfa"
+  ],
+  "name_variants": [
+   "Yamaha Robotics Co., Ltd.",
+   "YAMAHA ROBOTICS CO. LTD.",
+   "SHINKAWA",
+   "APIC YAMADA",
+   "PFA"
+  ],
+  "legal_name": "Yamaha Robotics Co., Ltd.",
+  "website": "https://www.yamaha-robotics.com",
+  "domain": "yamaha-robotics.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Gurugram",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 2025,
+  "employee_range": "1001-5000",
+  "ownership_type": "subsidiary",
+  "parent_company": "Yamaha Motor Co., Ltd.",
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.28",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "wire bonders",
+   "compression molding",
+   "AOI indentation inspection",
+   "active alignment bonder",
+   "surface mounter",
+   "mask aligner"
+  ],
+  "end_markets": [
+   "semiconductor packaging",
+   "electronics assembly",
+   "power devices"
+  ],
+  "description": "Japanese supplier of semiconductor back-end assembly and electronic component mounting equipment, formed in July 2025 by merging Yamaha Robotics Holdings with SHINKAWA, APIC YAMADA and PFA; HQ in Minato-ku, Tokyo.",
+  "status": "complete",
+  "confidence": 0.85,
+  "sources": [
+   "https://www.yamaha-robotics.com/en/",
+   "https://www.semi.org/en/resources/member-directory/yamaha-robotics-co-ltd",
+   "https://global.yamaha-motor.com/news/2026/0522/robotics.html"
+  ],
+  "notes": "Employee range estimated across the merged Shinkawa/Apic Yamada entities. No dedicated LinkedIn company page confirmed. Parent Yamaha Motor is listed in Tokyo (7272), but this entity has no ticker of its own.",
+  "first_researched_utc": "2026-09-30T12:48:00Z",
+  "last_researched_utc": "2026-09-30T12:48:00Z",
+  "wp_ids": [
+   "WP-0054"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Wire Bonding Equipment",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "200.28",
+   "200.18",
+   "200.11",
+   "200.09",
+   "207.13"
+  ]
+ },
+ {
+  "company_id": "d:yieldengineering.com",
+  "name": "Yield Engineering Systems (YES)",
+  "name_norm": "yield engineering systems",
+  "aliases_norm": [
+   "yield engineering systems",
+   "yield engineering systems india pvt",
+   "yes"
+  ],
+  "name_variants": [
+   "Yield Engineering Systems India Pvt ltd",
+   "YES",
+   "Yield Engineering Systems, Inc."
+  ],
+  "legal_name": "Yield Engineering Systems, Inc.",
+  "website": "https://www.yieldengineering.com",
+  "domain": "yieldengineering.com",
+  "linkedin_url": "https://www.linkedin.com/company/yield-engineering-systems",
+  "linkedin_slug": "yield-engineering-systems",
+  "hq_city": "Fremont",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Chandler",
+    "country": "US",
+    "type": "manufacturing"
+   },
+   {
+    "city": "Valencia",
+    "country": "US",
+    "type": "office"
+   },
+   {
+    "city": "Bengaluru",
+    "country": "IN",
+    "type": "subsidiary"
+   }
+  ],
+  "founded_year": 1980,
+  "employee_range": "201-500",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "207",
+  "primary_subcategory": "207.06",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "MVD molecular vapor deposition",
+   "vacuum cure ovens",
+   "plasma cleaning",
+   "wet process",
+   "thermal processing"
+  ],
+  "end_markets": [
+   "advanced packaging",
+   "MEMS",
+   "life sciences",
+   "power",
+   "automotive"
+  ],
+  "description": "US maker of thermal, deposition (MVD) and wet-process equipment for surface and interface engineering used in advanced packaging, MEMS and life sciences. The Indian entity is a regional subsidiary.",
+  "status": "complete",
+  "confidence": 0.88,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/yield-engineering-systems-inc",
+   "https://www.linkedin.com/company/yield-engineering-systems",
+   "https://www.chandleraz.gov/news-center/yield-engineering-systems-opens-new-advanced-technology-center-arizona-support"
+  ],
+  "notes": "Exhibitor listed as Indian subsidiary; folded into US group record.",
+  "first_researched_utc": "2026-09-30T12:36:00Z",
+  "last_researched_utc": "2026-09-30T12:36:00Z",
+  "wp_ids": [
+   "WP-0055"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Deposition; Chemical Vapor (CVD); MOCVD; PECVD; LPCVD; ALD; REALD; MVD",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "207.06",
+   "207.17",
+   "207.03",
+   "207.10"
   ]
  },
  {
@@ -31814,6 +37688,83 @@
    "203.16",
    "203.29",
    "401.10"
+  ]
+ },
+ {
+  "company_id": "d:zestron.com",
+  "name": "ZESTRON",
+  "name_norm": "zestron",
+  "aliases_norm": [
+   "zestron",
+   "zestron surface technology solutions india private"
+  ],
+  "name_variants": [
+   "Zestron Surface Technology Solutions India Private Limited",
+   "ZESTRON"
+  ],
+  "legal_name": "Dr. O.K. Wack Chemie GmbH",
+  "website": "https://www.zestron.com",
+  "domain": "zestron.com",
+  "linkedin_url": "https://www.linkedin.com/company/zestron",
+  "linkedin_slug": "zestron",
+  "hq_city": "Ingolstadt",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Manassas",
+    "country": "US",
+    "type": "sales"
+   },
+   {
+    "city": "Bengaluru",
+    "country": "IN",
+    "type": "subsidiary"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "201-500",
+  "ownership_type": "subsidiary",
+  "parent_company": "Dr. O.K. Wack Chemie GmbH",
+  "stock_ticker": null,
+  "primary_category_group": "301",
+  "primary_subcategory": "301.03",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "precision cleaning chemistry",
+   "flux residue removal",
+   "wafer cleaning",
+   "aqueous cleaning agents",
+   "cleanliness analysis"
+  ],
+  "end_markets": [
+   "advanced packaging",
+   "power electronics",
+   "SMT electronics",
+   "wafer"
+  ],
+  "description": "Business division of Dr. O.K. Wack Chemie supplying high-precision aqueous and solvent cleaning chemistries plus process support for semiconductor, advanced packaging and SMT electronics manufacturing.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.zestron.com/usa/en/applications/semiconductor",
+   "https://www.linkedin.com/company/zestron",
+   "https://www.zestron.com/usa/en/home"
+  ],
+  "notes": "Exhibitor is the Indian subsidiary; folded into the German group record. HQ Ingolstadt not re-verified this session.",
+  "first_researched_utc": "2026-09-30T12:37:00Z",
+  "last_researched_utc": "2026-09-30T12:37:00Z",
+  "wp_ids": [
+   "WP-0055"
+  ],
+  "primary_category_group_name": "Chemicals & Solids",
+  "primary_subcategory_name": "Cleaning Chemicals; Solvents; Strippers",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "301.03",
+   "301.06",
+   "700.16",
+   "700.07"
   ]
  }
 ]

@@ -1,0 +1,113 @@
+{
+  "wp_id": "WP-0059-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "America Pure Pipeline, Inc.",
+      "name_norm": "america pure pipeline",
+      "name_variants": [
+        "America Pure Pipeline, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6262"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "American Chamber of Commerce Mexico",
+      "name_norm": "american chamber of commerce mexico",
+      "name_variants": [
+        "American Chamber of Commerce Mexico"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3115"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "American Crane and Equipment Corporation",
+      "name_norm": "american crane and equipment",
+      "name_variants": [
+        "American Crane and Equipment Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3436"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "American Fairfield Inc.",
+      "name_norm": "american fairfield",
+      "name_variants": [
+        "American Fairfield Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5859"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AmeriVacS",
+      "name_norm": "amerivacs",
+      "name_variants": [
+        "AmeriVacS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5572"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Analogic Corporation",
+      "name_norm": "analogic",
+      "name_variants": [
+        "Analogic Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "472"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ANCORP",
+      "name_norm": "ancorp",
+      "name_variants": [
+        "ANCORP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5144"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0059",
+  "claimed_utc": "2026-09-30T13:07:35Z",
+  "deadline_utc": "2026-09-30T13:42:35Z"
+}

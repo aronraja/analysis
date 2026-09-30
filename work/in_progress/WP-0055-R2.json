@@ -1,0 +1,71 @@
+{
+  "wp_id": "WP-0055-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "ABM Industries",
+      "name_norm": "abm industries",
+      "name_variants": [
+        "ABM Industries"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2345"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Accelerated Materials",
+      "name_norm": "accelerated materials",
+      "name_variants": [
+        "Accelerated Materials"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Accretech America Inc",
+      "name_norm": "accretech america",
+      "name_variants": [
+        "Accretech America Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "745"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ace Dragon Corp.",
+      "name_norm": "ace dragon",
+      "name_variants": [
+        "Ace Dragon Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1265"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0055",
+  "claimed_utc": "2026-09-30T13:07:34Z",
+  "deadline_utc": "2026-09-30T13:42:34Z"
+}

@@ -1,0 +1,71 @@
+{
+  "wp_id": "WP-0052-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Unites Systems a.s.",
+      "name_norm": "unites systems a s",
+      "name_variants": [
+        "Unites Systems a.s."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4808"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "UST",
+      "name_norm": "ust",
+      "name_variants": [
+        "UST"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1633"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Uttar Pradesh Electronics Corporation Limited",
+      "name_norm": "uttar pradesh electronics",
+      "name_variants": [
+        "Uttar Pradesh Electronics Corporation Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4805"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VADILAL CHEMICALS LIMITED",
+      "name_norm": "vadilal chemicals",
+      "name_variants": [
+        "VADILAL CHEMICALS LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7026"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0052",
+  "claimed_utc": "2026-09-30T13:07:34Z",
+  "deadline_utc": "2026-09-30T13:42:34Z"
+}

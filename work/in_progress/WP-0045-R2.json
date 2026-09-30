@@ -1,0 +1,85 @@
+{
+  "wp_id": "WP-0045-R2",
+  "created_utc": "2026-09-30T13:07:34Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "SHREE VISHWAKARMA",
+      "name_norm": "shree vishwakarma",
+      "name_variants": [
+        "SHREE VISHWAKARMA"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7226"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SiCSem Private Limited",
+      "name_norm": "sicsem private",
+      "name_variants": [
+        "SiCSem Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "816"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SignOff Semiconductors",
+      "name_norm": "signoff semiconductors",
+      "name_variants": [
+        "SignOff Semiconductors"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6133"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Silicon Creations",
+      "name_norm": "silicon creations",
+      "name_variants": [
+        "Silicon Creations"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5729"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SIMCO Global Technology & Systems Ltd.",
+      "name_norm": "simco global technology and systems",
+      "name_variants": [
+        "SIMCO Global Technology & Systems Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1476"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0045",
+  "claimed_utc": "2026-09-30T13:07:34Z",
+  "deadline_utc": "2026-09-30T13:42:34Z"
+}
