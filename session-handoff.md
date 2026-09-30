@@ -1,7 +1,12 @@
 # Session handoff
 Last updated: 2026-09-30
 
-State: scaffold done. 182 WPs are queued. The DB is empty.
-Next action: F2. Verify the event labels in config/sources.json (lines 544–1382 are guessed as SEMICON West).
-Then F3 pilot: in Claude Code, set max_concurrent_agents to 2 temporarily, or claim 2 WPs by hand, and run `/run-research`.
-Open questions: none blocking.
+State: F3 research run in progress. 165/250 WPs done, 85 queued, 0 running. DB has 928 companies
+(455 complete, 396 partial, 77 not_found). init.sh passes; no rejected files.
+Next action: resume `/run-research` on the local machine via `scripts/run_parallel.sh`
+(per-process search budgets, company sites reachable). Do NOT run it from a cloud session: its
+proxy blocks company websites and the whole session shares a 200-WebSearch cap.
+Then requeue the false not_found companies listed in progress.md (2026-09-30 F3 entry),
+e.g. with `scripts/requeue_unresearched.py` / `reset_attempts.py`.
+Open questions: none blocking. Quality of cloud-run records (WP-0044-R2 onward) is low; consider a
+later enrichment pass for partial records missing website/LinkedIn.

@@ -153,7 +153,7 @@ def validate_record(rec, groups, subs):
     if c is not None and not (isinstance(c, (int, float)) and 0 <= c <= 1):
         errs.append("confidence must be 0..1")
     fy = rec.get("founded_year")
-    if fy is not None and not (isinstance(fy, int) and 1800 <= fy <= now_utc().year):
+    if fy is not None and not (isinstance(fy, int) and 1600 <= fy <= now_utc().year):
         errs.append("bad founded_year")
     for lf in ("other_offices", "secondary_subcategories", "events", "sources", "product_keywords",
                "end_markets"):

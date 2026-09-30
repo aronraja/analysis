@@ -38397,7 +38397,8 @@
   "name_variants": [
    "Kulicke & Soffa Pte Ltd",
    "K&S",
-   "Kulicke and Soffa Industries, Inc."
+   "Kulicke and Soffa Industries, Inc.",
+   "Kulicke & Soffa Industries"
   ],
   "legal_name": "Kulicke and Soffa Industries, Inc.",
   "website": "https://www.kns.com",
@@ -38412,6 +38413,11 @@
     "city": "Fort Washington",
     "country": "US",
     "type": "operations"
+   },
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "regional HQ"
    }
   ],
   "founded_year": 1951,
@@ -38430,14 +38436,20 @@
    "thermocompression bonding",
    "advanced packaging",
    "dispensing",
-   "capillaries"
+   "capillaries",
+   "wire bonding",
+   "ball bonder",
+   "wedge bonder"
   ],
   "end_markets": [
    "automotive",
    "consumer",
    "communications",
    "computing",
-   "industrial"
+   "industrial",
+   "OSAT",
+   "LED",
+   "displays"
   ],
   "description": "Singapore headquartered supplier of semiconductor packaging and electronic assembly equipment, including ball and wedge wire bonders, die attach, thermocompression and advanced packaging systems plus expendable tools.",
   "status": "complete",
@@ -38446,17 +38458,19 @@
    "https://www.kns.com/",
    "https://www.linkedin.com/company/kulickesoffa",
    "https://www.semi.org/en/resources/member-directory/kulicke-soffa-pte-ltd",
-   "https://www.sgpbusiness.com/company/Kulicke-Soffa-Pte-Ltd"
+   "https://www.sgpbusiness.com/company/Kulicke-Soffa-Pte-Ltd",
+   "https://www.marketscreener.com/quote/stock/KULICKE-AND-SOFFA-INDUSTR-9812/company/"
   ],
   "notes": "Kulicke & Soffa Pte. Ltd. (UEN 199902120H) is the Singapore operating entity of NASDAQ-listed Kulicke and Soffa Industries, Inc.",
   "first_researched_utc": "2026-09-30T12:28:00Z",
-  "last_researched_utc": "2026-09-30T12:28:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
   "wp_ids": [
-   "WP-0028-R2"
+   "WP-0028-R2",
+   "WP-0094"
   ],
   "primary_category_group_name": "Packaging and Assembly Equipment",
   "primary_subcategory_name": "Wire Bonding Equipment",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "200.28",
    "200.09",
@@ -38464,6 +38478,126 @@
    "200.12",
    "200.11",
    "300.02"
+  ]
+ },
+ {
+  "company_id": "d:kuraray.com",
+  "name": "Kuraray",
+  "name_norm": "kuraray",
+  "aliases_norm": [
+   "kuraray",
+   "kuraray america"
+  ],
+  "name_variants": [
+   "Kuraray America, Inc."
+  ],
+  "legal_name": null,
+  "website": "https://www.kuraray.com/us-en/news/2018/0809",
+  "domain": "kuraray.com",
+  "linkedin_url": "https://www.linkedin.com/company/kuraray-america-inc",
+  "linkedin_slug": "kuraray-america-inc",
+  "hq_city": null,
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1986,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Kuraray Co., Ltd.",
+  "stock_ticker": null,
+  "primary_category_group": "301",
+  "primary_subcategory": "301.06",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "specialty chemicals",
+   "resins",
+   "polymers"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "automotive"
+  ],
+  "description": "US subsidiary of Kuraray Co., Ltd. (Tokyo), producing specialty chemicals, resins and fibers.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.kuraray.com/us-en/news/2018/0809",
+   "https://www.builtinla.com/company/kuraray-america-inc"
+  ],
+  "notes": "Group site is kuraray.com; US HQ city not confirmed (Houston area likely, unverified). Semiconductor products not confirmed.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Chemicals & Solids",
+  "primary_subcategory_name": "Other Specialty Chemicals",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "301.06"
+  ]
+ },
+ {
+  "company_id": "n:kurdex",
+  "name": "Kurdex Corporation",
+  "name_norm": "kurdex",
+  "aliases_norm": [
+   "kurdex",
+   "kurdex thinfilm equipment"
+  ],
+  "name_variants": [
+   "Kurdex Corporation Thinfilm Equipment"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Sunnyvale",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "207",
+  "primary_subcategory": "207.07",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "sputtering",
+   "evaporation",
+   "PECVD",
+   "ALD",
+   "plasma etch"
+  ],
+  "end_markets": [
+   "solar",
+   "battery",
+   "semiconductor packaging",
+   "data storage",
+   "FPD"
+  ],
+  "description": "Supplier of thin-film vacuum deposition and etch/strip equipment (PVD, evaporation, PECVD, ALD) and coating services.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.svc.org/sponsors/corporate-sponsor-profiles/kurdex-corporation"
+  ],
+  "notes": "Own website not seen.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Deposition; Physical Vapor (PVD); Sputtering; Evaporation Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "207.07",
+   "207.06",
+   "207.10"
   ]
  },
  {
@@ -38526,6 +38660,193 @@
    "804.14",
    "400.10",
    "301.06"
+  ]
+ },
+ {
+  "company_id": "n:kurt j lesker",
+  "name": "Kurt J. Lesker Company",
+  "name_norm": "kurt j lesker",
+  "aliases_norm": [
+   "kurt j lesker"
+  ],
+  "name_variants": [
+   "Kurt J. Lesker Company",
+   "Kurt J Lesker Company GmbH"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": "https://www.linkedin.com/company/kurt-j--lesker-company",
+  "linkedin_slug": "kurt-j--lesker-company",
+  "hq_city": "Jefferson Hills",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": null,
+    "country": "DE",
+    "type": "subsidiary (Kurt J Lesker Company GmbH)"
+   }
+  ],
+  "founded_year": 1954,
+  "employee_range": "501-1000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.24",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "vacuum components",
+   "PVD systems",
+   "sputtering targets",
+   "evaporation materials"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "research",
+   "optics"
+  ],
+  "description": "Manufacturer and distributor of vacuum products, deposition process equipment and materials.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/kurt-j-lesker-company",
+   "https://www.builtinla.com/company/kurt-j-lesker-company"
+  ],
+  "notes": "Website domain not seen in results; LinkedIn slug from directory listing text.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Vacuum Systems Components & Accessories (optical monitors; Sputtering target fixtures; lubricants",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "400.24",
+   "207.07",
+   "307.03"
+  ]
+ },
+ {
+  "company_id": "d:kurtzersa.com",
+  "name": "Kurtz Ersa",
+  "name_norm": "kurtz ersa",
+  "aliases_norm": [
+   "kurtz ersa"
+  ],
+  "name_variants": [
+   "Kurtz Ersa, Inc."
+  ],
+  "legal_name": null,
+  "website": "https://kurtzersa.com",
+  "domain": "kurtzersa.com",
+  "linkedin_url": "https://www.linkedin.com/company/kurtz-ersa",
+  "linkedin_slug": "kurtz-ersa",
+  "hq_city": "Wertheim",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Plymouth, WI",
+    "country": "US",
+    "type": "subsidiary"
+   }
+  ],
+  "founded_year": 1779,
+  "employee_range": "1001-5000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.24",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "reflow soldering",
+   "selective soldering",
+   "rework",
+   "wave soldering"
+  ],
+  "end_markets": [
+   "electronics manufacturing",
+   "automotive"
+  ],
+  "description": "Kurtz Ersa group makes soldering systems, rework and inspection equipment, moulding machines and automation; Kurtz Ersa, Inc. is the US subsidiary in Plymouth, WI.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://kurtzersa.com/company",
+   "https://kurtzersa.com/us/"
+  ],
+  "notes": "LinkedIn slug and group HQ town from general knowledge, not verified in results.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Solder Reflow; Soldering & Brazing Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.24",
+   "202.04",
+   "202.02"
+  ]
+ },
+ {
+  "company_id": "n:kvc",
+  "name": "KVC",
+  "name_norm": "kvc",
+  "aliases_norm": [
+   "kvc"
+  ],
+  "name_variants": [
+   "KVC Co. Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.24",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "vacuum measurement",
+   "vacuum control"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display"
+  ],
+  "description": "Korean developer of industrial vacuum measurement and control solutions for semiconductor and display.",
+  "status": "partial",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.cbinsights.com/company/kvc"
+  ],
+  "notes": "Identification uncertain; website not found.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Vacuum Systems Components & Accessories (optical monitors; Sputtering target fixtures; lubricants",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.24",
+   "400.10"
   ]
  },
  {
@@ -38630,6 +38951,63 @@
   ]
  },
  {
+  "company_id": "n:kyowa interface science",
+  "name": "Kyowa Interface Science",
+  "name_norm": "kyowa interface science",
+  "aliases_norm": [
+   "kyowa interface science"
+  ],
+  "name_variants": [
+   "Kyowa Interface Science Co., Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Niiza",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1947,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": "203.11",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "contact angle meter",
+   "tensiometer",
+   "surface free energy"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "materials research"
+  ],
+  "description": "Japanese maker of interface science instruments such as contact angle meters and tensiometers since 1947.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.gophotonics.com/companies/4104/kyowa-interface-science-co-ltd-",
+   "https://www.semi.org/en/resources/member-directory/kyowa-interface-science-co-ltd"
+  ],
+  "notes": "Own website not seen.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Instruments; Bench Top Test",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "203.11",
+   "203.24"
+  ]
+ },
+ {
   "company_id": "d:ltsct.com",
   "name": "L&T Semiconductor Technologies",
   "name_norm": "l and t semiconductor technologies",
@@ -38727,6 +39105,65 @@
    "903.04",
    "903.07",
    "904.04"
+  ]
+ },
+ {
+  "company_id": "n:lab14",
+  "name": "LAB14 Group",
+  "name_norm": "lab14",
+  "aliases_norm": [
+   "lab14"
+  ],
+  "name_variants": [
+   "LAB14"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "1001-5000",
+  "ownership_type": "subsidiary",
+  "parent_company": "RSBG SE",
+  "stock_ticker": null,
+  "primary_category_group": "205",
+  "primary_subcategory": "205.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "nanofabrication",
+   "maskless lithography",
+   "surface analysis",
+   "inkjet"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "optics"
+  ],
+  "description": "German group of eight high-tech firms (Heidelberg Instruments, Notion Systems, SPECS, etc.) for micro/nanofabrication and surface analysis; owned by RSBG SE.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/lab14-gmbh",
+   "https://news.mit.edu/2026/lab14-joins-mitnano-consortium-0303"
+  ],
+  "notes": "Website and HQ city not seen.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Nanotechnology Equipment and Tools",
+  "primary_subcategory_name": "Equipment, Nanotechnology Tools",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "205.01",
+   "207.13",
+   "203.23"
   ]
  },
  {
@@ -39028,6 +39465,70 @@
   ]
  },
  {
+  "company_id": "d:precision-surface.com",
+  "name": "Lapmaster Wolters",
+  "name_norm": "lapmaster wolters",
+  "aliases_norm": [
+   "lapmaster wolters"
+  ],
+  "name_variants": [
+   "Lapmaster Wolters LLC"
+  ],
+  "legal_name": null,
+  "website": "https://precision-surface.com",
+  "domain": "precision-surface.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Mount Prospect",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Rendsburg",
+    "country": "DE",
+    "type": "sales/service"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": "Lapmaster Group Holdings",
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "lapping",
+   "fine grinding",
+   "polishing",
+   "honing"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "optics",
+   "advanced materials"
+  ],
+  "description": "Maker of lapping, fine grinding and polishing machines and consumables, merged with Peter Wolters GmbH.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://precision-surface.com/assets/catalog/files/LSL.pdf"
+  ],
+  "notes": "Website inferred from catalog host; LinkedIn not found.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Backgrind; Slicing; Lapping; Polishing Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.01",
+   "207.02"
+  ]
+ },
+ {
   "company_id": "d:lasertec.co.jp",
   "name": "Lasertec",
   "name_norm": "lasertec",
@@ -39096,6 +39597,124 @@
    "203.15",
    "203.09"
   ]
+ },
+ {
+  "company_id": "d:lauda.de",
+  "name": "LAUDA",
+  "name_norm": "lauda",
+  "aliases_norm": [
+   "lauda",
+   "lauda brinkmann lp"
+  ],
+  "name_variants": [
+   "LAUDA-Brinkmann, LP"
+  ],
+  "legal_name": null,
+  "website": "https://www.lauda.de",
+  "domain": "lauda.de",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Lauda-Koenigshofen",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Marlton, NJ",
+    "country": "US",
+    "type": "subsidiary"
+   }
+  ],
+  "founded_year": 1956,
+  "employee_range": "1001-5000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.17",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "thermostats",
+   "chillers",
+   "process temperature control"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharma",
+   "chemical"
+  ],
+  "description": "LAUDA is a maker of precise temperature control equipment; LAUDA-Brinkmann LP is its US subsidiary in Marlton, NJ.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://www.lauda.de/us/company/news/detail/ten-years-lauda-brinkmann",
+   "https://www.lauda.de/us/products/constant-temperature-equipment/thermostats/semistat"
+  ],
+  "notes": "HQ and founding year from general knowledge; LinkedIn not found.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0094"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Temperature Sensing; Control; Recirculators; Chillers; Heat Exchangers",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.17",
+   "208.05"
+  ]
+ },
+ {
+  "company_id": "d:lavorro.com",
+  "name": "Lavorro",
+  "name_norm": "lavorro",
+  "aliases_norm": [
+   "lavorro"
+  ],
+  "name_variants": [
+   "Lavorro Inc."
+  ],
+  "legal_name": null,
+  "website": "https://lavorro.com",
+  "domain": "lavorro.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Palo Alto",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 2020,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "602",
+  "primary_subcategory": null,
+  "value_chain_role": "software",
+  "product_keywords": [
+   "generative AI",
+   "virtual assistant",
+   "fab data"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Develops AI/ML virtual assistant and analytics software for semiconductor fabs and equipment, founded 2020.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://lavorro.com/About.php",
+   "https://www.cbinsights.com/company/lavorro"
+  ],
+  "notes": "Subcategory in 602 not verified; LinkedIn not checked.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Manufacturing Software",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
  },
  {
   "company_id": "d:leadicdesign.com",
@@ -39170,6 +39789,62 @@
   ]
  },
  {
+  "company_id": "n:leeno industrial",
+  "name": "Leeno Industrial",
+  "name_norm": "leeno industrial",
+  "aliases_norm": [
+   "leeno industrial"
+  ],
+  "name_variants": [
+   "Leeno Industrial Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Busan",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "058470.KQ",
+  "primary_category_group": "309",
+  "primary_subcategory": "309.04",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "test sockets",
+   "test probes",
+   "pogo pins"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "KOSDAQ-listed maker of IC test sockets and test probes (Leeno pin), based in Busan, South Korea.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://view.asiae.co.kr/en/article/2024031214121108353",
+   "https://sg.finance.yahoo.com/quote/058470.KQ/profile"
+  ],
+  "notes": "Website not seen in results.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Test Materials",
+  "primary_subcategory_name": "Test Sockets; Contactors and Contact accessories",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "309.04",
+   "400.04"
+  ]
+ },
+ {
   "company_id": "d:leica-microsystems.com",
   "name": "Leica Microsystems",
   "name_norm": "leica microsystems",
@@ -39240,6 +39915,241 @@
    "203.17",
    "203.05",
    "207.13"
+  ]
+ },
+ {
+  "company_id": "n:lenox laser",
+  "name": "Lenox Laser",
+  "name_norm": "lenox laser",
+  "aliases_norm": [
+   "lenox laser"
+  ],
+  "name_variants": [
+   "Lenox Laser, Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Glen Arm",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1981,
+  "employee_range": "11-50",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "202",
+  "primary_subcategory": "202.01",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "laser drilling",
+   "apertures",
+   "orifices"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Precision laser drilling of apertures, orifices and slits, founded 1981 in Glen Arm, Maryland.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.gophotonics.com/companies-amp/4114/lenox-laser-inc-"
+  ],
+  "notes": "Website not seen in results.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Other Equipment",
+  "primary_subcategory_name": "Cutting; Drilling; Laser ablation; Beveling Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "202.01"
+  ]
+ },
+ {
+  "company_id": "n:levitronix",
+  "name": "Levitronix",
+  "name_norm": "levitronix",
+  "aliases_norm": [
+   "levitronix",
+   "levitronix technologies"
+  ],
+  "name_variants": [
+   "Levitronix Technologies, Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Zurich",
+  "hq_country": "CH",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Waltham",
+    "country": "US",
+    "type": "subsidiary"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.15",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "bearingless pumps",
+   "mixers",
+   "flow sensors"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Supplies magnetically levitated bearingless pumps, mixers and flow sensors for semiconductor processes; HQ Zurich, US ops in Waltham MA.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/levitronix-gmbh",
+   "https://startupintros.com/orgs/levitronix-technologies-llc"
+  ],
+  "notes": "Website not seen in results; US entity Levitronix Technologies LLC.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Pumps, for Fluids",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.15",
+   "400.10"
+  ]
+ },
+ {
+  "company_id": "d:lightcon.com",
+  "name": "Light Conversion",
+  "name_norm": "light conversion",
+  "aliases_norm": [
+   "light conversion"
+  ],
+  "name_variants": [
+   "Light Conversion"
+  ],
+  "legal_name": null,
+  "website": "https://lightcon.com",
+  "domain": "lightcon.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Vilnius",
+  "hq_country": "LT",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1994,
+  "employee_range": "501-1000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.04",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "femtosecond lasers",
+   "PHAROS",
+   "OPA"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "scientific",
+   "medical electronics"
+  ],
+  "description": "Designs and manufactures femtosecond lasers and related optical devices; founded 1994 in Vilnius.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://lightcon.com/news/opening-of-a-new-production-and-research-facility/",
+   "https://www.gophotonics.com/companies/487/light-conversion"
+  ],
+  "notes": null,
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Exposure; Illumination Sources - Laser; Lamp; X-ray & other",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.04",
+   "202.01"
+  ]
+ },
+ {
+  "company_id": "d:golighthouse.com",
+  "name": "Lighthouse Worldwide Solutions",
+  "name_norm": "lighthouse worldwide solutions",
+  "aliases_norm": [
+   "lighthouse worldwide solutions"
+  ],
+  "name_variants": [
+   "Lighthouse Worldwide Solutions"
+  ],
+  "legal_name": null,
+  "website": "https://www.golighthouse.com",
+  "domain": "golighthouse.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Fremont",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "White City",
+    "country": "US",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1982,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "particle counters",
+   "contamination monitoring"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Supplier of airborne and liquid particle counters and contamination monitoring systems, founded 1982, HQ Fremont CA.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.golighthouse.com/en/?p=3614",
+   "https://www.cleanroomtechnology.com/lighthouse-worldwide-solutions-moves-to-new-corporate-hq-76675"
+  ],
+  "notes": "Primary subcategory id in 203 not verified.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "501.02"
   ]
  },
  {
@@ -39479,13 +40389,15 @@
   "name_norm": "lintec advanced technologies",
   "aliases_norm": [
    "lintec advanced technologies",
-   "lintec"
+   "lintec",
+   "lintec of america"
   ],
   "name_variants": [
    "LINTEC ADVANCED TECHNOLOGIES (SINGAPORE ) PTE LTD",
    "LINTEC Advanced Technologies (Europe) GmbH",
    "LINTEC Corporation",
-   "LINTEC Co., Ltd."
+   "LINTEC Co., Ltd.",
+   "LINTEC OF AMERICA, INC."
   ],
   "legal_name": "LINTEC Corporation",
   "website": "https://www.lintec-global.com",
@@ -39510,6 +40422,11 @@
     "city": null,
     "country": "US",
     "type": "sales"
+   },
+   {
+    "city": "Phoenix",
+    "country": "US",
+    "type": "subsidiary"
    }
   ],
   "founded_year": 1934,
@@ -39530,13 +40447,17 @@
    "back grinding tape",
    "dicing die bonding tape",
    "backside coating tape",
-   "pressure-sensitive adhesives"
+   "pressure-sensitive adhesives",
+   "dicing tape",
+   "BG tape",
+   "die attach film"
   ],
   "end_markets": [
    "logic",
    "memory",
    "packaging",
-   "FPD"
+   "FPD",
+   "semiconductor"
   ],
   "description": "Japanese pressure-sensitive adhesive maker (founded 1934) whose Adwill line supplies UV-curable dicing, back-grinding, die-bonding and backside-coating tapes for semiconductor manufacturing, plus matching process equipment.",
   "status": "complete",
@@ -39547,17 +40468,20 @@
    "https://www.linteceurope.com/products.html",
    "https://www.lintec-global.com/ir/library/pdf/20201109_company_presentation_en.pdf",
    "https://www.lintec-global.com/topics/newsrelease/2022/220801_a.html",
-   "https://lintec-usa.com/"
+   "https://lintec-usa.com/",
+   "https://lintec-usa.com/about/",
+   "https://www.lintec-global.com/products/electronics/"
   ],
   "notes": "Printed exhibitor name 'LINTEC Co., Ltd.' corresponds to LINTEC Corporation. Ticker not verified from a primary source.",
   "first_researched_utc": "2026-09-30T12:29:00Z",
-  "last_researched_utc": "2026-09-30T12:29:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
   "wp_ids": [
-   "WP-0029-R2"
+   "WP-0029-R2",
+   "WP-0095"
   ],
   "primary_category_group_name": "Packaging and Assembly Materials",
   "primary_subcategory_name": "Bonding; Interconnect Materials - Wire; Ribbon; Tape; Capillaries & Tools",
-  "events_flat": "SEMICON Europa | SEMICON Europa | SEMICON India | SEMICON India | SEMICON West",
+  "events_flat": "SEMICON Europa | SEMICON Europa | SEMICON India | SEMICON India | SEMICON West | SEMICON West",
   "subcategories": [
    "200.27",
    "300.02",
@@ -39566,6 +40490,172 @@
    "200.08",
    "301.10",
    "300.01"
+  ]
+ },
+ {
+  "company_id": "n:lneya",
+  "name": "LNEYA",
+  "name_norm": "lneya",
+  "aliases_norm": [
+   "lneya",
+   "lneya thermo refrigeration"
+  ],
+  "name_variants": [
+   "LNEYA Thermo Refrigeration Co.,Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Wuxi",
+  "hq_country": "CN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2006,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.17",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "chillers",
+   "temperature control units",
+   "semiconductor chillers"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Maker of liquid temperature control equipment and chillers (-92C to 250C) for semiconductor, pharma and new energy, est. 2006.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.semi.org/en/resources/ecs-directory/wuxi-guanya-refrigeration-technology-coltd",
+   "https://www.cphi-online.com/company/lneya-thermo-refrigeration-co-ltd/"
+  ],
+  "notes": "Wuxi from SEMI directory entry name; website not seen.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Temperature Sensing; Control; Recirculators; Chillers; Heat Exchangers",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "401.17",
+   "501.03"
+  ]
+ },
+ {
+  "company_id": "d:lokring.com",
+  "name": "Lokring Technology",
+  "name_norm": "lokring technology",
+  "aliases_norm": [
+   "lokring technology",
+   "lokring"
+  ],
+  "name_variants": [
+   "Lokring"
+  ],
+  "legal_name": null,
+  "website": "https://www.lokring.com",
+  "domain": "lokring.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1988,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.19",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "swaged pipe fittings",
+   "tube couplings"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Maker of weld-equivalent swaged metal-to-metal pipe and tube fittings; company formed 1988.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lokring_Technology",
+   "https://www.lokring.com/reliable"
+  ],
+  "notes": "HQ city not confirmed.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.19"
+  ]
+ },
+ {
+  "company_id": "n:lot vacuum",
+  "name": "LOT Vacuum",
+  "name_norm": "lot vacuum",
+  "aliases_norm": [
+   "lot vacuum"
+  ],
+  "name_variants": [
+   "LOT Vacuum Co., Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Osan",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2002,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "083310",
+  "primary_category_group": "401",
+  "primary_subcategory": "401.16",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "dry vacuum pumps",
+   "DuraDry"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Develops and makes dry vacuum pumps for semiconductor and display markets; founded 2002, KOSDAQ-listed since 2005.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/lot-vacuum-co-ltd",
+   "https://simplywall.st/stock/kosdaq/a083310"
+  ],
+  "notes": "Website not seen.",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0095"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Pumps, Vacuum",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.16"
   ]
  },
  {
@@ -41788,6 +42878,98 @@
   "primary_subcategory_name": null,
   "events_flat": "SEMICON West",
   "subcategories": []
+ },
+ {
+  "company_id": "d:merckgroup.com",
+  "name": "Merck KGaA (Electronics)",
+  "name_norm": "merck kgaa",
+  "aliases_norm": [
+   "merck kgaa",
+   "merck performance materials",
+   "merck kgaa darmstadt germany",
+   "emd electronics",
+   "emd performance materials"
+  ],
+  "name_variants": [
+   "Merck Performance Materials Co., Ltd.",
+   "Merck Performance Materials",
+   "Merck KGaA, Darmstadt, Germany",
+   "EMD Electronics",
+   "EMD Performance Materials"
+  ],
+  "legal_name": "Merck Kommanditgesellschaft auf Aktien",
+  "website": "https://www.merckgroup.com",
+  "domain": "merckgroup.com",
+  "linkedin_url": "https://www.linkedin.com/company/merck-group",
+  "linkedin_slug": "merck-group",
+  "hq_city": "Darmstadt",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [
+   {
+    "city": "Philadelphia",
+    "country": "US",
+    "type": "regional_hq"
+   },
+   {
+    "city": "Tempe",
+    "country": "US",
+    "type": "manufacturing"
+   },
+   {
+    "city": "Shizuoka",
+    "country": "JP",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1668,
+  "employee_range": "10001+",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "ETR:MRK",
+  "primary_category_group": "301",
+  "primary_subcategory": "301.07",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "photoresists",
+   "deposition precursors",
+   "CMP slurries",
+   "specialty gases",
+   "dielectrics",
+   "liquid crystals",
+   "OLED materials",
+   "antireflective coatings"
+  ],
+  "end_markets": [
+   "logic",
+   "memory",
+   "displays",
+   "advanced packaging"
+  ],
+  "description": "Electronics business sector of German science and technology group Merck KGaA, supplying semiconductor materials - photoresists, deposition precursors, CMP slurries and specialty gases - plus display and surface-solutions materials; it absorbed Versum Materials in 2019.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.emdgroup.com/en/expertise/semiconductors/offering/semiconductor-materials.html",
+   "https://www.emdgroup.com/en/media-center/press-kits/performance-materials-is-now-electronics.html",
+   "https://www.semi.org/en/news-resources/press/Merck-Bright_Future"
+  ],
+  "notes": "Exhibitor name is a regional Merck Performance Materials operating entity; folded into the Merck KGaA (Darmstadt) group record. The Performance Materials sector was renamed Electronics in 2021; in the US and Canada the group trades as EMD Electronics. Specific country of the 'Co., Ltd.' entity not confirmed.",
+  "first_researched_utc": "2026-09-30T12:37:00Z",
+  "last_researched_utc": "2026-09-30T12:37:00Z",
+  "wp_ids": [
+   "WP-0031-R2"
+  ],
+  "primary_category_group_name": "Chemicals & Solids",
+  "primary_subcategory_name": "Photo Resist; Developers & Ancillaries (incl. Adhesion promoter (HMDS); Primer; Anti-Reflective Coat",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "301.07",
+   "301.06",
+   "307.03",
+   "303.07",
+   "302.05"
+  ]
  },
  {
   "company_id": "n:meridian laboratory",
@@ -45527,6 +46709,78 @@
    "207.02",
    "200.01",
    "207.05"
+  ]
+ },
+ {
+  "company_id": "d:okaya.co.jp",
+  "name": "Okaya & Co.",
+  "name_norm": "okaya and",
+  "aliases_norm": [
+   "okaya and",
+   "okaya and india private",
+   "okaya and india pvt"
+  ],
+  "name_variants": [
+   "OKAYA & CO. INDIA PRIVATE LIMITED",
+   "Okaya & Co., Ltd.",
+   "Okaya & Co India Pvt Ltd"
+  ],
+  "legal_name": "OKAYA & CO., LTD.",
+  "website": "https://www.okaya.co.jp",
+  "domain": "okaya.co.jp",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Nagoya",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Gurugram",
+    "country": "IN",
+    "type": "sales"
+   }
+  ],
+  "founded_year": 1669,
+  "employee_range": "1001-5000",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "804",
+  "primary_subcategory": "804.14",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "machine tools",
+   "metrology",
+   "CMM",
+   "vision systems",
+   "steel and metals trading"
+  ],
+  "end_markets": [
+   "automotive",
+   "general manufacturing",
+   "semiconductor"
+  ],
+  "description": "Japanese trading house founded in 1669 dealing in steel, metals, machinery, tools, electronics and chemicals. Its Indian subsidiary in Gurugram supplies machine tools and metrology equipment.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://www.okaya.co.jp/en/index.html",
+   "https://www.machinetools.com/en/companies/584133-okaya-and-co-india-pvt-ltd",
+   "https://www.indiamart.com/okaya-company/"
+  ],
+  "notes": "Distinct from Okaya Power (Indian battery maker) and Okaya Electronics Corp.",
+  "first_researched_utc": "2026-09-30T12:28:00Z",
+  "last_researched_utc": "2026-09-30T12:28:00Z",
+  "wp_ids": [
+   "WP-0037-R2"
+  ],
+  "primary_category_group_name": "Professional Services",
+  "primary_subcategory_name": "Sales; Manufacturers Representation or Distributors",
+  "events_flat": "SEMICON India",
+  "subcategories": [
+   "804.14",
+   "700.19",
+   "203.11"
   ]
  },
  {
