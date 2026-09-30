@@ -37505,14 +37505,71 @@
   ]
  },
  {
+  "company_id": "d:kohokukogyo.co.jp",
+  "name": "Kohoku Kogyo",
+  "name_norm": "kohoku kogyo",
+  "aliases_norm": [
+   "kohoku kogyo"
+  ],
+  "name_variants": [
+   "KOHOKU KOGYO CO., LTD."
+  ],
+  "legal_name": null,
+  "website": "https://kohokukogyo.co.jp",
+  "domain": "kohokukogyo.co.jp",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1959,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "307",
+  "primary_subcategory": "307.10",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "high purity silica glass",
+   "optical isolators",
+   "capacitor lead terminals"
+  ],
+  "end_markets": [
+   "optical communications"
+  ],
+  "description": "Japanese maker of lead terminals for aluminum electrolytic capacitors and optical communication components; also high purity silica glass (SSG) for semiconductor use.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.tipranks.com/news/company-announcements/kohoku-kogyo-innovates-with-new-silica-glass-processing-technology"
+  ],
+  "notes": "HQ city not verified; LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": "Process Materials",
+  "primary_subcategory_name": "Quartzware (Silicon Carbide, Fused Quartz Glass, Sapphire), Ceramic & Oxide Ceramic Fixtures",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "307.10",
+   "400.20"
+  ]
+ },
+ {
   "company_id": "d:kokusai-electric.com",
   "name": "KOKUSAI ELECTRIC",
   "name_norm": "kokusai electric",
   "aliases_norm": [
-   "kokusai electric"
+   "kokusai electric",
+   "kokusai semiconductor equipment"
   ],
   "name_variants": [
-   "KOKUSAI ELECTRIC"
+   "KOKUSAI ELECTRIC",
+   "Kokusai Semiconductor Equipment Corp"
   ],
   "legal_name": "KOKUSAI ELECTRIC CORPORATION",
   "website": "https://www.kokusai-electric.com",
@@ -37547,7 +37604,9 @@
    "batch CVD",
    "vertical furnace",
    "single wafer treatment",
-   "thermal processing"
+   "thermal processing",
+   "batch deposition",
+   "ALD"
   ],
   "end_markets": [
    "memory",
@@ -37561,17 +37620,19 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Kokusai_Electric",
    "https://stockanalysis.com/quote/tyo/6525/company/",
-   "https://www.kokusai-electric.com/en/products"
+   "https://www.kokusai-electric.com/en/products",
+   "https://sg.finance.yahoo.com/quote/6525.T/profile"
   ],
   "notes": "Founding year ambiguous: current entity dates to 2017-2018 (spun out of Hitachi Kokusai Electric); predecessor business dates to 1949. Other-office cities are plausible group sites but were not individually verified in this pass. LinkedIn page not confirmed.",
   "first_researched_utc": "2026-09-30T12:38:00Z",
-  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
   "wp_ids": [
-   "WP-0027-R2"
+   "WP-0027-R2",
+   "WP-0093"
   ],
   "primary_category_group_name": "Process Equipment",
   "primary_subcategory_name": "Deposition; Chemical Vapor (CVD); MOCVD; PECVD; LPCVD; ALD; REALD; MVD",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "207.06",
    "207.17",
@@ -37580,15 +37641,284 @@
   ]
  },
  {
+  "company_id": "n:komori",
+  "name": "Komori Corporation",
+  "name_norm": "komori",
+  "aliases_norm": [
+   "komori",
+   "komori america"
+  ],
+  "name_variants": [
+   "Komori America Corporation"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Tokyo",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Rolling Meadows",
+    "country": "US",
+    "type": "sales"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.22",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "printed electronics",
+   "offset presses",
+   "chillers"
+  ],
+  "end_markets": [
+   "printed electronics",
+   "semiconductor packaging"
+  ],
+  "description": "Komori America is the US arm of Komori Corporation, a printing press maker developing printed electronics and entering semiconductor temperature control via Maruyama Chiller.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.piworld.com/article/komori-america-announces-organizational-changes-pi-news-400466/4/"
+  ],
+  "notes": "Parent website/LinkedIn not seen",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Printed and Organic Electronic Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.22"
+  ]
+ },
+ {
+  "company_id": "d:kontron-ais.com",
+  "name": "Kontron AIS",
+  "name_norm": "kontron ais",
+  "aliases_norm": [
+   "kontron ais"
+  ],
+  "name_variants": [
+   "Kontron AIS GmbH"
+  ],
+  "legal_name": null,
+  "website": "https://kontron-ais.com",
+  "domain": "kontron-ais.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Dresden",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1990,
+  "employee_range": "201-500",
+  "ownership_type": "subsidiary",
+  "parent_company": "Kontron",
+  "stock_ticker": null,
+  "primary_category_group": "602",
+  "primary_subcategory": "602.03",
+  "value_chain_role": "software",
+  "product_keywords": [
+   "FabEagleMES",
+   "FabLink",
+   "SECS/GEM"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photovoltaic"
+  ],
+  "description": "Dresden-based industrial software company, subsidiary of Kontron, offering MES and equipment-control software (SECS/GEM, GEM300) for semiconductor and PV.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://kontron-ais.com/en/facts/kontron-ais-gmbh"
+  ],
+  "notes": "LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": "Manufacturing Software",
+  "primary_subcategory_name": "Manufacturing Execution Software (MES)",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "602.03",
+   "602.02"
+  ]
+ },
+ {
+  "company_id": "n:korea kiyon",
+  "name": "Korea Kiyon Co., Ltd.",
+  "name_norm": "korea kiyon",
+  "aliases_norm": [
+   "korea kiyon"
+  ],
+  "name_variants": [
+   "Korea Kiyon Co., Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/kiyeon-co-ltd"
+  ],
+  "notes": "Only similar name Kiyeon Co., Ltd. (ceramic parts, Gangneung) found; match unverified",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "d:koreazinc.co.kr",
+  "name": "Korea Zinc",
+  "name_norm": "korea zinc",
+  "aliases_norm": [
+   "korea zinc",
+   "korea zinc lt"
+  ],
+  "name_variants": [
+   "Korea Zinc CO. LT"
+  ],
+  "legal_name": null,
+  "website": "https://koreazinc.co.kr",
+  "domain": "koreazinc.co.kr",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Seoul",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "301",
+  "primary_subcategory": "301.01",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "semiconductor sulfuric acid",
+   "zinc",
+   "non-ferrous metals"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Non-ferrous metal smelter in Seoul that also produces semiconductor-grade sulfuric acid at its Onsan smelter.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Korea_Zinc"
+  ],
+  "notes": "LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": "Chemicals & Solids",
+  "primary_subcategory_name": "Acids; Etchants",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "301.01"
+  ]
+ },
+ {
+  "company_id": "d:kosmes.or.kr",
+  "name": "KOSME",
+  "name_norm": "kosme",
+  "aliases_norm": [
+   "kosme"
+  ],
+  "name_variants": [
+   "KOSME (Korea SMEs and Startups Agency)"
+  ],
+  "legal_name": null,
+  "website": "https://www.kosmes.or.kr",
+  "domain": "kosmes.or.kr",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1979,
+  "employee_range": "unknown",
+  "ownership_type": "government",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "804",
+  "primary_subcategory": "804.01",
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": "South Korean government agency supporting SMEs and startups through financing, consulting and global business centers.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Korean_SMEs_and_Startups_Agency"
+  ],
+  "notes": "HQ city unverified",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": "Professional Services",
+  "primary_subcategory_name": "Government Advocacy; Regulation; Economic Development Agencies",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "804.01"
+  ]
+ },
+ {
   "company_id": "d:kotra.or.kr",
   "name": "KOTRA",
   "name_norm": "kotra",
   "aliases_norm": [
    "kotra",
-   "korea trade investment promotion agency"
+   "korea trade investment promotion agency",
+   "kotra silicon valley"
   ],
   "name_variants": [
-   "Korea Trade-Investment Promotion Agency (KOTRA)"
+   "Korea Trade-Investment Promotion Agency (KOTRA)",
+   "KOTRA Silicon Valley"
   ],
   "legal_name": "Korea Trade-Investment Promotion Agency",
   "website": "https://www.kotra.or.kr",
@@ -37613,6 +37943,11 @@
     "city": "Atlanta",
     "country": "US",
     "type": "trade office"
+   },
+   {
+    "city": "San Jose",
+    "country": "US",
+    "type": "regional office"
    }
   ],
   "founded_year": 1962,
@@ -37641,22 +37976,68 @@
   "sources": [
    "https://en.wikipedia.org/wiki/KOTRA",
    "http://english.kotra.or.kr/foreign/kotra/KHENKT160M.html",
-   "https://georgia.org/press-releases/2022/korea-trade-investment-promotion-agency-kotra-opens-first-atlanta-office"
+   "https://georgia.org/press-releases/2022/korea-trade-investment-promotion-agency-kotra-opens-first-atlanta-office",
+   "https://www.kotra.or.kr/siliconvalley/subList/40000000683"
   ],
   "notes": "Only regional LinkedIn pages exist (e.g. kotra-newdelhi, kotrasv); no single global company page identified.",
   "first_researched_utc": "2026-09-30T12:38:00Z",
-  "last_researched_utc": "2026-09-30T12:38:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
   "wp_ids": [
-   "WP-0027-R2"
+   "WP-0027-R2",
+   "WP-0093"
   ],
   "primary_category_group_name": "Professional Services",
   "primary_subcategory_name": "Government Advocacy; Regulation; Economic Development Agencies",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "804.01",
    "804.15",
    "804.14"
   ]
+ },
+ {
+  "company_id": "n:koyo high precision",
+  "name": "Koyo High Precision",
+  "name_norm": "koyo high precision",
+  "aliases_norm": [
+   "koyo high precision"
+  ],
+  "name_variants": [
+   "Koyo High Precision"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No matching company found",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
  },
  {
   "company_id": "d:kptpipes.com",
@@ -37866,6 +38247,64 @@
    "400.23",
    "203.11",
    "804.14"
+  ]
+ },
+ {
+  "company_id": "n:ksm",
+  "name": "KSM",
+  "name_norm": "ksm",
+  "aliases_norm": [
+   "ksm"
+  ],
+  "name_variants": [
+   "KSM Co., Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Gimpo",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1979,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.24",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "welded metal bellows",
+   "ceramic heaters",
+   "fine ceramics",
+   "vacuum seals"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "solar",
+   "flat panel"
+  ],
+  "description": "Gimpo-based maker of welded metal bellows, ceramic and metal heaters, fine ceramics and seals for semiconductor, solar and FPD OEMs.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/ksm-co-ltd"
+  ],
+  "notes": "Website/LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:16:00Z",
+  "last_researched_utc": "2026-09-30T13:16:00Z",
+  "wp_ids": [
+   "WP-0093"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Vacuum Systems Components & Accessories (optical monitors; Sputtering target fixtures; lubricants",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.24",
+   "400.12"
   ]
  },
  {
