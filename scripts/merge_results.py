@@ -4,7 +4,7 @@ Then moves the WP to work/done and exports db/companies.csv + db/companies.json 
 import json
 import shutil
 from lib import (RAW, REJECTED, IN_PROGRESS, DONE, QUEUE, validate_record, category_ids,
-                 normalize_name, domain_of, linkedin_slug, iso, now_utc)
+                 normalize_name, domain_of, is_non_company_url, linkedin_slug, iso, now_utc)
 from db import connect
 import export
 
@@ -43,6 +43,9 @@ def find_existing(con, dom, slug, names):
 
 
 def upsert(con, rec):
+    if is_non_company_url(rec.get("website")):  # a directory/LinkedIn page is a source, not the website
+        rec["sources"] = union(rec.get("sources") or [], [rec["website"]])
+        rec["website"] = None
     dom = domain_of(rec.get("website"))
     slug = linkedin_slug(rec.get("linkedin_url"))
     variants = rec.get("name_variants") or [rec["name"]]
@@ -185,6 +188,48 @@ def retry_rejected():
     print(f"retried rejects: merged {ok} | still rejected: {still} | companies in DB: {total}")
 
 
+def repair_domains():
+    """Undo merges keyed on a non-company domain: drop rows whose domain/website is a directory or
+    social URL, then replay every merged raw line of the WPs that touched them through the fixed upsert.
+    Replaying is idempotent for the other companies in those WPs (lists union, scalars keep the best)."""
+    from lib import NON_COMPANY_DOMAINS
+    groups, subs = category_ids()
+    con = connect()
+    bad = [r for r in con.execute("SELECT company_id, domain, website, wp_ids FROM companies")
+           if r[1] in NON_COMPANY_DOMAINS or is_non_company_url(r[2])]
+    wps = sorted({w for r in bad for w in json.loads(r[3])})
+    replay = 0
+    with con:
+        for cid, *_ in bad:
+            for t in ("company_categories", "company_events", "companies"):
+                con.execute(f"DELETE FROM {t} WHERE company_id=?", (cid,))
+        for wp_id in wps:
+            f = RAW / f"{wp_id}.jsonl.merged"
+            if not f.exists():
+                print(f"  WARNING: {f.name} missing; its companies in the dropped rows are lost")
+                continue
+            for ln in f.read_bytes().decode("utf-8", errors="replace").splitlines():
+                try:
+                    rec = json.loads(ln)
+                except json.JSONDecodeError:
+                    continue
+                rec.setdefault("wp_id", wp_id)
+                rec["name"] = rec.get("name") or rec.get("input_name")
+                if not validate_record(rec, groups, subs):
+                    upsert(con, rec)
+                    replay += 1
+    total = con.execute("SELECT count(*) FROM companies").fetchone()[0]
+    con.close()
+    export.main(quiet=True)
+    print(f"repaired rows: {len(bad)} ({', '.join(r[0] for r in bad)}) | replayed WPs: {wps} | "
+          f"records replayed: {replay} | companies in DB: {total}")
+
+
 if __name__ == "__main__":
     import sys
-    retry_rejected() if "--retry-rejected" in sys.argv else main()
+    if "--retry-rejected" in sys.argv:
+        retry_rejected()
+    elif "--repair-domains" in sys.argv:
+        repair_domains()
+    else:
+        main()

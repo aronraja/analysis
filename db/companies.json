@@ -9237,7 +9237,65 @@
   ]
  },
  {
-  "company_id": "d:linkedin.com",
+  "company_id": "n:banner industries of ne",
+  "name": "Banner Industries of NE",
+  "name_norm": "banner industries of ne",
+  "aliases_norm": [
+   "banner industries of ne"
+  ],
+  "name_variants": [
+   "Banner Industries of NE, Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Danvers",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1985,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "801",
+  "primary_subcategory": "801.03",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "flow components",
+   "valves",
+   "fittings",
+   "MFCs"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "life sciences",
+   "solar"
+  ],
+  "description": "Private distributor of high-purity flow components for semiconductor and industrial manufacturing, with 12 US and APAC locations.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/banner-industries-ne-inc"
+  ],
+  "notes": "Own website not seen; website field is SEMI directory",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0063-R2"
+  ],
+  "primary_category_group_name": "Distribution and Logistics",
+  "primary_subcategory_name": "Distribution, Warehousing, 3rd Party Logistics Providers (3PL)",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "801.03",
+   "400.10"
+  ]
+ },
+ {
+  "company_id": "n:basler",
   "name": "Basler",
   "name_norm": "basler",
   "aliases_norm": [
@@ -9247,8 +9305,8 @@
    "Basler Inc."
   ],
   "legal_name": null,
-  "website": "https://linkedin.com/company/basler-ag",
-  "domain": "linkedin.com",
+  "website": null,
+  "domain": null,
   "linkedin_url": "https://linkedin.com/company/basler-ag",
   "linkedin_slug": "basler-ag",
   "hq_city": "Ahrensburg",
@@ -9291,6 +9349,72 @@
   "subcategories": [
    "401.01",
    "203.05"
+  ]
+ },
+ {
+  "company_id": "n:bay seal",
+  "name": "Bay Seal Company",
+  "name_norm": "bay seal",
+  "aliases_norm": [
+   "bay seal"
+  ],
+  "name_variants": [
+   "Bay Seal Company"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Hayward",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Austin",
+    "country": "US",
+    "type": "branch"
+   },
+   {
+    "city": "Tigard",
+    "country": "US",
+    "type": "branch"
+   }
+  ],
+  "founded_year": 1957,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.11",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "O-rings",
+   "Kalrez",
+   "custom seals"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Hayward, CA distributor and supplier of O-rings and sealing products (Kalrez, Parker) for semiconductor equipment makers.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/bay-seal-company"
+  ],
+  "notes": "Own website not seen",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0063-R2"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Gaskets; Seals; O rings; Elastomers; Resins",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.11",
+   "801.03"
   ]
  },
  {
@@ -9483,7 +9607,8 @@
    "besi singapore"
   ],
   "name_variants": [
-   "Besi Singapore Pte. Ltd."
+   "Besi Singapore Pte. Ltd.",
+   "Besi (BE Semiconductor Industries N.V.)"
   ],
   "legal_name": "BE Semiconductor Industries N.V.",
   "website": "https://www.besi.com",
@@ -9500,7 +9625,7 @@
     "type": "subsidiary"
    }
   ],
-  "founded_year": null,
+  "founded_year": 1995,
   "employee_range": "unknown",
   "ownership_type": "public",
   "parent_company": null,
@@ -9513,7 +9638,8 @@
    "flip chip",
    "hybrid bonding",
    "molding",
-   "plating"
+   "plating",
+   "advanced packaging"
   ],
   "end_markets": [
    "electronics",
@@ -9522,30 +9648,36 @@
    "automotive",
    "industrial",
    "LED",
-   "solar"
+   "solar",
+   "advanced packaging",
+   "logic",
+   "memory"
   ],
   "description": "Supplier of semiconductor assembly equipment (die attach, packaging, plating) for leadframe, substrate and wafer-level packaging; listed on Euronext Amsterdam.",
   "status": "complete",
   "confidence": 0.75,
   "sources": [
    "https://www.besi.com/company/company-profile/",
-   "https://www.semi.org/en/resources/member-directory/besi-be-semiconductor-industries-nv"
+   "https://www.semi.org/en/resources/member-directory/besi-be-semiconductor-industries-nv",
+   "https://kiwix.lema.org/wikipedia_en_all_mini_2024-02/A/Besi"
   ],
   "notes": "LinkedIn page not seen in results. Singapore entity folded into group record.",
   "first_researched_utc": "2026-09-30T12:13:37Z",
-  "last_researched_utc": "2026-09-30T12:13:37Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
   "wp_ids": [
-   "WP-0008"
+   "WP-0008",
+   "WP-0063-R2"
   ],
   "primary_category_group_name": "Packaging and Assembly Equipment",
   "primary_subcategory_name": "Die Bonding; Attach Equipment",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "200.09",
    "200.18",
    "200.21",
    "200.11",
-   "200.26"
+   "200.26",
+   "200.28"
   ]
  },
  {
@@ -39053,107 +39185,63 @@
   ]
  },
  {
-  "company_id": "d:semi.org",
+  "company_id": "n:semi",
   "name": "SEMI",
   "name_norm": "semi",
   "aliases_norm": [
    "semi",
    "semi booth",
-   "semiconductor equipment and materials international",
-   "banner industries of ne",
-   "bay seal",
-   "besi"
+   "semiconductor equipment and materials international"
   ],
   "name_variants": [
    "SEMI Booth",
    "SEMI",
-   "Semiconductor Equipment and Materials International",
-   "Banner Industries of NE, Inc.",
-   "Bay Seal Company",
-   "Besi (BE Semiconductor Industries N.V.)"
+   "Semiconductor Equipment and Materials International"
   ],
   "legal_name": "Semiconductor Equipment and Materials International",
-  "website": "https://www.semi.org/en/resources/member-directory/besi-be-semiconductor-industries-nv",
-  "domain": "semi.org",
+  "website": null,
+  "domain": null,
   "linkedin_url": "https://www.linkedin.com/company/semi",
   "linkedin_slug": "semi",
-  "hq_city": "Duiven",
-  "hq_country": "NL",
-  "hq_region": "EMEA",
-  "other_offices": [
-   {
-    "city": "Austin",
-    "country": "US",
-    "type": "branch"
-   },
-   {
-    "city": "Tigard",
-    "country": "US",
-    "type": "branch"
-   }
-  ],
-  "founded_year": 1995,
-  "employee_range": "1001-5000",
-  "ownership_type": "public",
+  "hq_city": "Milpitas",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1970,
+  "employee_range": "unknown",
+  "ownership_type": "nonprofit",
   "parent_company": null,
-  "stock_ticker": "BESI",
-  "primary_category_group": "200",
-  "primary_subcategory": "200.09",
-  "value_chain_role": "oem",
+  "stock_ticker": null,
+  "primary_category_group": "800",
+  "primary_subcategory": "800.01",
+  "value_chain_role": "association",
   "product_keywords": [
    "industry association",
    "SEMI standards",
    "SEMICON trade shows",
-   "market data",
-   "flow components",
-   "valves",
-   "fittings",
-   "MFCs",
-   "O-rings",
-   "Kalrez",
-   "custom seals",
-   "die attach",
-   "hybrid bonding",
-   "advanced packaging"
+   "market data"
   ],
   "end_markets": [
-   "semiconductor industry",
-   "semiconductor",
-   "life sciences",
-   "solar",
-   "advanced packaging",
-   "logic",
-   "memory"
+   "semiconductor industry"
   ],
-  "description": "Dutch supplier of semiconductor assembly equipment focused on advanced packaging, listed on Euronext Amsterdam.",
+  "description": "SEMI is the global industry association for the electronics design and manufacturing supply chain and the organizer of the SEMICON shows; this listing is SEMI's own booth at the event rather than a third-party exhibitor.",
   "status": "partial",
-  "confidence": 0.7,
+  "confidence": 0.6,
   "sources": [
-   "https://www.semi.org",
-   "https://www.semi.org/en/resources/member-directory/banner-industries-ne-inc",
-   "https://www.semi.org/en/resources/member-directory/bay-seal-company",
-   "https://www.semi.org/en/resources/member-directory/besi-be-semiconductor-industries-nv",
-   "https://kiwix.lema.org/wikipedia_en_all_mini_2024-02/A/Besi"
+   "https://www.semi.org"
   ],
-  "notes": "Own website and LinkedIn not seen",
+  "notes": "Not a vendor: this is the show organizer's own booth. Resolved to SEMI the association; founding year and HQ from general knowledge, not re-verified this session. Candidate for exclusion from the vendor database.",
   "first_researched_utc": "2026-09-30T12:52:00Z",
-  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T12:52:00Z",
   "wp_ids": [
-   "WP-0043",
-   "WP-0063-R2"
+   "WP-0043"
   ],
-  "primary_category_group_name": "Packaging and Assembly Equipment",
-  "primary_subcategory_name": "Die Bonding; Attach Equipment",
-  "events_flat": "SEMICON Europa | SEMICON India | SEMICON West | SEMICON West | SEMICON West",
+  "primary_category_group_name": "Associations",
+  "primary_subcategory_name": "Associations; Trade or Industrial",
+  "events_flat": "SEMICON India",
   "subcategories": [
    "800.01",
-   "804.15",
-   "801.03",
-   "400.10",
-   "400.11",
-   "200.09",
-   "200.28",
-   "200.26"
+   "804.15"
   ]
  },
  {

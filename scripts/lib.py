@@ -26,6 +26,16 @@ SECOND_LEVEL = {
     "co.kr", "or.kr", "com.sg", "com.au", "co.il", "com.my", "co.in", "com.hk", "com.br", "com.mx",
     "co.za", "co.nz", "com.tr", "com.ph", "co.th", "com.vn",
 }
+# Directory / social / data-vendor hosts. A URL on these is a source about a company, never the
+# company's own website, so it must not become a dedupe domain (semi.org pages folded 4 firms into one).
+NON_COMPANY_DOMAINS = {
+    "semi.org", "linkedin.com", "facebook.com", "twitter.com", "x.com", "youtube.com", "instagram.com",
+    "wikipedia.org", "crunchbase.com", "pitchbook.com", "zoominfo.com", "dnb.com", "bloomberg.com",
+    "sec.gov", "google.com", "mapyourshow.com", "a2zinc.net", "semicon.org", "semiconwest.org",
+    "semiconeuropa.org", "globalspec.com", "thomasnet.com", "kompass.com", "opencorporates.com",
+    "craft.co", "rocketreach.co", "cbinsights.com", "tracxn.com", "owler.com", "glassdoor.com",
+    "indeed.com", "yelp.com", "bizapedia.com", "manta.com", "kiwix.lema.org", "lema.org",
+}
 STATUSES = {"complete", "partial", "not_found"}
 OWNERSHIP = {"public", "private", "subsidiary", "government", "academic", "nonprofit", "unknown"}
 EMPLOYEE_RANGES = {"1-10", "11-50", "51-200", "201-500", "501-1000", "1001-5000",
@@ -83,6 +93,20 @@ def domain_of(url):
         host = host[4:]
     parts = host.split(".")
     n = 3 if ".".join(parts[-2:]) in SECOND_LEVEL and len(parts) >= 3 else 2
+    dom = ".".join(parts[-n:])
+    return None if dom in NON_COMPANY_DOMAINS else dom
+
+
+def is_non_company_url(url):
+    """True for a URL whose host is a directory/social/data site (see NON_COMPANY_DOMAINS)."""
+    return bool(url) and domain_of(url) is None and domain_of_raw(url) in NON_COMPANY_DOMAINS
+
+
+def domain_of_raw(url):
+    u = url.strip() if "://" in url else "http://" + url.strip()
+    host = (urlparse(u).hostname or "").lower().strip(".")
+    parts = host.removeprefix("www.").split(".")
+    n = 3 if ".".join(parts[-2:]) in SECOND_LEVEL and len(parts) >= 3 else 2
     return ".".join(parts[-n:])
 
 
@@ -108,7 +132,7 @@ def validate_record(rec, groups, subs):
             errs.append("complete record needs website")
         if not rec.get("primary_category_group"):
             errs.append("complete record needs primary_category_group")
-    if rec.get("website") and not domain_of(rec["website"]):
+    if rec.get("website") and not domain_of(rec["website"]) and not is_non_company_url(rec["website"]):
         errs.append("unparseable website")
     if rec.get("linkedin_url") and not linkedin_slug(rec["linkedin_url"]):
         errs.append("linkedin_url is not a linkedin company page")
