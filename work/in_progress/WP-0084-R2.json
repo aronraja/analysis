@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0081-R2",
+  "wp_id": "WP-0084-R2",
   "created_utc": "2026-09-30T13:09:03Z",
   "attempt": 2,
   "limits": {
@@ -9,66 +9,38 @@
   },
   "companies": [
     {
-      "name": "Frontier Semiconductor",
-      "name_norm": "frontier semiconductor",
+      "name": "GNB KL Group",
+      "name_norm": "gnb kl",
       "name_variants": [
-        "Frontier Semiconductor"
+        "GNB KL Group"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1168"
+          "booth": "353"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "FUCHS Lubricants Co.",
-      "name_norm": "fuchs lubricants",
+      "name": "GnG InTech",
+      "name_norm": "gng intech",
       "name_variants": [
-        "FUCHS Lubricants Co."
+        "GnG InTech"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "352"
+          "booth": "3002"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Fuji Electric Corp. of America",
-      "name_norm": "fuji electric of america",
+      "name": "Goetze Valves NA Inc",
+      "name_norm": "goetze valves na",
       "name_variants": [
-        "Fuji Electric Corp. of America"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "239"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "FUJIFILM Electronic Materials",
-      "name_norm": "fujifilm electronic materials",
-      "name_variants": [
-        "FUJIFILM Electronic Materials"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "2049"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Fusion Bionic GmbH",
-      "name_norm": "fusion bionic",
-      "name_variants": [
-        "Fusion Bionic GmbH"
+        "Goetze Valves NA Inc"
       ],
       "events": [
         {
@@ -79,79 +51,105 @@
       "website_hint": null
     },
     {
-      "name": "FUTEK Advanced Sensor Technology",
-      "name_norm": "futek advanced sensor technology",
+      "name": "Gore & Associates, Inc.",
+      "name_norm": "gore and associates",
       "name_variants": [
-        "FUTEK Advanced Sensor Technology"
+        "Gore & Associates, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6481"
+          "booth": "6653"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "G&N Genauigkeits Maschinenbau Nurnberg GmbH",
-      "name_norm": "g and n genauigkeits maschinenbau nurnberg",
+      "name": "GPA Innova America Corp",
+      "name_norm": "gpa innova america",
       "name_variants": [
-        "G&N Genauigkeits Maschinenbau Nurnberg GmbH"
+        "GPA Innova America Corp"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1245"
+          "booth": "5238"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "G2 Technology Corporation",
-      "name_norm": "g2 technology",
+      "name": "Grand Process Technology Corporation",
+      "name_norm": "grand process technology",
       "name_variants": [
-        "G2 Technology Corporation"
+        "Grand Process Technology Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5384"
+          "booth": "6282"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Gallagher Industrial Products",
-      "name_norm": "gallagher industrial products",
+      "name": "Greater Portland Inc",
+      "name_norm": "greater portland",
       "name_variants": [
-        "Gallagher Industrial Products"
+        "Greater Portland Inc"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3407"
+          "booth": "6448"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Gallant Micro. Machining Co., Ltd.",
-      "name_norm": "gallant micro machining",
+      "name": "Greater Sacramento Economic Council",
+      "name_norm": "greater sacramento economic council",
       "name_variants": [
-        "Gallant Micro. Machining Co., Ltd."
+        "Greater Sacramento Economic Council"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "2149"
-        },
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Green Circuits Inc.",
+      "name_norm": "green circuits",
+      "name_variants": [
+        "Green Circuits Inc."
+      ],
+      "events": [
         {
           "event": "SEMICON West",
-          "booth": "2249"
+          "booth": "3217"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Green Optics Co., Ltd.",
+      "name_norm": "green optics",
+      "name_variants": [
+        "Green Optics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5169"
         }
       ],
       "website_hint": null
     }
   ],
-  "parent_wp": "WP-0081"
+  "parent_wp": "WP-0084",
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }

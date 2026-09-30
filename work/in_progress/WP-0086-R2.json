@@ -1,7 +1,7 @@
 {
-  "wp_id": "WP-0091",
-  "created_utc": "2026-09-30T12:03:08Z",
-  "attempt": 1,
+  "wp_id": "WP-0086-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
   "limits": {
     "minutes_per_company": 3,
     "minutes_per_workpackage": 35,
@@ -9,160 +9,152 @@
   },
   "companies": [
     {
-      "name": "JF Microtechnology Sdn Bhd",
-      "name_norm": "jf microtechnology",
+      "name": "Harbor Technology Solutions",
+      "name_norm": "harbor technology solutions",
       "name_variants": [
-        "JF Microtechnology Sdn Bhd"
+        "Harbor Technology Solutions"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5854"
+          "booth": "1265"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Harmonic Drive LLC",
+      "name_norm": "harmonic drive",
+      "name_variants": [
+        "Harmonic Drive LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1748"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HARTING Inc. of North America",
+      "name_norm": "harting of north america",
+      "name_variants": [
+        "HARTING Inc. of North America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5762"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hartzell Air Movement",
+      "name_norm": "hartzell air movement",
+      "name_variants": [
+        "Hartzell Air Movement"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6654"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hayward Flow Control",
+      "name_norm": "hayward flow control",
+      "name_variants": [
+        "Hayward Flow Control"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6760"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heatron Inc.",
+      "name_norm": "heatron",
+      "name_variants": [
+        "Heatron Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1953"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heidelberg Instruments, Inc.",
+      "name_norm": "heidelberg instruments",
+      "name_variants": [
+        "Heidelberg Instruments, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1433"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heidenhain Corporation",
+      "name_norm": "heidenhain",
+      "name_variants": [
+        "Heidenhain Corporation",
+        "HEIDENHAIN"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1639"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "C1242"
+          "booth": "C2355"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "JH Kelly",
-      "name_norm": "jh kelly",
+      "name": "Heller Industries Corporate",
+      "name_norm": "heller industries corporate",
       "name_variants": [
-        "JH Kelly"
+        "Heller Industries Corporate"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "358"
+          "booth": "6813"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Jiangsu Dianduo Technology Co., Ltd.",
-      "name_norm": "jiangsu dianduo technology",
+      "name": "Hermes-Epitek Corp.",
+      "name_norm": "hermes epitek",
       "name_variants": [
-        "Jiangsu Dianduo Technology Co., Ltd."
+        "Hermes-Epitek Corp."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5878"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Johnstech International Corporation",
-      "name_norm": "johnstech international",
-      "name_variants": [
-        "Johnstech International Corporation"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "166"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C1414"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "J-solution",
-      "name_norm": "j solution",
-      "name_variants": [
-        "J-solution"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "169"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "JST Manufacturing",
-      "name_norm": "jst manufacturing",
-      "name_variants": [
-        "JST Manufacturing"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1745"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C1246"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Julabo USA, Inc.",
-      "name_norm": "julabo usa",
-      "name_variants": [
-        "Julabo USA, Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "5538"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Junkosha.Inc",
-      "name_norm": "junkosha",
-      "name_variants": [
-        "Junkosha.Inc"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "464"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C1505"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "JUSTEM CO.,LTD",
-      "name_norm": "justem",
-      "name_variants": [
-        "JUSTEM CO.,LTD"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1132"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "KAGOSHIMA SEIKI CO., LTD",
-      "name_norm": "kagoshima seiki",
-      "name_variants": [
-        "KAGOSHIMA SEIKI CO., LTD"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6563"
+          "booth": "2245"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "parent_wp": "WP-0086",
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }

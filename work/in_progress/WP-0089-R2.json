@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0085-R2",
+  "wp_id": "WP-0089-R2",
   "created_utc": "2026-09-30T13:09:03Z",
   "attempt": 2,
   "limits": {
@@ -9,157 +9,156 @@
   },
   "companies": [
     {
-      "name": "Greene, Tweed & Co., Inc.",
-      "name_norm": "greene tweed and",
+      "name": "IDA Ireland",
+      "name_norm": "ida ireland",
       "name_variants": [
-        "Greene, Tweed & Co., Inc."
+        "IDA Ireland"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "733"
+          "booth": "6254"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Guangdong NNT Pneumatic Technology Co., Ltd.",
-      "name_norm": "guangdong nnt pneumatic technology",
+      "name": "IEEE",
+      "name_norm": "ieee",
       "name_variants": [
-        "Guangdong NNT Pneumatic Technology Co., Ltd."
+        "IEEE"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "973"
+          "booth": "6570"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IEI Technology USA Corp.",
+      "name_norm": "iei technology usa",
+      "name_variants": [
+        "IEI Technology USA Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1858"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IMT Co., Ltd",
+      "name_norm": "imt",
+      "name_variants": [
+        "IMT Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INFICON",
+      "name_norm": "inficon",
+      "name_variants": [
+        "INFICON",
+        "INFICON GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5268"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "M1"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "C2117"
+          "booth": "B1730"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Guardian Equipment",
-      "name_norm": "guardian equipment",
+      "name": "INTEKPLUS Co., Ltd.",
+      "name_norm": "intekplus",
       "name_variants": [
-        "Guardian Equipment"
+        "INTEKPLUS Co., Ltd."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3030"
+          "booth": "5877"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Gudeng Inc.",
-      "name_norm": "gudeng",
+      "name": "Intelitek Inc.",
+      "name_norm": "intelitek",
       "name_variants": [
-        "Gudeng Inc."
+        "Intelitek Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1453"
+          "booth": "6479"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "GXO Logistics",
-      "name_norm": "gxo logistics",
+      "name": "InTest Corporation",
+      "name_norm": "intest",
       "name_variants": [
-        "GXO Logistics"
+        "InTest Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5171"
+          "booth": "2457"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Gyromatic Innovation",
-      "name_norm": "gyromatic innovation",
+      "name": "Intlvac",
+      "name_norm": "intlvac",
       "name_variants": [
-        "Gyromatic Innovation"
+        "Intlvac"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6144"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C1247"
+          "booth": "3219"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Hamamatsu Corporation Photonics",
-      "name_norm": "hamamatsu photonics",
+      "name": "Invest in Pomerania - Poland",
+      "name_norm": "invest in pomerania poland",
       "name_variants": [
-        "Hamamatsu Corporation Photonics"
+        "Invest in Pomerania - Poland"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "232"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "HANBELL VACUUM TECHNOLOGY CO., LTD",
-      "name_norm": "hanbell vacuum technology",
-      "name_variants": [
-        "HANBELL VACUUM TECHNOLOGY CO., LTD"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6281"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C2464"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "HANMI Semiconductor",
-      "name_norm": "hanmi semiconductor",
-      "name_variants": [
-        "HANMI Semiconductor"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "3225"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "HANSUN ENGINEERING CO., LTD.",
-      "name_norm": "hansun engineering",
-      "name_variants": [
-        "HANSUN ENGINEERING CO., LTD."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "249"
+          "booth": "5479"
         }
       ],
       "website_hint": null
     }
   ],
-  "parent_wp": "WP-0085"
+  "parent_wp": "WP-0089",
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }

@@ -1,7 +1,7 @@
 {
-  "wp_id": "WP-0080-R2",
-  "created_utc": "2026-09-30T13:09:03Z",
-  "attempt": 2,
+  "wp_id": "WP-0093",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
   "limits": {
     "minutes_per_company": 3,
     "minutes_per_workpackage": 35,
@@ -9,134 +9,70 @@
   },
   "companies": [
     {
-      "name": "Fluoropolymer Resources LLC",
-      "name_norm": "fluoropolymer resources",
+      "name": "KOHOKU KOGYO CO., LTD.",
+      "name_norm": "kohoku kogyo",
       "name_variants": [
-        "Fluoropolymer Resources LLC"
+        "KOHOKU KOGYO CO., LTD."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "132"
+          "booth": "3015"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Fluorten",
-      "name_norm": "fluorten",
+      "name": "Kokusai Semiconductor Equipment Corp",
+      "name_norm": "kokusai semiconductor equipment",
       "name_variants": [
-        "Fluorten"
+        "Kokusai Semiconductor Equipment Corp"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6470"
+          "booth": "1149"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Komori America Corporation",
+      "name_norm": "komori america",
+      "name_variants": [
+        "Komori America Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3021"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kontron AIS GmbH",
+      "name_norm": "kontron ais",
+      "name_variants": [
+        "Kontron AIS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "C1559"
+          "booth": "C1607"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "FOOT MASTER",
-      "name_norm": "foot master",
+      "name": "Korea Kiyon Co., Ltd.",
+      "name_norm": "korea kiyon",
       "name_variants": [
-        "FOOT MASTER"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1949"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Forbo Flooring Systems",
-      "name_norm": "forbo flooring systems",
-      "name_variants": [
-        "Forbo Flooring Systems"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "5480"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Foresight Technologies",
-      "name_norm": "foresight technologies",
-      "name_variants": [
-        "Foresight Technologies"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "569"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Forge Nano",
-      "name_norm": "forge nano",
-      "name_variants": [
-        "Forge Nano"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "5454"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "B1840"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Fortrend Engineering Corp",
-      "name_norm": "fortrend engineering",
-      "name_variants": [
-        "Fortrend Engineering Corp"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "758"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Fraunhofer IZM ASSID",
-      "name_norm": "fraunhofer izm assid",
-      "name_variants": [
-        "Fraunhofer IZM ASSID"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1245"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "B1221"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "FRD CO., Ltd.",
-      "name_norm": "frd",
-      "name_variants": [
-        "FRD CO., Ltd."
+        "Korea Kiyon Co., Ltd."
       ],
       "events": [
         {
@@ -147,19 +83,76 @@
       "website_hint": null
     },
     {
-      "name": "Fresno County EDC",
-      "name_norm": "fresno county edc",
+      "name": "Korea Zinc CO. LT",
+      "name_norm": "korea zinc lt",
       "name_variants": [
-        "Fresno County EDC"
+        "Korea Zinc CO. LT"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5554"
+          "booth": "3113"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KOSME (Korea SMEs and Startups Agency)",
+      "name_norm": "kosme",
+      "name_variants": [
+        "KOSME (Korea SMEs and Startups Agency)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KOTRA Silicon Valley",
+      "name_norm": "kotra silicon valley",
+      "name_variants": [
+        "KOTRA Silicon Valley"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Koyo High Precision",
+      "name_norm": "koyo high precision",
+      "name_variants": [
+        "Koyo High Precision"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6463"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KSM Co., Ltd.",
+      "name_norm": "ksm",
+      "name_variants": [
+        "KSM Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "959"
         }
       ],
       "website_hint": null
     }
   ],
-  "parent_wp": "WP-0080"
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }

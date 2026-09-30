@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0087-R2",
+  "wp_id": "WP-0076-R2",
   "created_utc": "2026-09-30T13:09:03Z",
   "attempt": 2,
   "limits": {
@@ -9,149 +9,155 @@
   },
   "companies": [
     {
-      "name": "HERMOS AG",
-      "name_norm": "hermos",
+      "name": "EHT Semi",
+      "name_norm": "eht semi",
       "name_variants": [
-        "HERMOS AG"
+        "EHT Semi"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5740"
+          "booth": "6180"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EKK Eagle Semicon Components",
+      "name_norm": "ekk eagle semicon components",
+      "name_variants": [
+        "EKK Eagle Semicon Components"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "859"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "B1279"
+          "booth": "C1419"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Hesheng Hardware Co., Ltd.",
-      "name_norm": "hesheng hardware",
+      "name": "ElectraMet",
+      "name_norm": "electramet",
       "name_variants": [
-        "Hesheng Hardware Co., Ltd."
+        "ElectraMet"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5871"
+          "booth": "5448"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Hesse Mechatronics, Inc.",
-      "name_norm": "hesse mechatronics",
+      "name": "Elemental Scientific, Inc.",
+      "name_norm": "elemental scientific",
       "name_variants": [
-        "Hesse Mechatronics, Inc."
+        "Elemental Scientific, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6468"
+          "booth": "349"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1713"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "HESYS Inc",
-      "name_norm": "hesys",
+      "name": "Ellwood",
+      "name_norm": "ellwood",
       "name_variants": [
-        "HESYS Inc"
+        "Ellwood"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3131"
+          "booth": "6744"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "HID Industrial RTLS",
-      "name_norm": "hid industrial rtls",
+      "name": "Emage Vision Pte. Ltd.",
+      "name_norm": "emage vision",
       "name_variants": [
-        "HID Industrial RTLS"
+        "Emage Vision Pte. Ltd."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5170"
+          "booth": "6544"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Hightec Systems Corporation",
-      "name_norm": "hightec systems",
+      "name": "Emergence",
+      "name_norm": "emergence",
       "name_variants": [
-        "Hightec Systems Corporation"
+        "Emergence"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "768"
+          "booth": "252"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Highvac Corporation",
-      "name_norm": "highvac",
+      "name": "EMI",
+      "name_norm": "emi",
       "name_variants": [
-        "Highvac Corporation"
+        "EMI"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5944"
+          "booth": "1132"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "HIMEJI RIKA CO.,LTD.",
-      "name_norm": "himeji rika",
+      "name": "ENF Technology",
+      "name_norm": "enf technology",
       "name_variants": [
-        "HIMEJI RIKA CO.,LTD."
+        "ENF Technology"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "573"
+          "booth": "1965"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Hine Automation, LLC",
-      "name_norm": "hine automation",
+      "name": "ENGRICH SOLUTIONS SDN BHD",
+      "name_norm": "engrich solutions",
       "name_variants": [
-        "Hine Automation, LLC"
+        "ENGRICH SOLUTIONS SDN BHD"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "564"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Hitachi Energy Ltd",
-      "name_norm": "hitachi energy",
-      "name_variants": [
-        "Hitachi Energy Ltd"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "M11"
+          "booth": "5854"
         }
       ],
       "website_hint": null
     }
   ],
-  "parent_wp": "WP-0087"
+  "parent_wp": "WP-0076",
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }

@@ -1,7 +1,7 @@
 {
-  "wp_id": "WP-0093",
-  "created_utc": "2026-09-30T12:03:08Z",
-  "attempt": 1,
+  "wp_id": "WP-0078-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
   "limits": {
     "minutes_per_company": 3,
     "minutes_per_workpackage": 35,
@@ -9,148 +9,155 @@
   },
   "companies": [
     {
-      "name": "KOHOKU KOGYO CO., LTD.",
-      "name_norm": "kohoku kogyo",
+      "name": "Everfit Technology Co. Ltd",
+      "name_norm": "everfit technology",
       "name_variants": [
-        "KOHOKU KOGYO CO., LTD."
+        "Everfit Technology Co. Ltd"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3015"
+          "booth": "1043"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Kokusai Semiconductor Equipment Corp",
-      "name_norm": "kokusai semiconductor equipment",
+      "name": "Excelitas Technologies",
+      "name_norm": "excelitas technologies",
       "name_variants": [
-        "Kokusai Semiconductor Equipment Corp"
+        "Excelitas Technologies"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1149"
+          "booth": "5584"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Komori America Corporation",
-      "name_norm": "komori america",
+      "name": "Exergy, LLC",
+      "name_norm": "exergy",
       "name_variants": [
-        "Komori America Corporation"
+        "Exergy, LLC"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3021"
+          "booth": "6568"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Kontron AIS GmbH",
-      "name_norm": "kontron ais",
+      "name": "Exis Tech Sdn Bhd",
+      "name_norm": "exis tech",
       "name_variants": [
-        "Kontron AIS GmbH"
+        "Exis Tech Sdn Bhd"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1444"
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Exosens",
+      "name_norm": "exosens",
+      "name_variants": [
+        "Exosens"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6752"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "C1607"
+          "booth": "C2341"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Korea Kiyon Co., Ltd.",
-      "name_norm": "korea kiyon",
+      "name": "Exotech, Inc",
+      "name_norm": "exotech",
       "name_variants": [
-        "Korea Kiyon Co., Ltd."
+        "Exotech, Inc"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3325"
+          "booth": "6080"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Korea Zinc CO. LT",
-      "name_norm": "korea zinc lt",
+      "name": "Exsif",
+      "name_norm": "exsif",
       "name_variants": [
-        "Korea Zinc CO. LT"
+        "Exsif"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3113"
+          "booth": "6473"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "KOSME (Korea SMEs and Startups Agency)",
-      "name_norm": "kosme",
+      "name": "EZmotion",
+      "name_norm": "ezmotion",
       "name_variants": [
-        "KOSME (Korea SMEs and Startups Agency)"
+        "EZmotion"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3325"
+          "booth": "5143"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "KOTRA Silicon Valley",
-      "name_norm": "kotra silicon valley",
+      "name": "F&K Delvotec, Inc.",
+      "name_norm": "f and k delvotec",
       "name_variants": [
-        "KOTRA Silicon Valley"
+        "F&K Delvotec, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1132"
+          "booth": "1845"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Koyo High Precision",
-      "name_norm": "koyo high precision",
+      "name": "Fabmatics GmbH",
+      "name_norm": "fabmatics",
       "name_variants": [
-        "Koyo High Precision"
+        "Fabmatics GmbH"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6463"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "KSM Co., Ltd.",
-      "name_norm": "ksm",
-      "name_variants": [
-        "KSM Co., Ltd."
-      ],
-      "events": [
+          "booth": "1245"
+        },
         {
-          "event": "SEMICON West",
-          "booth": "959"
+          "event": "SEMICON Europa",
+          "booth": "B1221"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "parent_wp": "WP-0078",
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }

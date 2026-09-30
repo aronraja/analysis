@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0078-R2",
+  "wp_id": "WP-0075-R2",
   "created_utc": "2026-09-30T13:09:03Z",
   "attempt": 2,
   "limits": {
@@ -9,153 +9,159 @@
   },
   "companies": [
     {
-      "name": "Everfit Technology Co. Ltd",
-      "name_norm": "everfit technology",
+      "name": "DS Fibertech Corporation",
+      "name_norm": "ds fibertech",
       "name_variants": [
-        "Everfit Technology Co. Ltd"
+        "DS Fibertech Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1043"
+          "booth": "6354"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Excelitas Technologies",
-      "name_norm": "excelitas technologies",
+      "name": "Durex Industries",
+      "name_norm": "durex industries",
       "name_variants": [
-        "Excelitas Technologies"
+        "Durex Industries"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5584"
+          "booth": "2045"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Exergy, LLC",
-      "name_norm": "exergy",
+      "name": "E & R Engineering Corporation",
+      "name_norm": "e and r engineering",
       "name_variants": [
-        "Exergy, LLC"
+        "E & R Engineering Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6568"
+          "booth": "2153"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Exis Tech Sdn Bhd",
-      "name_norm": "exis tech",
+      "name": "Ebara Technologies, Inc.",
+      "name_norm": "ebara technologies",
       "name_variants": [
-        "Exis Tech Sdn Bhd"
+        "Ebara Technologies, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5854"
+          "booth": "865"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Exosens",
-      "name_norm": "exosens",
+      "name": "ECM Group",
+      "name_norm": "ecm",
       "name_variants": [
-        "Exosens"
+        "ECM Group"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6752"
+          "booth": "1465"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "C2341"
+          "booth": "C1319"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Exotech, Inc",
-      "name_norm": "exotech",
+      "name": "ECO ENERGEN Co. Ltd.",
+      "name_norm": "eco energen",
       "name_variants": [
-        "Exotech, Inc"
+        "ECO ENERGEN Co. Ltd."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6080"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Exsif",
-      "name_norm": "exsif",
-      "name_variants": [
-        "Exsif"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6473"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "EZmotion",
-      "name_norm": "ezmotion",
-      "name_variants": [
-        "EZmotion"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "5143"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "F&K Delvotec, Inc.",
-      "name_norm": "f and k delvotec",
-      "name_variants": [
-        "F&K Delvotec, Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1845"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Fabmatics GmbH",
-      "name_norm": "fabmatics",
-      "name_variants": [
-        "Fabmatics GmbH"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1245"
+          "booth": "1473"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "B1221"
+          "booth": "C1165"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ecoclean, Inc.",
+      "name_norm": "ecoclean",
+      "name_variants": [
+        "Ecoclean, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5667"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EcoSys Abatement",
+      "name_norm": "ecosys abatement",
+      "name_variants": [
+        "EcoSys Abatement"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6157"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Edwards Vacuum",
+      "name_norm": "edwards vacuum",
+      "name_variants": [
+        "Edwards Vacuum"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "633"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1111"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EFC Gases & Advanced Materials",
+      "name_norm": "efc gases and advanced materials",
+      "name_variants": [
+        "EFC Gases & Advanced Materials"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5644"
         }
       ],
       "website_hint": null
     }
   ],
-  "parent_wp": "WP-0078"
+  "parent_wp": "WP-0075",
+  "claimed_utc": "2026-09-30T13:11:22Z",
+  "deadline_utc": "2026-09-30T13:46:22Z"
 }
