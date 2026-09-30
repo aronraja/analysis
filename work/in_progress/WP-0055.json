@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0055",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Yield Engineering Systems India Pvt ltd",
+      "name_norm": "yield engineering systems india pvt",
+      "name_variants": [
+        "Yield Engineering Systems India Pvt ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1568"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zestron Surface Technology Solutions India Private Limited",
+      "name_norm": "zestron surface technology solutions india private",
+      "name_variants": [
+        "Zestron Surface Technology Solutions India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": null
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "3D Systems",
+      "name_norm": "3d systems",
+      "name_variants": [
+        "3D Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5567"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "3D-Micromac AG",
+      "name_norm": "3d micromac",
+      "name_variants": [
+        "3D-Micromac AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AAF International",
+      "name_norm": "aaf international",
+      "name_variants": [
+        "AAF International"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5547"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ABB Analytical Measurement",
+      "name_norm": "abb analytical measurement",
+      "name_variants": [
+        "ABB Analytical Measurement"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "137"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ABM Industries",
+      "name_norm": "abm industries",
+      "name_variants": [
+        "ABM Industries"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2345"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Accelerated Materials",
+      "name_norm": "accelerated materials",
+      "name_variants": [
+        "Accelerated Materials"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Accretech America Inc",
+      "name_norm": "accretech america",
+      "name_variants": [
+        "Accretech America Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "745"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ace Dragon Corp.",
+      "name_norm": "ace dragon",
+      "name_variants": [
+        "Ace Dragon Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1265"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:32:01Z",
+  "deadline_utc": "2026-09-30T13:07:01Z"
+}

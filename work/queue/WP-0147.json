@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0147",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Semiconductor Equipment Solutions GmbH",
+      "name_norm": "semiconductor equipment solutions",
+      "name_variants": [
+        "Semiconductor Equipment Solutions GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-704"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semidynamics Technology Services SL",
+      "name_norm": "semidynamics technology services sl",
+      "name_variants": [
+        "Semidynamics Technology Services SL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semilab Semiconductor Physics Laboratory Co. Ltd.",
+      "name_norm": "semilab semiconductor physics laboratory",
+      "name_variants": [
+        "Semilab Semiconductor Physics Laboratory Co. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1646"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semishare Co., Ltd",
+      "name_norm": "semishare",
+      "name_variants": [
+        "Semishare Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1514"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semitronix Corporation",
+      "name_norm": "semitronix",
+      "name_variants": [
+        "Semitronix Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2246"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEMPA Systems GmbH",
+      "name_norm": "sempa systems",
+      "name_variants": [
+        "SEMPA Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SENTECH Instruments GmbH",
+      "name_norm": "sentech instruments",
+      "name_variants": [
+        "SENTECH Instruments GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1900"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SGS Institut Fresenius GmbH",
+      "name_norm": "sgs institut fresenius",
+      "name_variants": [
+        "SGS Institut Fresenius GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shaanxi Huanghe Group Co., Ltd",
+      "name_norm": "shaanxi huanghe",
+      "name_variants": [
+        "Shaanxi Huanghe Group Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-902"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shaanxi Lingyun Electronics Group Co., Ltd.",
+      "name_norm": "shaanxi lingyun electronics",
+      "name_variants": [
+        "Shaanxi Lingyun Electronics Group Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-904"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

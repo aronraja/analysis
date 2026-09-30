@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0123",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Superlok USA",
+      "name_norm": "superlok usa",
+      "name_variants": [
+        "Superlok USA"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1573"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Supply Technologies LLC",
+      "name_norm": "supply technologies",
+      "name_variants": [
+        "Supply Technologies LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6461"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Surfx Technologies LLC",
+      "name_norm": "surfx technologies",
+      "name_variants": [
+        "Surfx Technologies LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6672"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1478"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SUSS",
+      "name_norm": "suss",
+      "name_variants": [
+        "SUSS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "333"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Suzhou Baicon Sensor Technology Co.,LTD",
+      "name_norm": "suzhou baicon sensor technology",
+      "name_variants": [
+        "Suzhou Baicon Sensor Technology Co.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "258"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Swift Coat, Inc.",
+      "name_norm": "swift coat",
+      "name_variants": [
+        "Swift Coat, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1668"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Synova USA Inc.",
+      "name_norm": "synova usa",
+      "name_variants": [
+        "Synova USA Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5581"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TA Instruments Waters",
+      "name_norm": "ta instruments waters",
+      "name_variants": [
+        "TA Instruments Waters"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3010"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Taiwan Busway Co., Ltd.",
+      "name_norm": "taiwan busway",
+      "name_variants": [
+        "Taiwan Busway Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3313"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Taiwan Union East-Win Technology Co., Ltd.",
+      "name_norm": "taiwan union east win technology",
+      "name_variants": [
+        "Taiwan Union East-Win Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1969"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

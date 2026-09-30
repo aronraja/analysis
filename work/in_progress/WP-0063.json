@@ -1,0 +1,167 @@
+{
+  "wp_id": "WP-0063",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "attocube systems Inc.",
+      "name_norm": "attocube systems",
+      "name_variants": [
+        "attocube systems Inc.",
+        "attocube systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6464"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0516"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Azbil North America, Inc",
+      "name_norm": "azbil north america",
+      "name_variants": [
+        "Azbil North America, Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5786"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bach Resistor Ceramics GmbH",
+      "name_norm": "bach resistor ceramics",
+      "name_variants": [
+        "Bach Resistor Ceramics GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Banner Industries of NE, Inc.",
+      "name_norm": "banner industries of ne",
+      "name_variants": [
+        "Banner Industries of NE, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1749"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Basler Inc.",
+      "name_norm": "basler",
+      "name_variants": [
+        "Basler Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6086"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bay Seal Company",
+      "name_norm": "bay seal",
+      "name_variants": [
+        "Bay Seal Company"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "452"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bechtel Manufacturing and Technology",
+      "name_norm": "bechtel manufacturing and technology",
+      "name_variants": [
+        "Bechtel Manufacturing and Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3120"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BellowsTech, LLC",
+      "name_norm": "bellowstech",
+      "name_variants": [
+        "BellowsTech, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1569"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Besi (BE Semiconductor Industries N.V.)",
+      "name_norm": "besi",
+      "name_variants": [
+        "Besi (BE Semiconductor Industries N.V.)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "649"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "B-FCTL Co., Ltd.",
+      "name_norm": "b fctl",
+      "name_variants": [
+        "B-FCTL Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6183"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:34:38Z",
+  "deadline_utc": "2026-09-30T13:09:38Z"
+}

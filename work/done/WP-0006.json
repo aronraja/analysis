@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0006",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Ascentrade India Private Limited",
+      "name_norm": "ascentrade india private",
+      "name_variants": [
+        "Ascentrade India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7526"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASETS Pte. Ltd.",
+      "name_norm": "asets",
+      "name_variants": [
+        "ASETS Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1241"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASM HHV ENGINEERING PRIVATE LIMITED",
+      "name_norm": "asm hhv engineering private",
+      "name_variants": [
+        "ASM HHV ENGINEERING PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "577"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASM Technologies LTD",
+      "name_norm": "asm technologies",
+      "name_variants": [
+        "ASM Technologies LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "478"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASML Technology Taiwan Ltd",
+      "name_norm": "asml technology taiwan",
+      "name_variants": [
+        "ASML Technology Taiwan Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "602"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASMPT Singapore",
+      "name_norm": "asmpt singapore",
+      "name_variants": [
+        "ASMPT Singapore"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1346"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Assam Industrial Development Corporation Limited (Government of Assam)",
+      "name_norm": "assam industrial development",
+      "name_variants": [
+        "Assam Industrial Development Corporation Limited (Government of Assam)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1246"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Astec Valves & Fittings Pvt. Ltd.",
+      "name_norm": "astec valves and fittings pvt",
+      "name_variants": [
+        "Astec Valves & Fittings Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6926"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Asterion Semitech Private Limited",
+      "name_norm": "asterion semitech private",
+      "name_variants": [
+        "Asterion Semitech Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7023"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Astro Plasma Private Limited",
+      "name_norm": "astro plasma private",
+      "name_variants": [
+        "Astro Plasma Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1039"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:24Z",
+  "deadline_utc": "2026-09-30T12:47:24Z"
+}

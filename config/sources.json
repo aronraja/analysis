@@ -1,0 +1,10 @@
+{
+  "_note": "Line ranges in input/exhibitors_raw.txt -> event label. Event names for list 2 are a GUESS from booth format; correct them before running.",
+  "raw_file": "input/exhibitors_raw.txt",
+  "segments": [
+    {"first_line": 1,    "last_line": 543,  "event": "SEMICON India",  "verified": false},
+    {"first_line": 544,  "last_line": 1382, "event": "SEMICON West",   "verified": false},
+    {"first_line": 1383, "last_line": 2031, "event": "SEMICON Europa", "verified": false}
+  ],
+  "extra_csv": "input/exhibitors_extra.csv"
+}

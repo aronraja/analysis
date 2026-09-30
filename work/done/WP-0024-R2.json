@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0024-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "INOX Air Products Private Limited",
+      "name_norm": "inox air products private",
+      "name_variants": [
+        "INOX Air Products Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "114"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Integrated Cleanroom Technologies Pvt. Ltd.,",
+      "name_norm": "integrated cleanroom technologies pvt",
+      "name_variants": [
+        "Integrated Cleanroom Technologies Pvt. Ltd.,"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "824"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IntelliSense Software",
+      "name_norm": "intellisense software",
+      "name_variants": [
+        "IntelliSense Software"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7229"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INTERNATIONAL FACILITY ENGINEERING PTE. LTD.,",
+      "name_norm": "international facility engineering",
+      "name_variants": [
+        "INTERNATIONAL FACILITY ENGINEERING PTE. LTD.,"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3524"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "International Green Technology Japan",
+      "name_norm": "international green technology japan",
+      "name_variants": [
+        "International Green Technology Japan"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4818"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INTERTEC SQUARED INC",
+      "name_norm": "intertec squared",
+      "name_variants": [
+        "INTERTEC SQUARED INC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "856"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Intics.ai INC",
+      "name_norm": "intics ai",
+      "name_variants": [
+        "Intics.ai INC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6436"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INVENTEC Performance Chemicals",
+      "name_norm": "inventec performance chemicals",
+      "name_variants": [
+        "INVENTEC Performance Chemicals"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1656"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2351"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ion Exchange (India) Ltd.",
+      "name_norm": "ion exchange",
+      "name_variants": [
+        "Ion Exchange (India) Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3411"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Iwate Industry Promotion Center",
+      "name_norm": "iwate industry promotion center",
+      "name_variants": [
+        "Iwate Industry Promotion Center"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1124"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0024",
+  "claimed_utc": "2026-09-30T12:24:11Z",
+  "deadline_utc": "2026-09-30T12:59:11Z"
+}

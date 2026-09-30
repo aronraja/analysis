@@ -1,0 +1,88 @@
+[
+  {
+    "record": {
+      "wp_id": "WP-0031-R2",
+      "input_name": "Merck Performance Materials Co., Ltd.",
+      "name": "Merck KGaA (Electronics)",
+      "name_variants": [
+        "Merck Performance Materials Co., Ltd.",
+        "Merck Performance Materials",
+        "Merck KGaA, Darmstadt, Germany",
+        "EMD Electronics",
+        "EMD Performance Materials"
+      ],
+      "legal_name": "Merck Kommanditgesellschaft auf Aktien",
+      "website": "https://www.merckgroup.com",
+      "linkedin_url": "https://www.linkedin.com/company/merck-group",
+      "hq_city": "Darmstadt",
+      "hq_country": "DE",
+      "hq_region": "EMEA",
+      "other_offices": [
+        {
+          "city": "Philadelphia",
+          "country": "US",
+          "type": "regional_hq"
+        },
+        {
+          "city": "Tempe",
+          "country": "US",
+          "type": "manufacturing"
+        },
+        {
+          "city": "Shizuoka",
+          "country": "JP",
+          "type": "manufacturing"
+        }
+      ],
+      "founded_year": 1668,
+      "employee_range": "10001+",
+      "ownership_type": "public",
+      "parent_company": null,
+      "stock_ticker": "ETR:MRK",
+      "primary_category_group": "301",
+      "primary_subcategory": "301.07",
+      "secondary_subcategories": [
+        "301.06",
+        "307.03",
+        "303.07",
+        "302.05"
+      ],
+      "value_chain_role": "materials",
+      "product_keywords": [
+        "photoresists",
+        "deposition precursors",
+        "CMP slurries",
+        "specialty gases",
+        "dielectrics",
+        "liquid crystals",
+        "OLED materials",
+        "antireflective coatings"
+      ],
+      "end_markets": [
+        "logic",
+        "memory",
+        "displays",
+        "advanced packaging"
+      ],
+      "description": "Electronics business sector of German science and technology group Merck KGaA, supplying semiconductor materials - photoresists, deposition precursors, CMP slurries and specialty gases - plus display and surface-solutions materials; it absorbed Versum Materials in 2019.",
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "523"
+        }
+      ],
+      "status": "complete",
+      "confidence": 0.8,
+      "sources": [
+        "https://www.emdgroup.com/en/expertise/semiconductors/offering/semiconductor-materials.html",
+        "https://www.emdgroup.com/en/media-center/press-kits/performance-materials-is-now-electronics.html",
+        "https://www.semi.org/en/news-resources/press/Merck-Bright_Future"
+      ],
+      "notes": "Exhibitor name is a regional Merck Performance Materials operating entity; folded into the Merck KGaA (Darmstadt) group record. The Performance Materials sector was renamed Electronics in 2021; in the US and Canada the group trades as EMD Electronics. Specific country of the 'Co., Ltd.' entity not confirmed.",
+      "researched_utc": "2026-09-30T12:37:00Z"
+    },
+    "errors": [
+      "bad founded_year"
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0046",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Singapore Precision Engineering and Technology Association (SPETA)",
+      "name_norm": "singapore precision engineering and technology association",
+      "name_variants": [
+        "Singapore Precision Engineering and Technology Association (SPETA)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1023"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SMC Corporation (India) Pvt. Ltd.",
+      "name_norm": "smc pvt",
+      "name_variants": [
+        "SMC Corporation (India) Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "246"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Smiths Interconnect, a Molex company",
+      "name_norm": "smiths interconnect a molex",
+      "name_variants": [
+        "Smiths Interconnect, a Molex company"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3323"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Society for Information Display",
+      "name_norm": "society for information display",
+      "name_variants": [
+        "Society for Information Display"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5605"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sojitz Corporation",
+      "name_norm": "sojitz",
+      "name_variants": [
+        "Sojitz Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4021"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Specmax Technologies Pte Ltd",
+      "name_norm": "specmax technologies",
+      "name_variants": [
+        "Specmax Technologies Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1034"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Spray Engineering Devices Limited",
+      "name_norm": "spray engineering devices",
+      "name_variants": [
+        "Spray Engineering Devices Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7031"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Startup Mitra",
+      "name_norm": "startup mitra",
+      "name_variants": [
+        "Startup Mitra"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "718"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Startup Pavilion",
+      "name_norm": "startup pavilion",
+      "name_variants": [
+        "Startup Pavilion"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "STEMROBO TECHNOLOGIES LIMITED",
+      "name_norm": "stemrobo technologies",
+      "name_variants": [
+        "STEMROBO TECHNOLOGIES LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7636"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:30:25Z",
+  "deadline_utc": "2026-09-30T13:05:25Z"
+}

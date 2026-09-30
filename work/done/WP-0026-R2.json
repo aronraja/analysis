@@ -1,0 +1,163 @@
+{
+  "wp_id": "WP-0026-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "JT Corp.",
+      "name_norm": "jt",
+      "name_variants": [
+        "JT Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "656"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jubilant Ingrevia Limited",
+      "name_norm": "jubilant ingrevia",
+      "name_variants": [
+        "Jubilant Ingrevia Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7223"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jung Sung Tech Co.,Ltd.",
+      "name_norm": "jung sung tech",
+      "name_variants": [
+        "Jung Sung Tech Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6324"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kaijo Corporation",
+      "name_norm": "kaijo",
+      "name_variants": [
+        "Kaijo Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5722"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kanken Techno Co., Ltd.",
+      "name_norm": "kanken techno",
+      "name_variants": [
+        "Kanken Techno Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1462"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "6248"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1707"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Karnataka Innovation and Technology Society, Government of Karnataka",
+      "name_norm": "karnataka innovation and technology society government of karnataka",
+      "name_variants": [
+        "Karnataka Innovation and Technology Society, Government of Karnataka"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6702"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kay International Pvt. Ltd.",
+      "name_norm": "kay international pvt",
+      "name_variants": [
+        "Kay International Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7531"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kaynes Semicon Private Limited",
+      "name_norm": "kaynes semicon private",
+      "name_variants": [
+        "Kaynes Semicon Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1314"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KEYSIGHT TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "name_norm": "keysight technologies india private",
+      "name_variants": [
+        "KEYSIGHT TECHNOLOGIES INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1578"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Khurana & Khurana (K&K)",
+      "name_norm": "khurana and khurana",
+      "name_variants": [
+        "Khurana & Khurana (K&K)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6029"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0026",
+  "claimed_utc": "2026-09-30T12:25:08Z",
+  "deadline_utc": "2026-09-30T13:00:08Z"
+}

@@ -1,0 +1,163 @@
+{
+  "wp_id": "WP-0057",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Advantest America, Inc.",
+      "name_norm": "advantest america",
+      "name_variants": [
+        "Advantest America, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1833"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advantiv Technologies, Inc.",
+      "name_norm": "advantiv technologies",
+      "name_variants": [
+        "Advantiv Technologies, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5671"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AEG Identifikationssysteme GmbH",
+      "name_norm": "aeg identifikationssysteme",
+      "name_variants": [
+        "AEG Identifikationssysteme GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6088"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aemulus Corporation Sdn Bhd",
+      "name_norm": "aemulus",
+      "name_variants": [
+        "Aemulus Corporation Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AES Motomation",
+      "name_norm": "aes motomation",
+      "name_variants": [
+        "AES Motomation",
+        "AES motomation GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "339"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1672"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Affiliated Engineers Incorporated",
+      "name_norm": "affiliated engineers",
+      "name_variants": [
+        "Affiliated Engineers Incorporated"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5149"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AGC Chemical Americas, Inc.",
+      "name_norm": "agc chemical americas",
+      "name_variants": [
+        "AGC Chemical Americas, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "162"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Agileo Automation",
+      "name_norm": "agileo automation",
+      "name_variants": [
+        "Agileo Automation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5777"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1341"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AI Technology, Inc.",
+      "name_norm": "ai technology",
+      "name_variants": [
+        "AI Technology, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5853"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AIBIZ Co. Ltd.",
+      "name_norm": "aibiz",
+      "name_variants": [
+        "AIBIZ Co. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:32:12Z",
+  "deadline_utc": "2026-09-30T13:07:12Z"
+}

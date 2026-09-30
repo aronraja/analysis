@@ -1,0 +1,165 @@
+{
+  "wp_id": "WP-0031-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "MAXVY Technologies Pvt Ltd",
+      "name_norm": "maxvy technologies pvt",
+      "name_variants": [
+        "MAXVY Technologies Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MayAir Singapore Pte. Ltd.",
+      "name_norm": "mayair singapore",
+      "name_variants": [
+        "MayAir Singapore Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1028"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MBit Wireless Pvt. Ltd",
+      "name_norm": "mbit wireless pvt",
+      "name_variants": [
+        "MBit Wireless Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mechmaark filters india pvt Ltd",
+      "name_norm": "mechmaark filters india pvt",
+      "name_variants": [
+        "Mechmaark filters india pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5919"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MediaMac Pte Ltd",
+      "name_norm": "mediamac",
+      "name_variants": [
+        "MediaMac Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1139"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MEINHARDT EPCM (INDIA) PRIVATE LIMITED",
+      "name_norm": "meinhardt epcm private",
+      "name_variants": [
+        "MEINHARDT EPCM (INDIA) PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6531"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mel Systems and Services Limited",
+      "name_norm": "mel systems and services",
+      "name_variants": [
+        "Mel Systems and Services Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1624"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Membrane Group India Pvt Ltd",
+      "name_norm": "membrane india pvt",
+      "name_variants": [
+        "Membrane Group India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1676"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Membrane Solutions Corp.",
+      "name_norm": "membrane solutions",
+      "name_variants": [
+        "Membrane Solutions Corp.",
+        "Membrane Solutions, LLC",
+        "Membrane Solutions(Nantong) Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6916"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "6154"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1761"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Merck Performance Materials Co., Ltd.",
+      "name_norm": "merck performance materials",
+      "name_variants": [
+        "Merck Performance Materials Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "523"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0031",
+  "claimed_utc": "2026-09-30T12:26:05Z",
+  "deadline_utc": "2026-09-30T13:01:05Z"
+}

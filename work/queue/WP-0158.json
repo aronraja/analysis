@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0158",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "MADDE Inc",
+      "name_norm": "madde",
+      "name_variants": [
+        "MADDE Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2343"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Magnetic Innovations B.V.",
+      "name_norm": "magnetic innovations b v",
+      "name_variants": [
+        "Magnetic Innovations B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MANN+HUMMEL Molecular GmbH",
+      "name_norm": "mann hummel molecular",
+      "name_variants": [
+        "MANN+HUMMEL Molecular GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Marubeni International (Europe) GmbH",
+      "name_norm": "marubeni international",
+      "name_variants": [
+        "Marubeni International (Europe) GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2159"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mattson International GmbH",
+      "name_norm": "mattson international",
+      "name_variants": [
+        "Mattson International GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MCRT Micro CleanRoom Technology GmbH",
+      "name_norm": "mcrt micro cleanroom technology",
+      "name_variants": [
+        "MCRT Micro CleanRoom Technology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1856"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Megatech GmbH",
+      "name_norm": "megatech",
+      "name_variants": [
+        "Megatech GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Merck KGaA, Darmstadt, Germany",
+      "name_norm": "merck kgaa darmstadt germany",
+      "name_variants": [
+        "Merck KGaA, Darmstadt, Germany"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1830"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Merconics GmbH & Co. KG",
+      "name_norm": "merconics and",
+      "name_variants": [
+        "Merconics GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1840"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MFSG Pte Ltd",
+      "name_norm": "mfsg",
+      "name_variants": [
+        "MFSG Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1437"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

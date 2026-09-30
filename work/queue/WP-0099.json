@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0099",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Milara Inc.",
+      "name_norm": "milara",
+      "name_variants": [
+        "Milara Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Milestone Technology",
+      "name_norm": "milestone technology",
+      "name_variants": [
+        "Milestone Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3031"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mipox Corporation",
+      "name_norm": "mipox",
+      "name_variants": [
+        "Mipox Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5378"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MIRTEC Co., Ltd",
+      "name_norm": "mirtec",
+      "name_variants": [
+        "MIRTEC Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6162"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mitsubishi Cable America, Inc.",
+      "name_norm": "mitsubishi cable america",
+      "name_variants": [
+        "Mitsubishi Cable America, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3412"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mitsui Chemicals America, Inc.",
+      "name_norm": "mitsui chemicals america",
+      "name_variants": [
+        "Mitsui Chemicals America, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1772"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mitutoyo America Corporation",
+      "name_norm": "mitutoyo america",
+      "name_variants": [
+        "Mitutoyo America Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5754"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mivium, Inc.",
+      "name_norm": "mivium",
+      "name_variants": [
+        "Mivium, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5582"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MKP Co., Ltd.",
+      "name_norm": "mkp",
+      "name_variants": [
+        "MKP Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MKS Inc.",
+      "name_norm": "mks",
+      "name_variants": [
+        "MKS Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5684"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

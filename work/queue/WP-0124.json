@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0124",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Takachiho America, Inc.",
+      "name_norm": "takachiho america",
+      "name_variants": [
+        "Takachiho America, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6757"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TDK Corporation of America",
+      "name_norm": "tdk of america",
+      "name_variants": [
+        "TDK Corporation of America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "453"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Team Oregon",
+      "name_norm": "team oregon",
+      "name_variants": [
+        "Team Oregon"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6448"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TEAM TAIWAN",
+      "name_norm": "team taiwan",
+      "name_variants": [
+        "TEAM TAIWAN"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1043"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1265"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Team Texas",
+      "name_norm": "team texas",
+      "name_variants": [
+        "Team Texas"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5444"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TechCore PVA",
+      "name_norm": "techcore pva",
+      "name_variants": [
+        "TechCore PVA"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "256"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Teesing",
+      "name_norm": "teesing",
+      "name_variants": [
+        "Teesing"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3119"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2153"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Teikoku Taping System, Inc.",
+      "name_norm": "teikoku taping system",
+      "name_variants": [
+        "Teikoku Taping System, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6571"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Teksoli, Inc.",
+      "name_norm": "teksoli",
+      "name_variants": [
+        "Teksoli, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3042"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TEL",
+      "name_norm": "tel",
+      "name_variants": [
+        "TEL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "W1"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

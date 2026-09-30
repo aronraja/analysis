@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0116",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Seiwa Optical America Inc.",
+      "name_norm": "seiwa optical america",
+      "name_variants": [
+        "Seiwa Optical America Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5783"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEMI",
+      "name_norm": "semi",
+      "name_variants": [
+        "SEMI"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "322"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEMI Booth test",
+      "name_norm": "semi booth test",
+      "name_variants": [
+        "SEMI Booth test"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "322"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semiconductor Digest",
+      "name_norm": "semiconductor digest",
+      "name_variants": [
+        "Semiconductor Digest"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3402"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semiconductor Equipment Corporation",
+      "name_norm": "semiconductor equipment",
+      "name_variants": [
+        "Semiconductor Equipment Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5857"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semiconductor Spares, LLC",
+      "name_norm": "semiconductor spares",
+      "name_variants": [
+        "Semiconductor Spares, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1866"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Semilab",
+      "name_norm": "semilab",
+      "name_variants": [
+        "Semilab"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "545"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SemiLink Materials, LLC",
+      "name_norm": "semilink materials",
+      "name_variants": [
+        "SemiLink Materials, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5348"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SENACYT",
+      "name_norm": "senacyt",
+      "name_variants": [
+        "SENACYT"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3341"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sensofar",
+      "name_norm": "sensofar",
+      "name_variants": [
+        "Sensofar"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6807"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1235"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

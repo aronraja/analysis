@@ -1,0 +1,155 @@
+{
+  "wp_id": "WP-0032-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Metkorp Equipments Pvt Ltd.",
+      "name_norm": "metkorp equipments pvt",
+      "name_variants": [
+        "Metkorp Equipments Pvt Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6336"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mettler-Toledo India Pvt. Ltd",
+      "name_norm": "mettler toledo india pvt",
+      "name_variants": [
+        "Mettler-Toledo India Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3409"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mi Equipment Pte. Ltd.",
+      "name_norm": "mi equipment",
+      "name_variants": [
+        "Mi Equipment Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1027"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Micro Engineering Inc.",
+      "name_norm": "micro engineering",
+      "name_variants": [
+        "Micro Engineering Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4716"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Micro Epsilon India Private Limited",
+      "name_norm": "micro epsilon india private",
+      "name_variants": [
+        "Micro Epsilon India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4916"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Micron Technology Operations India LLP",
+      "name_norm": "micron technology operations india",
+      "name_variants": [
+        "Micron Technology Operations India LLP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1001"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mihama India Pvt Ltd",
+      "name_norm": "mihama india pvt",
+      "name_variants": [
+        "Mihama India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5916"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Millice PTE LTD",
+      "name_norm": "millice",
+      "name_variants": [
+        "Millice PTE LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1042"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mindgrove Technologies",
+      "name_norm": "mindgrove technologies",
+      "name_variants": [
+        "Mindgrove Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3724"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mindox Techno Pte. Ltd.",
+      "name_norm": "mindox techno",
+      "name_variants": [
+        "Mindox Techno Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1134"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0032",
+  "claimed_utc": "2026-09-30T12:26:12Z",
+  "deadline_utc": "2026-09-30T13:01:12Z"
+}

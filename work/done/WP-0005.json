@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0005",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Andhra Pradesh Economic Development Board - Govt of Andhra Pradesh",
+      "name_norm": "andhra pradesh economic development board govt of andhra pradesh",
+      "name_variants": [
+        "Andhra Pradesh Economic Development Board - Govt of Andhra Pradesh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6605"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ANEMO PRIME",
+      "name_norm": "anemo prime",
+      "name_variants": [
+        "ANEMO PRIME"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6031"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Anora Instrumentation Private Limited",
+      "name_norm": "anora instrumentation private",
+      "name_variants": [
+        "Anora Instrumentation Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ansell India Protective Products Pvt Ltd",
+      "name_norm": "ansell india protective products pvt",
+      "name_variants": [
+        "Ansell India Protective Products Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1675"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "APK AQUATECH PVT. LTD.",
+      "name_norm": "apk aquatech pvt",
+      "name_variants": [
+        "APK AQUATECH PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "155"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "APP SYSTEMS SERVICES PTE LTD",
+      "name_norm": "app systems services",
+      "name_variants": [
+        "APP SYSTEMS SERVICES PTE LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1041"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Applied Materials India Pvt. Ltd.",
+      "name_norm": "applied materials india pvt",
+      "name_variants": [
+        "Applied Materials India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "402"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aquatech Systems (Asia) Pvt. Ltd.",
+      "name_norm": "aquatech systems pvt",
+      "name_variants": [
+        "Aquatech Systems (Asia) Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7231"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Arvind Envisol Limited",
+      "name_norm": "arvind envisol",
+      "name_variants": [
+        "Arvind Envisol Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6921"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASAHI DIAMOND INDUSTRIAL INDIA PVT. LTD.",
+      "name_norm": "asahi diamond industrial india pvt",
+      "name_variants": [
+        "ASAHI DIAMOND INDUSTRIAL INDIA PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1339"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:24Z",
+  "deadline_utc": "2026-09-30T12:47:24Z"
+}

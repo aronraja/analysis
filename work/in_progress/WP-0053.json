@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0053",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Vaisala India Private Limited",
+      "name_norm": "vaisala india private",
+      "name_variants": [
+        "Vaisala India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "678"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Valex Semiconductor Materials (zhejiang) Co.,Ltd",
+      "name_norm": "valex semiconductor materials",
+      "name_variants": [
+        "Valex Semiconductor Materials (zhejiang) Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7214"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VAT Singapore Pte Ltd",
+      "name_norm": "vat singapore",
+      "name_variants": [
+        "VAT Singapore Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5405"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vayusodh Applied Systems and Technologies LLP",
+      "name_norm": "vayusodh applied systems and technologies",
+      "name_variants": [
+        "Vayusodh Applied Systems and Technologies LLP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1061"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VEECO Asia PTE LTD.",
+      "name_norm": "veeco asia",
+      "name_variants": [
+        "VEECO Asia PTE LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1556"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Veolia",
+      "name_norm": "veolia",
+      "name_variants": [
+        "Veolia"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7502"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5340"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VerifAIX",
+      "name_norm": "verifaix",
+      "name_variants": [
+        "VerifAIX"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vervesemi Microelectronics Pvt Ltd",
+      "name_norm": "vervesemi microelectronics pvt",
+      "name_variants": [
+        "Vervesemi Microelectronics Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "813"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vesidam Technologies",
+      "name_norm": "vesidam technologies",
+      "name_variants": [
+        "Vesidam Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VIETNAM CULLINAN ELECTRIC LIMTD",
+      "name_norm": "vietnam cullinan electric limtd",
+      "name_variants": [
+        "VIETNAM CULLINAN ELECTRIC LIMTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7628"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:31:54Z",
+  "deadline_utc": "2026-09-30T13:06:54Z"
+}

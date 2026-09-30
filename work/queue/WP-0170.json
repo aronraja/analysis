@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0170",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Freudenberg FST GmbH",
+      "name_norm": "freudenberg fst",
+      "name_variants": [
+        "Freudenberg FST GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1724"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fujian ZINGIN New Material Technology Co., Ltd.",
+      "name_norm": "fujian zingin new material technology",
+      "name_variants": [
+        "Fujian ZINGIN New Material Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2216"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FUJIFILM Electronic Materials (Europe) N.V.",
+      "name_norm": "fujifilm electronic materials n v",
+      "name_variants": [
+        "FUJIFILM Electronic Materials (Europe) N.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1516"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FUJIFILM Europe GmbH",
+      "name_norm": "fujifilm europe",
+      "name_variants": [
+        "FUJIFILM Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1516"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fundació Innofab",
+      "name_norm": "fundacio innofab",
+      "name_variants": [
+        "Fundació Innofab"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GAS Insights GmbH",
+      "name_norm": "gas insights",
+      "name_variants": [
+        "GAS Insights GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GBS metrology GmbH",
+      "name_norm": "gbs metrology",
+      "name_variants": [
+        "GBS metrology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GEMU, Gebr. Muller Apparatebau GmbH & Co. KG",
+      "name_norm": "gemu gebr muller apparatebau and",
+      "name_variants": [
+        "GEMU, Gebr. Muller Apparatebau GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1718"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Genstar Technologies Co., Inc",
+      "name_norm": "genstar technologies",
+      "name_variants": [
+        "Genstar Technologies Co., Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2334"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Georg Fischer GmbH",
+      "name_norm": "georg fischer",
+      "name_variants": [
+        "Georg Fischer GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1165"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

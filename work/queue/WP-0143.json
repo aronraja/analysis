@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0143",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "SIGA - Systeme für industrielle Gasanwendungen GmbH",
+      "name_norm": "siga systeme fur industrielle gasanwendungen",
+      "name_variants": [
+        "SIGA - Systeme für industrielle Gasanwendungen GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2240"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sigasi",
+      "name_norm": "sigasi",
+      "name_variants": [
+        "Sigasi"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Silicon Saxony e.V.",
+      "name_norm": "silicon saxony e v",
+      "name_variants": [
+        "Silicon Saxony e.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221, B1521"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SIMACO ELETTROMECCANICA S.R.L.",
+      "name_norm": "simaco elettromeccanica s r l",
+      "name_variants": [
+        "SIMACO ELETTROMECCANICA S.R.L."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1468"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Simek GmbH",
+      "name_norm": "simek",
+      "name_variants": [
+        "Simek GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SIMONA AG",
+      "name_norm": "simona",
+      "name_variants": [
+        "SIMONA AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1913"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Singulus Technologies AG",
+      "name_norm": "singulus technologies",
+      "name_variants": [
+        "Singulus Technologies AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1458"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sinto Advanced Ceramics Europe GmbH",
+      "name_norm": "sinto advanced ceramics europe",
+      "name_variants": [
+        "Sinto Advanced Ceramics Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2458"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SiSTEM Technology Ltd",
+      "name_norm": "sistem technology",
+      "name_variants": [
+        "SiSTEM Technology Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1353"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SMART Manufacturing Pavilion",
+      "name_norm": "smart manufacturing pavilion",
+      "name_variants": [
+        "SMART Manufacturing Pavilion"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1740"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

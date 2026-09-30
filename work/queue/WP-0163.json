@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0163",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Kashiyama Europe GmbH",
+      "name_norm": "kashiyama europe",
+      "name_variants": [
+        "Kashiyama Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1814"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KEHUA SINGAPORE PTE. LTD.",
+      "name_norm": "kehua singapore",
+      "name_variants": [
+        "KEHUA SINGAPORE PTE. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1332"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kelington Engineering (Germany) GmbH",
+      "name_norm": "kelington engineering",
+      "name_variants": [
+        "Kelington Engineering (Germany) GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1105"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KITEC microelectronic technologie GmbH",
+      "name_norm": "kitec microelectronic technologie",
+      "name_variants": [
+        "KITEC microelectronic technologie GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1358"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Koh Young Europe GmbH",
+      "name_norm": "koh young europe",
+      "name_variants": [
+        "Koh Young Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2329"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kokusai Semiconductor Europe GmbH",
+      "name_norm": "kokusai semiconductor europe",
+      "name_variants": [
+        "Kokusai Semiconductor Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1219"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KoMiCo Technology Taiwan",
+      "name_norm": "komico technology taiwan",
+      "name_variants": [
+        "KoMiCo Technology Taiwan"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1667"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gradiant Germany GmbH",
+      "name_norm": "gradiant germany",
+      "name_variants": [
+        "Gradiant Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0707"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GreaTech Substrates Co.,Ltd",
+      "name_norm": "greatech substrates",
+      "name_variants": [
+        "GreaTech Substrates Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1469"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Green Excel Poland Sp. Zo.o",
+      "name_norm": "green excel poland sp zo o",
+      "name_variants": [
+        "Green Excel Poland Sp. Zo.o"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1128"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

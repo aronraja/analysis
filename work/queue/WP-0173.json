@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0173",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "DOD Technologies, Inc.",
+      "name_norm": "dod technologies",
+      "name_variants": [
+        "DOD Technologies, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2151"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dongguan E-CO Clean Material Technology Co., Ltd.",
+      "name_norm": "dongguan e clean material technology",
+      "name_variants": [
+        "Dongguan E-CO Clean Material Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2169"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DONGGUAN XY NEW MATERIAL CO.,LTD",
+      "name_norm": "dongguan xy new material",
+      "name_variants": [
+        "DONGGUAN XY NEW MATERIAL CO.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2333"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DR YIELD Software & Solutions GmbH",
+      "name_norm": "dr yield software and solutions",
+      "name_variants": [
+        "DR YIELD Software & Solutions GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1740"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DSV - Global Transport and Logistics",
+      "name_norm": "dsv global transport and logistics",
+      "name_variants": [
+        "DSV - Global Transport and Logistics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1151"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "E+H Metrology GmbH",
+      "name_norm": "e h metrology",
+      "name_variants": [
+        "E+H Metrology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1772"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ebara Precision Machinery Europe GmbH",
+      "name_norm": "ebara precision machinery europe",
+      "name_variants": [
+        "Ebara Precision Machinery Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EIDA Solutions",
+      "name_norm": "eida solutions",
+      "name_variants": [
+        "EIDA Solutions"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2126"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Elect High-Tech Electronics BV",
+      "name_norm": "elect high tech electronics",
+      "name_variants": [
+        "Elect High-Tech Electronics BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Electron Mec Srl",
+      "name_norm": "electron mec",
+      "name_variants": [
+        "Electron Mec Srl"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

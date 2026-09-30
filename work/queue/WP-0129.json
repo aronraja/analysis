@@ -1,0 +1,161 @@
+{
+  "wp_id": "WP-0129",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "University of California, Santa Cruz",
+      "name_norm": "university of california santa cruz",
+      "name_variants": [
+        "University of California, Santa Cruz"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "University of Oregon",
+      "name_norm": "university of oregon",
+      "name_variants": [
+        "University of Oregon"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6448"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Univertical LLC",
+      "name_norm": "univertical",
+      "name_variants": [
+        "Univertical LLC",
+        "Univertical Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5553"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1764"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Uptime Crew",
+      "name_norm": "uptime crew",
+      "name_variants": [
+        "Uptime Crew"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6771"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "USA Rare Earth, Inc.",
+      "name_norm": "usa rare earth",
+      "name_variants": [
+        "USA Rare Earth, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3134"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ushio, Inc.",
+      "name_norm": "ushio",
+      "name_variants": [
+        "Ushio, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "752"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1908"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "V Tex America Inc.",
+      "name_norm": "v tex america",
+      "name_variants": [
+        "V Tex America Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "665"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vacuum Barrier Corporation",
+      "name_norm": "vacuum barrier",
+      "name_variants": [
+        "Vacuum Barrier Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5371"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vacuum Engineering & Materials",
+      "name_norm": "vacuum engineering and materials",
+      "name_variants": [
+        "Vacuum Engineering & Materials"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1165"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vanderbilt Institute of Nanoscale Science and Engineering",
+      "name_norm": "vanderbilt institute of nanoscale science and engineering",
+      "name_variants": [
+        "Vanderbilt Institute of Nanoscale Science and Engineering"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5172"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

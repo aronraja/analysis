@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0059",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Alum-a-Lift",
+      "name_norm": "alum a lift",
+      "name_variants": [
+        "Alum-a-Lift"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5246"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AlumiPlate, Inc.",
+      "name_norm": "alumiplate",
+      "name_variants": [
+        "AlumiPlate, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3013"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AMAX",
+      "name_norm": "amax",
+      "name_variants": [
+        "AMAX"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3212"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "America Pure Pipeline, Inc.",
+      "name_norm": "america pure pipeline",
+      "name_variants": [
+        "America Pure Pipeline, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6262"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "American Chamber of Commerce Mexico",
+      "name_norm": "american chamber of commerce mexico",
+      "name_variants": [
+        "American Chamber of Commerce Mexico"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3115"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "American Crane and Equipment Corporation",
+      "name_norm": "american crane and equipment",
+      "name_variants": [
+        "American Crane and Equipment Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3436"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "American Fairfield Inc.",
+      "name_norm": "american fairfield",
+      "name_variants": [
+        "American Fairfield Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5859"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AmeriVacS",
+      "name_norm": "amerivacs",
+      "name_variants": [
+        "AmeriVacS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5572"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Analogic Corporation",
+      "name_norm": "analogic",
+      "name_variants": [
+        "Analogic Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "472"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ANCORP",
+      "name_norm": "ancorp",
+      "name_variants": [
+        "ANCORP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5144"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:33:06Z",
+  "deadline_utc": "2026-09-30T13:08:06Z"
+}

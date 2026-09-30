@@ -1,0 +1,17 @@
+{
+  "active": "F2",
+  "features": [
+    {"id": "F1", "title": "Harness scaffold: taxonomy, ingest, WPs, merge/dedupe, reaper, exports, self-test",
+     "status": "done", "evidence": "tests/selftest.py: ALL CHECKS PASSED; 1811 unique companies -> 182 WPs queued"},
+    {"id": "F2", "title": "Confirm event labels in config/sources.json (list 2 guessed as SEMICON West)",
+     "status": "todo", "done_when": "all segments verified=true; re-run make_workpackages.py after clearing work/queue if labels change"},
+    {"id": "F3", "title": "Pilot: run 2 WPs (20 companies), manually spot-check 5 records against the web",
+     "status": "todo", "depends_on": ["F2"],
+     "done_when": ">=80% complete, 0 wrong websites in spot-check, rejected/ empty or explained; tune limits if needed"},
+    {"id": "F4", "title": "Full run of all queued WPs (waves of <=20)", "status": "todo", "depends_on": ["F3"],
+     "done_when": "queue empty, in_progress empty, failed/ reviewed, status.py numbers logged in progress.md"},
+    {"id": "F5", "title": "Quality pass: re-queue not_found/low-confidence (<0.6) companies once", "status": "todo",
+     "depends_on": ["F4"]},
+    {"id": "F6", "title": "Dashboard hookup on db/companies.sqlite (or .csv/.json)", "status": "todo", "depends_on": ["F4"]}
+  ]
+}

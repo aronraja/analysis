@@ -1,0 +1,163 @@
+{
+  "wp_id": "WP-0047",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Steri Professional Workwear Pvt Ltd",
+      "name_norm": "steri professional workwear pvt",
+      "name_variants": [
+        "Steri Professional Workwear Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3617"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "STERIMED KOCHI PRIVATE LIMITED",
+      "name_norm": "sterimed kochi private",
+      "name_variants": [
+        "STERIMED KOCHI PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5633"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "StraitsMicro Pte. Ltd.",
+      "name_norm": "straitsmicro",
+      "name_variants": [
+        "StraitsMicro Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1037"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Struent Semiconductors Private Limited",
+      "name_norm": "struent semiconductors private",
+      "name_variants": [
+        "Struent Semiconductors Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SUCHI SEMICON PRIVATE LIMITED",
+      "name_norm": "suchi semicon private",
+      "name_variants": [
+        "SUCHI SEMICON PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "915"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sumitomo Bakelite Singapore Pte. Ltd.",
+      "name_norm": "sumitomo bakelite singapore",
+      "name_variants": [
+        "Sumitomo Bakelite Singapore Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6519"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SUMITOMO CHEMICAL",
+      "name_norm": "sumitomo chemical",
+      "name_variants": [
+        "SUMITOMO CHEMICAL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "876"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SUPER MOUNT PACK PVT. LTD.",
+      "name_norm": "super mount pack pvt",
+      "name_variants": [
+        "SUPER MOUNT PACK PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7336"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SurplusGLOBAL",
+      "name_norm": "surplusglobal",
+      "name_variants": [
+        "SurplusGLOBAL",
+        "SurplusGLOBAL, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1078"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1553"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1144"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SVAN ANALYTICAL INSTRUMENTS PVT LTD",
+      "name_norm": "svan analytical instruments pvt",
+      "name_variants": [
+        "SVAN ANALYTICAL INSTRUMENTS PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "380"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:30:29Z",
+  "deadline_utc": "2026-09-30T13:05:29Z"
+}

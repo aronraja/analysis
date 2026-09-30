@@ -1,0 +1,57 @@
+{
+  "wp_id": "WP-0014-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "E3 TECH SYSTEMS AND SERVICES LLP",
+      "name_norm": "e3 tech systems and services",
+      "name_variants": [
+        "E3 TECH SYSTEMS AND SERVICES LLP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5632"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ebara Corporation",
+      "name_norm": "ebara",
+      "name_variants": [
+        "Ebara Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "540"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ecolab",
+      "name_norm": "ecolab",
+      "name_variants": [
+        "Ecolab"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6931"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0014",
+  "claimed_utc": "2026-09-30T12:23:40Z",
+  "deadline_utc": "2026-09-30T12:58:40Z"
+}

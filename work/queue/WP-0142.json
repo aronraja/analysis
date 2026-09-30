@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0142",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Varisco&C. SRL",
+      "name_norm": "varisco and c",
+      "name_variants": [
+        "Varisco&C. SRL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2418"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VAT Deutschland GmbH",
+      "name_norm": "vat deutschland",
+      "name_variants": [
+        "VAT Deutschland GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1447"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Veeco GmbH",
+      "name_norm": "veeco",
+      "name_variants": [
+        "Veeco GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1341"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Veonis Technologies GmbH",
+      "name_norm": "veonis technologies",
+      "name_variants": [
+        "Veonis Technologies GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1256"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Verges Electronics HK Co. Ltd.",
+      "name_norm": "verges electronics hk",
+      "name_variants": [
+        "Verges Electronics HK Co. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2256"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vision in Automation GmbH",
+      "name_norm": "vision in automation",
+      "name_variants": [
+        "Vision in Automation GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shinephi SL",
+      "name_norm": "shinephi sl",
+      "name_variants": [
+        "Shinephi SL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1671"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SIAMC Advanced Materials Co., Ltd.",
+      "name_norm": "siamc advanced materials",
+      "name_variants": [
+        "SIAMC Advanced Materials Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1826"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SICC CO.,LTD",
+      "name_norm": "sicc",
+      "name_variants": [
+        "SICC CO.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1447"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SIEGERT WAFER GmbH",
+      "name_norm": "siegert wafer",
+      "name_variants": [
+        "SIEGERT WAFER GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1717"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

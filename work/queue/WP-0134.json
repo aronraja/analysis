@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0134",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Zaber Technologies Inc.",
+      "name_norm": "zaber technologies",
+      "name_variants": [
+        "Zaber Technologies Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3235"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zeal Clean Supplies",
+      "name_norm": "zeal clean supplies",
+      "name_variants": [
+        "Zeal Clean Supplies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6459"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2268"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zenix Robotics Co., Ltd.",
+      "name_norm": "zenix robotics",
+      "name_variants": [
+        "Zenix Robotics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zeon Specialty Materials",
+      "name_norm": "zeon specialty materials",
+      "name_variants": [
+        "Zeon Specialty Materials"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3233"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ZESTRON Corporation",
+      "name_norm": "zestron",
+      "name_variants": [
+        "ZESTRON Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5174"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhejiang Lante Optics Co., Ltd.",
+      "name_norm": "zhejiang lante optics",
+      "name_variants": [
+        "Zhejiang Lante Optics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5881"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ZheJiang OPAL Quartz Tech Co.,Ltd",
+      "name_norm": "zhejiang opal quartz tech",
+      "name_variants": [
+        "ZheJiang OPAL Quartz Tech Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6554"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1108"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zillion Tek USA Inc",
+      "name_norm": "zillion tek usa",
+      "name_variants": [
+        "Zillion Tek USA Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1264"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vital Chemicals USA, LLC",
+      "name_norm": "vital chemicals usa",
+      "name_variants": [
+        "Vital Chemicals USA, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ViTrox Technologies Sdn. Bhd.",
+      "name_norm": "vitrox technologies",
+      "name_variants": [
+        "ViTrox Technologies Sdn. Bhd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2174"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

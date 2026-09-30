@@ -1,0 +1,164 @@
+{
+  "wp_id": "WP-0132",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "WISFAC",
+      "name_norm": "wisfac",
+      "name_variants": [
+        "WISFAC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3129"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WITHTECH Inc.",
+      "name_norm": "withtech",
+      "name_variants": [
+        "WITHTECH Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WithWave",
+      "name_norm": "withwave",
+      "name_variants": [
+        "WithWave"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WITTENSTEIN SE",
+      "name_norm": "wittenstein",
+      "name_variants": [
+        "WITTENSTEIN SE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1838"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Witzenmann USA, LLC",
+      "name_norm": "witzenmann usa",
+      "name_variants": [
+        "Witzenmann USA, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1766"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WONST Co., Ltd.",
+      "name_norm": "wonst",
+      "name_variants": [
+        "WONST Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2371"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Wooam Co., Ltd.",
+      "name_norm": "wooam",
+      "name_variants": [
+        "Wooam Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1545"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1141"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Wooptix",
+      "name_norm": "wooptix",
+      "name_variants": [
+        "Wooptix"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5467"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WOOSUNG E&D",
+      "name_norm": "woosung e and d",
+      "name_variants": [
+        "WOOSUNG E&D"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1869"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "World Made Technology Co., Ltd.",
+      "name_norm": "world made technology",
+      "name_variants": [
+        "World Made Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1972"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0036-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "NIPPON THOMPSON CO., LTD.",
+      "name_norm": "nippon thompson",
+      "name_variants": [
+        "NIPPON THOMPSON CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "356"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NISSEI CORPORATION",
+      "name_norm": "nissei",
+      "name_variants": [
+        "NISSEI CORPORATION"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5614"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nitta Corporation India Pvt Ltd",
+      "name_norm": "nitta india pvt",
+      "name_variants": [
+        "Nitta Corporation India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "576"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nitto Denko India Pvt Ltd",
+      "name_norm": "nitto denko india pvt",
+      "name_variants": [
+        "Nitto Denko India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "566"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NITTO KOHKI India Pvt Ltd",
+      "name_norm": "nitto kohki india pvt",
+      "name_variants": [
+        "NITTO KOHKI India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4623"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NMTronics India Pvt. Limited",
+      "name_norm": "nmtronics india pvt",
+      "name_variants": [
+        "NMTronics India Pvt. Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1546"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NSW Automation Sdn Bhd",
+      "name_norm": "nsw automation",
+      "name_variants": [
+        "NSW Automation Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1428"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Numelo Technologies",
+      "name_norm": "numelo technologies",
+      "name_variants": [
+        "Numelo Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NYXSES INDIA PRIVATE LIMITED",
+      "name_norm": "nyxses india private",
+      "name_variants": [
+        "NYXSES INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ohara Optical (M) Sdn Bhd",
+      "name_norm": "ohara optical",
+      "name_variants": [
+        "Ohara Optical (M) Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4819"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0036",
+  "claimed_utc": "2026-09-30T12:27:04Z",
+  "deadline_utc": "2026-09-30T13:02:04Z"
+}

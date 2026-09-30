@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0153",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "MK Versuchsanlagen GmbH & Co. KG",
+      "name_norm": "mk versuchsanlagen and",
+      "name_variants": [
+        "MK Versuchsanlagen GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1822"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MPS Micro Precision Systems AG",
+      "name_norm": "mps micro precision systems",
+      "name_variants": [
+        "MPS Micro Precision Systems AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2422"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MSP, a Division of TSI",
+      "name_norm": "msp a division of tsi",
+      "name_variants": [
+        "MSP, a Division of TSI"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0722"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MSTECH EMEA SL",
+      "name_norm": "mstech emea sl",
+      "name_variants": [
+        "MSTECH EMEA SL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MURATA MACHINERY, LTD.",
+      "name_norm": "murata machinery",
+      "name_variants": [
+        "MURATA MACHINERY, LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1159"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nagase Chemtex America LLC.",
+      "name_norm": "nagase chemtex america",
+      "name_variants": [
+        "Nagase Chemtex America LLC."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1571"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NanoFocus GmbH",
+      "name_norm": "nanofocus",
+      "name_variants": [
+        "NanoFocus GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1553"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "New Cosmos - BIE",
+      "name_norm": "new cosmos bie",
+      "name_variants": [
+        "New Cosmos - BIE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "New Energy Technology Co., Ltd",
+      "name_norm": "new energy technology",
+      "name_variants": [
+        "New Energy Technology Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2252"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NEXTIN Inc.",
+      "name_norm": "nextin",
+      "name_variants": [
+        "NEXTIN Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1907"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

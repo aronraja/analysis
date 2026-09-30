@@ -1,0 +1,71 @@
+{
+  "wp_id": "WP-0001-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "ABLROOTS INDUSTRIES PVT PTD",
+      "name_norm": "ablroots industries pvt ptd",
+      "name_variants": [
+        "ABLROOTS INDUSTRIES PVT PTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3518"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ABV ENGINEERS AND CONSULTANTS PVT LTD",
+      "name_norm": "abv engineers and consultants pvt",
+      "name_variants": [
+        "ABV ENGINEERS AND CONSULTANTS PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7608"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AC&C Technology Pte Ltd",
+      "name_norm": "ac and c technology",
+      "name_variants": [
+        "AC&C Technology Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1137"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Accurex Solutions Pvt. Ltd",
+      "name_norm": "accurex solutions pvt",
+      "name_variants": [
+        "Accurex Solutions Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6802"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0001",
+  "claimed_utc": "2026-09-30T12:22:31Z",
+  "deadline_utc": "2026-09-30T12:57:31Z"
+}

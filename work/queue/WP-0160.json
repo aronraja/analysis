@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0160",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Mitutoyo Europe GmbH",
+      "name_norm": "mitutoyo europe",
+      "name_variants": [
+        "Mitutoyo Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1215"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IHP GmbH",
+      "name_norm": "ihp",
+      "name_variants": [
+        "IHP GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INDEXA ITALIA 2 SRL",
+      "name_norm": "indexa italia 2",
+      "name_variants": [
+        "INDEXA ITALIA 2 SRL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Industrialise",
+      "name_norm": "industrialise",
+      "name_variants": [
+        "Industrialise"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Industry Consulting Strobl GmbH & Co. KG",
+      "name_norm": "industry consulting strobl and",
+      "name_variants": [
+        "Industry Consulting Strobl GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2255"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Infraserv Vakuumservice GmbH",
+      "name_norm": "infraserv vakuumservice",
+      "name_variants": [
+        "Infraserv Vakuumservice GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1263"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INGENIQS BV",
+      "name_norm": "ingeniqs",
+      "name_variants": [
+        "INGENIQS BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Innodys Sarl",
+      "name_norm": "innodys",
+      "name_variants": [
+        "Innodys Sarl"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1862"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1862, B1913"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "InnoLas Semiconductor GmbH",
+      "name_norm": "innolas semiconductor",
+      "name_variants": [
+        "InnoLas Semiconductor GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Inseto Europe",
+      "name_norm": "inseto europe",
+      "name_variants": [
+        "Inseto Europe"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2122"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

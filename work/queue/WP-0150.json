@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0150",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Plasmatreat GmbH",
+      "name_norm": "plasmatreat",
+      "name_variants": [
+        "Plasmatreat GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1567"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Podcast Studio",
+      "name_norm": "podcast studio",
+      "name_variants": [
+        "Podcast Studio"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "POG Präzisionsoptik Gera GmbH",
+      "name_norm": "pog prazisionsoptik gera",
+      "name_variants": [
+        "POG Präzisionsoptik Gera GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Polyfluor Plastics BV",
+      "name_norm": "polyfluor plastics",
+      "name_variants": [
+        "Polyfluor Plastics BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1158"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Polytec GmbH",
+      "name_norm": "polytec",
+      "name_variants": [
+        "Polytec GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1259"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Polyteknik AS",
+      "name_norm": "polyteknik",
+      "name_variants": [
+        "Polyteknik AS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1138"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "POSAS GmbH",
+      "name_norm": "posas",
+      "name_variants": [
+        "POSAS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Powatec GmbH",
+      "name_norm": "powatec",
+      "name_variants": [
+        "Powatec GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1164"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Precision Polymer Engineering Ltd.",
+      "name_norm": "precision polymer engineering",
+      "name_variants": [
+        "Precision Polymer Engineering Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1601"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Precitec Optronik GmbH",
+      "name_norm": "precitec optronik",
+      "name_variants": [
+        "Precitec Optronik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1432"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

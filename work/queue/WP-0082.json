@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0082",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Gallant Precision Machining Co., Ltd.",
+      "name_norm": "gallant precision machining",
+      "name_variants": [
+        "Gallant Precision Machining Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2249"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "2149"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gastron Co., Ltd.",
+      "name_norm": "gastron",
+      "name_variants": [
+        "Gastron Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1759"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gauss Labs",
+      "name_norm": "gauss labs",
+      "name_variants": [
+        "Gauss Labs"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5349"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Geibel & Hotz GmbH",
+      "name_norm": "geibel and hotz",
+      "name_variants": [
+        "Geibel & Hotz GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gems Setra",
+      "name_norm": "gems setra",
+      "name_variants": [
+        "Gems Setra"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6472"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GEMU Valves, Inc.",
+      "name_norm": "gemu valves",
+      "name_variants": [
+        "GEMU Valves, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "233"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gentec (Shanghai) Corporation",
+      "name_norm": "gentec",
+      "name_variants": [
+        "Gentec (Shanghai) Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5678"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Germany Pavilion",
+      "name_norm": "germany pavilion",
+      "name_variants": [
+        "Germany Pavilion"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Get Control Incorporated",
+      "name_norm": "get control",
+      "name_variants": [
+        "Get Control Incorporated"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1860"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GfG Instrumentation",
+      "name_norm": "gfg instrumentation",
+      "name_variants": [
+        "GfG Instrumentation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6277"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

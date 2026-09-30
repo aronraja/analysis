@@ -1,0 +1,161 @@
+{
+  "wp_id": "WP-0108",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "PerkinElmer U.S. LLC",
+      "name_norm": "perkinelmer u s",
+      "name_variants": [
+        "PerkinElmer U.S. LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3112"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Permag",
+      "name_norm": "permag",
+      "name_variants": [
+        "Permag"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5672"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2400"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Persimmon Technologies Corporation",
+      "name_norm": "persimmon technologies",
+      "name_variants": [
+        "Persimmon Technologies Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "361"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Persys Engineering Inc.",
+      "name_norm": "persys engineering",
+      "name_variants": [
+        "Persys Engineering Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1649"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pexco",
+      "name_norm": "pexco",
+      "name_variants": [
+        "Pexco"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3234"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pfeiffer Vacuum Inc.",
+      "name_norm": "pfeiffer vacuum",
+      "name_variants": [
+        "Pfeiffer Vacuum Inc.",
+        "Pfeiffer Vacuum GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1533"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1640"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Photonics Industries International, Inc.",
+      "name_norm": "photonics industries international",
+      "name_variants": [
+        "Photonics Industries International, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6458"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Photonics Systems USA Inc.",
+      "name_norm": "photonics systems usa",
+      "name_variants": [
+        "Photonics Systems USA Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5648"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PI (Physik Instrumente)",
+      "name_norm": "pi",
+      "name_variants": [
+        "PI (Physik Instrumente)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5743"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PIE Scientific LLC",
+      "name_norm": "pie scientific",
+      "name_variants": [
+        "PIE Scientific LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6819"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

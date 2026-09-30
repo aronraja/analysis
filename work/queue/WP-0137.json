@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0137",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Xingqi (Shanghai) Semiconductor Co.,Ltd.",
+      "name_norm": "xingqi semiconductor",
+      "name_variants": [
+        "Xingqi (Shanghai) Semiconductor Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1437"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xinxiang Shengda Filtration Technique Co.,Ltd",
+      "name_norm": "xinxiang shengda filtration technique",
+      "name_variants": [
+        "Xinxiang Shengda Filtration Technique Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2305"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "XIVER",
+      "name_norm": "xiver",
+      "name_variants": [
+        "XIVER"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xi’an Longtrox RF Scien-Tech Co., Ltd",
+      "name_norm": "xian longtrox rf scien tech",
+      "name_variants": [
+        "Xi’an Longtrox RF Scien-Tech Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-922"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "XTPL S.A.",
+      "name_norm": "xtpl s a",
+      "name_variants": [
+        "XTPL S.A."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1561"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yaskawa Europe Technology",
+      "name_norm": "yaskawa europe technology",
+      "name_variants": [
+        "Yaskawa Europe Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1311"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "yieldWerx",
+      "name_norm": "yieldwerx",
+      "name_variants": [
+        "yieldWerx"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "YOLE Group",
+      "name_norm": "yole",
+      "name_variants": [
+        "YOLE Group"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1665"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "YSystems Ltd.",
+      "name_norm": "ysystems",
+      "name_variants": [
+        "YSystems Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1840"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "YuanHe Mechanical Technology Co., Ltd.",
+      "name_norm": "yuanhe mechanical technology",
+      "name_variants": [
+        "YuanHe Mechanical Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1156"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

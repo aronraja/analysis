@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0172",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Creative Technology Corporation",
+      "name_norm": "creative technology",
+      "name_variants": [
+        "Creative Technology Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1205"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CSE CO., LTD.",
+      "name_norm": "cse",
+      "name_variants": [
+        "CSE CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2320"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Czech National Semiconductor Cluster",
+      "name_norm": "czech national semiconductor cluster",
+      "name_variants": [
+        "Czech National Semiconductor Cluster"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Daikin Chemical Europe GmbH",
+      "name_norm": "daikin chemical europe",
+      "name_variants": [
+        "Daikin Chemical Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1253"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dainichi Shoji K.K.",
+      "name_norm": "dainichi shoji k k",
+      "name_variants": [
+        "Dainichi Shoji K.K."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1112"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dasemitek",
+      "name_norm": "dasemitek",
+      "name_variants": [
+        "Dasemitek"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2323"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dassault Systemes Deutschland GmbH",
+      "name_norm": "dassault systemes deutschland",
+      "name_variants": [
+        "Dassault Systemes Deutschland GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2350"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DISCO HI-TEC EUROPE GmbH",
+      "name_norm": "disco hi tec europe",
+      "name_variants": [
+        "DISCO HI-TEC EUROPE GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1201"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DJK Europe GmbH",
+      "name_norm": "djk europe",
+      "name_variants": [
+        "DJK Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1912"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DMG MORI Ultrasonic Lasertec GmbH",
+      "name_norm": "dmg mori ultrasonic lasertec",
+      "name_variants": [
+        "DMG MORI Ultrasonic Lasertec GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2154"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0022",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "HORIBA India",
+      "name_norm": "horiba india",
+      "name_variants": [
+        "HORIBA India"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "224"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HP Valves & Fittings India Private Limited",
+      "name_norm": "hp valves and fittings india private",
+      "name_variants": [
+        "HP Valves & Fittings India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7331"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HTL COMPANY INDIA PRIVATE LIMITED",
+      "name_norm": "htl india private",
+      "name_variants": [
+        "HTL COMPANY INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1662"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Huake Engineenring India pvt. ltd.",
+      "name_norm": "huake engineenring india pvt",
+      "name_variants": [
+        "Huake Engineenring India pvt. ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4107"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Humidity Technologies India",
+      "name_norm": "humidity technologies india",
+      "name_variants": [
+        "Humidity Technologies India"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3116"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HVAX TECHNOLOGIES LIMITED",
+      "name_norm": "hvax technologies",
+      "name_variants": [
+        "HVAX TECHNOLOGIES LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HYC Precision Engineering Private Limited",
+      "name_norm": "hyc precision engineering private",
+      "name_variants": [
+        "HYC Precision Engineering Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1038"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HYSPEC CHEMICALS PRIVATE LIMITED",
+      "name_norm": "hyspec chemicals private",
+      "name_variants": [
+        "HYSPEC CHEMICALS PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "I R Technology Services Pvt Ltd",
+      "name_norm": "i r technology services pvt",
+      "name_variants": [
+        "I R Technology Services Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7533"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IBM India Private Limited",
+      "name_norm": "ibm india private",
+      "name_variants": [
+        "IBM India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1407"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:14:39Z",
+  "deadline_utc": "2026-09-30T12:49:39Z"
+}

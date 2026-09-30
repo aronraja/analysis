@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0178",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "CKD Europe B.V",
+      "name_norm": "ckd europe b v",
+      "name_variants": [
+        "CKD Europe B.V"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1476"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "2Connect BV",
+      "name_norm": "2connect",
+      "name_variants": [
+        "2Connect BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "2D-Pilot Line",
+      "name_norm": "2d pilot line",
+      "name_variants": [
+        "2D-Pilot Line"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0428"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "40-30 SAS",
+      "name_norm": "40 30",
+      "name_variants": [
+        "40-30 SAS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1234"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ACCRETECH (Europe) GmbH",
+      "name_norm": "accretech",
+      "name_variants": [
+        "ACCRETECH (Europe) GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Active Fiber Systems GmbH",
+      "name_norm": "active fiber systems",
+      "name_variants": [
+        "Active Fiber Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Adelhelm Kunststoffbeschichtungen GmbH",
+      "name_norm": "adelhelm kunststoffbeschichtungen",
+      "name_variants": [
+        "Adelhelm Kunststoffbeschichtungen GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2215"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Adelis Associates Pte Ltd.",
+      "name_norm": "adelis associates",
+      "name_variants": [
+        "Adelis Associates Pte Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1277"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Adenso Industrial Services GmbH",
+      "name_norm": "adenso industrial services",
+      "name_variants": [
+        "Adenso Industrial Services GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advanced Dicing Technologies Ltd",
+      "name_norm": "advanced dicing technologies",
+      "name_variants": [
+        "Advanced Dicing Technologies Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1152"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

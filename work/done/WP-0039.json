@@ -1,0 +1,166 @@
+{
+  "wp_id": "WP-0039",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Pophen Technology India Pvt Ltd",
+      "name_norm": "pophen technology india pvt",
+      "name_variants": [
+        "Pophen Technology India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3605"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Power Cube Semi",
+      "name_norm": "power cube semi",
+      "name_variants": [
+        "Power Cube Semi"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1324"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Praj HiPurity Systems Ltd",
+      "name_norm": "praj hipurity systems",
+      "name_variants": [
+        "Praj HiPurity Systems Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6424"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Prama Instruments Pvt Ltd",
+      "name_norm": "prama instruments pvt",
+      "name_variants": [
+        "Prama Instruments Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7523"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Primionics Pvt. Ltd.",
+      "name_norm": "primionics pvt",
+      "name_variants": [
+        "Primionics Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4524"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ptw Semiconductor India Private Limited",
+      "name_norm": "ptw semiconductor india private",
+      "name_variants": [
+        "Ptw Semiconductor India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PURITECH NOIDA PVT LTD",
+      "name_norm": "puritech noida pvt",
+      "name_variants": [
+        "PURITECH NOIDA PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "770"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PVA TePla AG",
+      "name_norm": "pva tepla",
+      "name_variants": [
+        "PVA TePla AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "676"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5146"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1301"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "QES MECHATRONIC SDN BHD",
+      "name_norm": "qes mechatronic",
+      "name_variants": [
+        "QES MECHATRONIC SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1424"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Quantel Global Pte Ltd",
+      "name_norm": "quantel global",
+      "name_variants": [
+        "Quantel Global Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1033"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:16:39Z",
+  "deadline_utc": "2026-09-30T12:51:39Z"
+}

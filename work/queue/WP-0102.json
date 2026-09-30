@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0102",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "NB Corporation of America",
+      "name_norm": "nb of america",
+      "name_variants": [
+        "NB Corporation of America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "345"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nel Hydrogen",
+      "name_norm": "nel hydrogen",
+      "name_variants": [
+        "Nel Hydrogen"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6272"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Neutronix Quintel",
+      "name_norm": "neutronix quintel",
+      "name_variants": [
+        "Neutronix Quintel"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5867"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "New Imaging Technologies",
+      "name_norm": "new imaging technologies",
+      "name_variants": [
+        "New Imaging Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6667"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "New York State Economic Development Council",
+      "name_norm": "new york state economic development council",
+      "name_variants": [
+        "New York State Economic Development Council"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5954"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nexensor Inc",
+      "name_norm": "nexensor",
+      "name_variants": [
+        "Nexensor Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "144"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NexGen Wafer System Gmbh",
+      "name_norm": "nexgen wafer system",
+      "name_variants": [
+        "NexGen Wafer System Gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1659"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1465"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NeXTVAC LLC",
+      "name_norm": "nextvac",
+      "name_variants": [
+        "NeXTVAC LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6364"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nexustest Pte. Ltd.",
+      "name_norm": "nexustest",
+      "name_variants": [
+        "Nexustest Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "368"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2144"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Niche Fluoropolymer Products",
+      "name_norm": "niche fluoropolymer products",
+      "name_variants": [
+        "Niche Fluoropolymer Products"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1966"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0159",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "MICRO IMAGE",
+      "name_norm": "micro image",
+      "name_variants": [
+        "MICRO IMAGE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0718"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Micro System Integration Center, Tohoku University",
+      "name_norm": "micro system integration center tohoku university",
+      "name_variants": [
+        "Micro System Integration Center, Tohoku University"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1140"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MICRO-EPSILON Messtechnik GmbH & Co. KG",
+      "name_norm": "micro epsilon messtechnik and",
+      "name_variants": [
+        "MICRO-EPSILON Messtechnik GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1631"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MicroChemicals GmbH",
+      "name_norm": "microchemicals",
+      "name_variants": [
+        "MicroChemicals GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2440"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Microcontrol Electronic SRL",
+      "name_norm": "microcontrol electronic",
+      "name_variants": [
+        "Microcontrol Electronic SRL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1347"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MICROELECTRONICS",
+      "name_norm": "microelectronics",
+      "name_variants": [
+        "MICROELECTRONICS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1735"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Microtest",
+      "name_norm": "microtest",
+      "name_variants": [
+        "Microtest"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1423"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Minimax Fire Solutions International GmbH",
+      "name_norm": "minimax fire solutions international",
+      "name_variants": [
+        "Minimax Fire Solutions International GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2112"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MINISTRY OF INDUSTRY AND TRADE OF THE CZECH REPUBLIC",
+      "name_norm": "ministry of industry and trade of czech republic",
+      "name_variants": [
+        "MINISTRY OF INDUSTRY AND TRADE OF THE CZECH REPUBLIC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mitsubishi Chemical Europe GmbH",
+      "name_norm": "mitsubishi chemical europe",
+      "name_variants": [
+        "Mitsubishi Chemical Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

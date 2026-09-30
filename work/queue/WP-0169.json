@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0169",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Festo SE & Co. KG",
+      "name_norm": "festo and",
+      "name_variants": [
+        "Festo SE & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1337"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FHR Anlagenbau GmbH",
+      "name_norm": "fhr anlagenbau",
+      "name_variants": [
+        "FHR Anlagenbau GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Finetech Germany GmbH & Co. KG",
+      "name_norm": "finetech germany and",
+      "name_variants": [
+        "Finetech Germany GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1836"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FISCHER Compressor AG",
+      "name_norm": "fischer compressor",
+      "name_variants": [
+        "FISCHER Compressor AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2254"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Flanders Investment & Trade",
+      "name_norm": "flanders investment and trade",
+      "name_variants": [
+        "Flanders Investment & Trade"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Flexible Integrated Circuits SL",
+      "name_norm": "flexible integrated circuits sl",
+      "name_variants": [
+        "Flexible Integrated Circuits SL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FOCUSSIA",
+      "name_norm": "focussia",
+      "name_variants": [
+        "FOCUSSIA"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1250"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fraunhofer ENAS- Institute for Electronic Nano Systems",
+      "name_norm": "fraunhofer enas institute for electronic nano systems",
+      "name_variants": [
+        "Fraunhofer ENAS- Institute for Electronic Nano Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fraunhofer Institute for Physical Measurement Techniques IPM",
+      "name_norm": "fraunhofer institute for physical measurement techniques ipm",
+      "name_variants": [
+        "Fraunhofer Institute for Physical Measurement Techniques IPM"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1908"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fraunhofer IPMS - Institute for Photonic Microsystems",
+      "name_norm": "fraunhofer ipms institute for photonic microsystems",
+      "name_variants": [
+        "Fraunhofer IPMS - Institute for Photonic Microsystems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

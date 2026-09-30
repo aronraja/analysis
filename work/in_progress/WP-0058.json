@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0058",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "AICELLO CORPORATION",
+      "name_norm": "aicello",
+      "name_variants": [
+        "AICELLO CORPORATION"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2337"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aidentyx",
+      "name_norm": "aidentyx",
+      "name_variants": [
+        "Aidentyx"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M8"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Airkey Envirotech Co., Ltd.",
+      "name_norm": "airkey envirotech",
+      "name_variants": [
+        "Airkey Envirotech Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3312"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Airspace",
+      "name_norm": "airspace",
+      "name_variants": [
+        "Airspace"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5460"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Akrion Technologies Inc.",
+      "name_norm": "akrion technologies",
+      "name_variants": [
+        "Akrion Technologies Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "360"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ALKU",
+      "name_norm": "alku",
+      "name_variants": [
+        "ALKU"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5386"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "All Ring Tech Co., Ltd.",
+      "name_norm": "all ring tech",
+      "name_variants": [
+        "All Ring Tech Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6244"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Allient, Inc.",
+      "name_norm": "allient",
+      "name_variants": [
+        "Allient, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5683"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Allwin21 Corp.",
+      "name_norm": "allwin21",
+      "name_variants": [
+        "Allwin21 Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1864"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Altronic Research Inc.",
+      "name_norm": "altronic research",
+      "name_variants": [
+        "Altronic Research Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1565"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:33:02Z",
+  "deadline_utc": "2026-09-30T13:08:02Z"
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0141",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "UJP PRAHA a.s.",
+      "name_norm": "ujp praha a s",
+      "name_variants": [
+        "UJP PRAHA a.s."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ulvac GmbH",
+      "name_norm": "ulvac",
+      "name_variants": [
+        "Ulvac GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1606"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Umicore Thin Film Products AG",
+      "name_norm": "umicore thin film products",
+      "name_variants": [
+        "Umicore Thin Film Products AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "UNIGASKET S.R.L",
+      "name_norm": "unigasket s r l",
+      "name_variants": [
+        "UNIGASKET S.R.L"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2251"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "UNIT4 GmbH & Co. KG",
+      "name_norm": "unit4 and",
+      "name_variants": [
+        "UNIT4 GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2255"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "UniTemp GmbH",
+      "name_norm": "unitemp",
+      "name_variants": [
+        "UniTemp GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1156"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "V-TEK, Inc.",
+      "name_norm": "v tek",
+      "name_variants": [
+        "V-TEK, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2210"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Valex",
+      "name_norm": "valex",
+      "name_variants": [
+        "Valex"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1363"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VALTRIA ENGINEERING S.A",
+      "name_norm": "valtria engineering s a",
+      "name_variants": [
+        "VALTRIA ENGINEERING S.A"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2259"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vanguard Automation GmbH",
+      "name_norm": "vanguard automation",
+      "name_variants": [
+        "Vanguard Automation GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1478"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

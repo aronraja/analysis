@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0110",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Precision Resource",
+      "name_norm": "precision resource",
+      "name_variants": [
+        "Precision Resource"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5588"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Precitec Inc.",
+      "name_norm": "precitec",
+      "name_variants": [
+        "Precitec Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5271"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Prior Scientific",
+      "name_norm": "prior scientific",
+      "name_variants": [
+        "Prior Scientific"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6660"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Process Insights",
+      "name_norm": "process insights",
+      "name_variants": [
+        "Process Insights"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "559"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Process Technology",
+      "name_norm": "process technology",
+      "name_variants": [
+        "Process Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1739"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PROCOMER",
+      "name_norm": "procomer",
+      "name_variants": [
+        "PROCOMER"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5668"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Prodrive Technologies B.V.",
+      "name_norm": "prodrive technologies b v",
+      "name_variants": [
+        "Prodrive Technologies B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6348"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Prowell LLC",
+      "name_norm": "prowell",
+      "name_variants": [
+        "Prowell LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2061"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Prudential Cleanroom Services",
+      "name_norm": "prudential cleanroom services",
+      "name_variants": [
+        "Prudential Cleanroom Services"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5764"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PTFE Industries, Inc.",
+      "name_norm": "ptfe industries",
+      "name_variants": [
+        "PTFE Industries, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5677"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

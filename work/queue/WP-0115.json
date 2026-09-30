@@ -1,0 +1,164 @@
+{
+  "wp_id": "WP-0115",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Schneeberger, Inc.",
+      "name_norm": "schneeberger",
+      "name_variants": [
+        "Schneeberger, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "253"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "scia Systems GmbH",
+      "name_norm": "scia systems",
+      "name_variants": [
+        "scia Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3303"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1909"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Science Probe Co.,Ltd",
+      "name_norm": "science probe",
+      "name_variants": [
+        "Science Probe Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5574"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1567"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Scientech Engineering USA Corp.",
+      "name_norm": "scientech engineering usa",
+      "name_variants": [
+        "Scientech Engineering USA Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5747"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SCREEN Semiconductor Solutions Co., LTD",
+      "name_norm": "screen semiconductor solutions",
+      "name_variants": [
+        "SCREEN Semiconductor Solutions Co., LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1933"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SDS TECH CO.,LTD",
+      "name_norm": "sds tech",
+      "name_variants": [
+        "SDS TECH CO.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3008"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEALCORE S.r.l.",
+      "name_norm": "sealcore s r l",
+      "name_variants": [
+        "SEALCORE S.r.l."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6470"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1559"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEC CO., LTD.",
+      "name_norm": "sec",
+      "name_variants": [
+        "SEC CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Seeq Corporation",
+      "name_norm": "seeq",
+      "name_variants": [
+        "Seeq Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M4"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Seica Inc.",
+      "name_norm": "seica",
+      "name_variants": [
+        "Seica Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "238"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

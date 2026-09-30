@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0056",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Across International LLC",
+      "name_norm": "across international",
+      "name_variants": [
+        "Across International LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6373"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Acroview Technology Co.,Ltd.",
+      "name_norm": "acroview technology",
+      "name_variants": [
+        "Acroview Technology Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "773"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ACS HOLDINGS",
+      "name_norm": "acs",
+      "name_variants": [
+        "ACS HOLDINGS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "273"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ACS Motion Control",
+      "name_norm": "acs motion control",
+      "name_variants": [
+        "ACS Motion Control"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5743"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Active Power",
+      "name_norm": "active power",
+      "name_variants": [
+        "Active Power"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6663"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AdValue Technology",
+      "name_norm": "advalue technology",
+      "name_variants": [
+        "AdValue Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5879"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advance Electric America Co., Inc.",
+      "name_norm": "advance electric america",
+      "name_variants": [
+        "Advance Electric America Co., Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "653"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advanced Energy",
+      "name_norm": "advanced energy",
+      "name_variants": [
+        "Advanced Energy"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1539"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advanced Material Engineering Sdn Bhd",
+      "name_norm": "advanced material engineering",
+      "name_variants": [
+        "Advanced Material Engineering Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advantech Corporation",
+      "name_norm": "advantech",
+      "name_variants": [
+        "Advantech Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5561"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:32:08Z",
+  "deadline_utc": "2026-09-30T13:07:08Z"
+}

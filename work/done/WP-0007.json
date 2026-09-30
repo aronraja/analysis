@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0007",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Atantri Communications Pvt Ltd",
+      "name_norm": "atantri communications pvt",
+      "name_variants": [
+        "Atantri Communications Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3024"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ATCO ATMOSHPERIC AND SPECILAITY GASES",
+      "name_norm": "atco atmoshperic and specilaity gases",
+      "name_variants": [
+        "ATCO ATMOSHPERIC AND SPECILAITY GASES"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "134"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Atlas Copco India Private Limited",
+      "name_norm": "atlas copco india private",
+      "name_variants": [
+        "Atlas Copco India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1637"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Automated Tooling Systems India Pvt. Ltd",
+      "name_norm": "automated tooling systems india pvt",
+      "name_variants": [
+        "Automated Tooling Systems India Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6335"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AVANT GARDE CLEANROOM & ENGG. SOLUTIONS PVT LTD",
+      "name_norm": "avant garde cleanroom and engg solutions pvt",
+      "name_variants": [
+        "AVANT GARDE CLEANROOM & ENGG. SOLUTIONS PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "446"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Avcon Technics Pvt Ltd",
+      "name_norm": "avcon technics pvt",
+      "name_variants": [
+        "Avcon Technics Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3121"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Axiro Semiconductor Private Limited",
+      "name_norm": "axiro semiconductor private",
+      "name_variants": [
+        "Axiro Semiconductor Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1214"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AZELIS (INDIA) PRIVATE LIMITED",
+      "name_norm": "azelis private",
+      "name_variants": [
+        "AZELIS (INDIA) PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6124"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BABA FINE CHEMICALS",
+      "name_norm": "baba fine chemicals",
+      "name_variants": [
+        "BABA FINE CHEMICALS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4223"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bangalore Refinery Pvt Ltd.,",
+      "name_norm": "bangalore refinery pvt",
+      "name_variants": [
+        "Bangalore Refinery Pvt Ltd.,"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7033"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:24Z",
+  "deadline_utc": "2026-09-30T12:47:24Z"
+}

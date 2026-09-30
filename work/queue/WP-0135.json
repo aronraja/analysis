@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0135",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "VSB-TUO",
+      "name_norm": "vsb tuo",
+      "name_variants": [
+        "VSB-TUO"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "W.L. Gore & Associates, GmbH",
+      "name_norm": "w l gore and associates",
+      "name_variants": [
+        "W.L. Gore & Associates, GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1179"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Watlow",
+      "name_norm": "watlow",
+      "name_variants": [
+        "Watlow"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1612"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Watty Corporation",
+      "name_norm": "watty",
+      "name_variants": [
+        "Watty Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1368"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WEISHENG INDUSTRIAL CO.",
+      "name_norm": "weisheng industrial",
+      "name_variants": [
+        "WEISHENG INDUSTRIAL CO."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2242"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Weiss Klimatechnik Gmbh",
+      "name_norm": "weiss klimatechnik",
+      "name_variants": [
+        "Weiss Klimatechnik Gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WEISUN INDUSTRIAL CO., LTD.",
+      "name_norm": "weisun industrial",
+      "name_variants": [
+        "WEISUN INDUSTRIAL CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2368"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Werner Lieb GmbH",
+      "name_norm": "werner lieb",
+      "name_variants": [
+        "Werner Lieb GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1279"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Winkler AG",
+      "name_norm": "winkler",
+      "name_variants": [
+        "Winkler AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1134"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Wirtschaftsförderung Land Brandenburg GmbH (WFBB)",
+      "name_norm": "wirtschaftsforderung land brandenburg",
+      "name_variants": [
+        "Wirtschaftsförderung Land Brandenburg GmbH (WFBB)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

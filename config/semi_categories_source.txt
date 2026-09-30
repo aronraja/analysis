@@ -1,0 +1,499 @@
+101 Photovoltaic Device Manufacturing
+PV-Building-Integrated Solutions
+PV: Cells
+PV: Modules
+PV: Stand-Alone Systems
+Solar Architecture
+Solar Thermal
+200 Packaging and Assembly Equipment
+Backgrind; Slicing; Lapping; Polishing Equipment
+Ball Placement; Attach Systems
+Base Loader Systems
+Cleaning; Washing Equipment for Assembly & Packaging
+Cut & Down Set; Trim; Form Equipment
+Deflashing; Degating Tools
+Device Handling; Feeding Systems
+Dicing; Sawing; Scribing; Separation Equipment
+Die Bonding; Attach Equipment
+Die Removal Equipment
+Die Sorter; Pick & Place; Flip Chip Placement Systems
+Dispensing Systems
+Hot Embossing System
+Lead Finishing; Straightening Equipment
+Lead Frame Taping Systems
+Lithography Systems for Wafer Level Packaging; Bumping; 3D Interconnect Aligners
+Marking; Imprinting; Labeling Equipment
+Molding; Encapsulation; Decapsulation Equipment
+Package Handling; Conveying Equipment
+Package Simulation; Characterization Equipment
+Plating; Electro Chemical Plating for device assembly
+Printed and Organic Electronic Equipment
+PROM; Memory Programmer Equipment
+Solder Reflow; Soldering & Brazing Equipment
+Tape Automated Bonding (TAB); Bumped Tape Automated Bonding (BTAB) Equipment
+Wafer Level Bonders
+Wafer Mount; Taping Equipment
+Wire Bonding Equipment
+201 Flat Panel Display Equipment
+Alignment Film Coating Equipment
+Anodic Oxidation Equipment
+Color Pattern Processing Equipment
+Cullet Removal Equipment
+Laser Treatment; Cutting Systems for Panels & Photocells
+Liquid Crystal Injection or Filling Equipment
+Low Pressure Plasma Spray (LPPS) Equipment
+Luminous Layer Patterning and Sealing Equipment
+Panel Alignment; Cell Assembly Equipment
+Polarizer Sticking Equipment
+Rubbing Equipment
+Scribe and Break Equipment
+Seal Patterning Equipment
+Spacer Spraying Equipment
+202 Other Equipment
+Cutting; Drilling; Laser ablation; Beveling Equipment
+Heating; Annealing; Curing Equipment - Furnaces; Conveyors; Ovens; Test Chambers; Heat Treating
+Lamination; Sheet Laminating Equipment
+Repair; Rework Equipment
+Sealing; Bagging; Packing Equipment
+Space simulation; Vacuum chambers
+Vacuum drying & out gassing Systems
+Vibration Isolation Systems
+Vision; ID; Bar Code Systems
+Welding Equipment
+203 Inspection & Measurement Products
+Air Velocity (VA) Humidity and Moisture Sensing
+Centrifuges
+Chromatograph
+CV (capacitance-to-voltage) Probe systems
+Defect; Particle; Bump; Contamination Detection, Review or Inspection
+Die Inspection; Die Shear
+ESCA; Ultrasonic; Acoustical Microscopes
+Fiber Optic Inspection Instruments
+Film Thickness; Thickness; Uniformity Measurement; Ellipsometer
+Flat; Notch Finding System
+Instruments; Bench Top Test
+Leak Detection Systems - Vacuum or Gas
+Line Width; Critical Dimension (CD) Measurement
+Microscopes: Atomic Force Microscopes (AFM)
+Microscopes: Confocal Scanning Microscope; 3-D Video Microscopes
+Microscopes: Optical Microscopes
+Microscopes: SEM; Focused Ion Beam (FIB), TEM
+Overlay Measurement
+Package Inspection; Lead Scanners
+Particle Monitors; Analyzers - Airborne or Liquid
+Plate Inspection Equipment
+Resistivity Measurement; 4 point probe; Sheet resistance
+Spectrometers; FTIR; ATR-FTIR; Auger Electron (AES); SIMS
+Stress; Refractive Index; Reflectivity & Conductivity Measurement
+Thermal Sensing, Measurement, Analysis
+Wafer; Substrate Metrology; Topology; Nanotopography; Flatness Measurement; Crystalline Orientation
+Weight measurement; precision scales
+Wire Bonding Inspection; Test
+X-ray; XRF; 3-D X-Ray; LEXES Systems
+204 MEMS Equipment
+Deep RIE etching; Dry Etching
+Double sided mask aligner
+Wafer Level Bonders
+205 Nanotechnology Equipment and Tools
+Equipment, Nanotechnology Tools
+206 PV Equipment
+Cells
+Inspection and Metrology
+Integration and Automation
+Modules
+Other
+Thin Film
+Wafers
+207 Process Equipment
+Bumping Systems
+Chemical Mechanical Polishing (CMP); Electro Polishing, Mechanical Polishing Equipment
+Cleaning; Washing; Drying Equipment for Substrate, Fab Processing
+Coat; Develop; Resist Processing; Track Equipment
+Crystal Growing & Machining Equipment
+Deposition; Chemical Vapor (CVD); MOCVD; PECVD; LPCVD; ALD; REALD; MVD
+Deposition; Physical Vapor (PVD); Sputtering; Evaporation Equipment
+Environmental Enclosures; Minienvironments
+Epitaxy Equipment; Epi Reactors; Molecular Beam Epitaxy (MBE); Atomic Layer Epitaxy (ALE)
+Etching; Stripping; Ashing - Dry and Wet Equipment
+Ion Implantation Equipment
+Ion; E-Beam Milling Etching Equipment
+Lithography; Exposure; Aligners; Direct Write Systems; Steppers; Scanners; Nanoimprint
+Plating; Electro Chemical Plating; Deposition Systems
+SOI Bonders; Temporary Bonders; De-Bonders
+Spin on Glass (SOG); on Dielectric (SOD) Track systems
+Thermal Processing - Diffusion; Oxidation; Annealing; RTA; RTP Equipment
+Transfer Systems for Wafer; Reticles or FPD's
+Wafer Identification; Marking Equipment
+208 Test Equipment
+Burn-In Accessory Systems
+Burn-In Systems
+Circuit Repair; Design Modification; Redundant Memory Repair; Mask Repair Systems
+Discrete Component Test Systems
+Environmental Stress Systems - Temperature; Humidity; Pressure; HAST
+ESD; EMS and Latch-up Systems
+Failure Analysis Systems
+FPD Test; Measurement; Repair Equipment
+Functional Test Systems
+Handlers; Positioner Systems
+Linear Test Systems
+Logic Test Systems
+Memory Test Systems
+Optical Test Systems
+Package Test Systems
+Parametric Test Systems
+Printed Circuit Board; Wire Board (PCB or PWB) Test and Repair
+Probe Card Maintenance and Analysis Systems
+Probing Equipment incl. Analytical; Circuit; Manual; E-Beam; Optical; Wafer Probers
+System on a Chip (SOC); Mixed Signal Test Systems
+Test Contactor Cleaning; Conditioning Systems
+Test Head Manipulators and Docking Stations
+Wireless, non-contact Test Systems
+300 Packaging and Assembly Materials
+Adhesives; Epoxies; Die Attach Compounds; Under fill Materials; Conductive & Non-Conductive
+Bonding; Interconnect Materials - Wire; Ribbon; Tape; Capillaries & Tools
+Lead Frames & Headers: Etched; Stamped
+Marking ink
+Molding; Encapsulation; Potting; Resin Materials
+Package Substrates; Laminate; Film based
+Packages; Ceramic and Other High Temp Compounds
+Packages; Plastic
+Preforms; Lids
+Printed Circuit Boards (PCB); Printed Wire Boards (PWB)
+Printing Masks; Screens
+Scribe Tools; Saw or Dicing Blades and Accessories
+Solder; Solder Balls and other Soldering Materials
+Tape Automated Bonding (TAB) Accessories
+Thermal Interface Materials; Heat Sinks
+Thick Film Pastes; Materials
+Thin Film; Dielectric Film Materials
+301 Chemicals & Solids
+Acids; Etchants
+Buffers; Alkalis; Bases
+Cleaning Chemicals; Solvents; Strippers
+DI; UP Water
+Dopants; liquid or solid
+Other Specialty Chemicals
+Photo Resist; Developers & Ancillaries (incl. Adhesion promoter (HMDS); Primer; Anti-Reflective Coat
+Solids
+Spin on glass material
+Surface protection material; coatings
+302 FPD Materials
+Alignment Film Materials
+Color Filter Materials
+End-Sealing Material
+Glass Plates for FPD
+Liquid Crystal Materials
+Polarizer Materials
+Spacer Materials
+303 Gases
+Analytical Instrumentation Mixtures
+Dopant Gases
+Environmental Compliance Mixtures
+Etchant Gases
+Fuel Gases
+Laser Gas Mixtures
+Other Specialty; Mixed Gas
+Pure & Bulk Gases
+Rare; Noble Gases
+Reactant Gases
+Silicon Precursor Gas
+304 Mask Making Materials
+Mask and Reticle Handling Products
+Mask plate blanks; Glass
+Pellicles; Mounting Fixtures
+Plate or Pellicle Repair & Materials
+Transfer lithography masks; Polymer masks; templates (for Nanoimprint)
+305 Nanotechnology Materials
+Nanotechnology Materials
+306 PV Materials
+Consumables
+Feedstock: Polysilicon, UMG, etc.
+Gases and Liquid Chemicals
+Ingots, Wafers
+Other
+Solar Glass, encapsulation
+307 Process Materials
+CMP; Grind; Lap; Polish; Abrasive materials
+Deposition Supplies
+Deposition/Target Materials
+Ingots
+Photo Masks; Finished or Patterned
+Plasma; Ion Sources
+Plating Materials
+Polysilicon or granular polycrystalline silicon; Crystal growing Material
+Process Chamber Components; Graphite; Carbon Fiber Carbon (CFC); Pyrolytic Boron Nitride (PBN)
+Quartzware (Silicon Carbide, Fused Quartz Glass, Sapphire), Ceramic & Oxide Ceramic Fixtures
+308 Substrates
+Compound Semiconductor substrates (GaAs on Silicon; GaN; InP; SiGe, etc.)
+Diamond substrates
+Epitaxial; Epi; Gettered; Internal Gettered Wafers
+Gallium Arsenide (GaAs); Sapphire Substrates
+Prime; Polished; Mirrored Wafers
+Silicon on Insulator (SOI); Silicon on Sapphire (SOS); Silicon Carbide;
+solar cell substrates; crystalline silicon (c-Si); thin film
+Strained silicon; Engineered Substrates
+Test; Monitor Wafers; Reclaim or Virgin
+Thin & Thick film substrates for MEMS
+309 Test Materials
+Burn-In Boards; Performance Boards (incl. Low; High Temp and Ceramic)
+Probe Cards; DUT boards and other probing accessories (incl Ceramic and Special Purpose Probe Cards)
+Structural Circuits; Test; Thermal Fixturing
+Test Sockets; Contactors and Contact accessories
+400 Components, Parts & Accessories
+Bearings; Shaft Collars
+Chucks for Wafer and other Substrates
+Computer Accessories; Peripherals; Upgrades; Service
+Connectors; Plugs; Interconnects; Cable; Wire
+Electronic Hardware; Fixtures and Supplies
+Enclosures; Cabinets
+Fasteners; General Hardware
+Filters for Liquid; Oil
+Filters, Getters, Purifiers, Catalysts for Gases
+Flow Control Components - Valves; Meters; Gauges; Regulators; MFC's
+Gaskets; Seals; O rings; Elastomers; Resins
+Heating elements; coils; insulation; vestibule blocks and other Furnace components
+Indicator Status Lights
+Lamps (non Lithography), all type UV; LED and other
+Lamps for Lithography
+Magnetic Components; Heads
+Motors; Fans; Electric Rotary Spindles
+Piezo Electronic Components
+Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings
+Raw Material & Custom components; Metal
+Raw Material & Custom components; Plastic
+Sealants; Adhesives; Finishes
+Sensors
+Vacuum Systems Components & Accessories (optical monitors; Sputtering target fixtures; lubricants
+Windows
+401 Sub-systems
+Cameras - Still; CCD; Video & Monitors
+Computer; Control; Communication; Data Acquisition Systems
+Electron tube & Ion Beam Apparatus & Sources
+Exposure; Illumination Sources - Laser; Lamp; X-ray & other
+Gas; Liquid delivery panels as subsystems
+Gear reducers; Gearheads; Geardrives
+Handling; Transfer; Loading Systems; Lifting devices
+Hydraulic Systems
+Motion control systems; Servo control systems & Components
+Optics; Lens Products; Auto-Focus Systems
+Plasma Sources; Controls; Monitoring; Diagnosis
+Pneumatic Systems; Pneumatic rotary spindles
+Power Supplies; RF Generators; Converters; Electrical Conditioning
+Process Monitoring systems
+Pumps, for Fluids
+Pumps, Vacuum
+Temperature Sensing; Control; Recirculators; Chillers; Heat Exchangers
+Ultrasonic Generators; Transducer and Monitoring Systems
+402 PV Systems
+Chargers, Batteries
+Inverters
+Measurement and Control Technology
+Stand-Alone Systems
+403 PV Components, Tracking and Mounting Systems
+Cables, Connectors, Junction Boxes
+Mounting Systems
+Tracking Systems
+500 Factory Monitoring & Control Systems (FMCS)
+Chemical; Pure Water; Fluid Handling; Storage; Supply Systems
+Chemical; Pure Water; Fluid Monitoring & Control Systems
+Data Collection; Building control systems
+Electrical; Power Distribution
+Emergency (fire) & Security Control Systems
+Environmental; Utility Systems & Monitoring
+Equipment Interface; Communication Protocols
+Gas and Other Generation Systems
+Gas Handling - Cabinets; Control; Supply Systems
+Gas Monitoring Equipment; RGA's; TGO compliance
+Logistics; Floor Control Systems
+Process Controls
+Waste Control; Effluent Management Systems (Fluid & Gas; Exhaust Conditioning; Scrubbers)
+501 HVAC, Temperature, Humidity, Contamination Control
+Clean Rooms
+Contamination Control; HEPA Filtering Systems
+HVAC; Temperature; Humidity Systems and Control
+502 Material Handling Systems
+Conveying; Material Handling Systems
+Robotics; Transfer Systems
+Static; ESD Control
+Stockers; Storage, AMHS
+600 Communication Software
+Equipment Interface; Communication Protocols
+601 Design Software
+CAD - Computer Automated Design
+EDA - Electronic Design Automation; Circuit Design
+602 Manufacturing Software
+CAM or CIM - Computer Aided Manuf'g; Computer Integrated Manuf'g
+Factory Automation; Cell Controller Software
+Manufacturing Execution Software (MES)
+Production Control software
+Test Programs
+Yield Mgmt; Process Control Software
+603 Simulation, Analysis; Modeling Software
+Mask Making software & simulation
+Simulation; Characterization; Verification Software
+Statistical Analysis; Modeling; Cost of Ownership (CoO) Software
+700 Manufacturing Services
+Building Maintenance
+Burn-In Service
+Calibration & Reference Standards
+Certification; Compliance; Independent Laboratories
+Color Filter Manufacturing
+Deposition Service
+Etch; Strip; Cleaning Service
+Failure Analysis and other Analytical Services
+Ion Implant Service
+Laundry service; Cleanroom Garments and other
+Lithography; Patterning service
+Machine Shop; Fabrication Service
+Mask Making Fabrication and Repair
+Measurement; Inspection Service
+Micro Machining services (small hole drilling and milling)
+Parts Cleaning; Micro Contamination
+Plating; Electro Polishing; Coating; Surface Treatment
+Reclaim Services
+Repair; Rebuild; Install Equipment; Maintenance Services; Spare Parts
+Sawing; Lapping; Grinding; Polishing Service
+Used; Rental Equipment; Inventory Reduction, Appraisal - Brokers; Resellers
+Wafer Bumping Service
+Welding; specialty welding services
+701 Manufacturing Services or Consulting
+Assembly
+Automation & Robotics
+CAD; CAM; CIM
+Circuit Design; Electronic Design Services (EDS); System Level Design (SLD)
+Clean Room; Contamination Control
+Environmental, Health & Safety
+Equipment; Hardware; Product Design, Integration and Manufacturing
+Facilities; Building Environmental Systems Design & Monitoring; Alternative Energy Solutions
+Facility Design; Construction; Architectural
+Factory; Industrial Control; Utilization & Automation
+Flat Panel Display (FPD) Design & Manufacturing
+Manufacturing Process Support and Development
+Nanotechnology Intellectual Property Development; Research
+Package Materials; Interconnect; Subcomponent; Subassembly Design Services
+Package Simulation; Characterization Services
+Product Development; Software Design; Product Lifecycle Management
+Software Programming; Software Development
+Static; ESD Testing & Control Services
+Technical Intelligence; Reverse Engineering
+Test Services or Consulting
+Wafer Fab Operations and Design
+Wafer Handling
+Waste Control; Disposal Design
+800 Associations
+Associations; Trade or Industrial
+Professional Societies
+801 Distribution and Logistics
+Crating; Packaging
+Customs Clearance; Import/ Export; Freight Forwarders
+Distribution, Warehousing, 3rd Party Logistics Providers (3PL)
+Transportation; Rigging
+802 Educational; Research Institutions
+Education; Research Institutions (For-Profit); Vocational Training
+Education; Research Institutions (Non Profit); Academia; Schools
+803 Financial Services
+Banks
+Financial; Auditing; Tax Services
+Investor Relations
+Leasing; Asset Utilization
+Venture Capital
+804 Professional Services
+Government Advocacy; Regulation; Economic Development Agencies
+Insurance
+IT; Data Processing Services
+Legal Services
+Libraries
+Market Studies; Market Research Organizations
+Marketing or Sales Consultants
+Operations; Management Consulting
+Personnel Services; Employee Assistance; Recruiters; HR
+Property Management; Real Estate
+Public Relations
+Publications or Magazines; Printing
+Purchasing; Procurement; Materials; Supply Chain Management Services
+Sales; Manufacturers Representation or Distributors
+Trade Shows; Conference; Symposium Coordinators
+Web hosting; Design; Internet consulting; Systems Integration
+805 PV Services
+Education, Training
+Financing, Promotion
+Organization, Association
+Research and Development
+Testing Institutes
+900 Support Products
+Analytical Standards; Calibrators
+Clean Room Supplies; Cleaning Supplies
+Device; Wafer; Display Panel Handling Products
+Furniture; Storage; Cabinets
+Garments ; Apparel
+Laboratory Apparatus and Supplies
+Safety
+Tools
+901 Printed, Organic, Flexible and Large Area
+Device Manufacturing: Batteries
+Device Manufacturing: Display
+Device Manufacturing: Electronic
+Device Manufacturing: Integrated systems
+Device Manufacturing: Lighting
+Device Manufacturing: Photovoltaic
+Device Manufacturing: RFID
+Device Manufacturing: Semiconductor
+Device Manufacturing: Sensors
+Device Manufacturing: Signage
+Device Manufacturing: Wearable electronics
+Equipment: Clean room
+Equipment: Curing
+Equipment: Inspection
+Equipment: laboratory
+Equipment: Material Handling
+Equipment: Printing, coating
+Equipment: Process integration & control
+Equipment: Roll to roll
+Equipment: Systems
+Equipment: Vacuum deposition
+Materials: Consumables
+Materials: Gases and Liquid Chemicals
+Materials: Inks, pastes, printing
+Materials: Inorganic
+Materials: Organic
+Materials: Other
+Materials: Substrates, encapsulation, packaging
+Services: Education, Training
+Services: Financing, Promotion
+Services: Organization, Association
+Services: Research and Development
+Services: Testing Institutes
+902 Other
+Other
+903 Electronic Components
+Components: Low Power Electronics
+Components: ASIC's
+Components: Flexible Electronics
+Components: IC's
+Components: IDM / Foundries
+Components: MEMS
+Components: Sensors
+Design: CAD Tools
+Design: Design House
+Design: Fabless
+Design: IP vendors
+Design: Modelling
+904 Electronic Applications
+Energy Efficiency: Energy Harvesting Solutions
+Energy Efficiency: High voltage solutions
+Energy Efficiency: Low Power Electronics
+Energy Efficiency: Power electronics
+Energy Efficiency: Power Supplies and Batteries
+Healthcare: Device Implants
+Healthcare: Flexible Intelligent Devices
+Healthcare: sensors
+Imaging: Camera and Camera Modules
+Imaging: CCD, CMOS and organic sensors
+Imaging: Image Processing, Software and System
+Imaging: Optics and Micromechanic
+Lighting: LED
+Lighting: OLED
+Lighting: PLED
+Security: Biometrics
+Security: Identification
+Security: Tracking, e-ticketing

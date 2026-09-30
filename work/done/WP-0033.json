@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0033",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Mirafra Software Technologies Pvt. Ltd.",
+      "name_norm": "mirafra software technologies pvt",
+      "name_variants": [
+        "Mirafra Software Technologies Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5731"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Misumi India Private Limited",
+      "name_norm": "misumi india private",
+      "name_variants": [
+        "Misumi India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6205"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mitsui Chemicals India Pvt. Ltd.",
+      "name_norm": "mitsui chemicals india pvt",
+      "name_variants": [
+        "Mitsui Chemicals India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "372"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Mitutoyo South Asia Private Limited",
+      "name_norm": "mitutoyo south asia private",
+      "name_variants": [
+        "Mitutoyo South Asia Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1456"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Modutek Corporation",
+      "name_norm": "modutek",
+      "name_variants": [
+        "Modutek Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4014"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "668"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Morimura Brothers Trading India Pvt Ltd",
+      "name_norm": "morimura brothers trading india pvt",
+      "name_variants": [
+        "Morimura Brothers Trading India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5914"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Morphing Machines Private Limited",
+      "name_norm": "morphing machines private",
+      "name_variants": [
+        "Morphing Machines Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3122"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MOSCHIP",
+      "name_norm": "moschip",
+      "name_variants": [
+        "MOSCHIP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5316"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MTU India Private Limited",
+      "name_norm": "mtu india private",
+      "name_variants": [
+        "MTU India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6211"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Multi Nano Sense Technologies Private Limited",
+      "name_norm": "multi nano sense technologies private",
+      "name_variants": [
+        "Multi Nano Sense Technologies Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:15:15Z",
+  "deadline_utc": "2026-09-30T12:50:15Z"
+}

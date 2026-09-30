@@ -1,0 +1,157 @@
+{
+  "wp_id": "WP-0097",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "marco Systemanalyse und Entwicklung GmbH",
+      "name_norm": "marco systemanalyse und entwicklung",
+      "name_variants": [
+        "marco Systemanalyse und Entwicklung GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5571"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MathWorks",
+      "name_norm": "mathworks",
+      "name_variants": [
+        "MathWorks"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M2"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MAXWELL TECHNOLOGY PTE. LTD.",
+      "name_norm": "maxwell technology",
+      "name_variants": [
+        "MAXWELL TECHNOLOGY PTE. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MayAir Inc.",
+      "name_norm": "mayair",
+      "name_variants": [
+        "MayAir Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3438"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MCV Microwave",
+      "name_norm": "mcv microwave",
+      "name_variants": [
+        "MCV Microwave"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6670"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MDI Advanced systems USA inc.",
+      "name_norm": "mdi advanced systems usa",
+      "name_variants": [
+        "MDI Advanced systems USA inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "165"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "mechatronic systemtechnik gmbh",
+      "name_norm": "mechatronic systemtechnik",
+      "name_variants": [
+        "mechatronic systemtechnik gmbh",
+        "mechatronic systemtechnik Gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1761"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Menari LLC",
+      "name_norm": "menari",
+      "name_variants": [
+        "Menari LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1265"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Meridian Laboratory",
+      "name_norm": "meridian laboratory",
+      "name_variants": [
+        "Meridian Laboratory"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5167"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Metallife - USA Inc.",
+      "name_norm": "metallife usa",
+      "name_variants": [
+        "Metallife - USA Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3117"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

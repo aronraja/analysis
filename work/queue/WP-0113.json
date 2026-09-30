@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0113",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "RION CO., LTD.",
+      "name_norm": "rion",
+      "name_variants": [
+        "RION CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1645"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Riverside County Office of Economic Development",
+      "name_norm": "riverside county office of economic development",
+      "name_variants": [
+        "Riverside County Office of Economic Development"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rockwell Automation, Inc.",
+      "name_norm": "rockwell automation",
+      "name_variants": [
+        "Rockwell Automation, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M13"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Roechling",
+      "name_norm": "roechling",
+      "name_variants": [
+        "Roechling"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "173"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rollon Corporation",
+      "name_norm": "rollon",
+      "name_variants": [
+        "Rollon Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6367"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Roos Instruments, Inc.",
+      "name_norm": "roos instruments",
+      "name_variants": [
+        "Roos Instruments, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1951"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rorze Automation, Inc.",
+      "name_norm": "rorze automation",
+      "name_variants": [
+        "Rorze Automation, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "753"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rotarex s.a.",
+      "name_norm": "rotarex s a",
+      "name_variants": [
+        "Rotarex s.a."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6058"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1335"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Roxtec, Inc.",
+      "name_norm": "roxtec",
+      "name_variants": [
+        "Roxtec, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3022"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RPS CO., LTD.",
+      "name_norm": "rps",
+      "name_variants": [
+        "RPS CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "152"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

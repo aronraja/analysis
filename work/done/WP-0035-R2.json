@@ -1,0 +1,155 @@
+{
+  "wp_id": "WP-0035-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Netrasemi Private Limited",
+      "name_norm": "netrasemi private",
+      "name_variants": [
+        "Netrasemi Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "718"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NETWEB TECHNOLOGIES INDIA LIMITED",
+      "name_norm": "netweb technologies india",
+      "name_variants": [
+        "NETWEB TECHNOLOGIES INDIA LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6936"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NEW AGE INSUTRUMENTS AND MATERIALS PRIVATE LIMITED",
+      "name_norm": "new age insutruments and materials private",
+      "name_variants": [
+        "NEW AGE INSUTRUMENTS AND MATERIALS PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7633"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NEXGEN POWER",
+      "name_norm": "nexgen power",
+      "name_variants": [
+        "NEXGEN POWER"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1324"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NHK Spring Co., Ltd.",
+      "name_norm": "nhk spring",
+      "name_variants": [
+        "NHK Spring Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "956"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nicomac Taikisha Cleanrooms Pvt. Ltd",
+      "name_norm": "nicomac taikisha cleanrooms pvt",
+      "name_variants": [
+        "Nicomac Taikisha Cleanrooms Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "266"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NIDEC ADVANCE TECHNOLOGY CORPORATION",
+      "name_norm": "nidec advance technology",
+      "name_variants": [
+        "NIDEC ADVANCE TECHNOLOGY CORPORATION"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4305"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NIPPON EXPRESS （SOUTH ASIA & OCEANIA） PTE. LTD.",
+      "name_norm": "nippon express",
+      "name_variants": [
+        "NIPPON EXPRESS （SOUTH ASIA & OCEANIA） PTE. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "423"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nippon Fusso India Pvt. Ltd.",
+      "name_norm": "nippon fusso india pvt",
+      "name_variants": [
+        "Nippon Fusso India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4108"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NIPPON SANSO INDIA PRIVATE LIMITED",
+      "name_norm": "nippon sanso india private",
+      "name_variants": [
+        "NIPPON SANSO INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1468"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0035",
+  "claimed_utc": "2026-09-30T12:27:01Z",
+  "deadline_utc": "2026-09-30T13:02:01Z"
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0140",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "TOK-Europe",
+      "name_norm": "tok europe",
+      "name_variants": [
+        "TOK-Europe"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1211"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TOKYO OHKA KOGYO CO., LTD. / micro resist technology GmbH",
+      "name_norm": "tokyo ohka kogyo micro resist technology",
+      "name_variants": [
+        "TOKYO OHKA KOGYO CO., LTD. / micro resist technology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1211"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tomoegawa Europe BV",
+      "name_norm": "tomoegawa europe",
+      "name_variants": [
+        "Tomoegawa Europe BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Toray Engineering Co., Ltd.",
+      "name_norm": "toray engineering",
+      "name_variants": [
+        "Toray Engineering Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1846"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trace ID",
+      "name_norm": "trace id",
+      "name_variants": [
+        "Trace ID"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trelleborg Sealing Solutions Germany GmbH",
+      "name_norm": "trelleborg sealing solutions germany",
+      "name_variants": [
+        "Trelleborg Sealing Solutions Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1329"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tresky GmbH",
+      "name_norm": "tresky",
+      "name_variants": [
+        "Tresky GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trymax Semiconductor Equipment B.V",
+      "name_norm": "trymax semiconductor equipment b v",
+      "name_variants": [
+        "Trymax Semiconductor Equipment B.V"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1465"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TURBOWIN CO.,LTD.",
+      "name_norm": "turbowin",
+      "name_variants": [
+        "TURBOWIN CO.,LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2322"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TÜV SÜD Product Service GmbH",
+      "name_norm": "tuv sud product service",
+      "name_variants": [
+        "TÜV SÜD Product Service GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1540"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

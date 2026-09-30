@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0043",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "SARVTEK",
+      "name_norm": "sarvtek",
+      "name_variants": [
+        "SARVTEK"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4817"
+        },
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SASTRA Deemed University",
+      "name_norm": "sastra deemed university",
+      "name_variants": [
+        "SASTRA Deemed University"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7635"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sawant Process Solutions Private Limited",
+      "name_norm": "sawant process solutions private",
+      "name_variants": [
+        "Sawant Process Solutions Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4822"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SB TECH Corporation",
+      "name_norm": "sb tech",
+      "name_variants": [
+        "SB TECH Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "262"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Schneeberger India Pvt. Ltd",
+      "name_norm": "schneeberger india pvt",
+      "name_variants": [
+        "Schneeberger India Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1668"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Scientific Research Instruments Company Pvt Ltd",
+      "name_norm": "scientific research instruments pvt",
+      "name_variants": [
+        "Scientific Research Instruments Company Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7013"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SCREEN SPE Singapore Pte. Ltd.",
+      "name_norm": "screen spe singapore",
+      "name_variants": [
+        "SCREEN SPE Singapore Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "334"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEBA Inc.",
+      "name_norm": "seba",
+      "name_variants": [
+        "SEBA Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEICO HI-PURITY TUBES PVT. LTD.",
+      "name_norm": "seico hi purity tubes pvt",
+      "name_variants": [
+        "SEICO HI-PURITY TUBES PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7219"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEMI Booth",
+      "name_norm": "semi booth",
+      "name_variants": [
+        "SEMI Booth"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5248"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:29:11Z",
+  "deadline_utc": "2026-09-30T13:04:11Z"
+}

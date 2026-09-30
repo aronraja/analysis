@@ -1,0 +1,157 @@
+{
+  "wp_id": "WP-0106",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Optikos, LLC",
+      "name_norm": "optikos",
+      "name_variants": [
+        "Optikos, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3034"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "OptoSigma Corporation",
+      "name_norm": "optosigma",
+      "name_variants": [
+        "OptoSigma Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3319"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Oregon State University",
+      "name_norm": "oregon state university",
+      "name_variants": [
+        "Oregon State University"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6448"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Oriental Motor USA, Corp.",
+      "name_norm": "oriental motor usa",
+      "name_variants": [
+        "Oriental Motor USA, Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5368"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Osaka Vacuum, Ltd.",
+      "name_norm": "osaka vacuum",
+      "name_variants": [
+        "Osaka Vacuum, Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1753"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Oxford Instruments",
+      "name_norm": "oxford instruments",
+      "name_variants": [
+        "Oxford Instruments",
+        "Oxford Instruments GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1939"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1461"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Palomar Technologies",
+      "name_norm": "palomar technologies",
+      "name_variants": [
+        "Palomar Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6054"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Panasonic Industrial Devices Sales Company of America",
+      "name_norm": "panasonic industrial devices sales of america",
+      "name_variants": [
+        "Panasonic Industrial Devices Sales Company of America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Parallax Worlds",
+      "name_norm": "parallax worlds",
+      "name_variants": [
+        "Parallax Worlds"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3406"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Park Systems, Inc.",
+      "name_norm": "park systems",
+      "name_variants": [
+        "Park Systems, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "245"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

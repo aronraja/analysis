@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0168",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Euris GmbH",
+      "name_norm": "euris",
+      "name_variants": [
+        "Euris GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1274"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "european economics",
+      "name_norm": "european economics",
+      "name_variants": [
+        "european economics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1904"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "European Market Partner BV",
+      "name_norm": "european market partner",
+      "name_variants": [
+        "European Market Partner BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1137"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Evatec Europe GmbH",
+      "name_norm": "evatec europe",
+      "name_variants": [
+        "Evatec Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "exateq GmbH",
+      "name_norm": "exateq",
+      "name_variants": [
+        "exateq GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1677"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Exyte Management GmbH",
+      "name_norm": "exyte management",
+      "name_variants": [
+        "Exyte Management GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1913"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Eyelit Inc.",
+      "name_norm": "eyelit",
+      "name_variants": [
+        "Eyelit Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1218"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Faeth GmbH",
+      "name_norm": "faeth",
+      "name_variants": [
+        "Faeth GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1265"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FAGOR AUTOMATION S.COOP.",
+      "name_norm": "fagor automation s coop",
+      "name_variants": [
+        "FAGOR AUTOMATION S.COOP."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1671"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fastmicro BV",
+      "name_norm": "fastmicro",
+      "name_variants": [
+        "Fastmicro BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0148",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Shandong Liansheng Electronic Equipment Co.,Ltd.",
+      "name_norm": "shandong liansheng electronic equipment",
+      "name_variants": [
+        "Shandong Liansheng Electronic Equipment Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2214"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shanghai Boilpeak Seals Technology Co,.Ltd",
+      "name_norm": "shanghai boilpeak seals technology",
+      "name_variants": [
+        "Shanghai Boilpeak Seals Technology Co,.Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0701"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shanghai Lingheng Industrial Automation Co., Ltd",
+      "name_norm": "shanghai lingheng industrial automation",
+      "name_variants": [
+        "Shanghai Lingheng Industrial Automation Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1670"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shanghai Mobiletek Communication Ltd.",
+      "name_norm": "shanghai mobiletek communication",
+      "name_variants": [
+        "Shanghai Mobiletek Communication Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2359"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shanghai pusher flow control system Co., Ltd.",
+      "name_norm": "shanghai pusher flow control system",
+      "name_variants": [
+        "Shanghai pusher flow control system Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2250"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shanghai Silicology Scientific & Trading Co., Ltd",
+      "name_norm": "shanghai silicology scientific and trading",
+      "name_variants": [
+        "Shanghai Silicology Scientific & Trading Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1369"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shanghai Skychem Chemical Limited",
+      "name_norm": "shanghai skychem chemical",
+      "name_variants": [
+        "Shanghai Skychem Chemical Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0407"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ShenYang Academy of Instrumentation Science Co., Ltd",
+      "name_norm": "shenyang academy of instrumentation science",
+      "name_variants": [
+        "ShenYang Academy of Instrumentation Science Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2116"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shenzhen Enterprise Services Group Co., Ltd.",
+      "name_norm": "shenzhen enterprise services",
+      "name_variants": [
+        "Shenzhen Enterprise Services Group Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1355"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shenzhen JiTaiXin Electronics Co., Ltd",
+      "name_norm": "shenzhen jitaixin electronics",
+      "name_variants": [
+        "Shenzhen JiTaiXin Electronics Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2120"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

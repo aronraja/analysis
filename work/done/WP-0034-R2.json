@@ -1,0 +1,155 @@
+{
+  "wp_id": "WP-0034-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "MumbaiSemi",
+      "name_norm": "mumbaisemi",
+      "name_variants": [
+        "MumbaiSemi"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MyCAE India Pvt Ltd",
+      "name_norm": "mycae india pvt",
+      "name_variants": [
+        "MyCAE India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3624"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nagase India pvt ltd",
+      "name_norm": "nagase india pvt",
+      "name_variants": [
+        "Nagase India pvt ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5702"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nano Clean Technologies",
+      "name_norm": "nano clean technologies",
+      "name_variants": [
+        "Nano Clean Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7528"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nanoscale Research Facility, IIT Delhi",
+      "name_norm": "nanoscale research facility iit delhi",
+      "name_variants": [
+        "Nanoscale Research Facility, IIT Delhi"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4522"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nasscom",
+      "name_norm": "nasscom",
+      "name_variants": [
+        "Nasscom"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3413"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "National Institute of Technical Teachers Training and Research",
+      "name_norm": "national institute of technical teachers training and research",
+      "name_variants": [
+        "National Institute of Technical Teachers Training and Research"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6028"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Navin Fluorine International Limited",
+      "name_norm": "navin fluorine international",
+      "name_variants": [
+        "Navin Fluorine International Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6923"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NeevSemi India Private limited",
+      "name_norm": "neevsemi india private",
+      "name_variants": [
+        "NeevSemi India Private limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Netherlands Pavilion",
+      "name_norm": "netherlands pavilion",
+      "name_variants": [
+        "Netherlands Pavilion"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "923"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0034",
+  "claimed_utc": "2026-09-30T12:26:57Z",
+  "deadline_utc": "2026-09-30T13:01:57Z"
+}

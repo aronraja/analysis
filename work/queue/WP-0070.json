@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0070",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Conax Technologies",
+      "name_norm": "conax technologies",
+      "name_variants": [
+        "Conax Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1959"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CONNECTEC JAPAN Corporation",
+      "name_norm": "connectec japan",
+      "name_variants": [
+        "CONNECTEC JAPAN Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5338"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CONPROFE TECHNOLOGY GROUP CO., LTD.",
+      "name_norm": "conprofe technology",
+      "name_variants": [
+        "CONPROFE TECHNOLOGY GROUP CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3239"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Contrel Technology Co., Ltd.",
+      "name_norm": "contrel technology",
+      "name_variants": [
+        "Contrel Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2249"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "2149"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ControlSoft Automation Systems LTD",
+      "name_norm": "controlsoft automation systems",
+      "name_variants": [
+        "ControlSoft Automation Systems LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6821"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cooner Wire",
+      "name_norm": "cooner wire",
+      "name_variants": [
+        "Cooner Wire"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3125"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CoorsTek",
+      "name_norm": "coorstek",
+      "name_variants": [
+        "CoorsTek"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "645"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Coraza Systems Malaysia Sdn Bhd",
+      "name_norm": "coraza systems malaysia",
+      "name_variants": [
+        "Coraza Systems Malaysia Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CORE INSIGHT, INC.",
+      "name_norm": "core insight",
+      "name_variants": [
+        "CORE INSIGHT, INC."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6377"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CornerStone Staffing",
+      "name_norm": "cornerstone staffing",
+      "name_variants": [
+        "CornerStone Staffing"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3440"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

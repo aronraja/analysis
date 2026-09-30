@@ -1,0 +1,162 @@
+{
+  "wp_id": "WP-0066",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Caliber QC",
+      "name_norm": "caliber qc",
+      "name_variants": [
+        "Caliber QC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1669"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "California Division of Apprenticeship Standards",
+      "name_norm": "california division of apprenticeship standards",
+      "name_variants": [
+        "California Division of Apprenticeship Standards"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "California Employment Training Panel",
+      "name_norm": "california employment training panel",
+      "name_variants": [
+        "California Employment Training Panel"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "California Governor’s Office of Business and Economic Development",
+      "name_norm": "california governors office of business and economic development",
+      "name_variants": [
+        "California Governor’s Office of Business and Economic Development"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5654"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "California Institute of Technology",
+      "name_norm": "california institute of technology",
+      "name_variants": [
+        "California Institute of Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cambridge Filter USA, Inc.",
+      "name_norm": "cambridge filter usa",
+      "name_variants": [
+        "Cambridge Filter USA, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2048"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cambridge Vacuum Engineering Inc",
+      "name_norm": "cambridge vacuum engineering",
+      "name_variants": [
+        "Cambridge Vacuum Engineering Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3240"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Camfil Clean Air Solutions",
+      "name_norm": "camfil clean air solutions",
+      "name_variants": [
+        "Camfil Clean Air Solutions"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6172"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "camLine GmbH",
+      "name_norm": "camline",
+      "name_variants": [
+        "camLine GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Camtek USA, Inc.",
+      "name_norm": "camtek usa",
+      "name_variants": [
+        "Camtek USA, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5744"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:35:20Z",
+  "deadline_utc": "2026-09-30T13:10:20Z"
+}

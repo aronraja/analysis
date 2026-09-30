@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0064",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "BHS Kinetic Inc.",
+      "name_norm": "bhs kinetic",
+      "name_variants": [
+        "BHS Kinetic Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "W4"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Birk Manufacturing, Inc.",
+      "name_norm": "birk manufacturing",
+      "name_variants": [
+        "Birk Manufacturing, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5147"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BizLink elocab Ltd.",
+      "name_norm": "bizlink elocab",
+      "name_variants": [
+        "BizLink elocab Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6453"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Blaser Swisslube",
+      "name_norm": "blaser swisslube",
+      "name_variants": [
+        "Blaser Swisslube"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6569"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BOBOO HITECH",
+      "name_norm": "boboo hitech",
+      "name_variants": [
+        "BOBOO HITECH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1868"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bodycote S3P",
+      "name_norm": "bodycote s3p",
+      "name_variants": [
+        "Bodycote S3P"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6759"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bowman Analytics",
+      "name_norm": "bowman analytics",
+      "name_variants": [
+        "Bowman Analytics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6278"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brainboxes LLC",
+      "name_norm": "brainboxes",
+      "name_variants": [
+        "Brainboxes LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6648"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bridge Tronic Global, Inc",
+      "name_norm": "bridge tronic global",
+      "name_variants": [
+        "Bridge Tronic Global, Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5662"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brimrose Corporation",
+      "name_norm": "brimrose",
+      "name_variants": [
+        "Brimrose Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5169"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:35:14Z",
+  "deadline_utc": "2026-09-30T13:10:14Z"
+}

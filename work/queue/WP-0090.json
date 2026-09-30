@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0090",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Investment and Marketing Corporation Saxony-Anhalt",
+      "name_norm": "investment and marketing saxony anhalt",
+      "name_variants": [
+        "Investment and Marketing Corporation Saxony-Anhalt"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ISC Co., Ltd.",
+      "name_norm": "isc",
+      "name_variants": [
+        "ISC Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "259"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Iwatani Corporation of America",
+      "name_norm": "iwatani of america",
+      "name_variants": [
+        "Iwatani Corporation of America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6669"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IWIN Co., Ltd.",
+      "name_norm": "iwin",
+      "name_variants": [
+        "IWIN Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "J&L Tech",
+      "name_norm": "j and l tech",
+      "name_variants": [
+        "J&L Tech"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jade Micron Pte Ltd",
+      "name_norm": "jade micron",
+      "name_variants": [
+        "Jade Micron Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Janman Precision Industry Co., Ltd.",
+      "name_norm": "janman precision industry",
+      "name_variants": [
+        "Janman Precision Industry Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1043"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JDV CONTROL VALVES CO., LTD.",
+      "name_norm": "jdv control valves",
+      "name_variants": [
+        "JDV CONTROL VALVES CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2461"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jelight Company, Inc.",
+      "name_norm": "jelight",
+      "name_variants": [
+        "Jelight Company, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1651"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JEOL USA, Inc.",
+      "name_norm": "jeol usa",
+      "name_variants": [
+        "JEOL USA, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1339"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

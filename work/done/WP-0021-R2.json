@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0021-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Hegzaflon Global pvt ltd",
+      "name_norm": "hegzaflon global pvt",
+      "name_variants": [
+        "Hegzaflon Global pvt ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4205"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heidelberg Instruments Mikrotechnik GmbH",
+      "name_norm": "heidelberg instruments mikrotechnik",
+      "name_variants": [
+        "Heidelberg Instruments Mikrotechnik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "976"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1234"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HIGGS BOSON SYSTEMS PRIVATE LIMITED",
+      "name_norm": "higgs boson systems private",
+      "name_variants": [
+        "HIGGS BOSON SYSTEMS PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7516"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HIGHSTAR TECHNOLOOGY PRIVATE LIMITED",
+      "name_norm": "highstar technoloogy private",
+      "name_variants": [
+        "HIGHSTAR TECHNOLOOGY PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hilti India Private Limtied",
+      "name_norm": "hilti india private limtied",
+      "name_variants": [
+        "Hilti India Private Limtied"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5618"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hitachi High-Tech",
+      "name_norm": "hitachi high tech",
+      "name_variants": [
+        "Hitachi High-Tech"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "723"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hitech Tools & Instruments",
+      "name_norm": "hitech tools and instruments",
+      "name_variants": [
+        "Hitech Tools & Instruments"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7436"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HMC Sales & Service",
+      "name_norm": "hmc sales and service",
+      "name_variants": [
+        "HMC Sales & Service"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "942"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Homwell Co., Ltd.",
+      "name_norm": "homwell",
+      "name_variants": [
+        "Homwell Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "978"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Honeywell International India PVT LTD",
+      "name_norm": "honeywell international india pvt",
+      "name_variants": [
+        "Honeywell International India PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4123"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0021",
+  "claimed_utc": "2026-09-30T12:23:59Z",
+  "deadline_utc": "2026-09-30T12:58:59Z"
+}

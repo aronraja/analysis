@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0004",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "AIRTECH SYSTEMS INDIA PVT LTD",
+      "name_norm": "airtech systems india pvt",
+      "name_variants": [
+        "AIRTECH SYSTEMS INDIA PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6913"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Akribis Systems Pte Ltd",
+      "name_norm": "akribis systems",
+      "name_variants": [
+        "Akribis Systems Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1123"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Akros Trading India Pvt Ltd",
+      "name_norm": "akros trading india pvt",
+      "name_variants": [
+        "Akros Trading India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6428"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ALIGNED TEST PTE LTD",
+      "name_norm": "aligned test",
+      "name_variants": [
+        "ALIGNED TEST PTE LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "940"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ALLIED RESOURCING",
+      "name_norm": "allied resourcing",
+      "name_variants": [
+        "ALLIED RESOURCING"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4922"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AMD India Private Limited",
+      "name_norm": "amd india private",
+      "name_variants": [
+        "AMD India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1102"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ami Polymer",
+      "name_norm": "ami polymer",
+      "name_variants": [
+        "Ami Polymer"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7321"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Amity University Uttar Pradesh Noida",
+      "name_norm": "amity university uttar pradesh noida",
+      "name_variants": [
+        "Amity University Uttar Pradesh Noida"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6308"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ample Semiconductors Private Limited",
+      "name_norm": "ample semiconductors private",
+      "name_variants": [
+        "Ample Semiconductors Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7035"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ANANANT SYSTEMS PRIVATE LIMITED",
+      "name_norm": "ananant systems private",
+      "name_variants": [
+        "ANANANT SYSTEMS PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7607"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:23Z",
+  "deadline_utc": "2026-09-30T12:47:23Z"
+}

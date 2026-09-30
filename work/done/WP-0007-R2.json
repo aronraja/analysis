@@ -1,0 +1,57 @@
+{
+  "wp_id": "WP-0007-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Avcon Technics Pvt Ltd",
+      "name_norm": "avcon technics pvt",
+      "name_variants": [
+        "Avcon Technics Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3121"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BABA FINE CHEMICALS",
+      "name_norm": "baba fine chemicals",
+      "name_variants": [
+        "BABA FINE CHEMICALS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4223"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bangalore Refinery Pvt Ltd.,",
+      "name_norm": "bangalore refinery pvt",
+      "name_variants": [
+        "Bangalore Refinery Pvt Ltd.,"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7033"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0007",
+  "claimed_utc": "2026-09-30T12:23:13Z",
+  "deadline_utc": "2026-09-30T12:58:13Z"
+}

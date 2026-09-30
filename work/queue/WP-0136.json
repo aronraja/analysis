@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0136",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Wuxi Evergrand Electronic Scientific Technology Co.,Ltd",
+      "name_norm": "wuxi evergrand electronic scientific technology",
+      "name_variants": [
+        "Wuxi Evergrand Electronic Scientific Technology Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2146"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xceat Solutions GmbH",
+      "name_norm": "xceat solutions",
+      "name_variants": [
+        "Xceat Solutions GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xi'an Beinuoyin Electronic Technology Co., Ltd",
+      "name_norm": "xi an beinuoyin electronic technology",
+      "name_variants": [
+        "Xi'an Beinuoyin Electronic Technology Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-806"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xi'an Intelligence Silicon Technology Co.,Ltd.",
+      "name_norm": "xi an intelligence silicon technology",
+      "name_variants": [
+        "Xi'an Intelligence Silicon Technology Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-820"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xi'an Jinhao Electronic Technology Co., Ltd.",
+      "name_norm": "xi an jinhao electronic technology",
+      "name_variants": [
+        "Xi'an Jinhao Electronic Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-804"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "XI'AN LEADMEMS SCI&TECH CO.,LTD",
+      "name_norm": "xi an leadmems sci and tech",
+      "name_variants": [
+        "XI'AN LEADMEMS SCI&TECH CO.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-921"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xi'an Satnavcom Technology Co., Ltd.",
+      "name_norm": "xi an satnavcom technology",
+      "name_variants": [
+        "Xi'an Satnavcom Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-822"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xi'an Weiguang Technology Co.Ltd",
+      "name_norm": "xi an weiguang technology",
+      "name_variants": [
+        "Xi'an Weiguang Technology Co.Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-906"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xian REO Electromagnetic Environment Technology Co., Ltd.",
+      "name_norm": "xian reo electromagnetic environment technology",
+      "name_variants": [
+        "Xian REO Electromagnetic Environment Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-918"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Xianyang Qinhua Special Electronic Components Co., Ltd.",
+      "name_norm": "xianyang qinhua special electronic components",
+      "name_variants": [
+        "Xianyang Qinhua Special Electronic Components Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-800"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

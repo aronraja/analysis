@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0157",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "LEG Thüringen",
+      "name_norm": "leg thuringen",
+      "name_variants": [
+        "LEG Thüringen"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lesico Process Piping Ltd.",
+      "name_norm": "lesico process piping",
+      "name_variants": [
+        "Lesico Process Piping Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Levitronix GmbH",
+      "name_norm": "levitronix",
+      "name_variants": [
+        "Levitronix GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1161"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LIDROTEC GmbH",
+      "name_norm": "lidrotec",
+      "name_variants": [
+        "LIDROTEC GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1237"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Limitek Ltd.",
+      "name_norm": "limitek",
+      "name_variants": [
+        "Limitek Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1812"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Linde Electronics GmbH & Co. KG",
+      "name_norm": "linde electronics and",
+      "name_variants": [
+        "Linde Electronics GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Linesight",
+      "name_norm": "linesight",
+      "name_variants": [
+        "Linesight"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lonten Semiconductor Co., Ltd.",
+      "name_norm": "lonten semiconductor",
+      "name_variants": [
+        "Lonten Semiconductor Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-816"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LouwersHanique",
+      "name_norm": "louwershanique",
+      "name_variants": [
+        "LouwersHanique"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "M-O-T Mikro- und Oberflächentechnik GmbH",
+      "name_norm": "m o t mikro und oberflachentechnik",
+      "name_variants": [
+        "M-O-T Mikro- und Oberflächentechnik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1271"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

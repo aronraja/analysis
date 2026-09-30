@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0051",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Toray Industries Inc",
+      "name_norm": "toray industries",
+      "name_variants": [
+        "Toray Industries Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "476"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Towa Corporation",
+      "name_norm": "towa",
+      "name_variants": [
+        "Towa Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "138"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TOYOTA TSUSHO INDIA PVT.LTD",
+      "name_norm": "toyota tsusho india pvt",
+      "name_variants": [
+        "TOYOTA TSUSHO INDIA PVT.LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4016"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TPST Services Private Limited",
+      "name_norm": "tpst services private",
+      "name_variants": [
+        "TPST Services Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3318"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Transport Corporation Of India Limited",
+      "name_norm": "transport of india",
+      "name_variants": [
+        "Transport Corporation Of India Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4208"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TriQuanta Labs",
+      "name_norm": "triquanta labs",
+      "name_variants": [
+        "TriQuanta Labs"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trojan Technologies",
+      "name_norm": "trojan technologies",
+      "name_variants": [
+        "Trojan Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6213"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trokut Solutions Pvt Ltd",
+      "name_norm": "trokut solutions pvt",
+      "name_variants": [
+        "Trokut Solutions Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6423"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Truechip Solutions Private Limited India App ID: SE26-Q18YR",
+      "name_norm": "truechip solutions private india app id se26 q18yr",
+      "name_variants": [
+        "Truechip Solutions Private Limited India App ID: SE26-Q18YR"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7611"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Truesilicon Technology Private Limited",
+      "name_norm": "truesilicon technology private",
+      "name_variants": [
+        "Truesilicon Technology Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:31:47Z",
+  "deadline_utc": "2026-09-30T13:06:47Z"
+}

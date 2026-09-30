@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0041",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Rieco Industries Ltd",
+      "name_norm": "rieco industries",
+      "name_variants": [
+        "Rieco Industries Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4821"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RIKEN KEIKI Co., Ltd.",
+      "name_norm": "riken keiki",
+      "name_variants": [
+        "RIKEN KEIKI Co., Ltd.",
+        "RIKEN KEIKI GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "172"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1214"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RIR Power Electronics Limited",
+      "name_norm": "rir power electronics",
+      "name_variants": [
+        "RIR Power Electronics Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6805"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RMM and ASSOCIATES",
+      "name_norm": "rmm and associates",
+      "name_variants": [
+        "RMM and ASSOCIATES"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4624"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ROECHLING INDUSTRIAL INDIA PRIVATE LIMITED",
+      "name_norm": "roechling industrial india private",
+      "name_variants": [
+        "ROECHLING INDUSTRIAL INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6421"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ROKKO Systems Pte Ltd",
+      "name_norm": "rokko systems",
+      "name_variants": [
+        "ROKKO Systems Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1233"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ROOTS CO., LTD",
+      "name_norm": "roots",
+      "name_variants": [
+        "ROOTS CO., LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ROTAREX",
+      "name_norm": "rotarex",
+      "name_variants": [
+        "ROTAREX"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "870"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Roxtec India Pvt. Ltd.",
+      "name_norm": "roxtec india pvt",
+      "name_variants": [
+        "Roxtec India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6126"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sagar Speciality Chemicals Private Limited",
+      "name_norm": "sagar speciality chemicals private",
+      "name_variants": [
+        "Sagar Speciality Chemicals Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3018"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:27:57Z",
+  "deadline_utc": "2026-09-30T13:02:57Z"
+}

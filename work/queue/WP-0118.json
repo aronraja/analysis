@@ -1,0 +1,168 @@
+{
+  "wp_id": "WP-0118",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "SHIKOKU CHEMICALS CORPORATION",
+      "name_norm": "shikoku chemicals",
+      "name_variants": [
+        "SHIKOKU CHEMICALS CORPORATION"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6805"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shimadzu Scientific Instruments",
+      "name_norm": "shimadzu scientific instruments",
+      "name_variants": [
+        "Shimadzu Scientific Instruments"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3339"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SHINDO ENG. LAB., LTD.",
+      "name_norm": "shindo eng lab",
+      "name_variants": [
+        "SHINDO ENG. LAB., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6483"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shin-Etsu MicroSi, Inc.",
+      "name_norm": "shin etsu microsi",
+      "name_variants": [
+        "Shin-Etsu MicroSi, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3403"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2148"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SHiNKO Europe AG",
+      "name_norm": "shinko europe",
+      "name_variants": [
+        "SHiNKO Europe AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6178"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1135"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sibanye-Stillwater Reldan",
+      "name_norm": "sibanye stillwater reldan",
+      "name_variants": [
+        "Sibanye-Stillwater Reldan"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5247"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SICO Technology GmbH",
+      "name_norm": "sico technology",
+      "name_variants": [
+        "SICO Technology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Siconnex customized solutions GmbH",
+      "name_norm": "siconnex customized solutions",
+      "name_variants": [
+        "Siconnex customized solutions GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "533"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1453"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Siemens Industry Inc",
+      "name_norm": "siemens industry",
+      "name_variants": [
+        "Siemens Industry Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5982"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sigma Design, Inc.",
+      "name_norm": "sigma design",
+      "name_variants": [
+        "Sigma Design, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5168"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

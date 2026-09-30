@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0167",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "ICFO",
+      "name_norm": "icfo",
+      "name_variants": [
+        "ICFO"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ICT Group",
+      "name_norm": "ict",
+      "name_variants": [
+        "ICT Group"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IDTechEx",
+      "name_norm": "idtechex",
+      "name_variants": [
+        "IDTechEx"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ifm electronic gmbh",
+      "name_norm": "ifm electronic",
+      "name_variants": [
+        "ifm electronic gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1124"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IFX Technologies GmbH",
+      "name_norm": "ifx technologies",
+      "name_variants": [
+        "IFX Technologies GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Entegris GmbH",
+      "name_norm": "entegris",
+      "name_variants": [
+        "Entegris GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EP Rožnov, a.s.",
+      "name_norm": "ep roznov a s",
+      "name_variants": [
+        "EP Rožnov, a.s."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ePAK International",
+      "name_norm": "epak international",
+      "name_variants": [
+        "ePAK International"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1106"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Equans Process Solutions GmbH",
+      "name_norm": "equans process solutions",
+      "name_variants": [
+        "Equans Process Solutions GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1257"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EUMETRYS SAS",
+      "name_norm": "eumetrys",
+      "name_variants": [
+        "EUMETRYS SAS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1850"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

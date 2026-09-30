@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0176",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Bronkhorst High-Tech BV",
+      "name_norm": "bronkhorst high tech",
+      "name_variants": [
+        "Bronkhorst High-Tech BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brooks Instrument GmbH",
+      "name_norm": "brooks instrument",
+      "name_variants": [
+        "Brooks Instrument GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1766"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bruker Nano Surfaces & Metrology",
+      "name_norm": "bruker nano surfaces and metrology",
+      "name_variants": [
+        "Bruker Nano Surfaces & Metrology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1115"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Buhler Alzenau GmbH",
+      "name_norm": "buhler alzenau",
+      "name_variants": [
+        "Buhler Alzenau GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1836"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "C+S Chlorgas GmbH",
+      "name_norm": "c s chlorgas",
+      "name_variants": [
+        "C+S Chlorgas GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0116"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "C.C.P Kontakt GmbH",
+      "name_norm": "c c p kontakt",
+      "name_variants": [
+        "C.C.P Kontakt GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "C4C GmbH",
+      "name_norm": "c4c",
+      "name_variants": [
+        "C4C GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2255"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Caelus Technologies Limited",
+      "name_norm": "caelus technologies",
+      "name_variants": [
+        "Caelus Technologies Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2424"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Camtek Germany GmbH",
+      "name_norm": "camtek germany",
+      "name_variants": [
+        "Camtek Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1510"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Canon Europa NV",
+      "name_norm": "canon europa",
+      "name_variants": [
+        "Canon Europa NV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1806"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

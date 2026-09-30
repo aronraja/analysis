@@ -1,0 +1,26 @@
+{
+  "wp_id": "WP-0182",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Averture s.r.o.",
+      "name_norm": "averture s r o",
+      "name_variants": [
+        "Averture s.r.o."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

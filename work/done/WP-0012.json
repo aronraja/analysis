@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0012",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "COVERIFY SYSTEMS TECHNOLOGY LLP",
+      "name_norm": "coverify systems technology",
+      "name_variants": [
+        "COVERIFY SYSTEMS TECHNOLOGY LLP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CraftifAI",
+      "name_norm": "craftifai",
+      "name_variants": [
+        "CraftifAI"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7307"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cryogenic Specialty Manufacturing Sdn. Bhd.",
+      "name_norm": "cryogenic specialty manufacturing",
+      "name_variants": [
+        "Cryogenic Specialty Manufacturing Sdn. Bhd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1527"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Crystal Matrix Limited",
+      "name_norm": "crystal matrix",
+      "name_variants": [
+        "Crystal Matrix Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1018"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cubetor India Private Limited.",
+      "name_norm": "cubetor india private",
+      "name_variants": [
+        "Cubetor India Private Limited."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cyient Semiconductors Pvt Ltd",
+      "name_norm": "cyient semiconductors pvt",
+      "name_variants": [
+        "Cyient Semiconductors Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7205"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DAIFUKU CO, LTD.",
+      "name_norm": "daifuku",
+      "name_variants": [
+        "DAIFUKU CO, LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1067"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1229"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DAIICHI JITSUGYO INDIA PVT. LTD.",
+      "name_norm": "daiichi jitsugyo india pvt",
+      "name_variants": [
+        "DAIICHI JITSUGYO INDIA PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "645"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DAIKIN CHEMICAL INDIA PRIVATED LTD.",
+      "name_norm": "daikin chemical india privated",
+      "name_variants": [
+        "DAIKIN CHEMICAL INDIA PRIVATED LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "442"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Daksh Instruments Pvt Ltd",
+      "name_norm": "daksh instruments pvt",
+      "name_variants": [
+        "Daksh Instruments Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "272"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:25Z",
+  "deadline_utc": "2026-09-30T12:47:25Z"
+}

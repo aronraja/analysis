@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0131",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Vital Materials Co., Ltd",
+      "name_norm": "vital materials",
+      "name_variants": [
+        "Vital Materials Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "248"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vitrek",
+      "name_norm": "vitrek",
+      "name_variants": [
+        "Vitrek"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VON ARDENNE GmbH",
+      "name_norm": "von ardenne",
+      "name_variants": [
+        "VON ARDENNE GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5373"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Wacom Corporation",
+      "name_norm": "wacom",
+      "name_variants": [
+        "Wacom Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1568"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WACOM QUARTZ CORPORATION",
+      "name_norm": "wacom quartz",
+      "name_variants": [
+        "WACOM QUARTZ CORPORATION"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1568"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WAFTECH SDN BHD",
+      "name_norm": "waftech",
+      "name_variants": [
+        "WAFTECH SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3203"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1455"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "watttron GmbH",
+      "name_norm": "watttron",
+      "name_variants": [
+        "watttron GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Webb Core",
+      "name_norm": "webb core",
+      "name_variants": [
+        "Webb Core"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3033"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WENZHOU QIMING STAINLESS CO.,LTD",
+      "name_norm": "wenzhou qiming stainless",
+      "name_variants": [
+        "WENZHOU QIMING STAINLESS CO.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "237"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "White Knight Fluid Handling, Inc.",
+      "name_norm": "white knight fluid handling",
+      "name_variants": [
+        "White Knight Fluid Handling, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "553"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

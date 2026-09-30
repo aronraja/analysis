@@ -1,0 +1,166 @@
+{
+  "wp_id": "WP-0008",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Bergen Systems Pvt. Ltd.",
+      "name_norm": "bergen systems pvt",
+      "name_variants": [
+        "Bergen Systems Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1276"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Besi Singapore Pte. Ltd.",
+      "name_norm": "besi singapore",
+      "name_variants": [
+        "Besi Singapore Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bharat Forge Limited",
+      "name_norm": "bharat forge",
+      "name_variants": [
+        "Bharat Forge Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6616"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bharat Semitech Pvt LTd",
+      "name_norm": "bharat semitech pvt",
+      "name_variants": [
+        "Bharat Semitech Pvt LTd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6516"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bharatam Mechatronics Private Limited",
+      "name_norm": "bharatam mechatronics private",
+      "name_variants": [
+        "Bharatam Mechatronics Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6131"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BHORUKA SPECIALTY GASES PRIVATE LIMITED",
+      "name_norm": "bhoruka specialty gases private",
+      "name_variants": [
+        "BHORUKA SPECIALTY GASES PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7207"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bigprosolution PVT LTD",
+      "name_norm": "bigprosolution pvt",
+      "name_variants": [
+        "Bigprosolution PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BIS INFOTECH",
+      "name_norm": "bis infotech",
+      "name_variants": [
+        "BIS INFOTECH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7036"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BMT Co., Ltd.",
+      "name_norm": "bmt",
+      "name_variants": [
+        "BMT Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1646"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1559"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1304"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brain Domain Pte Ltd",
+      "name_norm": "brain domain",
+      "name_variants": [
+        "Brain Domain Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1127"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:24Z",
+  "deadline_utc": "2026-09-30T12:47:24Z"
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0138",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Yujeong System Co., Ltd.",
+      "name_norm": "yujeong system",
+      "name_variants": [
+        "Yujeong System Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-412"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhanrun (Jiangsu) Information Technology Co., Ltd.",
+      "name_norm": "zhanrun information technology",
+      "name_variants": [
+        "Zhanrun (Jiangsu) Information Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2271"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhejiang Changxin Electronic Technology Co., Ltd.",
+      "name_norm": "zhejiang changxin electronic technology",
+      "name_variants": [
+        "Zhejiang Changxin Electronic Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2133"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhejiang Hangke Instrument Co., Ltd.",
+      "name_norm": "zhejiang hangke instrument",
+      "name_variants": [
+        "Zhejiang Hangke Instrument Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-404"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhejiang Jingrui SuperSiC Electronic Materials Co., Ltd",
+      "name_norm": "zhejiang jingrui supersic electronic materials",
+      "name_variants": [
+        "Zhejiang Jingrui SuperSiC Electronic Materials Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1223"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhejiang LiuFang Semiconductor Technology Co.,LTD",
+      "name_norm": "zhejiang liufang semiconductor technology",
+      "name_variants": [
+        "Zhejiang LiuFang Semiconductor Technology Co.,LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-402"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zhonghuan Advanced Semiconductor Technology Co.,Ltd.",
+      "name_norm": "zhonghuan advanced semiconductor technology",
+      "name_variants": [
+        "Zhonghuan Advanced Semiconductor Technology Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1635"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Zillion Tek Co., Ltd",
+      "name_norm": "zillion tek",
+      "name_variants": [
+        "Zillion Tek Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1601"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "znt Zentren für Neue Technologien GmbH",
+      "name_norm": "znt zentren fur neue technologien",
+      "name_variants": [
+        "znt Zentren für Neue Technologien GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Syft Technologies",
+      "name_norm": "syft technologies",
+      "name_variants": [
+        "Syft Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1267"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

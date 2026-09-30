@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0180",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Allresist GmbH",
+      "name_norm": "allresist",
+      "name_variants": [
+        "Allresist GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Amcoss Components",
+      "name_norm": "amcoss components",
+      "name_variants": [
+        "Amcoss Components"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1234"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AMFLO Fluid Systems & Components Co., Ltd.",
+      "name_norm": "amflo fluid systems and components",
+      "name_variants": [
+        "AMFLO Fluid Systems & Components Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-700"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Anadolu Ileri Uretim Teknolojileri A.S.",
+      "name_norm": "anadolu ileri uretim teknolojileri a s",
+      "name_variants": [
+        "Anadolu Ileri Uretim Teknolojileri A.S."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1816"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Anhui Botai Electronic Materials Co., Ltd",
+      "name_norm": "anhui botai electronic materials",
+      "name_variants": [
+        "Anhui Botai Electronic Materials Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2370"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Apeiron Intelligence S.L",
+      "name_norm": "apeiron intelligence s l",
+      "name_variants": [
+        "Apeiron Intelligence S.L"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Apollo Seiko Europe B.V.",
+      "name_norm": "apollo seiko europe b v",
+      "name_variants": [
+        "Apollo Seiko Europe B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Appsilon BV",
+      "name_norm": "appsilon",
+      "name_variants": [
+        "Appsilon BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1268"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "aprotec GmbH",
+      "name_norm": "aprotec",
+      "name_variants": [
+        "aprotec GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2352"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ARCADIS",
+      "name_norm": "arcadis",
+      "name_variants": [
+        "ARCADIS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2332"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

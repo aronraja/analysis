@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0023",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Ihara Science Corp.",
+      "name_norm": "ihara science",
+      "name_variants": [
+        "Ihara Science Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1124"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INABATA&Co.,Ltd.",
+      "name_norm": "inabata and",
+      "name_variants": [
+        "INABATA&Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1462"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "InCore Semiconductors Private Limited",
+      "name_norm": "incore semiconductors private",
+      "name_variants": [
+        "InCore Semiconductors Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "718"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Indian Design, Semiconductors, Packaging and Systems (IDSPS)",
+      "name_norm": "indian design semiconductors packaging and systems",
+      "name_variants": [
+        "Indian Design, Semiconductors, Packaging and Systems (IDSPS)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3002"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Indian Institute of Information Technology and Management Kerala",
+      "name_norm": "indian institute of information technology and management kerala",
+      "name_variants": [
+        "Indian Institute of Information Technology and Management Kerala"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5735"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Indnix Technology Limited",
+      "name_norm": "indnix technology",
+      "name_variants": [
+        "Indnix Technology Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Industrial Vision Technology (S) Pte Ltd.",
+      "name_norm": "industrial vision technology",
+      "name_variants": [
+        "Industrial Vision Technology (S) Pte Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1237"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Infosys",
+      "name_norm": "infosys",
+      "name_variants": [
+        "Infosys"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1402"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ingersoll Rand India Ltd.",
+      "name_norm": "ingersoll rand india",
+      "name_variants": [
+        "Ingersoll Rand India Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1156"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INNOWELL ENGINEERING INTERNATIONAL PVT LTD",
+      "name_norm": "innowell engineering international pvt",
+      "name_variants": [
+        "INNOWELL ENGINEERING INTERNATIONAL PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3022"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:14:43Z",
+  "deadline_utc": "2026-09-30T12:49:43Z"
+}

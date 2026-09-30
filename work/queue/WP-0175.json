@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0175",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Bestowin BV",
+      "name_norm": "bestowin",
+      "name_variants": [
+        "Bestowin BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BIBUS GmbH",
+      "name_norm": "bibus",
+      "name_variants": [
+        "BIBUS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bilfinger Life Science GmbH",
+      "name_norm": "bilfinger life science",
+      "name_variants": [
+        "Bilfinger Life Science GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BKB Precision",
+      "name_norm": "bkb precision",
+      "name_variants": [
+        "BKB Precision"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Boffotto Semiconductor Co., Ltd.",
+      "name_norm": "boffotto semiconductor",
+      "name_variants": [
+        "Boffotto Semiconductor Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2118"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bosch Rexroth AG",
+      "name_norm": "bosch rexroth",
+      "name_variants": [
+        "Bosch Rexroth AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2353"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BPM Microsystems",
+      "name_norm": "bpm microsystems",
+      "name_variants": [
+        "BPM Microsystems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2210"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brewer Science, Inc.",
+      "name_norm": "brewer science",
+      "name_variants": [
+        "Brewer Science, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1470"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brigo Technology Pte.Ltd.",
+      "name_norm": "brigo technology",
+      "name_variants": [
+        "Brigo Technology Pte.Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2232"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Brno University of Technology",
+      "name_norm": "brno university of technology",
+      "name_variants": [
+        "Brno University of Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0174",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "ELEMENT 3-5 GmbH",
+      "name_norm": "element 3 5",
+      "name_variants": [
+        "ELEMENT 3-5 GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1323"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EM-Technik GmbH",
+      "name_norm": "em technik",
+      "name_variants": [
+        "EM-Technik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1340"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Axelera AI",
+      "name_norm": "axelera ai",
+      "name_variants": [
+        "Axelera AI"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Azbil Europe NV",
+      "name_norm": "azbil europe",
+      "name_variants": [
+        "Azbil Europe NV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "B.E.S.T Fluidsysteme GmbH / Swagelok München",
+      "name_norm": "b e s t fluidsysteme swagelok munchen",
+      "name_variants": [
+        "B.E.S.T Fluidsysteme GmbH / Swagelok München"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2235"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ball Wave Inc",
+      "name_norm": "ball wave",
+      "name_variants": [
+        "Ball Wave Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1140"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BASF InfraService & Solutions Lausitz GmbH",
+      "name_norm": "basf infraservice and solutions lausitz",
+      "name_variants": [
+        "BASF InfraService & Solutions Lausitz GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "BBC Cellpack Technology AG",
+      "name_norm": "bbc cellpack technology",
+      "name_variants": [
+        "BBC Cellpack Technology AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1210"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Beijing CGB Technology Co., Ltd",
+      "name_norm": "beijing cgb technology",
+      "name_variants": [
+        "Beijing CGB Technology Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1842"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Beijing UniEdge Technology Co., Ltd.",
+      "name_norm": "beijing uniedge technology",
+      "name_variants": [
+        "Beijing UniEdge Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2304"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

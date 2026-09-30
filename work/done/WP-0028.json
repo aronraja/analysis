@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0028",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Krisemi Design Technologies Pvt Ltd",
+      "name_norm": "krisemi design technologies pvt",
+      "name_variants": [
+        "Krisemi Design Technologies Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7335"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KRISHNA INTERNATIONAL INSTRUMENTS",
+      "name_norm": "krishna international instruments",
+      "name_variants": [
+        "KRISHNA INTERNATIONAL INSTRUMENTS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7323"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kuehne + Nagel India",
+      "name_norm": "kuehne nagel india",
+      "name_variants": [
+        "Kuehne + Nagel India"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "776"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kulicke & Soffa Pte Ltd",
+      "name_norm": "kulicke and soffa",
+      "name_variants": [
+        "Kulicke & Soffa Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "670"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kurin Tech Private Limited",
+      "name_norm": "kurin tech private",
+      "name_variants": [
+        "Kurin Tech Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7216"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kyoritsu Electric India Pvt. Ltd.",
+      "name_norm": "kyoritsu electric india pvt",
+      "name_variants": [
+        "Kyoritsu Electric India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7002"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "L&T Semiconductor technologies",
+      "name_norm": "l and t semiconductor technologies",
+      "name_variants": [
+        "L&T Semiconductor technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "713"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Labindia Instruments Pvt. Ltd.",
+      "name_norm": "labindia instruments pvt",
+      "name_variants": [
+        "Labindia Instruments Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "976"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Labort Fine Chem Pvt Ltd",
+      "name_norm": "labort fine chem pvt",
+      "name_variants": [
+        "Labort Fine Chem Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3616"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lam Research India Pvt Ltd",
+      "name_norm": "lam research india pvt",
+      "name_variants": [
+        "Lam Research India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "214"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:14:59Z",
+  "deadline_utc": "2026-09-30T12:49:59Z"
+}

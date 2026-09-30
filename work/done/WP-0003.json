@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0003",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "AGEM Innovation Private Limited",
+      "name_norm": "agem innovation private",
+      "name_variants": [
+        "AGEM Innovation Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6628"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Agilent Technologies",
+      "name_norm": "agilent technologies",
+      "name_variants": [
+        "Agilent Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4019"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "565"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Agnisys Technology Pvt. Ltd",
+      "name_norm": "agnisys technology pvt",
+      "name_variants": [
+        "Agnisys Technology Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6533"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AGNIT Semiconductors Pvt Ltd",
+      "name_norm": "agnit semiconductors pvt",
+      "name_variants": [
+        "AGNIT Semiconductors Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AGRU Plastic Technology Pvt Ltd",
+      "name_norm": "agru plastic technology pvt",
+      "name_variants": [
+        "AGRU Plastic Technology Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4824"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AHEESA DIGITAL INNOVATIONS PRIVATE LIMITED",
+      "name_norm": "aheesa digital innovations private",
+      "name_variants": [
+        "AHEESA DIGITAL INNOVATIONS PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "714"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aimil Ltd",
+      "name_norm": "aimil",
+      "name_variants": [
+        "Aimil Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6021"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Air Liquide India Holding Pvt Ltd",
+      "name_norm": "air liquide india pvt",
+      "name_variants": [
+        "Air Liquide India Holding Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4023"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Air Water India Pvt Ltd",
+      "name_norm": "air water india pvt",
+      "name_variants": [
+        "Air Water India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3118"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AirLife Gases Pvt. Ltd",
+      "name_norm": "airlife gases pvt",
+      "name_variants": [
+        "AirLife Gases Pvt. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5911"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:23Z",
+  "deadline_utc": "2026-09-30T12:47:23Z"
+}

@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0014",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Disco Hi-Tec (Singapore) Pte Ltd.",
+      "name_norm": "disco hi tec",
+      "name_variants": [
+        "Disco Hi-Tec (Singapore) Pte Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1514"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dixon Technologies (India) Limited",
+      "name_norm": "dixon technologies",
+      "name_variants": [
+        "Dixon Technologies (India) Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1409"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dockweiler India Pvt Ltd",
+      "name_norm": "dockweiler india pvt",
+      "name_variants": [
+        "Dockweiler India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "139"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dou Yee Enterprises (S) Pte Ltd",
+      "name_norm": "dou yee enterprises",
+      "name_variants": [
+        "Dou Yee Enterprises (S) Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1133"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5468"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DTECH PRODUCTS PVT LTD",
+      "name_norm": "dtech products pvt",
+      "name_variants": [
+        "DTECH PRODUCTS PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6323"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Durga Mechatronics Pvt. Ltd.",
+      "name_norm": "durga mechatronics pvt",
+      "name_variants": [
+        "Durga Mechatronics Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4408"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DYNA Filters Private Limited",
+      "name_norm": "dyna filters private",
+      "name_variants": [
+        "DYNA Filters Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4102"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "E3 TECH SYSTEMS AND SERVICES LLP",
+      "name_norm": "e3 tech systems and services",
+      "name_variants": [
+        "E3 TECH SYSTEMS AND SERVICES LLP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5632"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ebara Corporation",
+      "name_norm": "ebara",
+      "name_variants": [
+        "Ebara Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "540"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ecolab",
+      "name_norm": "ecolab",
+      "name_variants": [
+        "Ecolab"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6931"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:26Z",
+  "deadline_utc": "2026-09-30T12:47:26Z"
+}

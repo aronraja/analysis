@@ -1,0 +1,71 @@
+{
+  "wp_id": "WP-0016-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "FEC India Private Limited",
+      "name_norm": "fec india private",
+      "name_variants": [
+        "FEC India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7136"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FELCON CLEAN ROOM TECHNOLOGY (INDIA) PRIVATE LIMITED",
+      "name_norm": "felcon clean room technology private",
+      "name_variants": [
+        "FELCON CLEAN ROOM TECHNOLOGY (INDIA) PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4708"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Festo India Private Limited",
+      "name_norm": "festo india private",
+      "name_variants": [
+        "Festo India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1256"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FILMTEC WATER SOLUTIONS INDIA PRIVATE LIMITED",
+      "name_norm": "filmtec water solutions india private",
+      "name_variants": [
+        "FILMTEC WATER SOLUTIONS INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3808"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0016",
+  "claimed_utc": "2026-09-30T12:23:44Z",
+  "deadline_utc": "2026-09-30T12:58:44Z"
+}

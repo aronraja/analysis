@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0146",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "SANSO ELECTRIC CO., LTD.",
+      "name_norm": "sanso electric",
+      "name_variants": [
+        "SANSO ELECTRIC CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2319"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SAW COMPONENTS Dresden GmbH",
+      "name_norm": "saw components dresden",
+      "name_variants": [
+        "SAW COMPONENTS Dresden GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1840"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Schunk Xycarb Technology BV",
+      "name_norm": "schunk xycarb technology",
+      "name_variants": [
+        "Schunk Xycarb Technology BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Scientech GmbH",
+      "name_norm": "scientech",
+      "name_variants": [
+        "Scientech GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1440"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SCIL-Nanoimprint BV",
+      "name_norm": "scil nanoimprint",
+      "name_variants": [
+        "SCIL-Nanoimprint BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SCREEN SPE Germany GmbH",
+      "name_norm": "screen spe germany",
+      "name_variants": [
+        "SCREEN SPE Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1700"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "secpho",
+      "name_norm": "secpho",
+      "name_variants": [
+        "secpho"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1671"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEIKI GLOBAL TECHNOLOGY PTE LTD",
+      "name_norm": "seiki global technology",
+      "name_variants": [
+        "SEIKI GLOBAL TECHNOLOGY PTE LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1533"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEIWA OPTICAL CO,.LTD",
+      "name_norm": "seiwa optical",
+      "name_variants": [
+        "SEIWA OPTICAL CO,.LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1676"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SEKISUI CHEMICAL CO., LTD",
+      "name_norm": "sekisui chemical",
+      "name_variants": [
+        "SEKISUI CHEMICAL CO., LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1804"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

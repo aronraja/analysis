@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0010",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "CECO Environmental Solutions India Pvt. Ltd.",
+      "name_norm": "ceco environmental solutions india pvt",
+      "name_variants": [
+        "CECO Environmental Solutions India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4011"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Centre for Development of Advanced Computing",
+      "name_norm": "centre for development of advanced computing",
+      "name_variants": [
+        "Centre for Development of Advanced Computing"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3302"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Centre for Nano Science & Engineering (IISc)",
+      "name_norm": "centre for nano science and engineering",
+      "name_variants": [
+        "Centre for Nano Science & Engineering (IISc)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6202"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Centre for Semiconductor Technologies (SemiX) IIT Bombay",
+      "name_norm": "centre for semiconductor technologies iit bombay",
+      "name_variants": [
+        "Centre for Semiconductor Technologies (SemiX) IIT Bombay"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3608"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CeramTec GmbH",
+      "name_norm": "ceramtec",
+      "name_variants": [
+        "CeramTec GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4116"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2335"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CG SEMI PRIVATE LIMITED",
+      "name_norm": "cg semi private",
+      "name_variants": [
+        "CG SEMI PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1214"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chasen (India) Hi-Tech Logistics Services Private Limited",
+      "name_norm": "chasen hi tech logistics services private",
+      "name_variants": [
+        "Chasen (India) Hi-Tech Logistics Services Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5936"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CHIPEX TECHNOLOGIES PRIVATE LIMITED",
+      "name_norm": "chipex technologies private",
+      "name_variants": [
+        "CHIPEX TECHNOLOGIES PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7222"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ChipIN Centre",
+      "name_norm": "chipin centre",
+      "name_variants": [
+        "ChipIN Centre"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3402"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chipspirit Technologies Pvt Ltd",
+      "name_norm": "chipspirit technologies pvt",
+      "name_variants": [
+        "Chipspirit Technologies Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:25Z",
+  "deadline_utc": "2026-09-30T12:47:25Z"
+}

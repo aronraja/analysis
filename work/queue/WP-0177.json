@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0177",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Carl Zeiss Digital Innovation GmbH",
+      "name_norm": "carl zeiss digital innovation",
+      "name_variants": [
+        "Carl Zeiss Digital Innovation GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1740"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Carl Zeiss Microscopy Deutschland Gmbh",
+      "name_norm": "carl zeiss microscopy deutschland",
+      "name_variants": [
+        "Carl Zeiss Microscopy Deutschland Gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1618"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Carten Controls Ltd.",
+      "name_norm": "carten controls",
+      "name_variants": [
+        "Carten Controls Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1253"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Catalonia Trade & Investment",
+      "name_norm": "catalonia trade and investment",
+      "name_variants": [
+        "Catalonia Trade & Investment"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ceramdis GmbH",
+      "name_norm": "ceramdis",
+      "name_variants": [
+        "Ceramdis GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1158"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ceratec Technical Ceramics",
+      "name_norm": "ceratec technical ceramics",
+      "name_variants": [
+        "Ceratec Technical Ceramics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chengdu Precision Rong Creation Technology Co., Ltd.",
+      "name_norm": "chengdu precision rong creation technology",
+      "name_variants": [
+        "Chengdu Precision Rong Creation Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2152"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chips Joint Undertaking",
+      "name_norm": "chips joint undertaking",
+      "name_variants": [
+        "Chips Joint Undertaking"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2311"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Chroma ATE Europe",
+      "name_norm": "chroma ate europe",
+      "name_variants": [
+        "Chroma ATE Europe"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1415"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CiS Forschungsinstitut für Mikrosensorik und Photovoltaik GmbH",
+      "name_norm": "cis forschungsinstitut fur mikrosensorik und photovoltaik",
+      "name_variants": [
+        "CiS Forschungsinstitut für Mikrosensorik und Photovoltaik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

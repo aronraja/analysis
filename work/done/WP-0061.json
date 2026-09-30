@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0061",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Arena by PTC",
+      "name_norm": "arena by ptc",
+      "name_variants": [
+        "Arena by PTC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3336"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Argal srl",
+      "name_norm": "argal",
+      "name_variants": [
+        "Argal srl"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3143"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1222"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ARi Industries, Inc.",
+      "name_norm": "ari industries",
+      "name_variants": [
+        "ARi Industries, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1867"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Arizona Commerce Authority",
+      "name_norm": "arizona commerce authority",
+      "name_variants": [
+        "Arizona Commerce Authority"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6044"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Arkema Inc.",
+      "name_norm": "arkema",
+      "name_variants": [
+        "Arkema Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2059"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Artwork Conversion Software",
+      "name_norm": "artwork conversion software",
+      "name_variants": [
+        "Artwork Conversion Software"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5243"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Asahi/America",
+      "name_norm": "asahi america",
+      "name_variants": [
+        "Asahi/America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "664"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Asflow Co., Ltd.",
+      "name_norm": "asflow",
+      "name_variants": [
+        "Asflow Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5748"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Asia Air Precision Technology Ltd.",
+      "name_norm": "asia air precision technology",
+      "name_variants": [
+        "Asia Air Precision Technology Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2159"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASM",
+      "name_norm": "asm",
+      "name_variants": [
+        "ASM"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "W5"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:33:27Z",
+  "deadline_utc": "2026-09-30T13:08:27Z"
+}

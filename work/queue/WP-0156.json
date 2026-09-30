@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0156",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Park Systems Europe GmbH",
+      "name_norm": "park systems europe",
+      "name_variants": [
+        "Park Systems Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1501"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Particle Measuring Systems Germany GmbH",
+      "name_norm": "particle measuring systems germany",
+      "name_variants": [
+        "Particle Measuring Systems Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2223"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kosmek Europe GmbH",
+      "name_norm": "kosmek europe",
+      "name_variants": [
+        "Kosmek Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2446"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kretz + Wahl Gebäudetechnik GmbH & Co. KG",
+      "name_norm": "kretz wahl gebaudetechnik and",
+      "name_variants": [
+        "Kretz + Wahl Gebäudetechnik GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kunshan Kinglai Hygienic Materials Co., Ltd.",
+      "name_norm": "kunshan kinglai hygienic materials",
+      "name_variants": [
+        "Kunshan Kinglai Hygienic Materials Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0118"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KYOCERA Fineceramics Europe GmbH",
+      "name_norm": "kyocera fineceramics europe",
+      "name_variants": [
+        "KYOCERA Fineceramics Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1725"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LAB Motion Systems",
+      "name_norm": "lab motion systems",
+      "name_variants": [
+        "LAB Motion Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lam Research Corporation",
+      "name_norm": "lam research",
+      "name_variants": [
+        "Lam Research Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1232"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LAUDA DR. R. WOBSER GMBH & CO. KG",
+      "name_norm": "lauda dr r wobser and",
+      "name_variants": [
+        "LAUDA DR. R. WOBSER GMBH & CO. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2147"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lazpiur E-Mobility S.L.",
+      "name_norm": "lazpiur e mobility s l",
+      "name_variants": [
+        "Lazpiur E-Mobility S.L."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2171"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

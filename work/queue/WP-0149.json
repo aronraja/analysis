@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0149",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Shenzhen Xin Da Xing Electric Technology Co., Ltd.",
+      "name_norm": "shenzhen xin da xing electric technology",
+      "name_variants": [
+        "Shenzhen Xin Da Xing Electric Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2346"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shenzhen Youibot Robotics Co., Ltd.",
+      "name_norm": "shenzhen youibot robotics",
+      "name_variants": [
+        "Shenzhen Youibot Robotics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1437"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shenzhen Zhicheng Semiconductor Materials Co.,Ltd.",
+      "name_norm": "shenzhen zhicheng semiconductor materials",
+      "name_variants": [
+        "Shenzhen Zhicheng Semiconductor Materials Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2155"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Shenzhen Zoomway Electronics Co., Ltd.",
+      "name_norm": "shenzhen zoomway electronics",
+      "name_variants": [
+        "Shenzhen Zoomway Electronics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2142"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pentamaster Instrumentation Sdn Bhd.",
+      "name_norm": "pentamaster instrumentation",
+      "name_variants": [
+        "Pentamaster Instrumentation Sdn Bhd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1818"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Peter HUBER Kältemaschinenbau SE",
+      "name_norm": "peter huber kaltemaschinenbau",
+      "name_variants": [
+        "Peter HUBER Kältemaschinenbau SE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2229"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "piezosystem jena GmbH",
+      "name_norm": "piezosystem jena",
+      "name_variants": [
+        "piezosystem jena GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PILLAR Europe GmbH",
+      "name_norm": "pillar europe",
+      "name_variants": [
+        "PILLAR Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1844"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PLANOPTIK AG",
+      "name_norm": "planoptik",
+      "name_variants": [
+        "PLANOPTIK AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1912"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Plansee SE",
+      "name_norm": "plansee",
+      "name_variants": [
+        "Plansee SE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1517"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

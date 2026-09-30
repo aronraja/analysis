@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0155",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Odyssey Europe BV",
+      "name_norm": "odyssey europe",
+      "name_variants": [
+        "Odyssey Europe BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Oerlikon Systems",
+      "name_norm": "oerlikon systems",
+      "name_variants": [
+        "Oerlikon Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1661"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ON Semiconductor Czech Republic",
+      "name_norm": "on semiconductor czech republic",
+      "name_variants": [
+        "ON Semiconductor Czech Republic"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ONTOS Equipment Systems",
+      "name_norm": "ontos equipment systems",
+      "name_variants": [
+        "ONTOS Equipment Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1120"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Openchip",
+      "name_norm": "openchip",
+      "name_variants": [
+        "Openchip"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "OpTecBB e.V",
+      "name_norm": "optecbb e v",
+      "name_variants": [
+        "OpTecBB e.V"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Optics Balzers AG",
+      "name_norm": "optics balzers",
+      "name_variants": [
+        "Optics Balzers AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1771"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Optim Wafer Services",
+      "name_norm": "optim wafer services",
+      "name_variants": [
+        "Optim Wafer Services"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1250"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PACE-Tec GmbH",
+      "name_norm": "pace tec",
+      "name_variants": [
+        "PACE-Tec GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1204"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PacTech-Packaging Technologies GmbH",
+      "name_norm": "pactech packaging technologies",
+      "name_variants": [
+        "PacTech-Packaging Technologies GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1721"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

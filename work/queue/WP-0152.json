@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0152",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Reser Europe",
+      "name_norm": "reser europe",
+      "name_variants": [
+        "Reser Europe"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RHP-Technology GmbH",
+      "name_norm": "rhp technology",
+      "name_variants": [
+        "RHP-Technology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2306"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rigaku Corporation",
+      "name_norm": "rigaku",
+      "name_variants": [
+        "Rigaku Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0717"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RIKUTEC Germany GmbH & Co. KG",
+      "name_norm": "rikutec germany and",
+      "name_variants": [
+        "RIKUTEC Germany GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1900"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RIMATEK SRL",
+      "name_norm": "rimatek",
+      "name_variants": [
+        "RIMATEK SRL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2207"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Roechling Industrial SE & Co. KG",
+      "name_norm": "roechling industrial and",
+      "name_variants": [
+        "Roechling Industrial SE & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1860"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rorze Engineering GmbH",
+      "name_norm": "rorze engineering",
+      "name_variants": [
+        "Rorze Engineering GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1238"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rudolf Gutbrod GmbH",
+      "name_norm": "rudolf gutbrod",
+      "name_variants": [
+        "Rudolf Gutbrod GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1457"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rui Yin (HK) Co., Limited",
+      "name_norm": "rui yin",
+      "name_variants": [
+        "Rui Yin (HK) Co., Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1910"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Miyagi Prefectural Government",
+      "name_norm": "miyagi prefectural government",
+      "name_variants": [
+        "Miyagi Prefectural Government"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1140"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

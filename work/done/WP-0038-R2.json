@@ -1,0 +1,163 @@
+{
+  "wp_id": "WP-0038-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "PADMINI INNOVATIVE MARKETING SOLUTIONS PVT.LTD",
+      "name_norm": "padmini innovative marketing solutions pvt",
+      "name_variants": [
+        "PADMINI INNOVATIVE MARKETING SOLUTIONS PVT.LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6433"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Panam Engineers Limited",
+      "name_norm": "panam engineers",
+      "name_variants": [
+        "Panam Engineers Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "371"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pandit Deendayal Energy University Gandhinagar",
+      "name_norm": "pandit deendayal energy university gandhinagar",
+      "name_variants": [
+        "Pandit Deendayal Energy University Gandhinagar"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Park Systems India Pvt Ltd",
+      "name_norm": "park systems india pvt",
+      "name_variants": [
+        "Park Systems India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "969"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Parker Hannifin India Pvt Ltd",
+      "name_norm": "parker hannifin india pvt",
+      "name_variants": [
+        "Parker Hannifin India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6613"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PEMTRON Corporation",
+      "name_norm": "pemtron",
+      "name_variants": [
+        "PEMTRON Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "466"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "2233"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pfeiffer Vacuum (India) Private Limited",
+      "name_norm": "pfeiffer vacuum private",
+      "name_variants": [
+        "Pfeiffer Vacuum (India) Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "945"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Picotech Solutions Pte Ltd",
+      "name_norm": "picotech solutions",
+      "name_variants": [
+        "Picotech Solutions Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1024"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PILLAR Corporation",
+      "name_norm": "pillar",
+      "name_variants": [
+        "PILLAR Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "175"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1365"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Plug and Play Kyoto / Kyoto City",
+      "name_norm": "plug and play kyoto kyoto city",
+      "name_variants": [
+        "Plug and Play Kyoto / Kyoto City"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7535"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0038",
+  "claimed_utc": "2026-09-30T12:27:12Z",
+  "deadline_utc": "2026-09-30T13:02:12Z"
+}

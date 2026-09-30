@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0164",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Green Technology Investments LLC.,",
+      "name_norm": "green technology investments",
+      "name_variants": [
+        "Green Technology Investments LLC.,"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Greenstar Technology (Beijing) Co., Ltd.",
+      "name_norm": "greenstar technology",
+      "name_variants": [
+        "Greenstar Technology (Beijing) Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2241"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GRINM Semiconductor Materials Co.,Ltd.",
+      "name_norm": "grinm semiconductor materials",
+      "name_variants": [
+        "GRINM Semiconductor Materials Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2158"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Grintimate Precision Industry Co., Ltd.",
+      "name_norm": "grintimate precision industry",
+      "name_variants": [
+        "Grintimate Precision Industry Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1333"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GTI Technologies, Inc.",
+      "name_norm": "gti technologies",
+      "name_variants": [
+        "GTI Technologies, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1171"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guangdong Tianyu Semiconductor Co., Ltd.",
+      "name_norm": "guangdong tianyu semiconductor",
+      "name_variants": [
+        "Guangdong Tianyu Semiconductor Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1755"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guangdong Xinqifeng Technology Co., Ltd.",
+      "name_norm": "guangdong xinqifeng technology",
+      "name_variants": [
+        "Guangdong Xinqifeng Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1568"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guangzhou Guanggang Gases & Energy Co.,Ltd",
+      "name_norm": "guangzhou guanggang gases and energy",
+      "name_variants": [
+        "Guangzhou Guanggang Gases & Energy Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2201"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guarniflon Spa",
+      "name_norm": "guarniflon",
+      "name_variants": [
+        "Guarniflon Spa"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2258"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gudeng Precision Industrial Co., Ltd.",
+      "name_norm": "gudeng precision industrial",
+      "name_variants": [
+        "Gudeng Precision Industrial Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2369"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

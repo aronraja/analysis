@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0054",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Vishwakarma Institute of Technology Pune",
+      "name_norm": "vishwakarma institute of technology pune",
+      "name_variants": [
+        "Vishwakarma Institute of Technology Pune"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5723"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Vivekananda Institute of Professional Studies-Technical Campus",
+      "name_norm": "vivekananda institute of professional studies technical campus",
+      "name_variants": [
+        "Vivekananda Institute of Professional Studies-Technical Campus"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7016"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VMC SEMICON FRAME INDIA PRIVATE LIMITED",
+      "name_norm": "vmc semicon frame india private",
+      "name_variants": [
+        "VMC SEMICON FRAME INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4407"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VSORA",
+      "name_norm": "vsora",
+      "name_variants": [
+        "VSORA"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6207"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "VT VACUUM TECHNOLOGIES PVT LTD",
+      "name_norm": "vt vacuum technologies pvt",
+      "name_variants": [
+        "VT VACUUM TECHNOLOGIES PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6233"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Waaree Clean Energy Services",
+      "name_norm": "waaree clean energy services",
+      "name_variants": [
+        "Waaree Clean Energy Services"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1356"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WFD Pavilion",
+      "name_norm": "wfd pavilion",
+      "name_variants": [
+        "WFD Pavilion"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4127"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Wisely Gobal Solutions Pte Ltd",
+      "name_norm": "wisely gobal solutions",
+      "name_variants": [
+        "Wisely Gobal Solutions Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1040"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "WOG Technologies Limited",
+      "name_norm": "wog technologies",
+      "name_variants": [
+        "WOG Technologies Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3023"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yamaha Robotics Co., Ltd.",
+      "name_norm": "yamaha robotics",
+      "name_variants": [
+        "Yamaha Robotics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "579"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:31:58Z",
+  "deadline_utc": "2026-09-30T13:06:58Z"
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0165",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "GVB GmbH-Solutions in Glass",
+      "name_norm": "gvb solutions in glass",
+      "name_variants": [
+        "GVB GmbH-Solutions in Glass"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2347"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hamamatsu Photonics Deutschland GmbH",
+      "name_norm": "hamamatsu photonics deutschland",
+      "name_variants": [
+        "Hamamatsu Photonics Deutschland GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1660"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hangzhou Cobetter Filtration Equipment Co., Ltd.",
+      "name_norm": "hangzhou cobetter filtration equipment",
+      "name_variants": [
+        "Hangzhou Cobetter Filtration Equipment Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1175"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HEATWISE SDN BHD",
+      "name_norm": "heatwise",
+      "name_variants": [
+        "HEATWISE SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1148"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hebei Synlight Semiconductor Co.，Ltd.",
+      "name_norm": "hebei synlight semiconductor",
+      "name_variants": [
+        "Hebei Synlight Semiconductor Co.，Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1731"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heliotis AG",
+      "name_norm": "heliotis",
+      "name_variants": [
+        "Heliotis AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2338"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HERMLE Maschinenbau GmbH",
+      "name_norm": "hermle maschinenbau",
+      "name_variants": [
+        "HERMLE Maschinenbau GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0716"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "High Tech NL",
+      "name_norm": "high tech nl",
+      "name_variants": [
+        "High Tech NL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hitachi High-Tech Europe GmbH",
+      "name_norm": "hitachi high tech europe",
+      "name_variants": [
+        "Hitachi High-Tech Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1441"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hitachi Power Solutions Co.,Ltd.",
+      "name_norm": "hitachi power solutions",
+      "name_variants": [
+        "Hitachi Power Solutions Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1832"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

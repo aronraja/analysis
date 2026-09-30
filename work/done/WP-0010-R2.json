@@ -1,0 +1,29 @@
+{
+  "wp_id": "WP-0010-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "CG SEMI PRIVATE LIMITED",
+      "name_norm": "cg semi private",
+      "name_variants": [
+        "CG SEMI PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1214"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0010",
+  "claimed_utc": "2026-09-30T12:23:24Z",
+  "deadline_utc": "2026-09-30T12:58:24Z"
+}

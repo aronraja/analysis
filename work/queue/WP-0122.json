@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0122",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Stäubli Connectors",
+      "name_norm": "staubli connectors",
+      "name_variants": [
+        "Stäubli Connectors"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6754"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "S-Tech Co., Ltd.",
+      "name_norm": "s tech",
+      "name_variants": [
+        "S-Tech Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5868"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "STEULER-KCH GmbH",
+      "name_norm": "steuler kch",
+      "name_variants": [
+        "STEULER-KCH GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sumitomo Heavy Industries Material Solutions Co., Ltd.",
+      "name_norm": "sumitomo heavy industries material solutions",
+      "name_variants": [
+        "Sumitomo Heavy Industries Material Solutions Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1472"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1100"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sumitomo Precision Products Co., Ltd.",
+      "name_norm": "sumitomo precision products",
+      "name_variants": [
+        "Sumitomo Precision Products Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3016"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2140"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Summit Super Abrasive Co.,Ltd.",
+      "name_norm": "summit super abrasive",
+      "name_variants": [
+        "Summit Super Abrasive Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6462"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sundt",
+      "name_norm": "sundt",
+      "name_variants": [
+        "Sundt"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sunshine Duqm",
+      "name_norm": "sunshine duqm",
+      "name_variants": [
+        "Sunshine Duqm"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5585"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Suntech Applied Materials (Hefei) Co., Ltd.",
+      "name_norm": "suntech applied materials",
+      "name_variants": [
+        "Suntech Applied Materials (Hefei) Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3139"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Superior Automation, Inc.",
+      "name_norm": "superior automation",
+      "name_variants": [
+        "Superior Automation, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "372"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

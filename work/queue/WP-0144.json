@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0144",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Smart Systems Hub GmbH",
+      "name_norm": "smart systems hub",
+      "name_variants": [
+        "Smart Systems Hub GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1740"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SMC Deutschland GmbH",
+      "name_norm": "smc deutschland",
+      "name_variants": [
+        "SMC Deutschland GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1904"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sojitz Machinery Europe GmbH",
+      "name_norm": "sojitz machinery europe",
+      "name_variants": [
+        "Sojitz Machinery Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2336"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Solutions on Silicon BV",
+      "name_norm": "solutions on silicon",
+      "name_variants": [
+        "Solutions on Silicon BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SPEA GmbH",
+      "name_norm": "spea",
+      "name_variants": [
+        "SPEA GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Spectron Gas Control Systems GmbH",
+      "name_norm": "spectron gas control systems",
+      "name_variants": [
+        "Spectron Gas Control Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1110"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SPM AG",
+      "name_norm": "spm",
+      "name_variants": [
+        "SPM AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1661"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Spraying Systems Europe B.V.",
+      "name_norm": "spraying systems europe b v",
+      "name_variants": [
+        "Spraying Systems Europe B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2234"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SPS Group B.V.",
+      "name_norm": "sps b v",
+      "name_variants": [
+        "SPS Group B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1307"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1313"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Stoellinger GmbH",
+      "name_norm": "stoellinger",
+      "name_variants": [
+        "Stoellinger GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1820"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

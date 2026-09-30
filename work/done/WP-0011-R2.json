@@ -1,0 +1,29 @@
+{
+  "wp_id": "WP-0011-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "CleanTech Services India Pvt Ltd",
+      "name_norm": "cleantech services india pvt",
+      "name_variants": [
+        "CleanTech Services India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "338"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0011",
+  "claimed_utc": "2026-09-30T12:23:28Z",
+  "deadline_utc": "2026-09-30T12:58:28Z"
+}

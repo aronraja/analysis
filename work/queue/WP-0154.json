@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0154",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Niching Industrial Corp.",
+      "name_norm": "niching industrial",
+      "name_variants": [
+        "Niching Industrial Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1450"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nikon Precision Europe GmbH",
+      "name_norm": "nikon precision europe",
+      "name_variants": [
+        "Nikon Precision Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1117"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ningbo Yongxin Optics Co., Ltd.",
+      "name_norm": "ningbo yongxin optics",
+      "name_variants": [
+        "Ningbo Yongxin Optics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0512"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ningbo Yunde Material Incorporation",
+      "name_norm": "ningbo yunde material incorporation",
+      "name_variants": [
+        "Ningbo Yunde Material Incorporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1152"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nippon Express Europe GmbH",
+      "name_norm": "nippon express europe",
+      "name_variants": [
+        "Nippon Express Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1361"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nippon Sanso Euro-Holding S.L.U.",
+      "name_norm": "nippon sanso euro s l u",
+      "name_variants": [
+        "Nippon Sanso Euro-Holding S.L.U."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1776"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nouryon",
+      "name_norm": "nouryon",
+      "name_variants": [
+        "Nouryon"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-706"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Novanta Corporation",
+      "name_norm": "novanta",
+      "name_variants": [
+        "Novanta Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2211"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Novel Technology Transfer GmbH",
+      "name_norm": "novel technology transfer",
+      "name_variants": [
+        "Novel Technology Transfer GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1916"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NTS-Group",
+      "name_norm": "nts",
+      "name_variants": [
+        "NTS-Group"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

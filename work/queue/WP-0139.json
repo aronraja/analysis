@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0139",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "TAIWAN FYLIN INDUSTRIAL CO., LTD.",
+      "name_norm": "taiwan fylin industrial",
+      "name_variants": [
+        "TAIWAN FYLIN INDUSTRIAL CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1162"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TATSUTA Electric Wire and Cable Co., Ltd.",
+      "name_norm": "tatsuta electric wire and cable",
+      "name_variants": [
+        "TATSUTA Electric Wire and Cable Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2160"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TECHMA GPM srl",
+      "name_norm": "techma gpm",
+      "name_variants": [
+        "TECHMA GPM srl"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2319"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Technic France",
+      "name_norm": "technic france",
+      "name_variants": [
+        "Technic France"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1361"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TechWorks",
+      "name_norm": "techworks",
+      "name_variants": [
+        "TechWorks"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1121"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tekscend Photomask Germany GmbH",
+      "name_norm": "tekscend photomask germany",
+      "name_variants": [
+        "Tekscend Photomask Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Teltec International GmbH",
+      "name_norm": "teltec international",
+      "name_variants": [
+        "Teltec International GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1301"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1908"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tempress",
+      "name_norm": "tempress",
+      "name_variants": [
+        "Tempress"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1840"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Thyracont Vacuum Instruments GmbH",
+      "name_norm": "thyracont vacuum instruments",
+      "name_variants": [
+        "Thyracont Vacuum Instruments GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1848"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tohoku-MicroTec Co., Ltd",
+      "name_norm": "tohoku microtec",
+      "name_variants": [
+        "Tohoku-MicroTec Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1140"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

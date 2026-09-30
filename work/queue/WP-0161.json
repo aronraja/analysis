@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0161",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)",
+      "name_norm": "institut de ciencia de materials de barcelona",
+      "name_variants": [
+        "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1671"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Intego GmbH",
+      "name_norm": "intego",
+      "name_variants": [
+        "Intego GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1814"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "INTERA GROUP",
+      "name_norm": "intera",
+      "name_variants": [
+        "INTERA GROUP"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Intertek",
+      "name_norm": "intertek",
+      "name_variants": [
+        "Intertek"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2128"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Invest in Pomerania",
+      "name_norm": "invest in pomerania",
+      "name_variants": [
+        "Invest in Pomerania"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1519"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "isel Germany GmbH",
+      "name_norm": "isel germany",
+      "name_variants": [
+        "isel Germany GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "J. Schneider Elektrotechnik SE",
+      "name_norm": "j schneider elektrotechnik",
+      "name_variants": [
+        "J. Schneider Elektrotechnik SE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2340"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jacomex",
+      "name_norm": "jacomex",
+      "name_variants": [
+        "Jacomex"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2138"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jenaer Antriebstechnik GmbH",
+      "name_norm": "jenaer antriebstechnik",
+      "name_variants": [
+        "Jenaer Antriebstechnik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-502"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JEOL (Germany) GmbH",
+      "name_norm": "jeol",
+      "name_variants": [
+        "JEOL (Germany) GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1756"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0015",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "EdgeCortix India Research Center Pvt Ltd",
+      "name_norm": "edgecortix india research center pvt",
+      "name_variants": [
+        "EdgeCortix India Research Center Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Edgetech Air Systems Pvt. Ltd.",
+      "name_norm": "edgetech air systems pvt",
+      "name_variants": [
+        "Edgetech Air Systems Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4216"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EDGETECH SCIENTIFIC PRIVATE LIMITED",
+      "name_norm": "edgetech scientific private",
+      "name_variants": [
+        "EDGETECH SCIENTIFIC PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6216"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Edveon Technologies Private Limited",
+      "name_norm": "edveon technologies private",
+      "name_variants": [
+        "Edveon Technologies Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Edwards India Pvt Ltd",
+      "name_norm": "edwards india pvt",
+      "name_variants": [
+        "Edwards India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "249"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EFY Enterprises Pvt Ltd",
+      "name_norm": "efy enterprises pvt",
+      "name_variants": [
+        "EFY Enterprises Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7536"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Einnosys Technologies",
+      "name_norm": "einnosys technologies",
+      "name_variants": [
+        "Einnosys Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1177"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "El Camino Technologies Pvt Ltd",
+      "name_norm": "el camino technologies pvt",
+      "name_variants": [
+        "El Camino Technologies Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "556"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ellipsiz DSS Pte Ltd",
+      "name_norm": "ellipsiz dss",
+      "name_variants": [
+        "Ellipsiz DSS Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1140"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Eltech Engineers Pvt Ltd",
+      "name_norm": "eltech engineers pvt",
+      "name_variants": [
+        "Eltech Engineers Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7329"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:26Z",
+  "deadline_utc": "2026-09-30T12:47:26Z"
+}

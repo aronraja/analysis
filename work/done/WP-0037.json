@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0037",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "OKAMOTO INDIA PRIVATE LIMITED",
+      "name_norm": "okamoto india private",
+      "name_variants": [
+        "OKAMOTO INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5733"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "OKAYA & CO. INDIA PRIVATE LIMITED",
+      "name_norm": "okaya and india private",
+      "name_variants": [
+        "OKAYA & CO. INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6918"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Okins Electronics Co., Ltd",
+      "name_norm": "okins electronics",
+      "name_variants": [
+        "Okins Electronics Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4923"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Om Logistics Supply Chain Private Limited India",
+      "name_norm": "om logistics supply chain private india",
+      "name_variants": [
+        "Om Logistics Supply Chain Private Limited India"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6128"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "OneSystems Technologies Pte. Ltd.",
+      "name_norm": "onesystems technologies",
+      "name_variants": [
+        "OneSystems Technologies Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1138"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Onto Innovation",
+      "name_norm": "onto innovation",
+      "name_variants": [
+        "Onto Innovation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1170"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1652"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Onyx Robotic and Automation Pvt Ltd",
+      "name_norm": "onyx robotic and automation pvt",
+      "name_variants": [
+        "Onyx Robotic and Automation Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6016"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Oriental Motor (India) Private Limited India",
+      "name_norm": "oriental motor private india",
+      "name_variants": [
+        "Oriental Motor (India) Private Limited India"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4202"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ORISSA COMPUTER APPLICATION CENTRE",
+      "name_norm": "orissa computer application centre",
+      "name_variants": [
+        "ORISSA COMPUTER APPLICATION CENTRE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "346"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Oxford Instruments INDIA Pvt. Ltd.",
+      "name_norm": "oxford instruments india pvt",
+      "name_variants": [
+        "Oxford Instruments INDIA Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6621"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:15:29Z",
+  "deadline_utc": "2026-09-30T12:50:29Z"
+}

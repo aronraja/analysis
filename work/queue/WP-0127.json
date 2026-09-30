@@ -1,0 +1,162 @@
+{
+  "wp_id": "WP-0127",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "TOYO Robotics Americas",
+      "name_norm": "toyo robotics americas",
+      "name_variants": [
+        "TOYO Robotics Americas"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5548"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Transpak",
+      "name_norm": "transpak",
+      "name_variants": [
+        "Transpak"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6471"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trebor International",
+      "name_norm": "trebor international",
+      "name_variants": [
+        "Trebor International"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "953"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trelleborg Sealing Solutions Ltd",
+      "name_norm": "trelleborg sealing solutions",
+      "name_variants": [
+        "Trelleborg Sealing Solutions Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "159"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TrInity Analysis Tech Co., Ltd.",
+      "name_norm": "trinity analysis tech",
+      "name_variants": [
+        "TrInity Analysis Tech Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6286"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trion Technology",
+      "name_norm": "trion technology",
+      "name_variants": [
+        "Trion Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "659"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TRUMPF",
+      "name_norm": "trumpf",
+      "name_variants": [
+        "TRUMPF",
+        "TRUMPF SE + Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3418"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1655"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Trymax Semiconductor Equipment",
+      "name_norm": "trymax semiconductor equipment",
+      "name_variants": [
+        "Trymax Semiconductor Equipment"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1659"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TSG AUTOMATION SDN BHD",
+      "name_norm": "tsg automation",
+      "name_variants": [
+        "TSG AUTOMATION SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TSI Incorporated",
+      "name_norm": "tsi",
+      "name_variants": [
+        "TSI Incorporated",
+        "TSI GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3020"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0722"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

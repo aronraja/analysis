@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0166",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "HORIBA Europe GmbH",
+      "name_norm": "horiba europe",
+      "name_variants": [
+        "HORIBA Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1613"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HPRAY (Beijing) Semiconductor Materials Co., Ltd",
+      "name_norm": "hpray semiconductor materials",
+      "name_variants": [
+        "HPRAY (Beijing) Semiconductor Materials Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1806"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HTM Quartz",
+      "name_norm": "htm quartz",
+      "name_variants": [
+        "HTM Quartz"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2137"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Huadespace Group Limited",
+      "name_norm": "huadespace",
+      "name_variants": [
+        "Huadespace Group Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-916"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hubei Sinophorus Electronic Materials Co.,Ltd.",
+      "name_norm": "hubei sinophorus electronic materials",
+      "name_variants": [
+        "Hubei Sinophorus Electronic Materials Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1106"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hürner Luft- und Umwelttechnik GmbH",
+      "name_norm": "hurner luft und umwelttechnik",
+      "name_variants": [
+        "Hürner Luft- und Umwelttechnik GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2253"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hynhe Technology(Guangzhou)Co.,Ltd",
+      "name_norm": "hynhe technology",
+      "name_variants": [
+        "Hynhe Technology(Guangzhou)Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2450"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IAQ Solutions Sdn Bhd",
+      "name_norm": "iaq solutions",
+      "name_variants": [
+        "IAQ Solutions Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1128"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IBS - Ion Beam Services",
+      "name_norm": "ibs ion beam services",
+      "name_variants": [
+        "IBS - Ion Beam Services"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1250"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "IBS Precision Engineering B.V.",
+      "name_norm": "ibs precision engineering b v",
+      "name_variants": [
+        "IBS Precision Engineering B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2349"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

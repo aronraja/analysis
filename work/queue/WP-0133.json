@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0133",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Xiamen Baoshili Dustless Technology Co., Ltd.",
+      "name_norm": "xiamen baoshili dustless technology",
+      "name_variants": [
+        "Xiamen Baoshili Dustless Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1564"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yaku-Milling Precision Machinery (Suzhou) Co., Ltd.",
+      "name_norm": "yaku milling precision machinery",
+      "name_variants": [
+        "Yaku-Milling Precision Machinery (Suzhou) Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3343"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ye Siang Enterprise Co. Ltd",
+      "name_norm": "ye siang enterprise",
+      "name_variants": [
+        "Ye Siang Enterprise Co. Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6753"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yield Engineering Systems, Inc.",
+      "name_norm": "yield engineering systems",
+      "name_variants": [
+        "Yield Engineering Systems, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1633"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "YINCAE Advanced Materials, LLC",
+      "name_norm": "yincae advanced materials",
+      "name_variants": [
+        "YINCAE Advanced Materials, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6487"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yodogawa Hu-Tech Co., Ltd.",
+      "name_norm": "yodogawa hu tech",
+      "name_variants": [
+        "Yodogawa Hu-Tech Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "673"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yokogawa Electric Corporation",
+      "name_norm": "yokogawa electric",
+      "name_variants": [
+        "Yokogawa Electric Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2158"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Yonghe Group",
+      "name_norm": "yonghe",
+      "name_variants": [
+        "Yonghe Group"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5781"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "YOUNG JIN IND",
+      "name_norm": "young jin ind",
+      "name_variants": [
+        "YOUNG JIN IND"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Z2Data",
+      "name_norm": "z2data",
+      "name_variants": [
+        "Z2Data"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3138"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

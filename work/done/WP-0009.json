@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0009",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Bruker India Scientific Pvt Ltd",
+      "name_norm": "bruker india scientific pvt",
+      "name_variants": [
+        "Bruker India Scientific Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "376"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Bry-Air (Asia) Pvt. Ltd.",
+      "name_norm": "bry air pvt",
+      "name_variants": [
+        "Bry-Air (Asia) Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "165"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Business Sweden",
+      "name_norm": "business sweden",
+      "name_variants": [
+        "Business Sweden"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1224"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cadence Design Systems",
+      "name_norm": "cadence design systems",
+      "name_variants": [
+        "Cadence Design Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "720"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CADFEM India - Ansys Elite Partner",
+      "name_norm": "cadfem india ansys elite partner",
+      "name_variants": [
+        "CADFEM India - Ansys Elite Partner"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3523"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CALIBER INTERCONNECTS PRIVATE LTD",
+      "name_norm": "caliber interconnects private",
+      "name_variants": [
+        "CALIBER INTERCONNECTS PRIVATE LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1632"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Canon Singapore Pte Ltd",
+      "name_norm": "canon singapore",
+      "name_variants": [
+        "Canon Singapore Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "123"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Carl Zeiss India (Bangalore) Pvt Ltd",
+      "name_norm": "carl zeiss india pvt",
+      "name_variants": [
+        "Carl Zeiss India (Bangalore) Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7505"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CCD Technical Solutions Pvt Limited",
+      "name_norm": "ccd technical solutions pvt",
+      "name_variants": [
+        "CCD Technical Solutions Pvt Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5611"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CDIL Semiconductors Private Limited",
+      "name_norm": "cdil semiconductors private",
+      "name_variants": [
+        "CDIL Semiconductors Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1614"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:25Z",
+  "deadline_utc": "2026-09-30T12:47:25Z"
+}

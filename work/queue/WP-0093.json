@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0093",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "KOHOKU KOGYO CO., LTD.",
+      "name_norm": "kohoku kogyo",
+      "name_variants": [
+        "KOHOKU KOGYO CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3015"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kokusai Semiconductor Equipment Corp",
+      "name_norm": "kokusai semiconductor equipment",
+      "name_variants": [
+        "Kokusai Semiconductor Equipment Corp"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1149"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Komori America Corporation",
+      "name_norm": "komori america",
+      "name_variants": [
+        "Komori America Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3021"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Kontron AIS GmbH",
+      "name_norm": "kontron ais",
+      "name_variants": [
+        "Kontron AIS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1607"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Korea Kiyon Co., Ltd.",
+      "name_norm": "korea kiyon",
+      "name_variants": [
+        "Korea Kiyon Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Korea Zinc CO. LT",
+      "name_norm": "korea zinc lt",
+      "name_variants": [
+        "Korea Zinc CO. LT"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3113"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KOSME (Korea SMEs and Startups Agency)",
+      "name_norm": "kosme",
+      "name_variants": [
+        "KOSME (Korea SMEs and Startups Agency)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KOTRA Silicon Valley",
+      "name_norm": "kotra silicon valley",
+      "name_variants": [
+        "KOTRA Silicon Valley"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Koyo High Precision",
+      "name_norm": "koyo high precision",
+      "name_variants": [
+        "Koyo High Precision"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6463"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KSM Co., Ltd.",
+      "name_norm": "ksm",
+      "name_variants": [
+        "KSM Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "959"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

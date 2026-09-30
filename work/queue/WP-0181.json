@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0181",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Arias GmbH",
+      "name_norm": "arias",
+      "name_variants": [
+        "Arias GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1446"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Asahi Diamond Industrial GmbH",
+      "name_norm": "asahi diamond industrial",
+      "name_variants": [
+        "Asahi Diamond Industrial GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1110"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Asian Valve Co.，Ltd.",
+      "name_norm": "asian valve",
+      "name_variants": [
+        "Asian Valve Co.，Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1901"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASML Netherlands BV",
+      "name_norm": "asml netherlands",
+      "name_variants": [
+        "ASML Netherlands BV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1736"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ASMPT AMICRA GmbH",
+      "name_norm": "asmpt amicra",
+      "name_variants": [
+        "ASMPT AMICRA GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1529"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Atotech Deutschland GmbH & Co. KG",
+      "name_norm": "atotech deutschland and",
+      "name_variants": [
+        "Atotech Deutschland GmbH & Co. KG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1201"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ATT Systems GmbH",
+      "name_norm": "att systems",
+      "name_variants": [
+        "ATT Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ATV Systems GmbH",
+      "name_norm": "atv systems",
+      "name_variants": [
+        "ATV Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1423"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Avant Studio Proyectos S.L.",
+      "name_norm": "avant studio proyectos s l",
+      "name_variants": [
+        "Avant Studio Proyectos S.L."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2119"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aveiro2World",
+      "name_norm": "aveiro2world",
+      "name_variants": [
+        "Aveiro2World"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2243"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

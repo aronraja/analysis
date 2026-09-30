@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0048",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Swadeza Venture Private Limited",
+      "name_norm": "swadeza venture private",
+      "name_variants": [
+        "Swadeza Venture Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Swagelok",
+      "name_norm": "swagelok",
+      "name_variants": [
+        "Swagelok",
+        "Swagelok Company"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "245"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "853"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SYMPHONY ENGINEERING SDN BHD",
+      "name_norm": "symphony engineering",
+      "name_variants": [
+        "SYMPHONY ENGINEERING SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1523"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Synchronous Drives & Inverters Private Limited",
+      "name_norm": "synchronous drives and inverters private",
+      "name_variants": [
+        "Synchronous Drives & Inverters Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Synergy Machine Tools",
+      "name_norm": "synergy machine tools",
+      "name_variants": [
+        "Synergy Machine Tools"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6911"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SYNTEC AIRFLOW SYSTEMS",
+      "name_norm": "syntec airflow systems",
+      "name_variants": [
+        "SYNTEC AIRFLOW SYSTEMS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5823"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Syrma SGS Technology Limited",
+      "name_norm": "syrma sgs technology",
+      "name_variants": [
+        "Syrma SGS Technology Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "TAAAYANAM",
+      "name_norm": "taaayanam",
+      "name_variants": [
+        "TAAAYANAM"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3723"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tahinium Technologies Private Limited",
+      "name_norm": "tahinium technologies private",
+      "name_variants": [
+        "Tahinium Technologies Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Tanaka Kikinzoku (India) Private Limited",
+      "name_norm": "tanaka kikinzoku private",
+      "name_variants": [
+        "Tanaka Kikinzoku (India) Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4218"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:30:33Z",
+  "deadline_utc": "2026-09-30T13:05:33Z"
+}

@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0162",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "JHT Semiconductor Sdn Bhd",
+      "name_norm": "jht semiconductor",
+      "name_variants": [
+        "JHT Semiconductor Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0-410"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jiangsu Jingkun Technology Co., Ltd",
+      "name_norm": "jiangsu jingkun technology",
+      "name_variants": [
+        "Jiangsu Jingkun Technology Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2247"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JIANGSU TOTA INTELLIGENT TECHNOLOGY CO.,LTD.",
+      "name_norm": "jiangsu tota intelligent technology",
+      "name_variants": [
+        "JIANGSU TOTA INTELLIGENT TECHNOLOGY CO.,LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2416"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jiangsu ZBN Technology Development Co., Ltd",
+      "name_norm": "jiangsu zbn technology development",
+      "name_variants": [
+        "Jiangsu ZBN Technology Development Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0705"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jinchuan Group Co., Ltd.",
+      "name_norm": "jinchuan",
+      "name_variants": [
+        "Jinchuan Group Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2318"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JP Kummer Semiconductor Technology GmbH",
+      "name_norm": "jp kummer semiconductor technology",
+      "name_variants": [
+        "JP Kummer Semiconductor Technology GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1772"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JSR Micro NV",
+      "name_norm": "jsr micro",
+      "name_variants": [
+        "JSR Micro NV"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JTA Equipment Technology",
+      "name_norm": "jta equipment technology",
+      "name_variants": [
+        "JTA Equipment Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1171"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KAESER KOMPRESSOREN SE",
+      "name_norm": "kaeser kompressoren",
+      "name_variants": [
+        "KAESER KOMPRESSOREN SE"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1429"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "KAIKAI Quartz Co., LTD",
+      "name_norm": "kaikai quartz",
+      "name_variants": [
+        "KAIKAI Quartz Co., LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1169"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

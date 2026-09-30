@@ -1,0 +1,162 @@
+{
+  "wp_id": "WP-0019",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "GMP Technical Solutions Pvt Ltd",
+      "name_norm": "gmp technical solutions pvt",
+      "name_variants": [
+        "GMP Technical Solutions Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "846"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gopalam Embedded Systems Pte Ltd",
+      "name_norm": "gopalam embedded systems",
+      "name_variants": [
+        "Gopalam Embedded Systems Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1141"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Government of Telangana",
+      "name_norm": "government of telangana",
+      "name_variants": [
+        "Government of Telangana"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Grauer and Weil (India) Limited",
+      "name_norm": "grauer and weil",
+      "name_variants": [
+        "Grauer and Weil (India) Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6235"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Green PMU Semi Private Limited",
+      "name_norm": "green pmu semi private",
+      "name_variants": [
+        "Green PMU Semi Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Greene Tweed & Co./Vin-Tec Engineers",
+      "name_norm": "greene tweed and vin tec engineers",
+      "name_variants": [
+        "Greene Tweed & Co./Vin-Tec Engineers"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7631"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Grindwell Norton Ltd.",
+      "name_norm": "grindwell norton",
+      "name_variants": [
+        "Grindwell Norton Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7208"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GRUNDFOS PUMPS INDIA PVT LTD",
+      "name_norm": "grundfos pumps india pvt",
+      "name_variants": [
+        "GRUNDFOS PUMPS INDIA PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1068"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GST CO., LTD.",
+      "name_norm": "gst",
+      "name_variants": [
+        "GST CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7224"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "1865"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1243"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guidance Tamil Nadu",
+      "name_norm": "guidance tamil nadu",
+      "name_variants": [
+        "Guidance Tamil Nadu"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:27Z",
+  "deadline_utc": "2026-09-30T12:47:27Z"
+}

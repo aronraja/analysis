@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0011",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Chukoh Chemical Industries Limited",
+      "name_norm": "chukoh chemical industries",
+      "name_variants": [
+        "Chukoh Chemical Industries Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6426"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "circuitEvolve",
+      "name_norm": "circuitevolve",
+      "name_variants": [
+        "circuitEvolve"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cir-Q-Tech Tako Technologies Pvt. Ltd.",
+      "name_norm": "cir q tech tako technologies pvt",
+      "name_variants": [
+        "Cir-Q-Tech Tako Technologies Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "256"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CKD Corporation",
+      "name_norm": "ckd",
+      "name_variants": [
+        "CKD Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1368"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Clariant",
+      "name_norm": "clariant",
+      "name_variants": [
+        "Clariant"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3718"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CleanTech Services India Pvt Ltd",
+      "name_norm": "cleantech services india pvt",
+      "name_variants": [
+        "CleanTech Services India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "338"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CN Water Systems Private Limited",
+      "name_norm": "cn water systems private",
+      "name_variants": [
+        "CN Water Systems Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7514"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CNW- Courier Network",
+      "name_norm": "cnw courier network",
+      "name_variants": [
+        "CNW- Courier Network",
+        "CNW - Courier NetWork"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4523"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "2064"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cohizon Life Sciences",
+      "name_norm": "cohizon life sciences",
+      "name_variants": [
+        "Cohizon Life Sciences"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5836"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CoreTech System (Moldex3D) Co., Ltd.",
+      "name_norm": "coretech system",
+      "name_variants": [
+        "CoreTech System (Moldex3D) Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6619"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:25Z",
+  "deadline_utc": "2026-09-30T12:47:25Z"
+}

@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0020",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "GUJARAT FLUOROCHEMICALS LTD",
+      "name_norm": "gujarat fluorochemicals",
+      "name_variants": [
+        "GUJARAT FLUOROCHEMICALS LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "456"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gujarat State Electronics Mission",
+      "name_norm": "gujarat state electronics mission",
+      "name_variants": [
+        "Gujarat State Electronics Mission"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "745"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "H2LooP AI pvt. ltd.",
+      "name_norm": "h2loop ai pvt",
+      "name_variants": [
+        "H2LooP AI pvt. ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5631"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hae Kwang Co., Ltd.",
+      "name_norm": "hae kwang",
+      "name_variants": [
+        "Hae Kwang Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "756"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HAMAMATSU PHOTONICS K.K.",
+      "name_norm": "hamamatsu photonics k k",
+      "name_variants": [
+        "HAMAMATSU PHOTONICS K.K."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6726"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Handotai India Pvt Ltd",
+      "name_norm": "handotai india pvt",
+      "name_variants": [
+        "Handotai India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4618"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HANKOOM WATTTECH ENERGY INDIA PRIVATE LIMITED",
+      "name_norm": "hankoom watttech energy india private",
+      "name_variants": [
+        "HANKOOM WATTTECH ENERGY INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6218"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hankyu Hanshin Express India Pvt. Ltd.",
+      "name_norm": "hankyu hanshin express india pvt",
+      "name_variants": [
+        "Hankyu Hanshin Express India Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6231"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HCLTech",
+      "name_norm": "hcltech",
+      "name_variants": [
+        "HCLTech"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "946"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5250"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HCP Technologies Private Limited",
+      "name_norm": "hcp technologies private",
+      "name_variants": [
+        "HCP Technologies Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6121"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:27Z",
+  "deadline_utc": "2026-09-30T12:47:27Z"
+}

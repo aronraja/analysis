@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0145",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Stratus Automation Sdn Bhd",
+      "name_norm": "stratus automation",
+      "name_variants": [
+        "Stratus Automation Sdn Bhd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B0440"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "STREICHER, spol. s r.o. Plzen",
+      "name_norm": "streicher spol s r o plzen",
+      "name_variants": [
+        "STREICHER, spol. s r.o. Plzen"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Sumitomo (SHI) Cryogenics of Europe GmbH",
+      "name_norm": "sumitomo cryogenics of europe",
+      "name_variants": [
+        "Sumitomo (SHI) Cryogenics of Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1353"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SURAGUS GmbH",
+      "name_norm": "suragus",
+      "name_variants": [
+        "SURAGUS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1462"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SUSS MicroTec",
+      "name_norm": "suss microtec",
+      "name_variants": [
+        "SUSS MicroTec"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1600"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SUZHOU 5G AIoT CORPORATION",
+      "name_norm": "suzhou 5g aiot",
+      "name_variants": [
+        "SUZHOU 5G AIoT CORPORATION"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2404"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Suzhou Delphi Laser Co., Ltd.",
+      "name_norm": "suzhou delphi laser",
+      "name_variants": [
+        "Suzhou Delphi Laser Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1840"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Suzhou UIGreen Micro&Nano Technologies Co.,Ltd",
+      "name_norm": "suzhou uigreen micro and nano technologies",
+      "name_variants": [
+        "Suzhou UIGreen Micro&Nano Technologies Co.,Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2165"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "SVCS s.r.o.",
+      "name_norm": "svcs s r o",
+      "name_variants": [
+        "SVCS s.r.o."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1411"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1401"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "S3 Alliance GmbH",
+      "name_norm": "s3 alliance",
+      "name_variants": [
+        "S3 Alliance GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1901"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

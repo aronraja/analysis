@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0013",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Danfoss Industries Pvt. Ltd.",
+      "name_norm": "danfoss industries pvt",
+      "name_variants": [
+        "Danfoss Industries Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5635"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dassault Systèmes",
+      "name_norm": "dassault systemes",
+      "name_variants": [
+        "Dassault Systèmes"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1638"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "5240"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DCAS Technologies",
+      "name_norm": "dcas technologies",
+      "name_variants": [
+        "DCAS Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6624"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DDE ULTRA HIGH PURITY PRIVATE LIMITED",
+      "name_norm": "dde ultra high purity private",
+      "name_variants": [
+        "DDE ULTRA HIGH PURITY PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1433"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DeepLase Technologies",
+      "name_norm": "deeplase technologies",
+      "name_variants": [
+        "DeepLase Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Deerns Spectrum Private Limited",
+      "name_norm": "deerns spectrum private",
+      "name_variants": [
+        "Deerns Spectrum Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6633"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Delta Electronics India Pvt Ltd",
+      "name_norm": "delta electronics india pvt",
+      "name_variants": [
+        "Delta Electronics India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1601"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Department of Industries, Govt. of Bihar",
+      "name_norm": "department of industries govt of bihar",
+      "name_variants": [
+        "Department of Industries, Govt. of Bihar"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3111"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DHL Supply Chain India",
+      "name_norm": "dhl supply chain india",
+      "name_variants": [
+        "DHL Supply Chain India"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "527"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dhruv Compusoft consultancy pvt ltd",
+      "name_norm": "dhruv compusoft consultancy pvt",
+      "name_variants": [
+        "Dhruv Compusoft consultancy pvt ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7609"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:26Z",
+  "deadline_utc": "2026-09-30T12:47:26Z"
+}

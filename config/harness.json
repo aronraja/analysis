@@ -1,0 +1,18 @@
+{
+  "max_concurrent_agents": 20,
+  "companies_per_workpackage": 10,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "grace_minutes_before_reap": 5,
+    "max_web_calls_per_company": 8,
+    "max_turns_per_agent": 120,
+    "max_attempts_per_company": 2,
+    "run_budget_hours": 8
+  },
+  "headless": {
+    "claude_bin": "C:/Users/arons/.local/bin/claude.exe",
+    "allowed_tools": "WebSearch WebFetch Read Write Bash(date:*) Bash(mv:*) Bash(touch:*)",
+    "model": "claude-sonnet-5-5"
+  }
+}

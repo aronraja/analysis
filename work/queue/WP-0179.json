@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0179",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Advantest Europe GmbH",
+      "name_norm": "advantest europe",
+      "name_variants": [
+        "Advantest Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1706, B1712"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advantiv Technologies Europe GmbH",
+      "name_norm": "advantiv technologies europe",
+      "name_variants": [
+        "Advantiv Technologies Europe GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1565"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aehr Test Systems",
+      "name_norm": "aehr test systems",
+      "name_variants": [
+        "Aehr Test Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1446"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Agencia Estatal Consejo Superior de Investigaciones Científicas",
+      "name_norm": "agencia estatal consejo superior de investigaciones cientificas",
+      "name_variants": [
+        "Agencia Estatal Consejo Superior de Investigaciones Científicas"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1671"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AICELLO-HARKE GmbH",
+      "name_norm": "aicello harke",
+      "name_variants": [
+        "AICELLO-HARKE GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1800"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Airspace Technologies, Inc.",
+      "name_norm": "airspace technologies",
+      "name_variants": [
+        "Airspace Technologies, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1366"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Akoneer",
+      "name_norm": "akoneer",
+      "name_variants": [
+        "Akoneer"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2212"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Akrion Italy S.r.l.",
+      "name_norm": "akrion italy s r l",
+      "name_variants": [
+        "Akrion Italy S.r.l."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2204"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AKTANTIS",
+      "name_norm": "aktantis",
+      "name_variants": [
+        "AKTANTIS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1250"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "algorismic gmbh",
+      "name_norm": "algorismic",
+      "name_variants": [
+        "algorismic gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

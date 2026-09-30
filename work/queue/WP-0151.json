@@ -1,0 +1,152 @@
+{
+  "wp_id": "WP-0151",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "PREVAC sp. z o.o.",
+      "name_norm": "prevac sp z o o",
+      "name_variants": [
+        "PREVAC sp. z o.o."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2170"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Promicron AG",
+      "name_norm": "promicron",
+      "name_variants": [
+        "Promicron AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1269"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ProSys",
+      "name_norm": "prosys",
+      "name_variants": [
+        "ProSys"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1144"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PTS",
+      "name_norm": "pts",
+      "name_variants": [
+        "PTS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1157"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PTW Europa GmbH",
+      "name_norm": "ptw europa",
+      "name_variants": [
+        "PTW Europa GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1120"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Puerstinger High Purity Systems GmbH",
+      "name_norm": "puerstinger high purity systems",
+      "name_variants": [
+        "Puerstinger High Purity Systems GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1761"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pure Gas Engineering GmbH",
+      "name_norm": "pure gas engineering",
+      "name_variants": [
+        "Pure Gas Engineering GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2135"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Quasys AG",
+      "name_norm": "quasys",
+      "name_variants": [
+        "Quasys AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1164"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Raith GmbH",
+      "name_norm": "raith",
+      "name_variants": [
+        "Raith GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1534"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ramgraber Semiconductor",
+      "name_norm": "ramgraber semiconductor",
+      "name_variants": [
+        "Ramgraber Semiconductor"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1171"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

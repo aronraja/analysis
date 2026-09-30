@@ -1,0 +1,156 @@
+{
+  "wp_id": "WP-0171",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Cleanroom Technology Austria GmbH",
+      "name_norm": "cleanroom technology austria",
+      "name_variants": [
+        "Cleanroom Technology Austria GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2432"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cognex Germany, Inc.",
+      "name_norm": "cognex germany",
+      "name_variants": [
+        "Cognex Germany, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "COLANDIS GmbH",
+      "name_norm": "colandis",
+      "name_variants": [
+        "COLANDIS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1148"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "COMET AG",
+      "name_norm": "comet",
+      "name_variants": [
+        "COMET AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1572"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Confovis GmbH",
+      "name_norm": "confovis",
+      "name_variants": [
+        "Confovis GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CoolLED Ltd",
+      "name_norm": "coolled",
+      "name_variants": [
+        "CoolLED Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2157"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cosmic Group S.p.A.",
+      "name_norm": "cosmic s p a",
+      "name_variants": [
+        "Cosmic Group S.p.A."
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1255"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Cosylab",
+      "name_norm": "cosylab",
+      "name_variants": [
+        "Cosylab"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1133"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Courier Network Germany Gmbh",
+      "name_norm": "courier network germany",
+      "name_variants": [
+        "Courier Network Germany Gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1858"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CRC Engineering",
+      "name_norm": "crc engineering",
+      "name_variants": [
+        "CRC Engineering"
+      ],
+      "events": [
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1236"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2255"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "wp_id": "WP-0095",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Lavorro Inc.",
+      "name_norm": "lavorro",
+      "name_variants": [
+        "Lavorro Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M12"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Leeno Industrial Inc.",
+      "name_norm": "leeno industrial",
+      "name_variants": [
+        "Leeno Industrial Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "145"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1701"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lenox Laser, Inc.",
+      "name_norm": "lenox laser",
+      "name_variants": [
+        "Lenox Laser, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3006"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Levitronix Technologies, Inc.",
+      "name_norm": "levitronix technologies",
+      "name_variants": [
+        "Levitronix Technologies, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1653"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Light Conversion",
+      "name_norm": "light conversion",
+      "name_variants": [
+        "Light Conversion"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6664"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lighthouse Worldwide Solutions",
+      "name_norm": "lighthouse worldwide solutions",
+      "name_variants": [
+        "Lighthouse Worldwide Solutions"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5768"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LINTEC OF AMERICA, INC.",
+      "name_norm": "lintec of america",
+      "name_variants": [
+        "LINTEC OF AMERICA, INC."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6801"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LNEYA Thermo Refrigeration Co.,Ltd.",
+      "name_norm": "lneya thermo refrigeration",
+      "name_variants": [
+        "LNEYA Thermo Refrigeration Co.,Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5758"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1822"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Lokring",
+      "name_norm": "lokring",
+      "name_variants": [
+        "Lokring"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6177"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "LOT Vacuum Co., Ltd.",
+      "name_norm": "lot vacuum",
+      "name_variants": [
+        "LOT Vacuum Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6168"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0040",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "QVI India Private Limited",
+      "name_norm": "qvi india private",
+      "name_variants": [
+        "QVI India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6626"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Raana Semiconductors Pvt Ltd",
+      "name_norm": "raana semiconductors pvt",
+      "name_variants": [
+        "Raana Semiconductors Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6024"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RAHUL FERROMET & ENGINEERING PVT. LTD.",
+      "name_norm": "rahul ferromet and engineering pvt",
+      "name_variants": [
+        "RAHUL FERROMET & ENGINEERING PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7318"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RAJASTHAN METAL SMELTING CO.",
+      "name_norm": "rajasthan metal smelting",
+      "name_variants": [
+        "RAJASTHAN METAL SMELTING CO."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6328"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ramaiah Academy Foundation",
+      "name_norm": "ramaiah academy foundation",
+      "name_variants": [
+        "Ramaiah Academy Foundation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7623"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rapid Global Business Solution (I) Pvt Ltd.",
+      "name_norm": "rapid global business solution pvt",
+      "name_variants": [
+        "Rapid Global Business Solution (I) Pvt Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "470"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Raychemrpg",
+      "name_norm": "raychemrpg",
+      "name_variants": [
+        "Raychemrpg"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6326"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Rayvector Technologies Pvt Ltd",
+      "name_norm": "rayvector technologies pvt",
+      "name_variants": [
+        "Rayvector Technologies Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4111"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "RCMPA POLISHING TECH PVT LTD",
+      "name_norm": "rcmpa polishing tech pvt",
+      "name_variants": [
+        "RCMPA POLISHING TECH PVT LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3717"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Resonac Corporation",
+      "name_norm": "resonac",
+      "name_variants": [
+        "Resonac Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1562"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:18:15Z",
+  "deadline_utc": "2026-09-30T12:53:15Z"
+}

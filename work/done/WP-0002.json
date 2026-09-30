@@ -1,0 +1,154 @@
+{
+  "wp_id": "WP-0002",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Advance Panels & Switchgears P Ltd",
+      "name_norm": "advance panels and switchgears p",
+      "name_variants": [
+        "Advance Panels & Switchgears P Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6608"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ADVANCED EXPERTISE TECHNOLOGY PVT. LTD.",
+      "name_norm": "advanced expertise technology pvt",
+      "name_variants": [
+        "ADVANCED EXPERTISE TECHNOLOGY PVT. LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1478"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ADVANCED SYSTEM IN PACKAGE TECHNOLOGIES",
+      "name_norm": "advanced system in package technologies",
+      "name_variants": [
+        "ADVANCED SYSTEM IN PACKAGE TECHNOLOGIES"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "760"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advantec Materials India Pvt Ltd",
+      "name_norm": "advantec materials india pvt",
+      "name_variants": [
+        "Advantec Materials India Pvt Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "580"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Advantest (Singapore) Pte. Ltd.",
+      "name_norm": "advantest",
+      "name_variants": [
+        "Advantest (Singapore) Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "434"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AECOM India Private Limited",
+      "name_norm": "aecom india private",
+      "name_variants": [
+        "AECOM India Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5909"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aequs SEZ Private Limited",
+      "name_norm": "aequs sez private",
+      "name_variants": [
+        "Aequs SEZ Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3716"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aeromech Equipments Private Limited",
+      "name_norm": "aeromech equipments private",
+      "name_variants": [
+        "Aeromech Equipments Private Limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6729"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Aether Semiconductors Private Ltd",
+      "name_norm": "aether semiconductors private",
+      "name_variants": [
+        "Aether Semiconductors Private Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1275"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "AGC Asia Pacific (India) Pvt. Ltd.",
+      "name_norm": "agc asia pacific pvt",
+      "name_variants": [
+        "AGC Asia Pacific (India) Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "133"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T12:12:23Z",
+  "deadline_utc": "2026-09-30T12:47:23Z"
+}

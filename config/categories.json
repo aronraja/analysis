@@ -1,0 +1,2089 @@
+{
+  "source": "SEMI exhibitor product categories",
+  "groups": [
+    {
+      "code": "101",
+      "name": "Photovoltaic Device Manufacturing",
+      "subcategories": [
+        {
+          "id": "101.01",
+          "name": "PV-Building-Integrated Solutions"
+        },
+        {
+          "id": "101.02",
+          "name": "PV: Cells"
+        },
+        {
+          "id": "101.03",
+          "name": "PV: Modules"
+        },
+        {
+          "id": "101.04",
+          "name": "PV: Stand-Alone Systems"
+        },
+        {
+          "id": "101.05",
+          "name": "Solar Architecture"
+        },
+        {
+          "id": "101.06",
+          "name": "Solar Thermal"
+        }
+      ]
+    },
+    {
+      "code": "200",
+      "name": "Packaging and Assembly Equipment",
+      "subcategories": [
+        {
+          "id": "200.01",
+          "name": "Backgrind; Slicing; Lapping; Polishing Equipment"
+        },
+        {
+          "id": "200.02",
+          "name": "Ball Placement; Attach Systems"
+        },
+        {
+          "id": "200.03",
+          "name": "Base Loader Systems"
+        },
+        {
+          "id": "200.04",
+          "name": "Cleaning; Washing Equipment for Assembly & Packaging"
+        },
+        {
+          "id": "200.05",
+          "name": "Cut & Down Set; Trim; Form Equipment"
+        },
+        {
+          "id": "200.06",
+          "name": "Deflashing; Degating Tools"
+        },
+        {
+          "id": "200.07",
+          "name": "Device Handling; Feeding Systems"
+        },
+        {
+          "id": "200.08",
+          "name": "Dicing; Sawing; Scribing; Separation Equipment"
+        },
+        {
+          "id": "200.09",
+          "name": "Die Bonding; Attach Equipment"
+        },
+        {
+          "id": "200.10",
+          "name": "Die Removal Equipment"
+        },
+        {
+          "id": "200.11",
+          "name": "Die Sorter; Pick & Place; Flip Chip Placement Systems"
+        },
+        {
+          "id": "200.12",
+          "name": "Dispensing Systems"
+        },
+        {
+          "id": "200.13",
+          "name": "Hot Embossing System"
+        },
+        {
+          "id": "200.14",
+          "name": "Lead Finishing; Straightening Equipment"
+        },
+        {
+          "id": "200.15",
+          "name": "Lead Frame Taping Systems"
+        },
+        {
+          "id": "200.16",
+          "name": "Lithography Systems for Wafer Level Packaging; Bumping; 3D Interconnect Aligners"
+        },
+        {
+          "id": "200.17",
+          "name": "Marking; Imprinting; Labeling Equipment"
+        },
+        {
+          "id": "200.18",
+          "name": "Molding; Encapsulation; Decapsulation Equipment"
+        },
+        {
+          "id": "200.19",
+          "name": "Package Handling; Conveying Equipment"
+        },
+        {
+          "id": "200.20",
+          "name": "Package Simulation; Characterization Equipment"
+        },
+        {
+          "id": "200.21",
+          "name": "Plating; Electro Chemical Plating for device assembly"
+        },
+        {
+          "id": "200.22",
+          "name": "Printed and Organic Electronic Equipment"
+        },
+        {
+          "id": "200.23",
+          "name": "PROM; Memory Programmer Equipment"
+        },
+        {
+          "id": "200.24",
+          "name": "Solder Reflow; Soldering & Brazing Equipment"
+        },
+        {
+          "id": "200.25",
+          "name": "Tape Automated Bonding (TAB); Bumped Tape Automated Bonding (BTAB) Equipment"
+        },
+        {
+          "id": "200.26",
+          "name": "Wafer Level Bonders"
+        },
+        {
+          "id": "200.27",
+          "name": "Wafer Mount; Taping Equipment"
+        },
+        {
+          "id": "200.28",
+          "name": "Wire Bonding Equipment"
+        }
+      ]
+    },
+    {
+      "code": "201",
+      "name": "Flat Panel Display Equipment",
+      "subcategories": [
+        {
+          "id": "201.01",
+          "name": "Alignment Film Coating Equipment"
+        },
+        {
+          "id": "201.02",
+          "name": "Anodic Oxidation Equipment"
+        },
+        {
+          "id": "201.03",
+          "name": "Color Pattern Processing Equipment"
+        },
+        {
+          "id": "201.04",
+          "name": "Cullet Removal Equipment"
+        },
+        {
+          "id": "201.05",
+          "name": "Laser Treatment; Cutting Systems for Panels & Photocells"
+        },
+        {
+          "id": "201.06",
+          "name": "Liquid Crystal Injection or Filling Equipment"
+        },
+        {
+          "id": "201.07",
+          "name": "Low Pressure Plasma Spray (LPPS) Equipment"
+        },
+        {
+          "id": "201.08",
+          "name": "Luminous Layer Patterning and Sealing Equipment"
+        },
+        {
+          "id": "201.09",
+          "name": "Panel Alignment; Cell Assembly Equipment"
+        },
+        {
+          "id": "201.10",
+          "name": "Polarizer Sticking Equipment"
+        },
+        {
+          "id": "201.11",
+          "name": "Rubbing Equipment"
+        },
+        {
+          "id": "201.12",
+          "name": "Scribe and Break Equipment"
+        },
+        {
+          "id": "201.13",
+          "name": "Seal Patterning Equipment"
+        },
+        {
+          "id": "201.14",
+          "name": "Spacer Spraying Equipment"
+        }
+      ]
+    },
+    {
+      "code": "202",
+      "name": "Other Equipment",
+      "subcategories": [
+        {
+          "id": "202.01",
+          "name": "Cutting; Drilling; Laser ablation; Beveling Equipment"
+        },
+        {
+          "id": "202.02",
+          "name": "Heating; Annealing; Curing Equipment - Furnaces; Conveyors; Ovens; Test Chambers; Heat Treating"
+        },
+        {
+          "id": "202.03",
+          "name": "Lamination; Sheet Laminating Equipment"
+        },
+        {
+          "id": "202.04",
+          "name": "Repair; Rework Equipment"
+        },
+        {
+          "id": "202.05",
+          "name": "Sealing; Bagging; Packing Equipment"
+        },
+        {
+          "id": "202.06",
+          "name": "Space simulation; Vacuum chambers"
+        },
+        {
+          "id": "202.07",
+          "name": "Vacuum drying & out gassing Systems"
+        },
+        {
+          "id": "202.08",
+          "name": "Vibration Isolation Systems"
+        },
+        {
+          "id": "202.09",
+          "name": "Vision; ID; Bar Code Systems"
+        },
+        {
+          "id": "202.10",
+          "name": "Welding Equipment"
+        }
+      ]
+    },
+    {
+      "code": "203",
+      "name": "Inspection & Measurement Products",
+      "subcategories": [
+        {
+          "id": "203.01",
+          "name": "Air Velocity (VA) Humidity and Moisture Sensing"
+        },
+        {
+          "id": "203.02",
+          "name": "Centrifuges"
+        },
+        {
+          "id": "203.03",
+          "name": "Chromatograph"
+        },
+        {
+          "id": "203.04",
+          "name": "CV (capacitance-to-voltage) Probe systems"
+        },
+        {
+          "id": "203.05",
+          "name": "Defect; Particle; Bump; Contamination Detection, Review or Inspection"
+        },
+        {
+          "id": "203.06",
+          "name": "Die Inspection; Die Shear"
+        },
+        {
+          "id": "203.07",
+          "name": "ESCA; Ultrasonic; Acoustical Microscopes"
+        },
+        {
+          "id": "203.08",
+          "name": "Fiber Optic Inspection Instruments"
+        },
+        {
+          "id": "203.09",
+          "name": "Film Thickness; Thickness; Uniformity Measurement; Ellipsometer"
+        },
+        {
+          "id": "203.10",
+          "name": "Flat; Notch Finding System"
+        },
+        {
+          "id": "203.11",
+          "name": "Instruments; Bench Top Test"
+        },
+        {
+          "id": "203.12",
+          "name": "Leak Detection Systems - Vacuum or Gas"
+        },
+        {
+          "id": "203.13",
+          "name": "Line Width; Critical Dimension (CD) Measurement"
+        },
+        {
+          "id": "203.14",
+          "name": "Microscopes: Atomic Force Microscopes (AFM)"
+        },
+        {
+          "id": "203.15",
+          "name": "Microscopes: Confocal Scanning Microscope; 3-D Video Microscopes"
+        },
+        {
+          "id": "203.16",
+          "name": "Microscopes: Optical Microscopes"
+        },
+        {
+          "id": "203.17",
+          "name": "Microscopes: SEM; Focused Ion Beam (FIB), TEM"
+        },
+        {
+          "id": "203.18",
+          "name": "Overlay Measurement"
+        },
+        {
+          "id": "203.19",
+          "name": "Package Inspection; Lead Scanners"
+        },
+        {
+          "id": "203.20",
+          "name": "Particle Monitors; Analyzers - Airborne or Liquid"
+        },
+        {
+          "id": "203.21",
+          "name": "Plate Inspection Equipment"
+        },
+        {
+          "id": "203.22",
+          "name": "Resistivity Measurement; 4 point probe; Sheet resistance"
+        },
+        {
+          "id": "203.23",
+          "name": "Spectrometers; FTIR; ATR-FTIR; Auger Electron (AES); SIMS"
+        },
+        {
+          "id": "203.24",
+          "name": "Stress; Refractive Index; Reflectivity & Conductivity Measurement"
+        },
+        {
+          "id": "203.25",
+          "name": "Thermal Sensing, Measurement, Analysis"
+        },
+        {
+          "id": "203.26",
+          "name": "Wafer; Substrate Metrology; Topology; Nanotopography; Flatness Measurement; Crystalline Orientation"
+        },
+        {
+          "id": "203.27",
+          "name": "Weight measurement; precision scales"
+        },
+        {
+          "id": "203.28",
+          "name": "Wire Bonding Inspection; Test"
+        },
+        {
+          "id": "203.29",
+          "name": "X-ray; XRF; 3-D X-Ray; LEXES Systems"
+        }
+      ]
+    },
+    {
+      "code": "204",
+      "name": "MEMS Equipment",
+      "subcategories": [
+        {
+          "id": "204.01",
+          "name": "Deep RIE etching; Dry Etching"
+        },
+        {
+          "id": "204.02",
+          "name": "Double sided mask aligner"
+        },
+        {
+          "id": "204.03",
+          "name": "Wafer Level Bonders"
+        }
+      ]
+    },
+    {
+      "code": "205",
+      "name": "Nanotechnology Equipment and Tools",
+      "subcategories": [
+        {
+          "id": "205.01",
+          "name": "Equipment, Nanotechnology Tools"
+        }
+      ]
+    },
+    {
+      "code": "206",
+      "name": "PV Equipment",
+      "subcategories": [
+        {
+          "id": "206.01",
+          "name": "Cells"
+        },
+        {
+          "id": "206.02",
+          "name": "Inspection and Metrology"
+        },
+        {
+          "id": "206.03",
+          "name": "Integration and Automation"
+        },
+        {
+          "id": "206.04",
+          "name": "Modules"
+        },
+        {
+          "id": "206.05",
+          "name": "Other"
+        },
+        {
+          "id": "206.06",
+          "name": "Thin Film"
+        },
+        {
+          "id": "206.07",
+          "name": "Wafers"
+        }
+      ]
+    },
+    {
+      "code": "207",
+      "name": "Process Equipment",
+      "subcategories": [
+        {
+          "id": "207.01",
+          "name": "Bumping Systems"
+        },
+        {
+          "id": "207.02",
+          "name": "Chemical Mechanical Polishing (CMP); Electro Polishing, Mechanical Polishing Equipment"
+        },
+        {
+          "id": "207.03",
+          "name": "Cleaning; Washing; Drying Equipment for Substrate, Fab Processing"
+        },
+        {
+          "id": "207.04",
+          "name": "Coat; Develop; Resist Processing; Track Equipment"
+        },
+        {
+          "id": "207.05",
+          "name": "Crystal Growing & Machining Equipment"
+        },
+        {
+          "id": "207.06",
+          "name": "Deposition; Chemical Vapor (CVD); MOCVD; PECVD; LPCVD; ALD; REALD; MVD"
+        },
+        {
+          "id": "207.07",
+          "name": "Deposition; Physical Vapor (PVD); Sputtering; Evaporation Equipment"
+        },
+        {
+          "id": "207.08",
+          "name": "Environmental Enclosures; Minienvironments"
+        },
+        {
+          "id": "207.09",
+          "name": "Epitaxy Equipment; Epi Reactors; Molecular Beam Epitaxy (MBE); Atomic Layer Epitaxy (ALE)"
+        },
+        {
+          "id": "207.10",
+          "name": "Etching; Stripping; Ashing - Dry and Wet Equipment"
+        },
+        {
+          "id": "207.11",
+          "name": "Ion Implantation Equipment"
+        },
+        {
+          "id": "207.12",
+          "name": "Ion; E-Beam Milling Etching Equipment"
+        },
+        {
+          "id": "207.13",
+          "name": "Lithography; Exposure; Aligners; Direct Write Systems; Steppers; Scanners; Nanoimprint"
+        },
+        {
+          "id": "207.14",
+          "name": "Plating; Electro Chemical Plating; Deposition Systems"
+        },
+        {
+          "id": "207.15",
+          "name": "SOI Bonders; Temporary Bonders; De-Bonders"
+        },
+        {
+          "id": "207.16",
+          "name": "Spin on Glass (SOG); on Dielectric (SOD) Track systems"
+        },
+        {
+          "id": "207.17",
+          "name": "Thermal Processing - Diffusion; Oxidation; Annealing; RTA; RTP Equipment"
+        },
+        {
+          "id": "207.18",
+          "name": "Transfer Systems for Wafer; Reticles or FPD's"
+        },
+        {
+          "id": "207.19",
+          "name": "Wafer Identification; Marking Equipment"
+        }
+      ]
+    },
+    {
+      "code": "208",
+      "name": "Test Equipment",
+      "subcategories": [
+        {
+          "id": "208.01",
+          "name": "Burn-In Accessory Systems"
+        },
+        {
+          "id": "208.02",
+          "name": "Burn-In Systems"
+        },
+        {
+          "id": "208.03",
+          "name": "Circuit Repair; Design Modification; Redundant Memory Repair; Mask Repair Systems"
+        },
+        {
+          "id": "208.04",
+          "name": "Discrete Component Test Systems"
+        },
+        {
+          "id": "208.05",
+          "name": "Environmental Stress Systems - Temperature; Humidity; Pressure; HAST"
+        },
+        {
+          "id": "208.06",
+          "name": "ESD; EMS and Latch-up Systems"
+        },
+        {
+          "id": "208.07",
+          "name": "Failure Analysis Systems"
+        },
+        {
+          "id": "208.08",
+          "name": "FPD Test; Measurement; Repair Equipment"
+        },
+        {
+          "id": "208.09",
+          "name": "Functional Test Systems"
+        },
+        {
+          "id": "208.10",
+          "name": "Handlers; Positioner Systems"
+        },
+        {
+          "id": "208.11",
+          "name": "Linear Test Systems"
+        },
+        {
+          "id": "208.12",
+          "name": "Logic Test Systems"
+        },
+        {
+          "id": "208.13",
+          "name": "Memory Test Systems"
+        },
+        {
+          "id": "208.14",
+          "name": "Optical Test Systems"
+        },
+        {
+          "id": "208.15",
+          "name": "Package Test Systems"
+        },
+        {
+          "id": "208.16",
+          "name": "Parametric Test Systems"
+        },
+        {
+          "id": "208.17",
+          "name": "Printed Circuit Board; Wire Board (PCB or PWB) Test and Repair"
+        },
+        {
+          "id": "208.18",
+          "name": "Probe Card Maintenance and Analysis Systems"
+        },
+        {
+          "id": "208.19",
+          "name": "Probing Equipment incl. Analytical; Circuit; Manual; E-Beam; Optical; Wafer Probers"
+        },
+        {
+          "id": "208.20",
+          "name": "System on a Chip (SOC); Mixed Signal Test Systems"
+        },
+        {
+          "id": "208.21",
+          "name": "Test Contactor Cleaning; Conditioning Systems"
+        },
+        {
+          "id": "208.22",
+          "name": "Test Head Manipulators and Docking Stations"
+        },
+        {
+          "id": "208.23",
+          "name": "Wireless, non-contact Test Systems"
+        }
+      ]
+    },
+    {
+      "code": "300",
+      "name": "Packaging and Assembly Materials",
+      "subcategories": [
+        {
+          "id": "300.01",
+          "name": "Adhesives; Epoxies; Die Attach Compounds; Under fill Materials; Conductive & Non-Conductive"
+        },
+        {
+          "id": "300.02",
+          "name": "Bonding; Interconnect Materials - Wire; Ribbon; Tape; Capillaries & Tools"
+        },
+        {
+          "id": "300.03",
+          "name": "Lead Frames & Headers: Etched; Stamped"
+        },
+        {
+          "id": "300.04",
+          "name": "Marking ink"
+        },
+        {
+          "id": "300.05",
+          "name": "Molding; Encapsulation; Potting; Resin Materials"
+        },
+        {
+          "id": "300.06",
+          "name": "Package Substrates; Laminate; Film based"
+        },
+        {
+          "id": "300.07",
+          "name": "Packages; Ceramic and Other High Temp Compounds"
+        },
+        {
+          "id": "300.08",
+          "name": "Packages; Plastic"
+        },
+        {
+          "id": "300.09",
+          "name": "Preforms; Lids"
+        },
+        {
+          "id": "300.10",
+          "name": "Printed Circuit Boards (PCB); Printed Wire Boards (PWB)"
+        },
+        {
+          "id": "300.11",
+          "name": "Printing Masks; Screens"
+        },
+        {
+          "id": "300.12",
+          "name": "Scribe Tools; Saw or Dicing Blades and Accessories"
+        },
+        {
+          "id": "300.13",
+          "name": "Solder; Solder Balls and other Soldering Materials"
+        },
+        {
+          "id": "300.14",
+          "name": "Tape Automated Bonding (TAB) Accessories"
+        },
+        {
+          "id": "300.15",
+          "name": "Thermal Interface Materials; Heat Sinks"
+        },
+        {
+          "id": "300.16",
+          "name": "Thick Film Pastes; Materials"
+        },
+        {
+          "id": "300.17",
+          "name": "Thin Film; Dielectric Film Materials"
+        }
+      ]
+    },
+    {
+      "code": "301",
+      "name": "Chemicals & Solids",
+      "subcategories": [
+        {
+          "id": "301.01",
+          "name": "Acids; Etchants"
+        },
+        {
+          "id": "301.02",
+          "name": "Buffers; Alkalis; Bases"
+        },
+        {
+          "id": "301.03",
+          "name": "Cleaning Chemicals; Solvents; Strippers"
+        },
+        {
+          "id": "301.04",
+          "name": "DI; UP Water"
+        },
+        {
+          "id": "301.05",
+          "name": "Dopants; liquid or solid"
+        },
+        {
+          "id": "301.06",
+          "name": "Other Specialty Chemicals"
+        },
+        {
+          "id": "301.07",
+          "name": "Photo Resist; Developers & Ancillaries (incl. Adhesion promoter (HMDS); Primer; Anti-Reflective Coat"
+        },
+        {
+          "id": "301.08",
+          "name": "Solids"
+        },
+        {
+          "id": "301.09",
+          "name": "Spin on glass material"
+        },
+        {
+          "id": "301.10",
+          "name": "Surface protection material; coatings"
+        }
+      ]
+    },
+    {
+      "code": "302",
+      "name": "FPD Materials",
+      "subcategories": [
+        {
+          "id": "302.01",
+          "name": "Alignment Film Materials"
+        },
+        {
+          "id": "302.02",
+          "name": "Color Filter Materials"
+        },
+        {
+          "id": "302.03",
+          "name": "End-Sealing Material"
+        },
+        {
+          "id": "302.04",
+          "name": "Glass Plates for FPD"
+        },
+        {
+          "id": "302.05",
+          "name": "Liquid Crystal Materials"
+        },
+        {
+          "id": "302.06",
+          "name": "Polarizer Materials"
+        },
+        {
+          "id": "302.07",
+          "name": "Spacer Materials"
+        }
+      ]
+    },
+    {
+      "code": "303",
+      "name": "Gases",
+      "subcategories": [
+        {
+          "id": "303.01",
+          "name": "Analytical Instrumentation Mixtures"
+        },
+        {
+          "id": "303.02",
+          "name": "Dopant Gases"
+        },
+        {
+          "id": "303.03",
+          "name": "Environmental Compliance Mixtures"
+        },
+        {
+          "id": "303.04",
+          "name": "Etchant Gases"
+        },
+        {
+          "id": "303.05",
+          "name": "Fuel Gases"
+        },
+        {
+          "id": "303.06",
+          "name": "Laser Gas Mixtures"
+        },
+        {
+          "id": "303.07",
+          "name": "Other Specialty; Mixed Gas"
+        },
+        {
+          "id": "303.08",
+          "name": "Pure & Bulk Gases"
+        },
+        {
+          "id": "303.09",
+          "name": "Rare; Noble Gases"
+        },
+        {
+          "id": "303.10",
+          "name": "Reactant Gases"
+        },
+        {
+          "id": "303.11",
+          "name": "Silicon Precursor Gas"
+        }
+      ]
+    },
+    {
+      "code": "304",
+      "name": "Mask Making Materials",
+      "subcategories": [
+        {
+          "id": "304.01",
+          "name": "Mask and Reticle Handling Products"
+        },
+        {
+          "id": "304.02",
+          "name": "Mask plate blanks; Glass"
+        },
+        {
+          "id": "304.03",
+          "name": "Pellicles; Mounting Fixtures"
+        },
+        {
+          "id": "304.04",
+          "name": "Plate or Pellicle Repair & Materials"
+        },
+        {
+          "id": "304.05",
+          "name": "Transfer lithography masks; Polymer masks; templates (for Nanoimprint)"
+        }
+      ]
+    },
+    {
+      "code": "305",
+      "name": "Nanotechnology Materials",
+      "subcategories": [
+        {
+          "id": "305.01",
+          "name": "Nanotechnology Materials"
+        }
+      ]
+    },
+    {
+      "code": "306",
+      "name": "PV Materials",
+      "subcategories": [
+        {
+          "id": "306.01",
+          "name": "Consumables"
+        },
+        {
+          "id": "306.02",
+          "name": "Feedstock: Polysilicon, UMG, etc."
+        },
+        {
+          "id": "306.03",
+          "name": "Gases and Liquid Chemicals"
+        },
+        {
+          "id": "306.04",
+          "name": "Ingots, Wafers"
+        },
+        {
+          "id": "306.05",
+          "name": "Other"
+        },
+        {
+          "id": "306.06",
+          "name": "Solar Glass, encapsulation"
+        }
+      ]
+    },
+    {
+      "code": "307",
+      "name": "Process Materials",
+      "subcategories": [
+        {
+          "id": "307.01",
+          "name": "CMP; Grind; Lap; Polish; Abrasive materials"
+        },
+        {
+          "id": "307.02",
+          "name": "Deposition Supplies"
+        },
+        {
+          "id": "307.03",
+          "name": "Deposition/Target Materials"
+        },
+        {
+          "id": "307.04",
+          "name": "Ingots"
+        },
+        {
+          "id": "307.05",
+          "name": "Photo Masks; Finished or Patterned"
+        },
+        {
+          "id": "307.06",
+          "name": "Plasma; Ion Sources"
+        },
+        {
+          "id": "307.07",
+          "name": "Plating Materials"
+        },
+        {
+          "id": "307.08",
+          "name": "Polysilicon or granular polycrystalline silicon; Crystal growing Material"
+        },
+        {
+          "id": "307.09",
+          "name": "Process Chamber Components; Graphite; Carbon Fiber Carbon (CFC); Pyrolytic Boron Nitride (PBN)"
+        },
+        {
+          "id": "307.10",
+          "name": "Quartzware (Silicon Carbide, Fused Quartz Glass, Sapphire), Ceramic & Oxide Ceramic Fixtures"
+        }
+      ]
+    },
+    {
+      "code": "308",
+      "name": "Substrates",
+      "subcategories": [
+        {
+          "id": "308.01",
+          "name": "Compound Semiconductor substrates (GaAs on Silicon; GaN; InP; SiGe, etc.)"
+        },
+        {
+          "id": "308.02",
+          "name": "Diamond substrates"
+        },
+        {
+          "id": "308.03",
+          "name": "Epitaxial; Epi; Gettered; Internal Gettered Wafers"
+        },
+        {
+          "id": "308.04",
+          "name": "Gallium Arsenide (GaAs); Sapphire Substrates"
+        },
+        {
+          "id": "308.05",
+          "name": "Prime; Polished; Mirrored Wafers"
+        },
+        {
+          "id": "308.06",
+          "name": "Silicon on Insulator (SOI); Silicon on Sapphire (SOS); Silicon Carbide;"
+        },
+        {
+          "id": "308.07",
+          "name": "solar cell substrates; crystalline silicon (c-Si); thin film"
+        },
+        {
+          "id": "308.08",
+          "name": "Strained silicon; Engineered Substrates"
+        },
+        {
+          "id": "308.09",
+          "name": "Test; Monitor Wafers; Reclaim or Virgin"
+        },
+        {
+          "id": "308.10",
+          "name": "Thin & Thick film substrates for MEMS"
+        }
+      ]
+    },
+    {
+      "code": "309",
+      "name": "Test Materials",
+      "subcategories": [
+        {
+          "id": "309.01",
+          "name": "Burn-In Boards; Performance Boards (incl. Low; High Temp and Ceramic)"
+        },
+        {
+          "id": "309.02",
+          "name": "Probe Cards; DUT boards and other probing accessories (incl Ceramic and Special Purpose Probe Cards)"
+        },
+        {
+          "id": "309.03",
+          "name": "Structural Circuits; Test; Thermal Fixturing"
+        },
+        {
+          "id": "309.04",
+          "name": "Test Sockets; Contactors and Contact accessories"
+        }
+      ]
+    },
+    {
+      "code": "400",
+      "name": "Components, Parts & Accessories",
+      "subcategories": [
+        {
+          "id": "400.01",
+          "name": "Bearings; Shaft Collars"
+        },
+        {
+          "id": "400.02",
+          "name": "Chucks for Wafer and other Substrates"
+        },
+        {
+          "id": "400.03",
+          "name": "Computer Accessories; Peripherals; Upgrades; Service"
+        },
+        {
+          "id": "400.04",
+          "name": "Connectors; Plugs; Interconnects; Cable; Wire"
+        },
+        {
+          "id": "400.05",
+          "name": "Electronic Hardware; Fixtures and Supplies"
+        },
+        {
+          "id": "400.06",
+          "name": "Enclosures; Cabinets"
+        },
+        {
+          "id": "400.07",
+          "name": "Fasteners; General Hardware"
+        },
+        {
+          "id": "400.08",
+          "name": "Filters for Liquid; Oil"
+        },
+        {
+          "id": "400.09",
+          "name": "Filters, Getters, Purifiers, Catalysts for Gases"
+        },
+        {
+          "id": "400.10",
+          "name": "Flow Control Components - Valves; Meters; Gauges; Regulators; MFC's"
+        },
+        {
+          "id": "400.11",
+          "name": "Gaskets; Seals; O rings; Elastomers; Resins"
+        },
+        {
+          "id": "400.12",
+          "name": "Heating elements; coils; insulation; vestibule blocks and other Furnace components"
+        },
+        {
+          "id": "400.13",
+          "name": "Indicator Status Lights"
+        },
+        {
+          "id": "400.14",
+          "name": "Lamps (non Lithography), all type UV; LED and other"
+        },
+        {
+          "id": "400.15",
+          "name": "Lamps for Lithography"
+        },
+        {
+          "id": "400.16",
+          "name": "Magnetic Components; Heads"
+        },
+        {
+          "id": "400.17",
+          "name": "Motors; Fans; Electric Rotary Spindles"
+        },
+        {
+          "id": "400.18",
+          "name": "Piezo Electronic Components"
+        },
+        {
+          "id": "400.19",
+          "name": "Pipe; Tubing; Hose; Flanges; Connectors; Couplings; Plumbing Fittings"
+        },
+        {
+          "id": "400.20",
+          "name": "Raw Material & Custom components; Metal"
+        },
+        {
+          "id": "400.21",
+          "name": "Raw Material & Custom components; Plastic"
+        },
+        {
+          "id": "400.22",
+          "name": "Sealants; Adhesives; Finishes"
+        },
+        {
+          "id": "400.23",
+          "name": "Sensors"
+        },
+        {
+          "id": "400.24",
+          "name": "Vacuum Systems Components & Accessories (optical monitors; Sputtering target fixtures; lubricants"
+        },
+        {
+          "id": "400.25",
+          "name": "Windows"
+        }
+      ]
+    },
+    {
+      "code": "401",
+      "name": "Sub-systems",
+      "subcategories": [
+        {
+          "id": "401.01",
+          "name": "Cameras - Still; CCD; Video & Monitors"
+        },
+        {
+          "id": "401.02",
+          "name": "Computer; Control; Communication; Data Acquisition Systems"
+        },
+        {
+          "id": "401.03",
+          "name": "Electron tube & Ion Beam Apparatus & Sources"
+        },
+        {
+          "id": "401.04",
+          "name": "Exposure; Illumination Sources - Laser; Lamp; X-ray & other"
+        },
+        {
+          "id": "401.05",
+          "name": "Gas; Liquid delivery panels as subsystems"
+        },
+        {
+          "id": "401.06",
+          "name": "Gear reducers; Gearheads; Geardrives"
+        },
+        {
+          "id": "401.07",
+          "name": "Handling; Transfer; Loading Systems; Lifting devices"
+        },
+        {
+          "id": "401.08",
+          "name": "Hydraulic Systems"
+        },
+        {
+          "id": "401.09",
+          "name": "Motion control systems; Servo control systems & Components"
+        },
+        {
+          "id": "401.10",
+          "name": "Optics; Lens Products; Auto-Focus Systems"
+        },
+        {
+          "id": "401.11",
+          "name": "Plasma Sources; Controls; Monitoring; Diagnosis"
+        },
+        {
+          "id": "401.12",
+          "name": "Pneumatic Systems; Pneumatic rotary spindles"
+        },
+        {
+          "id": "401.13",
+          "name": "Power Supplies; RF Generators; Converters; Electrical Conditioning"
+        },
+        {
+          "id": "401.14",
+          "name": "Process Monitoring systems"
+        },
+        {
+          "id": "401.15",
+          "name": "Pumps, for Fluids"
+        },
+        {
+          "id": "401.16",
+          "name": "Pumps, Vacuum"
+        },
+        {
+          "id": "401.17",
+          "name": "Temperature Sensing; Control; Recirculators; Chillers; Heat Exchangers"
+        },
+        {
+          "id": "401.18",
+          "name": "Ultrasonic Generators; Transducer and Monitoring Systems"
+        }
+      ]
+    },
+    {
+      "code": "402",
+      "name": "PV Systems",
+      "subcategories": [
+        {
+          "id": "402.01",
+          "name": "Chargers, Batteries"
+        },
+        {
+          "id": "402.02",
+          "name": "Inverters"
+        },
+        {
+          "id": "402.03",
+          "name": "Measurement and Control Technology"
+        },
+        {
+          "id": "402.04",
+          "name": "Stand-Alone Systems"
+        }
+      ]
+    },
+    {
+      "code": "403",
+      "name": "PV Components, Tracking and Mounting Systems",
+      "subcategories": [
+        {
+          "id": "403.01",
+          "name": "Cables, Connectors, Junction Boxes"
+        },
+        {
+          "id": "403.02",
+          "name": "Mounting Systems"
+        },
+        {
+          "id": "403.03",
+          "name": "Tracking Systems"
+        }
+      ]
+    },
+    {
+      "code": "500",
+      "name": "Factory Monitoring & Control Systems (FMCS)",
+      "subcategories": [
+        {
+          "id": "500.01",
+          "name": "Chemical; Pure Water; Fluid Handling; Storage; Supply Systems"
+        },
+        {
+          "id": "500.02",
+          "name": "Chemical; Pure Water; Fluid Monitoring & Control Systems"
+        },
+        {
+          "id": "500.03",
+          "name": "Data Collection; Building control systems"
+        },
+        {
+          "id": "500.04",
+          "name": "Electrical; Power Distribution"
+        },
+        {
+          "id": "500.05",
+          "name": "Emergency (fire) & Security Control Systems"
+        },
+        {
+          "id": "500.06",
+          "name": "Environmental; Utility Systems & Monitoring"
+        },
+        {
+          "id": "500.07",
+          "name": "Equipment Interface; Communication Protocols"
+        },
+        {
+          "id": "500.08",
+          "name": "Gas and Other Generation Systems"
+        },
+        {
+          "id": "500.09",
+          "name": "Gas Handling - Cabinets; Control; Supply Systems"
+        },
+        {
+          "id": "500.10",
+          "name": "Gas Monitoring Equipment; RGA's; TGO compliance"
+        },
+        {
+          "id": "500.11",
+          "name": "Logistics; Floor Control Systems"
+        },
+        {
+          "id": "500.12",
+          "name": "Process Controls"
+        },
+        {
+          "id": "500.13",
+          "name": "Waste Control; Effluent Management Systems (Fluid & Gas; Exhaust Conditioning; Scrubbers)"
+        }
+      ]
+    },
+    {
+      "code": "501",
+      "name": "HVAC, Temperature, Humidity, Contamination Control",
+      "subcategories": [
+        {
+          "id": "501.01",
+          "name": "Clean Rooms"
+        },
+        {
+          "id": "501.02",
+          "name": "Contamination Control; HEPA Filtering Systems"
+        },
+        {
+          "id": "501.03",
+          "name": "HVAC; Temperature; Humidity Systems and Control"
+        }
+      ]
+    },
+    {
+      "code": "502",
+      "name": "Material Handling Systems",
+      "subcategories": [
+        {
+          "id": "502.01",
+          "name": "Conveying; Material Handling Systems"
+        },
+        {
+          "id": "502.02",
+          "name": "Robotics; Transfer Systems"
+        },
+        {
+          "id": "502.03",
+          "name": "Static; ESD Control"
+        },
+        {
+          "id": "502.04",
+          "name": "Stockers; Storage, AMHS"
+        }
+      ]
+    },
+    {
+      "code": "600",
+      "name": "Communication Software",
+      "subcategories": [
+        {
+          "id": "600.01",
+          "name": "Equipment Interface; Communication Protocols"
+        }
+      ]
+    },
+    {
+      "code": "601",
+      "name": "Design Software",
+      "subcategories": [
+        {
+          "id": "601.01",
+          "name": "CAD - Computer Automated Design"
+        },
+        {
+          "id": "601.02",
+          "name": "EDA - Electronic Design Automation; Circuit Design"
+        }
+      ]
+    },
+    {
+      "code": "602",
+      "name": "Manufacturing Software",
+      "subcategories": [
+        {
+          "id": "602.01",
+          "name": "CAM or CIM - Computer Aided Manuf'g; Computer Integrated Manuf'g"
+        },
+        {
+          "id": "602.02",
+          "name": "Factory Automation; Cell Controller Software"
+        },
+        {
+          "id": "602.03",
+          "name": "Manufacturing Execution Software (MES)"
+        },
+        {
+          "id": "602.04",
+          "name": "Production Control software"
+        },
+        {
+          "id": "602.05",
+          "name": "Test Programs"
+        },
+        {
+          "id": "602.06",
+          "name": "Yield Mgmt; Process Control Software"
+        }
+      ]
+    },
+    {
+      "code": "603",
+      "name": "Simulation, Analysis; Modeling Software",
+      "subcategories": [
+        {
+          "id": "603.01",
+          "name": "Mask Making software & simulation"
+        },
+        {
+          "id": "603.02",
+          "name": "Simulation; Characterization; Verification Software"
+        },
+        {
+          "id": "603.03",
+          "name": "Statistical Analysis; Modeling; Cost of Ownership (CoO) Software"
+        }
+      ]
+    },
+    {
+      "code": "700",
+      "name": "Manufacturing Services",
+      "subcategories": [
+        {
+          "id": "700.01",
+          "name": "Building Maintenance"
+        },
+        {
+          "id": "700.02",
+          "name": "Burn-In Service"
+        },
+        {
+          "id": "700.03",
+          "name": "Calibration & Reference Standards"
+        },
+        {
+          "id": "700.04",
+          "name": "Certification; Compliance; Independent Laboratories"
+        },
+        {
+          "id": "700.05",
+          "name": "Color Filter Manufacturing"
+        },
+        {
+          "id": "700.06",
+          "name": "Deposition Service"
+        },
+        {
+          "id": "700.07",
+          "name": "Etch; Strip; Cleaning Service"
+        },
+        {
+          "id": "700.08",
+          "name": "Failure Analysis and other Analytical Services"
+        },
+        {
+          "id": "700.09",
+          "name": "Ion Implant Service"
+        },
+        {
+          "id": "700.10",
+          "name": "Laundry service; Cleanroom Garments and other"
+        },
+        {
+          "id": "700.11",
+          "name": "Lithography; Patterning service"
+        },
+        {
+          "id": "700.12",
+          "name": "Machine Shop; Fabrication Service"
+        },
+        {
+          "id": "700.13",
+          "name": "Mask Making Fabrication and Repair"
+        },
+        {
+          "id": "700.14",
+          "name": "Measurement; Inspection Service"
+        },
+        {
+          "id": "700.15",
+          "name": "Micro Machining services (small hole drilling and milling)"
+        },
+        {
+          "id": "700.16",
+          "name": "Parts Cleaning; Micro Contamination"
+        },
+        {
+          "id": "700.17",
+          "name": "Plating; Electro Polishing; Coating; Surface Treatment"
+        },
+        {
+          "id": "700.18",
+          "name": "Reclaim Services"
+        },
+        {
+          "id": "700.19",
+          "name": "Repair; Rebuild; Install Equipment; Maintenance Services; Spare Parts"
+        },
+        {
+          "id": "700.20",
+          "name": "Sawing; Lapping; Grinding; Polishing Service"
+        },
+        {
+          "id": "700.21",
+          "name": "Used; Rental Equipment; Inventory Reduction, Appraisal - Brokers; Resellers"
+        },
+        {
+          "id": "700.22",
+          "name": "Wafer Bumping Service"
+        },
+        {
+          "id": "700.23",
+          "name": "Welding; specialty welding services"
+        }
+      ]
+    },
+    {
+      "code": "701",
+      "name": "Manufacturing Services or Consulting",
+      "subcategories": [
+        {
+          "id": "701.01",
+          "name": "Assembly"
+        },
+        {
+          "id": "701.02",
+          "name": "Automation & Robotics"
+        },
+        {
+          "id": "701.03",
+          "name": "CAD; CAM; CIM"
+        },
+        {
+          "id": "701.04",
+          "name": "Circuit Design; Electronic Design Services (EDS); System Level Design (SLD)"
+        },
+        {
+          "id": "701.05",
+          "name": "Clean Room; Contamination Control"
+        },
+        {
+          "id": "701.06",
+          "name": "Environmental, Health & Safety"
+        },
+        {
+          "id": "701.07",
+          "name": "Equipment; Hardware; Product Design, Integration and Manufacturing"
+        },
+        {
+          "id": "701.08",
+          "name": "Facilities; Building Environmental Systems Design & Monitoring; Alternative Energy Solutions"
+        },
+        {
+          "id": "701.09",
+          "name": "Facility Design; Construction; Architectural"
+        },
+        {
+          "id": "701.10",
+          "name": "Factory; Industrial Control; Utilization & Automation"
+        },
+        {
+          "id": "701.11",
+          "name": "Flat Panel Display (FPD) Design & Manufacturing"
+        },
+        {
+          "id": "701.12",
+          "name": "Manufacturing Process Support and Development"
+        },
+        {
+          "id": "701.13",
+          "name": "Nanotechnology Intellectual Property Development; Research"
+        },
+        {
+          "id": "701.14",
+          "name": "Package Materials; Interconnect; Subcomponent; Subassembly Design Services"
+        },
+        {
+          "id": "701.15",
+          "name": "Package Simulation; Characterization Services"
+        },
+        {
+          "id": "701.16",
+          "name": "Product Development; Software Design; Product Lifecycle Management"
+        },
+        {
+          "id": "701.17",
+          "name": "Software Programming; Software Development"
+        },
+        {
+          "id": "701.18",
+          "name": "Static; ESD Testing & Control Services"
+        },
+        {
+          "id": "701.19",
+          "name": "Technical Intelligence; Reverse Engineering"
+        },
+        {
+          "id": "701.20",
+          "name": "Test Services or Consulting"
+        },
+        {
+          "id": "701.21",
+          "name": "Wafer Fab Operations and Design"
+        },
+        {
+          "id": "701.22",
+          "name": "Wafer Handling"
+        },
+        {
+          "id": "701.23",
+          "name": "Waste Control; Disposal Design"
+        }
+      ]
+    },
+    {
+      "code": "800",
+      "name": "Associations",
+      "subcategories": [
+        {
+          "id": "800.01",
+          "name": "Associations; Trade or Industrial"
+        },
+        {
+          "id": "800.02",
+          "name": "Professional Societies"
+        }
+      ]
+    },
+    {
+      "code": "801",
+      "name": "Distribution and Logistics",
+      "subcategories": [
+        {
+          "id": "801.01",
+          "name": "Crating; Packaging"
+        },
+        {
+          "id": "801.02",
+          "name": "Customs Clearance; Import/ Export; Freight Forwarders"
+        },
+        {
+          "id": "801.03",
+          "name": "Distribution, Warehousing, 3rd Party Logistics Providers (3PL)"
+        },
+        {
+          "id": "801.04",
+          "name": "Transportation; Rigging"
+        }
+      ]
+    },
+    {
+      "code": "802",
+      "name": "Educational; Research Institutions",
+      "subcategories": [
+        {
+          "id": "802.01",
+          "name": "Education; Research Institutions (For-Profit); Vocational Training"
+        },
+        {
+          "id": "802.02",
+          "name": "Education; Research Institutions (Non Profit); Academia; Schools"
+        }
+      ]
+    },
+    {
+      "code": "803",
+      "name": "Financial Services",
+      "subcategories": [
+        {
+          "id": "803.01",
+          "name": "Banks"
+        },
+        {
+          "id": "803.02",
+          "name": "Financial; Auditing; Tax Services"
+        },
+        {
+          "id": "803.03",
+          "name": "Investor Relations"
+        },
+        {
+          "id": "803.04",
+          "name": "Leasing; Asset Utilization"
+        },
+        {
+          "id": "803.05",
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "code": "804",
+      "name": "Professional Services",
+      "subcategories": [
+        {
+          "id": "804.01",
+          "name": "Government Advocacy; Regulation; Economic Development Agencies"
+        },
+        {
+          "id": "804.02",
+          "name": "Insurance"
+        },
+        {
+          "id": "804.03",
+          "name": "IT; Data Processing Services"
+        },
+        {
+          "id": "804.04",
+          "name": "Legal Services"
+        },
+        {
+          "id": "804.05",
+          "name": "Libraries"
+        },
+        {
+          "id": "804.06",
+          "name": "Market Studies; Market Research Organizations"
+        },
+        {
+          "id": "804.07",
+          "name": "Marketing or Sales Consultants"
+        },
+        {
+          "id": "804.08",
+          "name": "Operations; Management Consulting"
+        },
+        {
+          "id": "804.09",
+          "name": "Personnel Services; Employee Assistance; Recruiters; HR"
+        },
+        {
+          "id": "804.10",
+          "name": "Property Management; Real Estate"
+        },
+        {
+          "id": "804.11",
+          "name": "Public Relations"
+        },
+        {
+          "id": "804.12",
+          "name": "Publications or Magazines; Printing"
+        },
+        {
+          "id": "804.13",
+          "name": "Purchasing; Procurement; Materials; Supply Chain Management Services"
+        },
+        {
+          "id": "804.14",
+          "name": "Sales; Manufacturers Representation or Distributors"
+        },
+        {
+          "id": "804.15",
+          "name": "Trade Shows; Conference; Symposium Coordinators"
+        },
+        {
+          "id": "804.16",
+          "name": "Web hosting; Design; Internet consulting; Systems Integration"
+        }
+      ]
+    },
+    {
+      "code": "805",
+      "name": "PV Services",
+      "subcategories": [
+        {
+          "id": "805.01",
+          "name": "Education, Training"
+        },
+        {
+          "id": "805.02",
+          "name": "Financing, Promotion"
+        },
+        {
+          "id": "805.03",
+          "name": "Organization, Association"
+        },
+        {
+          "id": "805.04",
+          "name": "Research and Development"
+        },
+        {
+          "id": "805.05",
+          "name": "Testing Institutes"
+        }
+      ]
+    },
+    {
+      "code": "900",
+      "name": "Support Products",
+      "subcategories": [
+        {
+          "id": "900.01",
+          "name": "Analytical Standards; Calibrators"
+        },
+        {
+          "id": "900.02",
+          "name": "Clean Room Supplies; Cleaning Supplies"
+        },
+        {
+          "id": "900.03",
+          "name": "Device; Wafer; Display Panel Handling Products"
+        },
+        {
+          "id": "900.04",
+          "name": "Furniture; Storage; Cabinets"
+        },
+        {
+          "id": "900.05",
+          "name": "Garments ; Apparel"
+        },
+        {
+          "id": "900.06",
+          "name": "Laboratory Apparatus and Supplies"
+        },
+        {
+          "id": "900.07",
+          "name": "Safety"
+        },
+        {
+          "id": "900.08",
+          "name": "Tools"
+        }
+      ]
+    },
+    {
+      "code": "901",
+      "name": "Printed, Organic, Flexible and Large Area",
+      "subcategories": [
+        {
+          "id": "901.01",
+          "name": "Device Manufacturing: Batteries"
+        },
+        {
+          "id": "901.02",
+          "name": "Device Manufacturing: Display"
+        },
+        {
+          "id": "901.03",
+          "name": "Device Manufacturing: Electronic"
+        },
+        {
+          "id": "901.04",
+          "name": "Device Manufacturing: Integrated systems"
+        },
+        {
+          "id": "901.05",
+          "name": "Device Manufacturing: Lighting"
+        },
+        {
+          "id": "901.06",
+          "name": "Device Manufacturing: Photovoltaic"
+        },
+        {
+          "id": "901.07",
+          "name": "Device Manufacturing: RFID"
+        },
+        {
+          "id": "901.08",
+          "name": "Device Manufacturing: Semiconductor"
+        },
+        {
+          "id": "901.09",
+          "name": "Device Manufacturing: Sensors"
+        },
+        {
+          "id": "901.10",
+          "name": "Device Manufacturing: Signage"
+        },
+        {
+          "id": "901.11",
+          "name": "Device Manufacturing: Wearable electronics"
+        },
+        {
+          "id": "901.12",
+          "name": "Equipment: Clean room"
+        },
+        {
+          "id": "901.13",
+          "name": "Equipment: Curing"
+        },
+        {
+          "id": "901.14",
+          "name": "Equipment: Inspection"
+        },
+        {
+          "id": "901.15",
+          "name": "Equipment: laboratory"
+        },
+        {
+          "id": "901.16",
+          "name": "Equipment: Material Handling"
+        },
+        {
+          "id": "901.17",
+          "name": "Equipment: Printing, coating"
+        },
+        {
+          "id": "901.18",
+          "name": "Equipment: Process integration & control"
+        },
+        {
+          "id": "901.19",
+          "name": "Equipment: Roll to roll"
+        },
+        {
+          "id": "901.20",
+          "name": "Equipment: Systems"
+        },
+        {
+          "id": "901.21",
+          "name": "Equipment: Vacuum deposition"
+        },
+        {
+          "id": "901.22",
+          "name": "Materials: Consumables"
+        },
+        {
+          "id": "901.23",
+          "name": "Materials: Gases and Liquid Chemicals"
+        },
+        {
+          "id": "901.24",
+          "name": "Materials: Inks, pastes, printing"
+        },
+        {
+          "id": "901.25",
+          "name": "Materials: Inorganic"
+        },
+        {
+          "id": "901.26",
+          "name": "Materials: Organic"
+        },
+        {
+          "id": "901.27",
+          "name": "Materials: Other"
+        },
+        {
+          "id": "901.28",
+          "name": "Materials: Substrates, encapsulation, packaging"
+        },
+        {
+          "id": "901.29",
+          "name": "Services: Education, Training"
+        },
+        {
+          "id": "901.30",
+          "name": "Services: Financing, Promotion"
+        },
+        {
+          "id": "901.31",
+          "name": "Services: Organization, Association"
+        },
+        {
+          "id": "901.32",
+          "name": "Services: Research and Development"
+        },
+        {
+          "id": "901.33",
+          "name": "Services: Testing Institutes"
+        }
+      ]
+    },
+    {
+      "code": "902",
+      "name": "Other",
+      "subcategories": [
+        {
+          "id": "902.01",
+          "name": "Other"
+        }
+      ]
+    },
+    {
+      "code": "903",
+      "name": "Electronic Components",
+      "subcategories": [
+        {
+          "id": "903.01",
+          "name": "Components: Low Power Electronics"
+        },
+        {
+          "id": "903.02",
+          "name": "Components: ASIC's"
+        },
+        {
+          "id": "903.03",
+          "name": "Components: Flexible Electronics"
+        },
+        {
+          "id": "903.04",
+          "name": "Components: IC's"
+        },
+        {
+          "id": "903.05",
+          "name": "Components: IDM / Foundries"
+        },
+        {
+          "id": "903.06",
+          "name": "Components: MEMS"
+        },
+        {
+          "id": "903.07",
+          "name": "Components: Sensors"
+        },
+        {
+          "id": "903.08",
+          "name": "Design: CAD Tools"
+        },
+        {
+          "id": "903.09",
+          "name": "Design: Design House"
+        },
+        {
+          "id": "903.10",
+          "name": "Design: Fabless"
+        },
+        {
+          "id": "903.11",
+          "name": "Design: IP vendors"
+        },
+        {
+          "id": "903.12",
+          "name": "Design: Modelling"
+        }
+      ]
+    },
+    {
+      "code": "904",
+      "name": "Electronic Applications",
+      "subcategories": [
+        {
+          "id": "904.01",
+          "name": "Energy Efficiency: Energy Harvesting Solutions"
+        },
+        {
+          "id": "904.02",
+          "name": "Energy Efficiency: High voltage solutions"
+        },
+        {
+          "id": "904.03",
+          "name": "Energy Efficiency: Low Power Electronics"
+        },
+        {
+          "id": "904.04",
+          "name": "Energy Efficiency: Power electronics"
+        },
+        {
+          "id": "904.05",
+          "name": "Energy Efficiency: Power Supplies and Batteries"
+        },
+        {
+          "id": "904.06",
+          "name": "Healthcare: Device Implants"
+        },
+        {
+          "id": "904.07",
+          "name": "Healthcare: Flexible Intelligent Devices"
+        },
+        {
+          "id": "904.08",
+          "name": "Healthcare: sensors"
+        },
+        {
+          "id": "904.09",
+          "name": "Imaging: Camera and Camera Modules"
+        },
+        {
+          "id": "904.10",
+          "name": "Imaging: CCD, CMOS and organic sensors"
+        },
+        {
+          "id": "904.11",
+          "name": "Imaging: Image Processing, Software and System"
+        },
+        {
+          "id": "904.12",
+          "name": "Imaging: Optics and Micromechanic"
+        },
+        {
+          "id": "904.13",
+          "name": "Lighting: LED"
+        },
+        {
+          "id": "904.14",
+          "name": "Lighting: OLED"
+        },
+        {
+          "id": "904.15",
+          "name": "Lighting: PLED"
+        },
+        {
+          "id": "904.16",
+          "name": "Security: Biometrics"
+        },
+        {
+          "id": "904.17",
+          "name": "Security: Identification"
+        },
+        {
+          "id": "904.18",
+          "name": "Security: Tracking, e-ticketing"
+        }
+      ]
+    }
+  ]
+}

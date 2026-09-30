@@ -1,0 +1,167 @@
+{
+  "wp_id": "WP-0025-R2",
+  "created_utc": "2026-09-30T12:23:04Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "izmo microsystems private limited",
+      "name_norm": "izmo microsystems private",
+      "name_variants": [
+        "izmo microsystems private limited"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6611"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Janatics Global Solutions Pvt. Ltd.",
+      "name_norm": "janatics global solutions pvt",
+      "name_variants": [
+        "Janatics Global Solutions Pvt. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3611"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Japan India Business Bureau (NPO)",
+      "name_norm": "japan india business bureau",
+      "name_variants": [
+        "Japan India Business Bureau (NPO)"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1124"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JEOL INDIA PRIVATE LIMITED",
+      "name_norm": "jeol india private",
+      "name_variants": [
+        "JEOL INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4816"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jiangsu Jinggong Semicon Equipment Co., Ltd",
+      "name_norm": "jiangsu jinggong semicon equipment",
+      "name_variants": [
+        "Jiangsu Jinggong Semicon Equipment Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H6033"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "359"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1435"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jindal SAW Ltd.",
+      "name_norm": "jindal saw",
+      "name_variants": [
+        "Jindal SAW Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "156"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Jipal Hi-Tech",
+      "name_norm": "jipal hi tech",
+      "name_variants": [
+        "Jipal Hi-Tech"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "766"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JITECH INDIA PRIVATE LIMITED",
+      "name_norm": "jitech india private",
+      "name_variants": [
+        "JITECH INDIA PRIVATE LIMITED"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H7021"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JMJ Korea Co., Ltd",
+      "name_norm": "jmj korea",
+      "name_variants": [
+        "JMJ Korea Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "1324"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "JSR Electronic Materials Singapore Pte Ltd",
+      "name_norm": "jsr electronic materials singapore",
+      "name_variants": [
+        "JSR Electronic Materials Singapore Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H5408"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0025",
+  "claimed_utc": "2026-09-30T12:24:15Z",
+  "deadline_utc": "2026-09-30T12:59:15Z"
+}

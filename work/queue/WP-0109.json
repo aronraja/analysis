@@ -1,0 +1,169 @@
+{
+  "wp_id": "WP-0109",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Pivotal Systems",
+      "name_norm": "pivotal systems",
+      "name_variants": [
+        "Pivotal Systems"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6068"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Planar Motor, Inc.",
+      "name_norm": "planar motor",
+      "name_variants": [
+        "Planar Motor, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3213"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Plasma Etch",
+      "name_norm": "plasma etch",
+      "name_variants": [
+        "Plasma Etch"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1950"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Plasma Ruggedized Solutions",
+      "name_norm": "plasma ruggedized solutions",
+      "name_variants": [
+        "Plasma Ruggedized Solutions"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3337"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Plasma-Therm LLC",
+      "name_norm": "plasma therm",
+      "name_variants": [
+        "Plasma-Therm LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5747"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1752"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "PM B.V.",
+      "name_norm": "pm b v",
+      "name_variants": [
+        "PM B.V."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6564"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1270"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pophen Environmental Technology (Taizhou) Co., Ltd.",
+      "name_norm": "pophen environmental technology",
+      "name_variants": [
+        "Pophen Environmental Technology (Taizhou) Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3318"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Porvair Filtration Group",
+      "name_norm": "porvair filtration",
+      "name_variants": [
+        "Porvair Filtration Group",
+        "Porvair Filtration Group Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5272"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1913"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Powatec USA, Inc.",
+      "name_norm": "powatec usa",
+      "name_variants": [
+        "Powatec USA, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3038"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Pozzetta",
+      "name_norm": "pozzetta",
+      "name_variants": [
+        "Pozzetta"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5978"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1112"
+        }
+      ],
+      "website_hint": null
+    }
+  ]
+}

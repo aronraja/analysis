@@ -1,0 +1,43 @@
+{
+  "wp_id": "WP-0019-R2",
+  "created_utc": "2026-09-30T12:21:09Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Government of Telangana",
+      "name_norm": "government of telangana",
+      "name_variants": [
+        "Government of Telangana"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H3521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guidance Tamil Nadu",
+      "name_norm": "guidance tamil nadu",
+      "name_variants": [
+        "Guidance Tamil Nadu"
+      ],
+      "events": [
+        {
+          "event": "SEMICON India",
+          "booth": "H4502"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0019",
+  "claimed_utc": "2026-09-30T12:23:55Z",
+  "deadline_utc": "2026-09-30T12:58:55Z"
+}
