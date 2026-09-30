@@ -39569,6 +39569,64 @@
   ]
  },
  {
+  "company_id": "n:lpkf laser and electronics",
+  "name": "LPKF Laser & Electronics",
+  "name_norm": "lpkf laser and electronics",
+  "aliases_norm": [
+   "lpkf laser and electronics"
+  ],
+  "name_variants": [
+   "LPKF Laser & Electronics"
+  ],
+  "legal_name": "LPKF Laser & Electronics SE",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Garbsen",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1976,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "202",
+  "primary_subcategory": "202.01",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "laser micromachining",
+   "advanced packaging",
+   "laser plastic welding"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "electronics",
+   "medtech"
+  ],
+  "description": "German laser-based fabrication and process solutions supplier for electronics and microelectronics, incl. advanced packaging equipment.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://in.tradingview.com/symbols/OTC-LPKFF/financials-overview",
+   "https://eqs-news.com/de/news/adhoc/lpkf-closes-contract-with-leading-semiconductor-company/1728195"
+  ],
+  "notes": "Website/LinkedIn URL not seen in results.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Other Equipment",
+  "primary_subcategory_name": "Cutting; Drilling; Laser ablation; Beveling Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "202.01",
+   "201.05"
+  ]
+ },
+ {
   "company_id": "d:bossard.com",
   "name": "LPS Bossard",
   "name_norm": "lps bossard",
@@ -39702,6 +39760,50 @@
    "501.03",
    "701.05"
   ]
+ },
+ {
+  "company_id": "n:m c m s p a",
+  "name": "M.C.M. S.p.A.",
+  "name_norm": "m c m s p a",
+  "aliases_norm": [
+   "m c m s p a"
+  ],
+  "name_variants": [
+   "M.C.M. S.p.A."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No info found in search.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
  },
  {
   "company_id": "d:macdermidalpha.com",
@@ -39839,6 +39941,435 @@
   ]
  },
  {
+  "company_id": "n:machine vision products",
+  "name": "Machine Vision Products, Inc.",
+  "name_norm": "machine vision products",
+  "aliases_norm": [
+   "machine vision products"
+  ],
+  "name_variants": [
+   "Machine Vision Products. Inc"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Carlsbad",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1993,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": "203.06",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "AOI",
+   "die inspection",
+   "wire bond inspection"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "microelectronics",
+   "SMT"
+  ],
+  "description": "Provider of automated optical inspection systems for semiconductor, microelectronics and SMT, inspecting dies, wire bonds, wafers, BGAs and lead frames.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://circuitsassembly.com/ca/current/32439-machine-vision-products-to-show-their-powerful-flexible-aoi-solutions-for-semiconductor-microelectronics-and-packaging-at-productronica-2019.html",
+   "https://abachy.com/catalog/semiconductor-equipment/test-inspection-equipment/other-testinspection-equipment/die-inspection-die-shear/machine-vision-products-inc-mvp"
+  ],
+  "notes": "Website/LinkedIn URL not seen.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Die Inspection; Die Shear",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "203.06",
+   "203.05",
+   "203.19",
+   "203.28"
+  ]
+ },
+ {
+  "company_id": "n:mack automation",
+  "name": "Mack Automation LLC",
+  "name_norm": "mack automation",
+  "aliases_norm": [
+   "mack automation"
+  ],
+  "name_variants": [
+   "Mack Automation LLC"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Flagstaff",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Mack Group",
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "vacuum generators",
+   "pneumatic cylinders",
+   "end-of-arm tooling"
+  ],
+  "end_markets": [],
+  "description": "US entity of Mack Automation (Mack Group), vacuum and pneumatic automation components; SEMI member since 2026.",
+  "status": "partial",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/mack-automation-llc"
+  ],
+  "notes": "Group link to Mack Automation GmbH (Baindt) inferred from search; category group only.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:made in california",
+  "name": "Made in California",
+  "name_norm": "made in california",
+  "aliases_norm": [
+   "made in california"
+  ],
+  "name_variants": [
+   "Made in California"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "Likely a state pavilion/program; no company found.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "d:psgdover.com",
+  "name": "Malema",
+  "name_norm": "malema",
+  "aliases_norm": [
+   "malema",
+   "malema part of psg a dover"
+  ],
+  "name_variants": [
+   "Malema, Part of PSG, a Dover Company"
+  ],
+  "legal_name": null,
+  "website": "https://www.psgdover.com/malema",
+  "domain": "psgdover.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "PSG (Dover)",
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "flow meters",
+   "Coriolis",
+   "ultrasonic",
+   "pressure sensors"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "biopharma"
+  ],
+  "description": "Maker of flow measurement and control instruments for high-purity chemicals and slurries; part of PSG, Dover's Pumps & Process Solutions segment.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.psgdover.com/malema/news/article/malema-blog/2022/05/19/dover-corporation-to-acquire-malema",
+   "https://www.semi.org/en/resources/member-directory/malema-part-psg-dover-company"
+  ],
+  "notes": "HQ not confirmed; LinkedIn not seen.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:malico",
+  "name": "Malico Inc.",
+  "name_norm": "malico",
+  "aliases_norm": [
+   "malico"
+  ],
+  "name_variants": [
+   "Malico Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No info found in search.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:malvern panalytical",
+  "name": "Malvern Panalytical",
+  "name_norm": "malvern panalytical",
+  "aliases_norm": [
+   "malvern panalytical"
+  ],
+  "name_variants": [
+   "Malvern Panalytical"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Malvern",
+  "hq_country": "GB",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 2017,
+  "employee_range": "1001-5000",
+  "ownership_type": "subsidiary",
+  "parent_company": "Spectris",
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": "203.29",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "XRD",
+   "XRF",
+   "analytical instruments"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "pharma",
+   "materials"
+  ],
+  "description": "Maker of analytical instruments (XRD, XRF, particle characterization), formed 2017 from Malvern Instruments and PANalytical; a Spectris company.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://ghost.bitscale.ai/malvern-panalytical/"
+  ],
+  "notes": "Website/LinkedIn URL not directly seen (linkedin.com/company/malvernpanalytical mentioned in text). Spectris/KKR ownership per search snippet.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "X-ray; XRF; 3-D X-Ray; LEXES Systems",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "203.29",
+   "203.23",
+   "203.26"
+  ]
+ },
+ {
+  "company_id": "d:manz.com",
+  "name": "Manz",
+  "name_norm": "manz",
+  "aliases_norm": [
+   "manz",
+   "manz taiwan"
+  ],
+  "name_variants": [
+   "Manz Taiwan Ltd."
+  ],
+  "legal_name": null,
+  "website": "https://www.manz.com",
+  "domain": "manz.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Taoyuan",
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.21",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "wet chemistry",
+   "plating",
+   "FOPLP",
+   "inkjet printing"
+  ],
+  "end_markets": [
+   "advanced packaging",
+   "IC substrate"
+  ],
+  "description": "Manz Asia sub-group entity supplying wet process, plating and panel-level packaging equipment; bought out from Manz AG insolvency in 2025.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/manz-taiwan-ltd",
+   "https://www.manz.com/post/manz-ag-sells-asian-business-in-management-buy-out"
+  ],
+  "notes": "Website of post-buyout Manz Asia unconfirmed.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Plating; Electro Chemical Plating for device assembly",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.21",
+   "207.03",
+   "200.22"
+  ]
+ },
+ {
+  "company_id": "d:marco-systems.com",
+  "name": "marco Systemanalyse und Entwicklung",
+  "name_norm": "marco systemanalyse und entwicklung",
+  "aliases_norm": [
+   "marco systemanalyse und entwicklung"
+  ],
+  "name_variants": [
+   "marco Systemanalyse und Entwicklung GmbH"
+  ],
+  "legal_name": null,
+  "website": "https://www.marco-systems.com",
+  "domain": "marco-systems.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Dachau",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1982,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.12",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "micro dispensing",
+   "piezo valve"
+  ],
+  "end_markets": [
+   "semiconductor assembly",
+   "automotive",
+   "medical",
+   "battery"
+  ],
+  "description": "German maker of precision micro- and nanolitre fluid dispensing systems with proprietary piezo valve technology, founded 1982 near Munich.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.automate.org/companies/marco-systemanalyse-und-entwicklung-gmbh",
+   "https://exhibitors.iesna.com/co/marco-systemanalyse-entwicklung-gmbh"
+  ],
+  "notes": "LinkedIn not found; website domain inferred from contact email seen in results.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Dispensing Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.12"
+  ]
+ },
+ {
   "company_id": "d:mascot-systems.com",
   "name": "Mascot Systems",
   "name_norm": "mascot systems",
@@ -39908,6 +40439,109 @@
    "401.16",
    "804.14"
   ]
+ },
+ {
+  "company_id": "d:mathworks.com",
+  "name": "MathWorks",
+  "name_norm": "mathworks",
+  "aliases_norm": [
+   "mathworks"
+  ],
+  "name_variants": [
+   "MathWorks"
+  ],
+  "legal_name": "The MathWorks, Inc.",
+  "website": "https://www.mathworks.com",
+  "domain": "mathworks.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Natick",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1984,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "603",
+  "primary_subcategory": "603.02",
+  "value_chain_role": "software",
+  "product_keywords": [
+   "MATLAB",
+   "Simulink"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "automotive",
+   "aerospace"
+  ],
+  "description": "Private developer of MATLAB and Simulink mathematical computing and simulation software, headquartered in Natick, Massachusetts.",
+  "status": "partial",
+  "confidence": 0.75,
+  "sources": [
+   "https://en.wikipedia.org/wiki/MathWorks"
+  ],
+  "notes": "LinkedIn not verified.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": "Simulation, Analysis; Modeling Software",
+  "primary_subcategory_name": "Simulation; Characterization; Verification Software",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "603.02"
+  ]
+ },
+ {
+  "company_id": "d:gov.my",
+  "name": "MATRADE",
+  "name_norm": "matrade",
+  "aliases_norm": [
+   "matrade",
+   "malaysia external trade development"
+  ],
+  "name_variants": [
+   "Malaysia External Trade Development Corporation (MATRADE)"
+  ],
+  "legal_name": "Malaysia External Trade Development Corporation",
+  "website": "https://www.matrade.gov.my",
+  "domain": "gov.my",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Kuala Lumpur",
+  "hq_country": "MY",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "government",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "800",
+  "primary_subcategory": null,
+  "value_chain_role": "association",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": "Malaysian government trade promotion agency that organizes national pavilions and sourcing programmes at SEMICON events.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.matrade.gov.my/en/about-matrade/press-release/malaysia-deepens-semiconductor-market-reach-at-semicon-sea-2025-local-firms-showcase-advanced-tech-solutions",
+   "https://www.semi.org/en/resources/member-directory/malaysia-external-trade-development-corporation-matrade"
+  ],
+  "notes": "Subcategory not selected; LinkedIn not seen.",
+  "first_researched_utc": "2026-09-30T13:20:00Z",
+  "last_researched_utc": "2026-09-30T13:20:00Z",
+  "wp_ids": [
+   "WP-0096"
+  ],
+  "primary_category_group_name": "Associations",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
  },
  {
   "company_id": "d:matterwave.in",
@@ -40288,6 +40922,52 @@
   ]
  },
  {
+  "company_id": "n:maxwell technology",
+  "name": "Maxwell Technology",
+  "name_norm": "maxwell technology",
+  "aliases_norm": [
+   "maxwell technology"
+  ],
+  "name_variants": [
+   "MAXWELL TECHNOLOGY PTE. LTD."
+  ],
+  "legal_name": "Maxwell Technology Pte Ltd",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Singapore",
+  "hq_country": "SG",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": null,
+  "value_chain_role": "distributor",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": "Singapore company (300 Beach Road) and SEMI member since 2026; wholesale of machinery and equipment, also plating and chemical mixing equipment.",
+  "status": "partial",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/maxwell-technology-pte-ltd"
+  ],
+  "notes": "Website and LinkedIn not found; subcategory undetermined.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
   "company_id": "d:mayairgroup.com",
   "name": "MayAir Group",
   "name_norm": "mayair",
@@ -40298,7 +40978,8 @@
   "name_variants": [
    "MayAir Singapore Pte. Ltd.",
    "MayAir Group",
-   "MayAir"
+   "MayAir",
+   "MayAir Inc."
   ],
   "legal_name": null,
   "website": "https://mayairgroup.com",
@@ -40329,12 +41010,16 @@
    "FFU",
    "chemical filtration",
    "air filtration",
-   "cleanroom"
+   "cleanroom",
+   "HEPA",
+   "chemical filters"
   ],
   "end_markets": [
    "semiconductor fabs",
    "pharmaceutical",
-   "electronics"
+   "electronics",
+   "semiconductor",
+   "pharma"
   ],
   "description": "Malaysian air filtration group making HEPA/ULPA filters, fan filter units and chemical filtration for semiconductor and electronics cleanrooms; MayAir Singapore is its Singapore sales and service entity.",
   "status": "complete",
@@ -40342,17 +41027,20 @@
   "sources": [
    "https://mayairgroup.com/about-us-air-filtration-company-mayair/",
    "https://mayair.com.my/semiconductor-air-pollution-control-solutions/",
-   "https://www.bloomberg.com/profile/company/MAYA:LN"
+   "https://www.bloomberg.com/profile/company/MAYA:LN",
+   "https://mayair61.odoo.com/about-us",
+   "https://cleanroomtechnology.com/mayair-secures-us-10-6-million-of-contract-wins--119843"
   ],
   "notes": "Exhibitor is the Singapore subsidiary; folded into MayAir Group parent record. Group was formerly listed on London AIM (MAYA:LN).",
   "first_researched_utc": "2026-09-30T12:27:00Z",
-  "last_researched_utc": "2026-09-30T12:27:00Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
   "wp_ids": [
-   "WP-0031-R2"
+   "WP-0031-R2",
+   "WP-0097"
   ],
   "primary_category_group_name": "HVAC, Temperature, Humidity, Contamination Control",
   "primary_subcategory_name": "Contamination Control; HEPA Filtering Systems",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "501.02",
    "501.01",
@@ -40434,6 +41122,159 @@
    "903.04",
    "903.01",
    "904.03"
+  ]
+ },
+ {
+  "company_id": "n:mcv microwave",
+  "name": "MCV Microwave",
+  "name_norm": "mcv microwave",
+  "aliases_norm": [
+   "mcv microwave"
+  ],
+  "name_variants": [
+   "MCV Microwave"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "San Diego",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1995,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "903",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "RF filters",
+   "antennas",
+   "thick film hybrids"
+  ],
+  "end_markets": [
+   "defense",
+   "communications"
+  ],
+  "description": "San Diego maker of RF and microwave filters, antennas and thick film hybrid circuits; acquired ClearComm Technologies in 2024.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.everythingrf.com/companies/374/mcv-microwave"
+  ],
+  "notes": "Website and LinkedIn not confirmed.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": "Electronic Components",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:mdi advanced systems usa",
+  "name": "MDI Advanced systems USA inc.",
+  "name_norm": "mdi advanced systems usa",
+  "aliases_norm": [
+   "mdi advanced systems usa"
+  ],
+  "name_variants": [
+   "MDI Advanced systems USA inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No reliable results found.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:mechatronic systemtechnik",
+  "name": "mechatronic systemtechnik",
+  "name_norm": "mechatronic systemtechnik",
+  "aliases_norm": [
+   "mechatronic systemtechnik"
+  ],
+  "name_variants": [
+   "mechatronic systemtechnik gmbh",
+   "mechatronic systemtechnik Gmbh"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Fürnitz",
+  "hq_country": "AT",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1998,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Accuron Technologies",
+  "stock_ticker": null,
+  "primary_category_group": "207",
+  "primary_subcategory": "207.18",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "thin wafer handling",
+   "automation"
+  ],
+  "end_markets": [
+   "MEMS",
+   "advanced packaging"
+  ],
+  "description": "Austrian supplier of automation equipment for handling thin, warped and non-standard wafers; acquired by Temasek-owned Accuron Technologies.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/mechatronic-systemtechnik-gmbh",
+   "https://www.accuron.com/news/accuron-technologies-acquires-mechatronic-systemtechnik-gmbh/"
+  ],
+  "notes": "Website and LinkedIn not confirmed.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Transfer Systems for Wafer; Reticles or FPD's",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "207.18"
   ]
  },
  {
@@ -40903,6 +41744,138 @@
    "900.06",
    "500.02"
   ]
+ },
+ {
+  "company_id": "n:menari",
+  "name": "Menari LLC",
+  "name_norm": "menari",
+  "aliases_norm": [
+   "menari"
+  ],
+  "name_variants": [
+   "Menari LLC"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No results found.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:meridian laboratory",
+  "name": "Meridian Laboratory",
+  "name_norm": "meridian laboratory",
+  "aliases_norm": [
+   "meridian laboratory"
+  ],
+  "name_variants": [
+   "Meridian Laboratory"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No results found.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:metallife usa",
+  "name": "Metallife - USA Inc.",
+  "name_norm": "metallife usa",
+  "aliases_norm": [
+   "metallife usa"
+  ],
+  "name_variants": [
+   "Metallife - USA Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No results found.",
+  "first_researched_utc": "2026-09-30T13:13:14Z",
+  "last_researched_utc": "2026-09-30T13:13:14Z",
+  "wp_ids": [
+   "WP-0097"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
  },
  {
   "company_id": "d:metkorp.com",
