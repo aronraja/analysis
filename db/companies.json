@@ -14406,13 +14406,15 @@
    "cleantech services india pvt",
    "cleantech services",
    "cleantech services private",
-   "cts"
+   "cts",
+   "cts clima temperatur systeme"
   ],
   "name_variants": [
    "CleanTech Services India Pvt Ltd",
    "CleanTech Services Private Limited",
    "Cleantech Services Pte Ltd",
-   "CTS"
+   "CTS",
+   "cts GmbH"
   ],
   "legal_name": "Cleantech Services Pte Ltd",
   "website": "https://www.cleantechservices.sg",
@@ -14455,12 +14457,15 @@
    "UHP components",
    "gas purification",
    "facility hook-up",
-   "TGCM"
+   "TGCM",
+   "climate test chambers",
+   "environmental simulation"
   ],
   "end_markets": [
    "semiconductor",
    "photovoltaic",
-   "electronics"
+   "electronics",
+   "automotive"
   ],
   "description": "Singapore-based supplier of ultra-high-purity gas and chemical delivery systems, gas cabinets, VMBs, purifiers and facility hook-up services for semiconductor, PV and electronics fabs in Asia-Pacific. Indian arm is in Bangalore.",
   "status": "complete",
@@ -14470,24 +14475,28 @@
    "https://cleantechservices.in/contact-us",
    "https://www.cleantechservices.sg/",
    "https://sg.linkedin.com/company/cleantech-services-sg",
-   "https://www.semi.org/en/resources/member-directory/cleantech-services-pte-ltd"
+   "https://www.semi.org/en/resources/member-directory/cleantech-services-pte-ltd",
+   "https://testingexpo-europe.com/exhibitors/cts-clima-temperatur-systeme-gmbh"
   ],
   "notes": "SEMICON India exhibitor was the Indian subsidiary (site cleantechservices.in); folded into the Singapore group record per dedupe rules. India office: Deepanjali Nagar, Mysore Road, Bangalore 560026.",
   "first_researched_utc": "2026-09-30T12:14:32Z",
-  "last_researched_utc": "2026-09-30T12:27:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
   "wp_ids": [
    "WP-0011",
-   "WP-0011-R2"
+   "WP-0011-R2",
+   "WP-0071"
   ],
   "primary_category_group_name": "Sub-systems",
   "primary_subcategory_name": "Gas; Liquid delivery panels as subsystems",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "401.05",
    "400.09",
    "400.10",
    "400.19",
-   "700.19"
+   "700.19",
+   "208.05",
+   "202.02"
   ]
  },
  {
@@ -15084,6 +15093,629 @@
   ]
  },
  {
+  "company_id": "n:conax technologies",
+  "name": "Conax Technologies",
+  "name_norm": "conax technologies",
+  "aliases_norm": [
+   "conax technologies"
+  ],
+  "name_variants": [
+   "Conax Technologies"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Buffalo",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Phoenix",
+    "country": "US",
+    "type": "manufacturing"
+   },
+   {
+    "city": "Santo Tomas",
+    "country": "PH",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.17",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "thermocouples",
+   "feedthroughs",
+   "compression seal fittings"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photovoltaic"
+  ],
+  "description": "Manufactures temperature sensors and compression seal fittings for semiconductor and PV; HQ Buffalo NY, plants in Phoenix AZ and Philippines.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://semi.org/en/resources/member-directory/Conax-Technologies"
+  ],
+  "notes": "Official website not confirmed; LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Temperature Sensing; Control; Recirculators; Chillers; Heat Exchangers",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.17",
+   "400.24"
+  ]
+ },
+ {
+  "company_id": "n:connectec japan",
+  "name": "CONNECTEC JAPAN Corporation",
+  "name_norm": "connectec japan",
+  "aliases_norm": [
+   "connectec japan"
+  ],
+  "name_variants": [
+   "CONNECTEC JAPAN Corporation"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Myoko",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2009,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.26",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "flip-chip bonding",
+   "OSAT",
+   "MONSTER PAC"
+  ],
+  "end_markets": [
+   "semiconductor packaging"
+  ],
+  "description": "Semiconductor back-end contract development and packaging company using low-temperature flip-chip bonding; ChipMOS holds a 30% stake.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/connectec-japan-corporation"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Wafer Level Bonders",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.26"
+  ]
+ },
+ {
+  "company_id": "n:conprofe technology",
+  "name": "CONPROFE TECHNOLOGY GROUP CO., LTD.",
+  "name_norm": "conprofe technology",
+  "aliases_norm": [
+   "conprofe technology"
+  ],
+  "name_variants": [
+   "CONPROFE TECHNOLOGY GROUP CO., LTD."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Guangzhou",
+  "hq_country": "CN",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.18",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "ultrasonic machining",
+   "superhard tools",
+   "CNC machine tools"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Makes ultrasonic-green CNC machine tools and superhard tools for machining hard-brittle materials such as silicon carbide and quartz.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://semi.org/en/resources/member-directory/conprofe-technology-group-co-ltd"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Ultrasonic Generators; Transducer and Monitoring Systems",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.18",
+   "400.20"
+  ]
+ },
+ {
+  "company_id": "n:contrel technology",
+  "name": "Contrel Technology Co., Ltd.",
+  "name_norm": "contrel technology",
+  "aliases_norm": [
+   "contrel technology"
+  ],
+  "name_variants": [
+   "Contrel Technology Co., Ltd."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Tainan",
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1998,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": "TPEX:8064",
+  "primary_category_group": "207",
+  "primary_subcategory": "207.18",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "EFEM",
+   "laser marking",
+   "LCD equipment"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display",
+   "MicroLED"
+  ],
+  "description": "Taiwan-listed maker of LCD equipment, laser processing and semiconductor automation such as EFEM systems.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/contrel-technology-co-ltd",
+   "https://simplywall.st/stock/tpex/8064"
+  ],
+  "notes": "HQ city Tainan inferred from Southern Science Park result; website/LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Transfer Systems for Wafer; Reticles or FPD's",
+  "events_flat": "SEMICON West | SEMICON West",
+  "subcategories": [
+   "207.18",
+   "207.19"
+  ]
+ },
+ {
+  "company_id": "n:controlsoft automation systems",
+  "name": "ControlSoft Automation Systems LTD",
+  "name_norm": "controlsoft automation systems",
+  "aliases_norm": [
+   "controlsoft automation systems"
+  ],
+  "name_variants": [
+   "ControlSoft Automation Systems LTD"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Dundalk",
+  "hq_country": "IE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "502",
+  "primary_subcategory": null,
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "AMHS",
+   "stockers",
+   "AMR"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Dundalk-based provider of automation solutions for semiconductor fabs including AMHS, stockers, AMRs and lot box openers.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/controlsoft-automation-systems-ltd"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Material Handling Systems",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:cooner wire",
+  "name": "Cooner Wire",
+  "name_norm": "cooner wire",
+  "aliases_norm": [
+   "cooner wire"
+  ],
+  "name_variants": [
+   "Cooner Wire"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Los Angeles",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1957,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.04",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "wire",
+   "cable",
+   "cable assemblies"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "medical",
+   "aerospace",
+   "robotics"
+  ],
+  "description": "Supplier of specialty wire, cables and cable assemblies to semiconductor, medical, robotics and aerospace industries; founded 1957.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://craft.co/cooner-wire"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Connectors; Plugs; Interconnects; Cable; Wire",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.04",
+   "400.20"
+  ]
+ },
+ {
+  "company_id": "d:coorstek.com",
+  "name": "CoorsTek",
+  "name_norm": "coorstek",
+  "aliases_norm": [
+   "coorstek"
+  ],
+  "name_variants": [
+   "CoorsTek"
+  ],
+  "legal_name": null,
+  "website": "https://coorstek.com",
+  "domain": "coorstek.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Golden",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.20",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "technical ceramics",
+   "silicon carbide",
+   "alumina",
+   "quartz"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Technical ceramic materials and components maker serving semiconductor OEMs across deposition, etch, lithography and thermal processes.",
+  "status": "partial",
+  "confidence": 0.7,
+  "sources": [
+   "https://coorstek.com/en/industries/semiconductor/"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Raw Material & Custom components; Metal",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.20",
+   "400.21"
+  ]
+ },
+ {
+  "company_id": "n:coraza systems malaysia",
+  "name": "Coraza Systems Malaysia Sdn Bhd",
+  "name_norm": "coraza systems malaysia",
+  "aliases_norm": [
+   "coraza systems malaysia"
+  ],
+  "name_variants": [
+   "Coraza Systems Malaysia Sdn Bhd"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Nibong Tebal",
+  "hq_country": "MY",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2001,
+  "employee_range": "501-1000",
+  "ownership_type": "subsidiary",
+  "parent_company": "Coraza Integrated Technology Bhd",
+  "stock_ticker": null,
+  "primary_category_group": "700",
+  "primary_subcategory": "700.12",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "sheet metal",
+   "precision machining"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "aerospace",
+   "life science"
+  ],
+  "description": "Fabricates sheet metal and precision machined components for semiconductor front-end and back-end and other sectors; est. 2001.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://thestar.com.my/business/business-news/2023/08/15/coraza-buys-factories-for-rm18mil"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Manufacturing Services",
+  "primary_subcategory_name": "Machine Shop; Fabrication Service",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "700.12",
+   "400.20"
+  ]
+ },
+ {
+  "company_id": "n:core insight",
+  "name": "CORE INSIGHT, INC.",
+  "name_norm": "core insight",
+  "aliases_norm": [
+   "core insight"
+  ],
+  "name_variants": [
+   "CORE INSIGHT, INC."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Seongnam",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2003,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "ionizers",
+   "ESD measurement",
+   "EOS/ESD control"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display",
+   "electronics assembly"
+  ],
+  "description": "Korean developer of ionizers and ESD/EOS measurement equipment; founded 2003.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/core-insight-inc"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "208.06"
+  ]
+ },
+ {
+  "company_id": "d:cornerstonestaffing.com",
+  "name": "CornerStone Staffing",
+  "name_norm": "cornerstone staffing",
+  "aliases_norm": [
+   "cornerstone staffing"
+  ],
+  "name_variants": [
+   "CornerStone Staffing"
+  ],
+  "legal_name": null,
+  "website": "https://www.cornerstonestaffing.com",
+  "domain": "cornerstonestaffing.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Dallas",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1991,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "804",
+  "primary_subcategory": "804.09",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "staffing",
+   "placement"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Staffing agency serving Dallas/Fort Worth since 1991 with 9 offices in Texas and Arizona.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.cornerstonestaffing.com/about-us/"
+  ],
+  "notes": "LinkedIn page not found within budget",
+  "first_researched_utc": "2026-09-30T13:09:20Z",
+  "last_researched_utc": "2026-09-30T13:09:20Z",
+  "wp_ids": [
+   "WP-0070"
+  ],
+  "primary_category_group_name": "Professional Services",
+  "primary_subcategory_name": "Personnel Services; Employee Assistance; Recruiters; HR",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "804.09"
+  ]
+ },
+ {
+  "company_id": "d:covalentmetrology.com",
+  "name": "Covalent Metrology",
+  "name_norm": "covalent metrology",
+  "aliases_norm": [
+   "covalent metrology",
+   "covalent"
+  ],
+  "name_variants": [
+   "Covalent"
+  ],
+  "legal_name": null,
+  "website": "https://www.covalentmetrology.com",
+  "domain": "covalentmetrology.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Santa Clara",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.12",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "materials analysis",
+   "electron microscopy",
+   "x-ray analysis"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photonics",
+   "energy storage"
+  ],
+  "description": "Analytical laboratory providing materials characterization and metrology services, based in Santa Clara, California.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.cbinsights.com/company/covalent-metrology"
+  ],
+  "notes": "Identity assumed as Covalent Metrology; LinkedIn not verified.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Manufacturing Process Support and Development",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "701.12",
+   "203.23"
+  ]
+ },
+ {
   "company_id": "n:coverify",
   "name": "Coverify",
   "name_norm": "coverify",
@@ -15207,6 +15839,333 @@
   ]
  },
  {
+  "company_id": "n:crc clean room consulting",
+  "name": "CRC Clean Room Consulting",
+  "name_norm": "crc clean room consulting",
+  "aliases_norm": [
+   "crc clean room consulting"
+  ],
+  "name_variants": [
+   "CRC Clean Room Consulting GmbH"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.05",
+  "value_chain_role": "service",
+  "product_keywords": [
+   "cleanroom planning",
+   "laboratory planning"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photonics",
+   "life sciences"
+  ],
+  "description": "German general planning firm for cleanrooms, laboratories and high-tech production facilities.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.bayern-innovativ.de/en/competencies-bavarian-chips-alliance/crc-clean-room-consulting-gmbh/"
+  ],
+  "notes": "Own website URL not seen in results.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Clean Room; Contamination Control",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "701.05",
+   "501.01",
+   "701.09"
+  ]
+ },
+ {
+  "company_id": "n:creatz3d",
+  "name": "Creatz3D",
+  "name_norm": "creatz3d",
+  "aliases_norm": [
+   "creatz3d"
+  ],
+  "name_variants": [
+   "Creatz3D Pte Ltd"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Singapore",
+  "hq_country": "SG",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2012,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "701",
+  "primary_subcategory": "701.12",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "3D printing",
+   "additive manufacturing"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Singapore reseller and service provider of industrial 3D printing solutions, founded 2012.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://companieshouse.sg/creatz3d-201219797H"
+  ],
+  "notes": "Website not seen in results.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Manufacturing Services or Consulting",
+  "primary_subcategory_name": "Manufacturing Process Support and Development",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "701.12"
+  ]
+ },
+ {
+  "company_id": "d:crest-ultrasonics.com",
+  "name": "Crest Ultrasonics",
+  "name_norm": "crest ultrasonics",
+  "aliases_norm": [
+   "crest ultrasonics"
+  ],
+  "name_variants": [
+   "Crest Ultrasonics"
+  ],
+  "legal_name": null,
+  "website": "https://crest-ultrasonics.com",
+  "domain": "crest-ultrasonics.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Trenton",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.04",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "ultrasonic cleaning",
+   "vapor degreaser"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Maker of ultrasonic precision cleaning systems including for semiconductor tool and chamber component cleaning.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://crest-ultrasonics.com/?p=1860"
+  ],
+  "notes": "HQ city from background knowledge, not verified.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "Cleaning; Washing Equipment for Assembly & Packaging",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.04",
+   "207.03"
+  ]
+ },
+ {
+  "company_id": "n:cresttec",
+  "name": "CrestTec",
+  "name_norm": "cresttec",
+  "aliases_norm": [
+   "cresttec"
+  ],
+  "name_variants": [
+   "CrestTec"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Livingston",
+  "hq_country": "GB",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.21",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "precision components"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "biopharma"
+  ],
+  "description": "Small Livingston, UK company supplying precision-engineered components for semiconductor and biopharma manufacturing.",
+  "status": "partial",
+  "confidence": 0.4,
+  "sources": [
+   "https://ec.ltn.com.tw/article/breakingnews/4731932"
+  ],
+  "notes": "Sparse evidence; website not seen; possible link to Chong Yue Technology unverified.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Raw Material & Custom components; Plastic",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.21"
+  ]
+ },
+ {
+  "company_id": "d:criticalmanufacturing.com",
+  "name": "Critical Manufacturing",
+  "name_norm": "critical manufacturing",
+  "aliases_norm": [
+   "critical manufacturing"
+  ],
+  "name_variants": [
+   "Critical Manufacturing"
+  ],
+  "legal_name": null,
+  "website": "https://www.criticalmanufacturing.com",
+  "domain": "criticalmanufacturing.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Maia",
+  "hq_country": "PT",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "ASMPT",
+  "stock_ticker": null,
+  "primary_category_group": "602",
+  "primary_subcategory": "602.03",
+  "value_chain_role": "software",
+  "product_keywords": [
+   "MES",
+   "IoT data platform"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "electronics",
+   "medical devices"
+  ],
+  "description": "Cloud-native manufacturing execution system provider, a subsidiary of ASMPT.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://www.criticalmanufacturing.com/insights/brochures/critical-manufacturing-mes-for-semiconductor/"
+  ],
+  "notes": "HQ city from background knowledge.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Manufacturing Software",
+  "primary_subcategory_name": "Manufacturing Execution Software (MES)",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "602.03",
+   "602.06"
+  ]
+ },
+ {
+  "company_id": "n:cryo h and i",
+  "name": "Cryo H&I",
+  "name_norm": "cryo h and i",
+  "aliases_norm": [
+   "cryo h and i"
+  ],
+  "name_variants": [
+   "CRYO H&I CO.,LTD."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Pyeongtaek",
+  "hq_country": "KR",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.16",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "cryopump",
+   "high vacuum"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "display"
+  ],
+  "description": "Korean maker of high vacuum cryopumps for semiconductor and display panel production, based in Pyeongtaek.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/cryo-hi"
+  ],
+  "notes": "Website not seen.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Pumps, Vacuum",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "401.16"
+  ]
+ },
+ {
   "company_id": "n:cryogenic specialty manufacturing",
   "name": "Cryogenic Specialty Manufacturing (CSM)",
   "name_norm": "cryogenic specialty manufacturing",
@@ -15327,6 +16286,116 @@
   ]
  },
  {
+  "company_id": "n:crystex composites",
+  "name": "Crystex Composites",
+  "name_norm": "crystex composites",
+  "aliases_norm": [
+   "crystex composites"
+  ],
+  "name_variants": [
+   "Crystex Composites, LLC"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "307",
+  "primary_subcategory": "307.09",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "glass-bonded mica ceramic",
+   "insulators"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Manufacturer and distributor of glass-bonded mica ceramic materials and insulators.",
+  "status": "partial",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.crunchbase.com/organization/crystex-composites"
+  ],
+  "notes": "HQ city and website not found.",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Process Materials",
+  "primary_subcategory_name": "Process Chamber Components; Graphite; Carbon Fiber Carbon (CFC); Pyrolytic Boron Nitride (PBN)",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "307.09",
+   "400.20"
+  ]
+ },
+ {
+  "company_id": "n:cs clean solutions",
+  "name": "CS Clean Solutions",
+  "name_norm": "cs clean solutions",
+  "aliases_norm": [
+   "cs clean solutions"
+  ],
+  "name_variants": [
+   "CS CLEAN SOLUTIONS",
+   "CS CLEAN SOLUTIONS GmbH"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Ismaning",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": "401.05",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "exhaust gas abatement",
+   "CLEANSORB"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "photovoltaic"
+  ],
+  "description": "Provider of dry exhaust gas abatement systems (CLEANSORB) for semiconductor and PV, based in Ismaning near Munich.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/cs-clean-solutions-gmbh"
+  ],
+  "notes": "Website not seen; category is best fit guess (abatement).",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0071"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": "Gas; Liquid delivery panels as subsystems",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "401.05",
+   "501.02"
+  ]
+ },
+ {
   "company_id": "n:cubetor india",
   "name": "Cubetor India",
   "name_norm": "cubetor india",
@@ -15381,6 +16450,120 @@
   "subcategories": [
    "400.17",
    "400.11"
+  ]
+ },
+ {
+  "company_id": "d:curbellplastics.com",
+  "name": "Curbell Plastics",
+  "name_norm": "curbell plastics",
+  "aliases_norm": [
+   "curbell plastics"
+  ],
+  "name_variants": [
+   "Curbell Plastics, Inc."
+  ],
+  "legal_name": null,
+  "website": "https://www.curbellplastics.com",
+  "domain": "curbellplastics.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1942,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.21",
+  "value_chain_role": "distributor",
+  "product_keywords": [
+   "engineering plastics",
+   "Vespel",
+   "PEEK"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "US supplier and distributor of plastic sheet, rod, tube and high-performance materials, including for semiconductor equipment components.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://www.curbellplastics.com/resource-library/webinars/selecting-high-performance-plastics-for-semiconductor-applications/"
+  ],
+  "notes": "LinkedIn page not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Raw Material & Custom components; Plastic",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.21",
+   "801.03"
+  ]
+ },
+ {
+  "company_id": "n:cybertechnologies",
+  "name": "cyberTECHNOLOGIES",
+  "name_norm": "cybertechnologies",
+  "aliases_norm": [
+   "cybertechnologies"
+  ],
+  "name_variants": [
+   "cyberTECHNOLOGIES GmbH"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Eching",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": "203.26",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "wafer bow/warp",
+   "TTV",
+   "chromatic confocal",
+   "3D metrology"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "advanced packaging"
+  ],
+  "description": "Develops non-contact 3D surface measurement systems for wafer flatness, thickness variation, thin film and bump coplanarity.",
+  "status": "partial",
+  "confidence": 0.5,
+  "sources": [
+   "https://www.semi.org/en/resources/member-directory/cybertechnologies-gmbh",
+   "https://www.bayern-international.de/en/company-database/company-details/cybertechnologies-gmbh-12146"
+  ],
+  "notes": "Own website and LinkedIn not seen in results",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Wafer; Substrate Metrology; Topology; Nanotopography; Flatness Measurement; Crystalline Orientation",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "203.26",
+   "203.15",
+   "203.09"
   ]
  },
  {
@@ -15470,6 +16653,150 @@
   ]
  },
  {
+  "company_id": "n:d and x",
+  "name": "D&X Co., Ltd",
+  "name_norm": "d and x",
+  "aliases_norm": [
+   "d and x"
+  ],
+  "name_variants": [
+   "D&X Co., Ltd"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No matching company found in search",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:d w morgan",
+  "name": "D.W. Morgan Company",
+  "name_norm": "d w morgan",
+  "aliases_norm": [
+   "d w morgan"
+  ],
+  "name_variants": [
+   "D.W. Morgan Company"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No matching company found in search",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "d:daido.co.jp",
+  "name": "Daido Steel",
+  "name_norm": "daido steel",
+  "aliases_norm": [
+   "daido steel"
+  ],
+  "name_variants": [
+   "Daido Steel Co., Ltd."
+  ],
+  "legal_name": null,
+  "website": "https://daido.co.jp/en/",
+  "domain": "daido.co.jp",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Nagoya",
+  "hq_country": "JP",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 1916,
+  "employee_range": "unknown",
+  "ownership_type": "public",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": "400.20",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "specialty steel",
+   "VIM-VAR stainless",
+   "bellows"
+  ],
+  "end_markets": [
+   "semiconductor equipment",
+   "automotive"
+  ],
+  "description": "Japanese specialty steel group supplying high-purity stainless steels and alloys for semiconductor manufacturing equipment.",
+  "status": "complete",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.asminternational.org/daido-steel-launches-new-vacuum-arc-remelting-plant-to-meet-semiconductor-industry-demand/",
+   "https://daido.co.jp/en/info/?tabIndex=4"
+  ],
+  "notes": "LinkedIn page not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": "Raw Material & Custom components; Metal",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "400.20"
+  ]
+ },
+ {
   "company_id": "d:daifuku.com",
   "name": "Daifuku",
   "name_norm": "daifuku",
@@ -15547,7 +16874,8 @@
    "Daiichi Jitsugyo India Pvt Ltd",
    "DJK India",
    "Daiichi Jitsugyo Co., Ltd.",
-   "DJK Group"
+   "DJK Group",
+   "DAIICHI JITSUGYO CO.,LTD."
   ],
   "legal_name": "Daiichi Jitsugyo Co., Ltd.",
   "website": "https://www.djk.co.jp",
@@ -15592,13 +16920,17 @@
    "semiconductor assembly equipment",
    "PCB inspection machines",
    "industrial chillers",
-   "lithium-ion battery equipment"
+   "lithium-ion battery equipment",
+   "device bonder",
+   "wafer bonder",
+   "plasma cleaner"
   ],
   "end_markets": [
    "semiconductor assembly",
    "electronics",
    "power electronics",
-   "pharmaceutical"
+   "pharmaceutical",
+   "semiconductor"
   ],
   "description": "Tokyo-listed Japanese trading and engineering group (founded 1948) importing, exporting and integrating industrial machinery, SMT and semiconductor assembly equipment, plant/energy and healthcare systems. Indian subsidiary DJK India (est. 2006) serves India from Gurugram.",
   "status": "complete",
@@ -15613,19 +16945,21 @@
   ],
   "notes": "Exhibitor is the Indian subsidiary; folded into the DJK group parent record per dedupe rule. Employee count reported 1,467-1,564 across sources.",
   "first_researched_utc": "2026-09-30T12:14:51Z",
-  "last_researched_utc": "2026-09-30T12:28:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
   "wp_ids": [
    "WP-0012",
-   "WP-0012-R2"
+   "WP-0012-R2",
+   "WP-0072"
   ],
   "primary_category_group_name": "Professional Services",
   "primary_subcategory_name": "Sales; Manufacturers Representation or Distributors",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "804.14",
    "200.09",
    "203.05",
-   "401.17"
+   "401.17",
+   "801.03"
   ]
  },
  {
@@ -15694,6 +17028,61 @@
    "301.06",
    "400.11",
    "303.04"
+  ]
+ },
+ {
+  "company_id": "d:daitron.com",
+  "name": "Daitron",
+  "name_norm": "daitron",
+  "aliases_norm": [
+   "daitron"
+  ],
+  "name_variants": [
+   "Daitron Incorporated"
+  ],
+  "legal_name": null,
+  "website": "https://daitron.com",
+  "domain": "daitron.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Wilsonville",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1986,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "Daitron Co., Ltd.",
+  "stock_ticker": null,
+  "primary_category_group": "207",
+  "primary_subcategory": "207.02",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "wafer beveling",
+   "wafer edge grinders"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "solar"
+  ],
+  "description": "Wilsonville, Oregon subsidiary of Daitron Co. Ltd. making wafer beveling and edge grinding machines and supplying semiconductor equipment and components.",
+  "status": "complete",
+  "confidence": 0.7,
+  "sources": [
+   "https://daitron.com/about-us"
+  ],
+  "notes": "LinkedIn page not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Chemical Mechanical Polishing (CMP); Electro Polishing, Mechanical Polishing Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "207.02",
+   "801.03"
   ]
  },
  {
@@ -15834,6 +17223,119 @@
    "401.17",
    "501.03",
    "400.10"
+  ]
+ },
+ {
+  "company_id": "d:darmann.com",
+  "name": "Darmann Abrasive Products",
+  "name_norm": "darmann abrasive products",
+  "aliases_norm": [
+   "darmann abrasive products"
+  ],
+  "name_variants": [
+   "DARMANN ABRASIVE PRODUCTS, INC."
+  ],
+  "legal_name": null,
+  "website": "https://darmann.com",
+  "domain": "darmann.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Clinton",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1983,
+  "employee_range": "51-200",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "300",
+  "primary_subcategory": "300.12",
+  "value_chain_role": "materials",
+  "product_keywords": [
+   "dicing",
+   "fine-grit abrasives",
+   "grinding wheels"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "automotive",
+   "medical"
+  ],
+  "description": "Clinton, Massachusetts maker of fine-grit abrasive tools including dicing solutions for semiconductors; employee-owned.",
+  "status": "complete",
+  "confidence": 0.7,
+  "sources": [
+   "https://darmann.com/about/"
+  ],
+  "notes": "LinkedIn page not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Materials",
+  "primary_subcategory_name": "Scribe Tools; Saw or Dicing Blades and Accessories",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "300.12",
+   "307.01"
+  ]
+ },
+ {
+  "company_id": "d:das-ee.com",
+  "name": "DAS Environmental Expert",
+  "name_norm": "das environmental expert",
+  "aliases_norm": [
+   "das environmental expert"
+  ],
+  "name_variants": [
+   "DAS Environmental Expert GmbH"
+  ],
+  "legal_name": null,
+  "website": "https://www.das-ee.com",
+  "domain": "das-ee.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Dresden",
+  "hq_country": "DE",
+  "hq_region": "EMEA",
+  "other_offices": [],
+  "founded_year": 1991,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "501",
+  "primary_subcategory": "501.02",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "waste gas abatement",
+   "wastewater treatment"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "FPD",
+   "solar"
+  ],
+  "description": "Dresden-based provider of waste gas abatement and industrial water treatment systems for semiconductor, FPD and solar manufacturers.",
+  "status": "complete",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.das-ee.com/en-us/about-the-company/our-history/",
+   "https://www.semi.org/en/resources/member-directory/das-environmental-expert-gmbh"
+  ],
+  "notes": "LinkedIn page not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "HVAC, Temperature, Humidity, Contamination Control",
+  "primary_subcategory_name": "Contamination Control; HEPA Filtering Systems",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "501.02"
   ]
  },
  {
@@ -16021,6 +17523,61 @@
   ]
  },
  {
+  "company_id": "d:dediprog.com",
+  "name": "DediProg Technology",
+  "name_norm": "dediprog technology",
+  "aliases_norm": [
+   "dediprog technology"
+  ],
+  "name_variants": [
+   "DEDIPROG TECHNOLOGY CO., LTD."
+  ],
+  "legal_name": null,
+  "website": "https://dediprog.com",
+  "domain": "dediprog.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2005,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "200",
+  "primary_subcategory": "200.23",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "IC programmers",
+   "test sockets"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "electronics"
+  ],
+  "description": "Taiwan-based provider of IC programmers and IC test sockets.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://dediprog.com/page/about-us"
+  ],
+  "notes": "LinkedIn page not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0072"
+  ],
+  "primary_category_group_name": "Packaging and Assembly Equipment",
+  "primary_subcategory_name": "PROM; Memory Programmer Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "200.23",
+   "208.21"
+  ]
+ },
+ {
   "company_id": "d:deeplase.com",
   "name": "DeepLASE",
   "name_norm": "deeplase",
@@ -16160,6 +17717,50 @@
   ]
  },
  {
+  "company_id": "n:deetop m and i",
+  "name": "DEETOP M&I LTD",
+  "name_norm": "deetop m and i",
+  "aliases_norm": [
+   "deetop m and i"
+  ],
+  "name_variants": [
+   "DEETOP M&I LTD"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No web results found",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
   "company_id": "d:deltaww.com",
   "name": "Delta Electronics",
   "name_norm": "delta electronics",
@@ -16240,6 +17841,118 @@
    "500.04",
    "202.09"
   ]
+ },
+ {
+  "company_id": "d:dentonvacuum.com",
+  "name": "Denton Vacuum",
+  "name_norm": "denton vacuum",
+  "aliases_norm": [
+   "denton vacuum"
+  ],
+  "name_variants": [
+   "Denton Vacuum"
+  ],
+  "legal_name": null,
+  "website": "https://www.dentonvacuum.com",
+  "domain": "dentonvacuum.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Moorestown",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": 1964,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "207",
+  "primary_subcategory": "207.07",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "sputtering",
+   "e-beam evaporation",
+   "ion beam deposition"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "optoelectronics",
+   "optics"
+  ],
+  "description": "Designer and manufacturer of high vacuum thin film deposition systems (evaporation, sputtering, ion beam) and optical coating services, based in Moorestown, NJ.",
+  "status": "complete",
+  "confidence": 0.7,
+  "sources": [
+   "https://www.gophotonics.com/companies/3399/denton-vacuum",
+   "https://njmep.org/about-us/manufacturing-in-nj/company/denton-vacuum-llc"
+  ],
+  "notes": "LinkedIn not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Deposition; Physical Vapor (PVD); Sputtering; Evaporation Equipment",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "207.07",
+   "207.06"
+  ]
+ },
+ {
+  "company_id": "d:deublin.com",
+  "name": "Deublin",
+  "name_norm": "deublin",
+  "aliases_norm": [
+   "deublin"
+  ],
+  "name_variants": [
+   "Deublin Company LLC"
+  ],
+  "legal_name": null,
+  "website": "https://deublin.com",
+  "domain": "deublin.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": null,
+  "hq_region": null,
+  "other_offices": [],
+  "founded_year": 1945,
+  "employee_range": "unknown",
+  "ownership_type": "subsidiary",
+  "parent_company": "HOERBIGER",
+  "stock_ticker": null,
+  "primary_category_group": "400",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "rotary unions",
+   "slip rings"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "automotive",
+   "steel"
+  ],
+  "description": "World's largest manufacturer of rotary unions and slip rings, founded 1945; acquired by HOERBIGER in 2019.",
+  "status": "partial",
+  "confidence": 0.65,
+  "sources": [
+   "https://deublin.com/en/Industries/Semiconductor",
+   "https://manufacturing-today.com/news/deublin-company-has-spent-eight-decades-becoming-the-worlds-benchmark-name-in-rotary-unions-and-slip-rings/"
+  ],
+  "notes": "HQ and subcategory not confirmed",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Components, Parts & Accessories",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
  },
  {
   "company_id": "d:dhl.com",
@@ -16418,15 +18131,354 @@
   ]
  },
  {
+  "company_id": "n:dianduo",
+  "name": "DIANDUO (M) SDN BHD",
+  "name_norm": "dianduo",
+  "aliases_norm": [
+   "dianduo"
+  ],
+  "name_variants": [
+   "DIANDUO (M) SDN BHD"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "MY",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": null,
+  "primary_subcategory": null,
+  "value_chain_role": "other",
+  "product_keywords": [],
+  "end_markets": [],
+  "description": null,
+  "status": "not_found",
+  "confidence": 0.1,
+  "sources": [],
+  "notes": "No web results; Malaysian by name suffix only",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": null,
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:dicon fiberoptics",
+  "name": "DiCon Fiberoptics",
+  "name_norm": "dicon fiberoptics",
+  "aliases_norm": [
+   "dicon fiberoptics"
+  ],
+  "name_variants": [
+   "DiCon Fiberoptics, Inc."
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Richmond",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [
+   {
+    "city": "Kaohsiung",
+    "country": "TW",
+    "type": "manufacturing"
+   }
+  ],
+  "founded_year": 1986,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "903",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "MEMS optical switches",
+   "fiber optic components"
+  ],
+  "end_markets": [
+   "optical networking",
+   "data center"
+  ],
+  "description": "California-based maker of fiber optic switches and passive optical components, pioneering MEMS-based switching since 1998.",
+  "status": "partial",
+  "confidence": 0.6,
+  "sources": [
+   "https://www.gophotonics.com/companies/47/dicon-fiberoptics-inc",
+   "https://www.businesswire.com/news/home/20260311366716/en/DiCon-Fiberoptics-Unveils-Two-Value-Focused-Optical-Circuit-Switches-OCS-for-AI-Data-Centers-and-Celebrates-40-Years-of-Photonics-Excellence"
+  ],
+  "notes": "Website not seen in results",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Electronic Components",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "d:digitaldynamics.com",
+  "name": "Digital Dynamics",
+  "name_norm": "digital dynamics",
+  "aliases_norm": [
+   "digital dynamics"
+  ],
+  "name_variants": [
+   "Digital Dynamics, Inc"
+  ],
+  "legal_name": null,
+  "website": "https://www.digitaldynamics.com",
+  "domain": "digitaldynamics.com",
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Scotts Valley",
+  "hq_country": "US",
+  "hq_region": "Americas",
+  "other_offices": [],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "private",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "401",
+  "primary_subcategory": null,
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "Fusion.IO",
+   "embedded controls",
+   "safety I/O"
+  ],
+  "end_markets": [
+   "semiconductor WFE",
+   "display"
+  ],
+  "description": "Employee-owned maker of safety-rated I/O and embedded control platforms for semiconductor wafer fab and display equipment, in Scotts Valley, CA.",
+  "status": "complete",
+  "confidence": 0.75,
+  "sources": [
+   "https://www.digitaldynamics.com/about/",
+   "https://www.semi.org/en/resources/member-directory/digital-dynamics-inc"
+  ],
+  "notes": "LinkedIn not verified",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Sub-systems",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "d:dimerco.com",
+  "name": "Dimerco Express Group",
+  "name_norm": "dimerco express",
+  "aliases_norm": [
+   "dimerco express"
+  ],
+  "name_variants": [
+   "Dimerco Express Group"
+  ],
+  "legal_name": null,
+  "website": "https://dimerco.com",
+  "domain": "dimerco.com",
+  "linkedin_url": "https://linkedin.com/company/dimerco-express",
+  "linkedin_slug": "dimerco-express",
+  "hq_city": null,
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Singapore",
+    "country": "SG",
+    "type": "warehouse"
+   },
+   {
+    "city": "San Francisco",
+    "country": "US",
+    "type": "warehouse"
+   }
+  ],
+  "founded_year": 1971,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "801",
+  "primary_subcategory": null,
+  "value_chain_role": "service",
+  "product_keywords": [
+   "air freight",
+   "ocean freight",
+   "contract logistics"
+  ],
+  "end_markets": [
+   "semiconductor",
+   "electronics"
+  ],
+  "description": "Global logistics and freight forwarder founded in Taiwan in 1971 with 160+ offices; about half of business is semiconductor and tech.",
+  "status": "complete",
+  "confidence": 0.8,
+  "sources": [
+   "https://dimerco.com/news-press/global-high-tech-logistics-with-strategic-warehouse-expansions-in-singapore-and-san-francisco/",
+   "https://linkedin.com/company/dimerco-express"
+  ],
+  "notes": "HQ city not confirmed",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Distribution and Logistics",
+  "primary_subcategory_name": null,
+  "events_flat": "SEMICON West",
+  "subcategories": []
+ },
+ {
+  "company_id": "n:dino lite",
+  "name": "Dino-Lite (AnMo Electronics)",
+  "name_norm": "dino lite",
+  "aliases_norm": [
+   "dino lite",
+   "dino lite microscopes"
+  ],
+  "name_variants": [
+   "Dino-Lite Microscopes"
+  ],
+  "legal_name": "AnMo Electronics Corporation",
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": "Hsinchu",
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [],
+  "founded_year": 2000,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "203",
+  "primary_subcategory": "203.16",
+  "value_chain_role": "oem",
+  "product_keywords": [
+   "USB digital microscopes"
+  ],
+  "end_markets": [
+   "industrial inspection",
+   "electronics"
+  ],
+  "description": "Dino-Lite is the brand of AnMo Electronics (Hsinchu, Taiwan, est. 2000), maker of handheld USB digital microscopes.",
+  "status": "partial",
+  "confidence": 0.55,
+  "sources": [
+   "https://www.plasticsmachinerymanufacturing.com/thermoforming/article/13002292/lighting-microscopes-from-anmo-provide-close-inspection"
+  ],
+  "notes": "Website/LinkedIn not seen",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Inspection & Measurement Products",
+  "primary_subcategory_name": "Microscopes: Optical Microscopes",
+  "events_flat": "SEMICON West",
+  "subcategories": [
+   "203.16"
+  ]
+ },
+ {
+  "company_id": "n:directly technology",
+  "name": "Directly Technology",
+  "name_norm": "directly technology",
+  "aliases_norm": [
+   "directly technology"
+  ],
+  "name_variants": [
+   "Directly Technology Co., Ltd"
+  ],
+  "legal_name": null,
+  "website": null,
+  "domain": null,
+  "linkedin_url": null,
+  "linkedin_slug": null,
+  "hq_city": null,
+  "hq_country": "TW",
+  "hq_region": "APAC",
+  "other_offices": [
+   {
+    "city": "Surprise, AZ",
+    "country": "US",
+    "type": "warehouse"
+   }
+  ],
+  "founded_year": null,
+  "employee_range": "unknown",
+  "ownership_type": "unknown",
+  "parent_company": null,
+  "stock_ticker": null,
+  "primary_category_group": "207",
+  "primary_subcategory": "207.17",
+  "value_chain_role": "component_supplier",
+  "product_keywords": [
+   "diffusion furnace",
+   "heating equipment",
+   "thermocouples",
+   "quartz"
+  ],
+  "end_markets": [
+   "semiconductor"
+  ],
+  "description": "Taiwan-based supplier of diffusion-furnace systems, heaters, thermocouples, quartz products and maintenance.",
+  "status": "partial",
+  "confidence": 0.45,
+  "sources": [
+   "https://hoodline.com/2026/08/surprise-az-taiwan-chip-supplier-plants-first-u-s-flag-with-warehouse-buy/"
+  ],
+  "notes": "Website/LinkedIn not found",
+  "first_researched_utc": "2026-09-30T13:12:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
+  "wp_ids": [
+   "WP-0073"
+  ],
+  "primary_category_group_name": "Process Equipment",
+  "primary_subcategory_name": "Thermal Processing - Diffusion; Oxidation; Annealing; RTA; RTP Equipment",
+  "events_flat": "SEMICON Europa | SEMICON West",
+  "subcategories": [
+   "207.17"
+  ]
+ },
+ {
   "company_id": "d:disco.co.jp",
   "name": "DISCO",
   "name_norm": "disco",
   "aliases_norm": [
    "disco",
-   "disco hi tec"
+   "disco hi tec",
+   "disco hi tec america"
   ],
   "name_variants": [
-   "Disco Hi-Tec (Singapore) Pte Ltd."
+   "Disco Hi-Tec (Singapore) Pte Ltd.",
+   "Disco Hi-Tec America, Inc."
   ],
   "legal_name": "DISCO Corporation",
   "website": "https://www.disco.co.jp",
@@ -16441,12 +18493,17 @@
     "city": "Singapore",
     "country": "SG",
     "type": "regional_hq"
+   },
+   {
+    "city": "Silicon Valley",
+    "country": "US",
+    "type": "sales"
    }
   ],
   "founded_year": 1937,
   "employee_range": "unknown",
   "ownership_type": "public",
-  "parent_company": null,
+  "parent_company": "DISCO Corporation",
   "stock_ticker": null,
   "primary_category_group": "200",
   "primary_subcategory": "200.08",
@@ -16469,17 +18526,19 @@
   "sources": [
    "https://www.disco.co.jp/global_recruit/sgp",
    "https://disco.co.jp/eg/news/corp/20240903.html",
-   "https://www.semi.org/en/resources/member-directory/disco-corporation"
+   "https://www.semi.org/en/resources/member-directory/disco-corporation",
+   "https://www.disco.co.jp/global_recruit/usa/base/"
   ],
   "notes": "LinkedIn page not found in search.",
   "first_researched_utc": "2026-09-30T12:20:00Z",
-  "last_researched_utc": "2026-09-30T12:20:00Z",
+  "last_researched_utc": "2026-09-30T13:12:00Z",
   "wp_ids": [
-   "WP-0014"
+   "WP-0014",
+   "WP-0073"
   ],
   "primary_category_group_name": "Packaging and Assembly Equipment",
   "primary_subcategory_name": "Dicing; Sawing; Scribing; Separation Equipment",
-  "events_flat": "SEMICON India",
+  "events_flat": "SEMICON India | SEMICON West",
   "subcategories": [
    "200.08",
    "200.01",
