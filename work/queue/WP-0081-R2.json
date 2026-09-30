@@ -1,0 +1,157 @@
+{
+  "wp_id": "WP-0081-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Frontier Semiconductor",
+      "name_norm": "frontier semiconductor",
+      "name_variants": [
+        "Frontier Semiconductor"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1168"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FUCHS Lubricants Co.",
+      "name_norm": "fuchs lubricants",
+      "name_variants": [
+        "FUCHS Lubricants Co."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "352"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fuji Electric Corp. of America",
+      "name_norm": "fuji electric of america",
+      "name_variants": [
+        "Fuji Electric Corp. of America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "239"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FUJIFILM Electronic Materials",
+      "name_norm": "fujifilm electronic materials",
+      "name_variants": [
+        "FUJIFILM Electronic Materials"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2049"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Fusion Bionic GmbH",
+      "name_norm": "fusion bionic",
+      "name_variants": [
+        "Fusion Bionic GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "FUTEK Advanced Sensor Technology",
+      "name_norm": "futek advanced sensor technology",
+      "name_variants": [
+        "FUTEK Advanced Sensor Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6481"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "G&N Genauigkeits Maschinenbau Nurnberg GmbH",
+      "name_norm": "g and n genauigkeits maschinenbau nurnberg",
+      "name_variants": [
+        "G&N Genauigkeits Maschinenbau Nurnberg GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "G2 Technology Corporation",
+      "name_norm": "g2 technology",
+      "name_variants": [
+        "G2 Technology Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5384"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gallagher Industrial Products",
+      "name_norm": "gallagher industrial products",
+      "name_variants": [
+        "Gallagher Industrial Products"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3407"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gallant Micro. Machining Co., Ltd.",
+      "name_norm": "gallant micro machining",
+      "name_variants": [
+        "Gallant Micro. Machining Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2149"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "2249"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0081"
+}

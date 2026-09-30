@@ -1,0 +1,179 @@
+{
+  "wp_id": "WP-0077-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Enpro",
+      "name_norm": "enpro",
+      "name_variants": [
+        "Enpro"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3442"
+        },
+        {
+          "event": "SEMICON West",
+          "booth": "W2"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Enscape Co., Ltd.",
+      "name_norm": "enscape",
+      "name_variants": [
+        "Enscape Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3325"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ensinger",
+      "name_norm": "ensinger",
+      "name_variants": [
+        "Ensinger",
+        "Ensinger GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5784"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1521"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Enterprise Ireland",
+      "name_norm": "enterprise ireland",
+      "name_variants": [
+        "Enterprise Ireland"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6254"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EO Technics Co. Ltd.",
+      "name_norm": "eo technics",
+      "name_variants": [
+        "EO Technics Co. Ltd.",
+        "EO Technics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "539"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1128"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EQ GLOBAL",
+      "name_norm": "eq global",
+      "name_variants": [
+        "EQ GLOBAL"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1553"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1144"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ErgoTech Systems, Inc.",
+      "name_norm": "ergotech systems",
+      "name_variants": [
+        "ErgoTech Systems, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5462"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ERS Electronic GmbH",
+      "name_norm": "ers electronic",
+      "name_variants": [
+        "ERS Electronic GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1973"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1356"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ESMO AG",
+      "name_norm": "esmo",
+      "name_variants": [
+        "ESMO AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1241"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ESPEC North America",
+      "name_norm": "espec north america",
+      "name_variants": [
+        "ESPEC North America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6368"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0077"
+}

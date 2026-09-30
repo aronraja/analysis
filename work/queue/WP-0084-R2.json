@@ -1,0 +1,153 @@
+{
+  "wp_id": "WP-0084-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "GNB KL Group",
+      "name_norm": "gnb kl",
+      "name_variants": [
+        "GNB KL Group"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "353"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GnG InTech",
+      "name_norm": "gng intech",
+      "name_variants": [
+        "GnG InTech"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3002"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Goetze Valves NA Inc",
+      "name_norm": "goetze valves na",
+      "name_variants": [
+        "Goetze Valves NA Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gore & Associates, Inc.",
+      "name_norm": "gore and associates",
+      "name_variants": [
+        "Gore & Associates, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6653"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GPA Innova America Corp",
+      "name_norm": "gpa innova america",
+      "name_variants": [
+        "GPA Innova America Corp"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5238"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Grand Process Technology Corporation",
+      "name_norm": "grand process technology",
+      "name_variants": [
+        "Grand Process Technology Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6282"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Greater Portland Inc",
+      "name_norm": "greater portland",
+      "name_variants": [
+        "Greater Portland Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6448"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Greater Sacramento Economic Council",
+      "name_norm": "greater sacramento economic council",
+      "name_variants": [
+        "Greater Sacramento Economic Council"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5554"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Green Circuits Inc.",
+      "name_norm": "green circuits",
+      "name_variants": [
+        "Green Circuits Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3217"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Green Optics Co., Ltd.",
+      "name_norm": "green optics",
+      "name_variants": [
+        "Green Optics Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5169"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0084"
+}

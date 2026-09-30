@@ -1,0 +1,167 @@
+{
+  "wp_id": "WP-0071",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Covalent",
+      "name_norm": "covalent",
+      "name_variants": [
+        "Covalent"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3039"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CRC Clean Room Consulting GmbH",
+      "name_norm": "crc clean room consulting",
+      "name_variants": [
+        "CRC Clean Room Consulting GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1444"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Creatz3D Pte Ltd",
+      "name_norm": "creatz3d",
+      "name_variants": [
+        "Creatz3D Pte Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Crest Ultrasonics",
+      "name_norm": "crest ultrasonics",
+      "name_variants": [
+        "Crest Ultrasonics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3136"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CrestTec",
+      "name_norm": "cresttec",
+      "name_variants": [
+        "CrestTec"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1664"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Critical Manufacturing",
+      "name_norm": "critical manufacturing",
+      "name_variants": [
+        "Critical Manufacturing"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M10"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1740"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CRYO H&I CO.,LTD.",
+      "name_norm": "cryo h and i",
+      "name_variants": [
+        "CRYO H&I CO.,LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6457"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Crystex Composites, LLC",
+      "name_norm": "crystex composites",
+      "name_variants": [
+        "Crystex Composites, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6456"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "CS CLEAN SOLUTIONS",
+      "name_norm": "cs clean solutions",
+      "name_variants": [
+        "CS CLEAN SOLUTIONS",
+        "CS CLEAN SOLUTIONS GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1264"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1221"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "cts GmbH",
+      "name_norm": "cts",
+      "name_variants": [
+        "cts GmbH"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1245"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T13:08:30Z",
+  "deadline_utc": "2026-09-30T13:43:30Z"
+}

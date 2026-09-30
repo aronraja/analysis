@@ -1,0 +1,157 @@
+{
+  "wp_id": "WP-0087-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "HERMOS AG",
+      "name_norm": "hermos",
+      "name_variants": [
+        "HERMOS AG"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5740"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1279"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hesheng Hardware Co., Ltd.",
+      "name_norm": "hesheng hardware",
+      "name_variants": [
+        "Hesheng Hardware Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5871"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hesse Mechatronics, Inc.",
+      "name_norm": "hesse mechatronics",
+      "name_variants": [
+        "Hesse Mechatronics, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6468"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HESYS Inc",
+      "name_norm": "hesys",
+      "name_variants": [
+        "HESYS Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3131"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HID Industrial RTLS",
+      "name_norm": "hid industrial rtls",
+      "name_variants": [
+        "HID Industrial RTLS"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5170"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hightec Systems Corporation",
+      "name_norm": "hightec systems",
+      "name_variants": [
+        "Hightec Systems Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "768"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Highvac Corporation",
+      "name_norm": "highvac",
+      "name_variants": [
+        "Highvac Corporation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5944"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HIMEJI RIKA CO.,LTD.",
+      "name_norm": "himeji rika",
+      "name_variants": [
+        "HIMEJI RIKA CO.,LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "573"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hine Automation, LLC",
+      "name_norm": "hine automation",
+      "name_variants": [
+        "Hine Automation, LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "564"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hitachi Energy Ltd",
+      "name_norm": "hitachi energy",
+      "name_variants": [
+        "Hitachi Energy Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "M11"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0087"
+}

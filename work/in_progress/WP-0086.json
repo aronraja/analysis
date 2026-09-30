@@ -1,0 +1,159 @@
+{
+  "wp_id": "WP-0086",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Harbor Technology Solutions",
+      "name_norm": "harbor technology solutions",
+      "name_variants": [
+        "Harbor Technology Solutions"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1265"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Harmonic Drive LLC",
+      "name_norm": "harmonic drive",
+      "name_variants": [
+        "Harmonic Drive LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1748"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HARTING Inc. of North America",
+      "name_norm": "harting of north america",
+      "name_variants": [
+        "HARTING Inc. of North America"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5762"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hartzell Air Movement",
+      "name_norm": "hartzell air movement",
+      "name_variants": [
+        "Hartzell Air Movement"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6654"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hayward Flow Control",
+      "name_norm": "hayward flow control",
+      "name_variants": [
+        "Hayward Flow Control"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6760"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heatron Inc.",
+      "name_norm": "heatron",
+      "name_variants": [
+        "Heatron Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1953"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heidelberg Instruments, Inc.",
+      "name_norm": "heidelberg instruments",
+      "name_variants": [
+        "Heidelberg Instruments, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1433"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heidenhain Corporation",
+      "name_norm": "heidenhain",
+      "name_variants": [
+        "Heidenhain Corporation",
+        "HEIDENHAIN"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1639"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2355"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Heller Industries Corporate",
+      "name_norm": "heller industries corporate",
+      "name_variants": [
+        "Heller Industries Corporate"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6813"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hermes-Epitek Corp.",
+      "name_norm": "hermes epitek",
+      "name_variants": [
+        "Hermes-Epitek Corp."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "2245"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T13:08:56Z",
+  "deadline_utc": "2026-09-30T13:43:56Z"
+}

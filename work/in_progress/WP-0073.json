@@ -1,0 +1,158 @@
+{
+  "wp_id": "WP-0073",
+  "created_utc": "2026-09-30T12:03:08Z",
+  "attempt": 1,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "DEETOP M&I LTD",
+      "name_norm": "deetop m and i",
+      "name_variants": [
+        "DEETOP M&I LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3137"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Denton Vacuum",
+      "name_norm": "denton vacuum",
+      "name_variants": [
+        "Denton Vacuum"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5347"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Deublin Company LLC",
+      "name_norm": "deublin",
+      "name_variants": [
+        "Deublin Company LLC"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5472"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DIANDUO (M) SDN BHD",
+      "name_norm": "dianduo",
+      "name_variants": [
+        "DIANDUO (M) SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5878"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "DiCon Fiberoptics, Inc.",
+      "name_norm": "dicon fiberoptics",
+      "name_variants": [
+        "DiCon Fiberoptics, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1873"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Digital Dynamics, Inc",
+      "name_norm": "digital dynamics",
+      "name_variants": [
+        "Digital Dynamics, Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "465"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dimerco Express Group",
+      "name_norm": "dimerco express",
+      "name_variants": [
+        "Dimerco Express Group"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "268"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Dino-Lite Microscopes",
+      "name_norm": "dino lite microscopes",
+      "name_variants": [
+        "Dino-Lite Microscopes"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6270"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Directly Technology Co., Ltd",
+      "name_norm": "directly technology",
+      "name_variants": [
+        "Directly Technology Co., Ltd"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1043"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1511"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Disco Hi-Tec America, Inc.",
+      "name_norm": "disco hi tec america",
+      "name_variants": [
+        "Disco Hi-Tec America, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "933"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "claimed_utc": "2026-09-30T13:08:30Z",
+  "deadline_utc": "2026-09-30T13:43:30Z"
+}

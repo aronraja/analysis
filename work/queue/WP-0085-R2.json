@@ -1,0 +1,165 @@
+{
+  "wp_id": "WP-0085-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "Greene, Tweed & Co., Inc.",
+      "name_norm": "greene tweed and",
+      "name_variants": [
+        "Greene, Tweed & Co., Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "733"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guangdong NNT Pneumatic Technology Co., Ltd.",
+      "name_norm": "guangdong nnt pneumatic technology",
+      "name_variants": [
+        "Guangdong NNT Pneumatic Technology Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "973"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2117"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Guardian Equipment",
+      "name_norm": "guardian equipment",
+      "name_variants": [
+        "Guardian Equipment"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3030"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gudeng Inc.",
+      "name_norm": "gudeng",
+      "name_variants": [
+        "Gudeng Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1453"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "GXO Logistics",
+      "name_norm": "gxo logistics",
+      "name_variants": [
+        "GXO Logistics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5171"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Gyromatic Innovation",
+      "name_norm": "gyromatic innovation",
+      "name_variants": [
+        "Gyromatic Innovation"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6144"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1247"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Hamamatsu Corporation Photonics",
+      "name_norm": "hamamatsu photonics",
+      "name_variants": [
+        "Hamamatsu Corporation Photonics"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "232"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HANBELL VACUUM TECHNOLOGY CO., LTD",
+      "name_norm": "hanbell vacuum technology",
+      "name_variants": [
+        "HANBELL VACUUM TECHNOLOGY CO., LTD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6281"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C2464"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HANMI Semiconductor",
+      "name_norm": "hanmi semiconductor",
+      "name_variants": [
+        "HANMI Semiconductor"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3225"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "HANSUN ENGINEERING CO., LTD.",
+      "name_norm": "hansun engineering",
+      "name_variants": [
+        "HANSUN ENGINEERING CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "249"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0085"
+}

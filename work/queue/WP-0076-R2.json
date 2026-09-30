@@ -1,0 +1,161 @@
+{
+  "wp_id": "WP-0076-R2",
+  "created_utc": "2026-09-30T13:09:03Z",
+  "attempt": 2,
+  "limits": {
+    "minutes_per_company": 3,
+    "minutes_per_workpackage": 35,
+    "max_web_calls_per_company": 8
+  },
+  "companies": [
+    {
+      "name": "EHT Semi",
+      "name_norm": "eht semi",
+      "name_variants": [
+        "EHT Semi"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6180"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EKK Eagle Semicon Components",
+      "name_norm": "ekk eagle semicon components",
+      "name_variants": [
+        "EKK Eagle Semicon Components"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "859"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1419"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ElectraMet",
+      "name_norm": "electramet",
+      "name_variants": [
+        "ElectraMet"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5448"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Elemental Scientific, Inc.",
+      "name_norm": "elemental scientific",
+      "name_variants": [
+        "Elemental Scientific, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "349"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1713"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Ellwood",
+      "name_norm": "ellwood",
+      "name_variants": [
+        "Ellwood"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6744"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Emage Vision Pte. Ltd.",
+      "name_norm": "emage vision",
+      "name_variants": [
+        "Emage Vision Pte. Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6544"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Emergence",
+      "name_norm": "emergence",
+      "name_variants": [
+        "Emergence"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "252"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "EMI",
+      "name_norm": "emi",
+      "name_variants": [
+        "EMI"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1132"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ENF Technology",
+      "name_norm": "enf technology",
+      "name_variants": [
+        "ENF Technology"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1965"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "ENGRICH SOLUTIONS SDN BHD",
+      "name_norm": "engrich solutions",
+      "name_variants": [
+        "ENGRICH SOLUTIONS SDN BHD"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5854"
+        }
+      ],
+      "website_hint": null
+    }
+  ],
+  "parent_wp": "WP-0076"
+}
