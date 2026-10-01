@@ -1,8 +1,7 @@
 # Session handoff
 Last updated: 2026-09-30
 
-State: F3 research run in progress. 165/250 WPs done, 85 queued, 0 running. DB has 928 companies
-(455 complete, 396 partial, 77 not_found). init.sh passes; no rejected files.
+State: F3 research run paused by user after a 20-agent test wave. 185/250 WPs done, 65 queued, 0 running. DB 1109 companies.
 Next action: resume `/run-research` on the local machine via `scripts/run_parallel.sh`
 (per-process search budgets, company sites reachable). Do NOT run it from a cloud session: its
 proxy blocks company websites and the whole session shares a 200-WebSearch cap.

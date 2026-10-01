@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0106",
+  "wp_id": "WP-0107",
   "created_utc": "2026-09-30T12:03:08Z",
   "attempt": 1,
   "limits": {
@@ -9,149 +9,154 @@
   },
   "companies": [
     {
-      "name": "Optikos, LLC",
-      "name_norm": "optikos",
+      "name": "Particle Measuring Systems, Inc.",
+      "name_norm": "particle measuring systems",
       "name_variants": [
-        "Optikos, LLC"
+        "Particle Measuring Systems, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3034"
+          "booth": "2044"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "OptoSigma Corporation",
-      "name_norm": "optosigma",
+      "name": "Patriot Environmental Services",
+      "name_norm": "patriot environmental services",
       "name_variants": [
-        "OptoSigma Corporation"
+        "Patriot Environmental Services"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3319"
+          "booth": "3242"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Oregon State University",
-      "name_norm": "oregon state university",
+      "name": "PCB Piezotronics",
+      "name_norm": "pcb piezotronics",
       "name_variants": [
-        "Oregon State University"
+        "PCB Piezotronics"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6448"
+          "booth": "6171"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Oriental Motor USA, Corp.",
-      "name_norm": "oriental motor usa",
+      "name": "PCB Technologies",
+      "name_norm": "pcb technologies",
       "name_variants": [
-        "Oriental Motor USA, Corp."
+        "PCB Technologies"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5368"
+          "booth": "6378"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Osaka Vacuum, Ltd.",
-      "name_norm": "osaka vacuum",
+      "name": "PCP Aluminium",
+      "name_norm": "pcp aluminium",
       "name_variants": [
-        "Osaka Vacuum, Ltd."
+        "PCP Aluminium"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1753"
+          "booth": "5578"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Oxford Instruments",
-      "name_norm": "oxford instruments",
+      "name": "PDF Solutions, Inc.",
+      "name_norm": "pdf solutions",
       "name_variants": [
-        "Oxford Instruments",
-        "Oxford Instruments GmbH"
+        "PDF Solutions, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1939"
+          "booth": "549"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "B1461"
+          "booth": "B1557"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Palomar Technologies",
-      "name_norm": "palomar technologies",
+      "name": "PEER Group Inc.",
+      "name_norm": "peer",
       "name_variants": [
-        "Palomar Technologies"
+        "PEER Group Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6054"
+          "booth": "759"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1678"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Panasonic Industrial Devices Sales Company of America",
-      "name_norm": "panasonic industrial devices sales of america",
+      "name": "Penflex Corporation",
+      "name_norm": "penflex",
       "name_variants": [
-        "Panasonic Industrial Devices Sales Company of America"
+        "Penflex Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3317"
+          "booth": "5682"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Parallax Worlds",
-      "name_norm": "parallax worlds",
+      "name": "Perfection Products, Inc.",
+      "name_norm": "perfection products",
       "name_variants": [
-        "Parallax Worlds"
+        "Perfection Products, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3406"
+          "booth": "338"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Park Systems, Inc.",
-      "name_norm": "park systems",
+      "name": "Performance Motion Devices, Inc.",
+      "name_norm": "performance motion devices",
       "name_variants": [
-        "Park Systems, Inc."
+        "Performance Motion Devices, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "245"
+          "booth": "6809"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "claimed_utc": "2026-10-01T07:41:46Z",
+  "deadline_utc": "2026-10-01T08:16:46Z"
 }

@@ -26,3 +26,14 @@
   Global Advanced Packaging, Global Thermoforming, Glory Energy), WP-0084-R2 (Gore & Associates,
   Greater Sacramento Economic Council, Green Circuits, Green Optics), WP-0080-R2 (Fraunhofer IZM ASSID,
   FRD, Fresno County EDC, Forbo), WP-0076-R2 (EMI, ENGRICH).
+
+## 2026-10-01: F3 wave WP-0098..0117 (20 agents, sonnet / effort low), stopped as requested
+- company-researcher frontmatter now has `effort: low`.
+- status.py:
+  workpackages  queued=65  running=0/20  done=185  failed=0  awaiting_merge=0  rejected_files=0
+  database      companies=1109  by_status={'complete': 463, 'not_found': 93, 'partial': 553}
+  field fill:  website=619/1109  linkedin_url=271/1109  hq_country=1010/1109  primary_category_group=1014/1109  employee_range=1109/1109
+- init.sh: ALL CHECKS PASSED
+- Session WebSearch cap (200) hit again late in the wave. Unresearched / weak, need requeue:
+  WP-0099 (MKS, Mitsubishi Cable America), WP-0102 (NeXTVAC, Nexustest, Niche Fluoropolymer Products),
+  WP-0104 (Nokia, Nova, NOVASEN, NNFC), WP-0110 (Prudential Cleanroom Services, PTFE Industries).

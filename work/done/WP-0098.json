@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0100",
+  "wp_id": "WP-0098",
   "created_utc": "2026-09-30T12:03:08Z",
   "attempt": 1,
   "limits": {
@@ -9,140 +9,66 @@
   },
   "companies": [
     {
-      "name": "MOL Solutions Inc.",
-      "name_norm": "mol solutions",
+      "name": "Metrohm USA, Inc.",
+      "name_norm": "metrohm usa",
       "name_variants": [
-        "MOL Solutions Inc."
+        "Metrohm USA, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1245"
+          "booth": "6082"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Molecular Vista, Inc.",
-      "name_norm": "molecular vista",
+      "name": "Mettler-Toledo",
+      "name_norm": "mettler toledo",
       "name_variants": [
-        "Molecular Vista, Inc."
+        "Mettler-Toledo"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5269"
+          "booth": "364"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "MOSIS 2.0",
-      "name_norm": "mosis 2 0",
+      "name": "Mexico Pavilion",
+      "name_norm": "mexico pavilion",
       "name_variants": [
-        "MOSIS 2.0"
+        "Mexico Pavilion"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5554"
+          "booth": "3003"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Motion",
-      "name_norm": "motion",
+      "name": "MGC Pure Chemicals America Inc",
+      "name_norm": "mgc pure chemicals america",
       "name_variants": [
-        "Motion"
+        "MGC Pure Chemicals America Inc"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5882"
+          "booth": "369"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Moxa Inc.",
-      "name_norm": "moxa",
+      "name": "mi2-factory GmbH",
+      "name_norm": "mi2 factory",
       "name_variants": [
-        "Moxa Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "M5"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "MPF Products, Inc.",
-      "name_norm": "mpf products",
-      "name_variants": [
-        "MPF Products, Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "3135"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "MPS USA Inc.",
-      "name_norm": "mps usa",
-      "name_variants": [
-        "MPS USA Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6553"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "MRSI Systems",
-      "name_norm": "mrsi systems",
-      "name_variants": [
-        "MRSI Systems"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6078"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "MUEGGE GmbH",
-      "name_norm": "muegge",
-      "name_variants": [
-        "MUEGGE GmbH"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6557"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C2108"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "MueTec GmbH",
-      "name_norm": "muetec",
-      "name_variants": [
-        "MueTec GmbH"
+        "mi2-factory GmbH"
       ],
       "events": [
         {
@@ -151,10 +77,86 @@
         },
         {
           "event": "SEMICON Europa",
-          "booth": "B1521"
+          "booth": "B1317"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MiCo Co., Ltd.",
+      "name_norm": "mico",
+      "name_variants": [
+        "MiCo Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3103"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Microsanj",
+      "name_norm": "microsanj",
+      "name_variants": [
+        "Microsanj"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6763"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MicroSupport Co., Ltd.",
+      "name_norm": "microsupport",
+      "name_variants": [
+        "MicroSupport Co., Ltd."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "3408"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Microtronic, Inc.",
+      "name_norm": "microtronic",
+      "name_variants": [
+        "Microtronic, Inc."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1065"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "C1828"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "MIKI & CO., LTD.",
+      "name_norm": "miki and",
+      "name_variants": [
+        "MIKI & CO., LTD."
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5585"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "claimed_utc": "2026-10-01T07:41:46Z",
+  "deadline_utc": "2026-10-01T08:16:46Z"
 }

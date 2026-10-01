@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0099",
+  "wp_id": "WP-0106",
   "created_utc": "2026-09-30T12:03:08Z",
   "attempt": 1,
   "limits": {
@@ -9,144 +9,151 @@
   },
   "companies": [
     {
-      "name": "Milara Inc.",
-      "name_norm": "milara",
+      "name": "Optikos, LLC",
+      "name_norm": "optikos",
       "name_variants": [
-        "Milara Inc."
+        "Optikos, LLC"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1444"
+          "booth": "3034"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Milestone Technology",
-      "name_norm": "milestone technology",
+      "name": "OptoSigma Corporation",
+      "name_norm": "optosigma",
       "name_variants": [
-        "Milestone Technology"
+        "OptoSigma Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3031"
+          "booth": "3319"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Mipox Corporation",
-      "name_norm": "mipox",
+      "name": "Oregon State University",
+      "name_norm": "oregon state university",
       "name_variants": [
-        "Mipox Corporation"
+        "Oregon State University"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5378"
+          "booth": "6448"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "MIRTEC Co., Ltd",
-      "name_norm": "mirtec",
+      "name": "Oriental Motor USA, Corp.",
+      "name_norm": "oriental motor usa",
       "name_variants": [
-        "MIRTEC Co., Ltd"
+        "Oriental Motor USA, Corp."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6162"
+          "booth": "5368"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Mitsubishi Cable America, Inc.",
-      "name_norm": "mitsubishi cable america",
+      "name": "Osaka Vacuum, Ltd.",
+      "name_norm": "osaka vacuum",
       "name_variants": [
-        "Mitsubishi Cable America, Inc."
+        "Osaka Vacuum, Ltd."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3412"
+          "booth": "1753"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Mitsui Chemicals America, Inc.",
-      "name_norm": "mitsui chemicals america",
+      "name": "Oxford Instruments",
+      "name_norm": "oxford instruments",
       "name_variants": [
-        "Mitsui Chemicals America, Inc."
+        "Oxford Instruments",
+        "Oxford Instruments GmbH"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1772"
+          "booth": "1939"
+        },
+        {
+          "event": "SEMICON Europa",
+          "booth": "B1461"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Mitutoyo America Corporation",
-      "name_norm": "mitutoyo america",
+      "name": "Palomar Technologies",
+      "name_norm": "palomar technologies",
       "name_variants": [
-        "Mitutoyo America Corporation"
+        "Palomar Technologies"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5754"
+          "booth": "6054"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Mivium, Inc.",
-      "name_norm": "mivium",
+      "name": "Panasonic Industrial Devices Sales Company of America",
+      "name_norm": "panasonic industrial devices sales of america",
       "name_variants": [
-        "Mivium, Inc."
+        "Panasonic Industrial Devices Sales Company of America"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5582"
+          "booth": "3317"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "MKP Co., Ltd.",
-      "name_norm": "mkp",
+      "name": "Parallax Worlds",
+      "name_norm": "parallax worlds",
       "name_variants": [
-        "MKP Co., Ltd."
+        "Parallax Worlds"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1132"
+          "booth": "3406"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "MKS Inc.",
-      "name_norm": "mks",
+      "name": "Park Systems, Inc.",
+      "name_norm": "park systems",
       "name_variants": [
-        "MKS Inc."
+        "Park Systems, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5684"
+          "booth": "245"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "claimed_utc": "2026-10-01T07:41:46Z",
+  "deadline_utc": "2026-10-01T08:16:46Z"
 }

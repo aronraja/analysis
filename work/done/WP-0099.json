@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0113",
+  "wp_id": "WP-0099",
   "created_utc": "2026-09-30T12:03:08Z",
   "attempt": 1,
   "limits": {
@@ -9,148 +9,146 @@
   },
   "companies": [
     {
-      "name": "RION CO., LTD.",
-      "name_norm": "rion",
+      "name": "Milara Inc.",
+      "name_norm": "milara",
       "name_variants": [
-        "RION CO., LTD."
+        "Milara Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1645"
+          "booth": "1444"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Riverside County Office of Economic Development",
-      "name_norm": "riverside county office of economic development",
+      "name": "Milestone Technology",
+      "name_norm": "milestone technology",
       "name_variants": [
-        "Riverside County Office of Economic Development"
+        "Milestone Technology"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5554"
+          "booth": "3031"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Rockwell Automation, Inc.",
-      "name_norm": "rockwell automation",
+      "name": "Mipox Corporation",
+      "name_norm": "mipox",
       "name_variants": [
-        "Rockwell Automation, Inc."
+        "Mipox Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "M13"
+          "booth": "5378"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Roechling",
-      "name_norm": "roechling",
+      "name": "MIRTEC Co., Ltd",
+      "name_norm": "mirtec",
       "name_variants": [
-        "Roechling"
+        "MIRTEC Co., Ltd"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "173"
+          "booth": "6162"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Rollon Corporation",
-      "name_norm": "rollon",
+      "name": "Mitsubishi Cable America, Inc.",
+      "name_norm": "mitsubishi cable america",
       "name_variants": [
-        "Rollon Corporation"
+        "Mitsubishi Cable America, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6367"
+          "booth": "3412"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Roos Instruments, Inc.",
-      "name_norm": "roos instruments",
+      "name": "Mitsui Chemicals America, Inc.",
+      "name_norm": "mitsui chemicals america",
       "name_variants": [
-        "Roos Instruments, Inc."
+        "Mitsui Chemicals America, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "1951"
+          "booth": "1772"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Rorze Automation, Inc.",
-      "name_norm": "rorze automation",
+      "name": "Mitutoyo America Corporation",
+      "name_norm": "mitutoyo america",
       "name_variants": [
-        "Rorze Automation, Inc."
+        "Mitutoyo America Corporation"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "753"
+          "booth": "5754"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Rotarex s.a.",
-      "name_norm": "rotarex s a",
+      "name": "Mivium, Inc.",
+      "name_norm": "mivium",
       "name_variants": [
-        "Rotarex s.a."
+        "Mivium, Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6058"
-        },
-        {
-          "event": "SEMICON Europa",
-          "booth": "C1335"
+          "booth": "5582"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Roxtec, Inc.",
-      "name_norm": "roxtec",
+      "name": "MKP Co., Ltd.",
+      "name_norm": "mkp",
       "name_variants": [
-        "Roxtec, Inc."
+        "MKP Co., Ltd."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "3022"
+          "booth": "1132"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "RPS CO., LTD.",
-      "name_norm": "rps",
+      "name": "MKS Inc.",
+      "name_norm": "mks",
       "name_variants": [
-        "RPS CO., LTD."
+        "MKS Inc."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "152"
+          "booth": "5684"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "claimed_utc": "2026-10-01T07:41:46Z",
+  "deadline_utc": "2026-10-01T08:16:46Z"
 }

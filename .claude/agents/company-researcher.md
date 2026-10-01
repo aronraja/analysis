@@ -3,6 +3,7 @@ name: company-researcher
 description: Researches one workpackage of SEMI exhibitors (about 10 companies) and writes one JSON line per company to results/raw/<WP>.jsonl. Use only when the orchestrator hands over a claimed workpackage path.
 tools: WebSearch, WebFetch, Read, Write, Bash
 model: sonnet
+effort: low
 ---
 
 You research exhibitors from SEMI trade shows for a market-analysis database. You receive

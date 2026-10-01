@@ -1,5 +1,5 @@
 {
-  "wp_id": "WP-0112",
+  "wp_id": "WP-0102",
   "created_utc": "2026-09-30T12:03:08Z",
   "attempt": 1,
   "limits": {
@@ -9,152 +9,154 @@
   },
   "companies": [
     {
-      "name": "RCH Associates, Inc.",
-      "name_norm": "rch associates",
+      "name": "NB Corporation of America",
+      "name_norm": "nb of america",
       "name_variants": [
-        "RCH Associates, Inc."
+        "NB Corporation of America"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6354"
+          "booth": "345"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "RECIF Technologies S.A.S",
-      "name_norm": "recif technologies s a s",
+      "name": "Nel Hydrogen",
+      "name_norm": "nel hydrogen",
       "name_variants": [
-        "RECIF Technologies S.A.S"
+        "Nel Hydrogen"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "5249"
+          "booth": "6272"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Neutronix Quintel",
+      "name_norm": "neutronix quintel",
+      "name_variants": [
+        "Neutronix Quintel"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5867"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "New Imaging Technologies",
+      "name_norm": "new imaging technologies",
+      "name_variants": [
+        "New Imaging Technologies"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "6667"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "New York State Economic Development Council",
+      "name_norm": "new york state economic development council",
+      "name_variants": [
+        "New York State Economic Development Council"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "5954"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "Nexensor Inc",
+      "name_norm": "nexensor",
+      "name_variants": [
+        "Nexensor Inc"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "144"
+        }
+      ],
+      "website_hint": null
+    },
+    {
+      "name": "NexGen Wafer System Gmbh",
+      "name_norm": "nexgen wafer system",
+      "name_variants": [
+        "NexGen Wafer System Gmbh"
+      ],
+      "events": [
+        {
+          "event": "SEMICON West",
+          "booth": "1659"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "C1111"
+          "booth": "B1465"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Regal Rexnord Corporation",
-      "name_norm": "regal rexnord",
+      "name": "NeXTVAC LLC",
+      "name_norm": "nextvac",
       "name_variants": [
-        "Regal Rexnord Corporation"
+        "NeXTVAC LLC"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "6477"
+          "booth": "6364"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "Regional Acid Production LP",
-      "name_norm": "regional acid production lp",
+      "name": "Nexustest Pte. Ltd.",
+      "name_norm": "nexustest",
       "name_variants": [
-        "Regional Acid Production LP"
+        "Nexustest Pte. Ltd."
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "151"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "RENA Technologies GmbH",
-      "name_norm": "rena technologies",
-      "name_variants": [
-        "RENA Technologies GmbH"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "2066"
+          "booth": "368"
         },
         {
           "event": "SEMICON Europa",
-          "booth": "B1312"
+          "booth": "C2144"
         }
       ],
       "website_hint": null
     },
     {
-      "name": "RENISHAW Inc.",
-      "name_norm": "renishaw",
+      "name": "Niche Fluoropolymer Products",
+      "name_norm": "niche fluoropolymer products",
       "name_variants": [
-        "RENISHAW Inc."
+        "Niche Fluoropolymer Products"
       ],
       "events": [
         {
           "event": "SEMICON West",
-          "booth": "140"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Resochi LLC",
-      "name_norm": "resochi",
-      "name_variants": [
-        "Resochi LLC"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "5688"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Rhenium Alloys, Inc.",
-      "name_norm": "rhenium alloys",
-      "name_variants": [
-        "Rhenium Alloys, Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "1961"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Rigaku Americas Corporation",
-      "name_norm": "rigaku americas",
-      "name_variants": [
-        "Rigaku Americas Corporation"
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "5679"
-        }
-      ],
-      "website_hint": null
-    },
-    {
-      "name": "Rikutec America Inc.",
-      "name_norm": "rikutec america",
-      "name_variants": [
-        "Rikutec America Inc."
-      ],
-      "events": [
-        {
-          "event": "SEMICON West",
-          "booth": "6815"
+          "booth": "1966"
         }
       ],
       "website_hint": null
     }
-  ]
+  ],
+  "claimed_utc": "2026-10-01T07:41:46Z",
+  "deadline_utc": "2026-10-01T08:16:46Z"
 }
